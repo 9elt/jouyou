@@ -1,0 +1,2637 @@
+{
+    "kanji": "取",
+    "grade": 3,
+    "jlpt": 3,
+    "meanings": [
+        "take",
+        "fetch",
+        "take up"
+    ],
+    "kun": [
+        "と.る",
+        "と.り",
+        "と.り-",
+        "とり",
+        "-ど.り"
+    ],
+    "on": [
+        "シュ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.09348623853211009,
+            0.1832110091743119,
+            "c",
+            0.01165137614678899,
+            0.0039449541284403665,
+            0.03302752293577982,
+            0.005596330275229358,
+            0.04467889908256881,
+            0.0039449541284403665,
+            "c",
+            0.07357798165137615,
+            -0.010550458715596329,
+            0.2189908256880734,
+            -0.02660550458715596,
+            0.30614678899082565,
+            -0.03339449541284404,
+            "c",
+            0.019357798165137614,
+            -0.001559633027522936,
+            0.03110091743119266,
+            0.001834862385321101,
+            0.0408256880733945,
+            0.003853211009174312
+        ],
+        [
+            "M",
+            0.1828440366972477,
+            0.211651376146789,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.011743119266055046,
+            0.021376146788990826,
+            0.011743119266055046,
+            0.034128440366972476,
+            "s",
+            -0.0014678899082568807,
+            0.3903669724770642,
+            -0.0014678899082568807,
+            0.4361467889908257
+        ],
+        [
+            "M",
+            0.20688073394495413,
+            0.3461467889908257,
+            "c",
+            0.08440366972477063,
+            -0.015871559633027523,
+            0.10045871559633027,
+            -0.0181651376146789,
+            0.175045871559633,
+            -0.02596330275229358
+        ],
+        [
+            "M",
+            0.2040366972477064,
+            0.4972477064220184,
+            "c",
+            0.06889908256880733,
+            -0.011009174311926604,
+            0.09642201834862385,
+            -0.015596330275229357,
+            0.18045871559633028,
+            -0.023394495412844035
+        ],
+        [
+            "M",
+            0.09816513761467889,
+            0.7114678899082568,
+            "c",
+            0.011926605504587157,
+            0.006422018348623853,
+            0.023394495412844035,
+            0.005321100917431192,
+            0.03660550458715597,
+            0.0010091743119266055,
+            "c",
+            0.06486238532110092,
+            -0.021100917431192658,
+            0.24458715596330274,
+            -0.08091743119266055,
+            0.2999082568807339,
+            -0.09926605504587156
+        ],
+        [
+            "M",
+            0.37844036697247707,
+            0.18807339449541285,
+            "c",
+            0.009724770642201836,
+            0.009724770642201836,
+            0.014678899082568808,
+            0.020275229357798165,
+            0.014678899082568808,
+            0.03302752293577982,
+            "c",
+            0,
+            0.011009174311926604,
+            0.0011009174311926604,
+            0.41990825688073397,
+            0.0013761467889908255,
+            0.5988073394495412,
+            "c",
+            0,
+            0.028440366972477066,
+            0.00009174311926605505,
+            0.05110091743119266,
+            0.00009174311926605505,
+            0.0653211009174312
+        ],
+        [
+            "M",
+            0.5089908256880734,
+            0.32642201834862383,
+            "c",
+            0.012018348623853212,
+            0.0033027522935779813,
+            0.024770642201834864,
+            0.0045871559633027525,
+            0.049082568807339445,
+            0.0010091743119266055,
+            "c",
+            0.04403669724770642,
+            -0.006330275229357797,
+            0.1714678899082569,
+            -0.042477064220183484,
+            0.18825688073394495,
+            -0.04660550458715596,
+            "c",
+            0.02311926605504587,
+            -0.005596330275229358,
+            0.039174311926605504,
+            0.010458715596330274,
+            0.031743119266055046,
+            0.036788990825688074,
+            "C",
+            0.7151376146788991,
+            0.5395412844036698,
+            0.6203669724770643,
+            0.6972477064220184,
+            0.4541284403669725,
+            0.7889908256880734
+        ],
+        [
+            "M",
+            0.47880733944954124,
+            0.41330275229357794,
+            "c",
+            0.039266055045871565,
+            0.006146788990825688,
+            0.19192660550458718,
+            0.2128440366972477,
+            0.3236697247706422,
+            0.32899082568807336,
+            "c",
+            0.02018348623853211,
+            0.017798165137614678,
+            0.04036697247706422,
+            0.035229357798165134,
+            0.06788990825688074,
+            0.046697247706422015
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. taking; taker; collecting; collector; remover; removal "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. last performer of the day (usu. the star performer); last performance of the day "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. active partner (e.g. in judo demonstration) "
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "4. emphatic or formal prefix before a verb"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取 【とり】"
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "1. samurai receiving this much rice as a fee after a quantity"
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. offering of rice cake containing this much rice "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "3. person receiving this amount of money as a salary Obsolete term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取 【どり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "しゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. appropriation; obtaining Buddhism, See also 十二因縁"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to take; to pick up; to grab; to catch お皿に取ったものは全部食べなさい。You'd better eat everything that's on your plate."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to pass; to hand; to give 塩をとっていただけますか。Could you pass me the salt, please?"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to get; to obtain; to acquire; to win; to receive; to earn; to take (e.g. a vacation) 彼は数学で満点を取った。He got full marks in mathematics."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "4. to adopt (a method, proposal, etc.); to take (a measure, attitude, etc.); to choose 老人はごう慢な態度をとった。The old man assumed an impudent attitude."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "5. to remove; to get rid of; to take off 肉から脂身を取りなさい。Trim the fat off the meat."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "6. to take away; to steal; to rob "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "7. to eat; to have (e.g. lunch); to take (e.g. vitamins) See also 摂る水分をたくさん取ってください。You should drink a lot of liquid."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "8. to pick (e.g. flowers); to gather; to extract (e.g. juice); to catch (e.g. fish); to harvest (a crop) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "9. to take up (time, space); to occupy; to spare; to set aside 彼は仕事に自分の時間の全てを取られている。Business absorbs all his time."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "10. to secure; to reserve; to save; to put aside; to keep 座席をとっておいてください。Please save my place."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "11. to take (e.g. a joke); to interpret; to understand; to make out; to grasp "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "12. to record; to take down 先生はノートを取ることの大切さを強調した。The teacher stressed the importance of taking notes."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "13. to subscribe to (e.g. a newspaper); to take; to buy; to get どんな雑誌をとっていますか。What magazines do you subscribe to?"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "14. to order; to have delivered "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "15. to charge; to fine; to take (tax) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "16. to take (e.g. a wife); to take on (e.g. an apprentice); to adopt; to accept "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "17. to compete (in sumo, cards, etc.); to play "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to take; to pick up; to grab; to catch お皿に取ったものは全部食べなさい。You'd better eat everything that's on your plate."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to pass; to hand; to give 塩をとっていただけますか。Could you pass me the salt, please?"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to get; to obtain; to acquire; to win; to receive; to earn; to take (e.g. a vacation) 彼は数学で満点を取った。He got full marks in mathematics."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "4. to adopt (a method, proposal, etc.); to take (a measure, attitude, etc.); to choose 老人はごう慢な態度をとった。The old man assumed an impudent attitude."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "5. to remove; to get rid of; to take off 肉から脂身を取りなさい。Trim the fat off the meat."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "6. to take away; to steal; to rob "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "7. to eat; to have (e.g. lunch); to take (e.g. vitamins) See also 摂る水分をたくさん取ってください。You should drink a lot of liquid."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "8. to pick (e.g. flowers); to gather; to extract (e.g. juice); to catch (e.g. fish); to harvest (a crop) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "9. to take up (time, space); to occupy; to spare; to set aside 彼は仕事に自分の時間の全てを取られている。Business absorbs all his time."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "10. to secure; to reserve; to save; to put aside; to keep 座席をとっておいてください。Please save my place."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "11. to take (e.g. a joke); to interpret; to understand; to make out; to grasp "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "12. to record; to take down 先生はノートを取ることの大切さを強調した。The teacher stressed the importance of taking notes."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "13. to subscribe to (e.g. a newspaper); to take; to buy; to get どんな雑誌をとっていますか。What magazines do you subscribe to?"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "14. to order; to have delivered "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "15. to charge; to fine; to take (tax) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "16. to take (e.g. a wife); to take on (e.g. an apprentice); to adopt; to accept "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "17. to compete (in sumo, cards, etc.); to play "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "お皿",
+                            "おさら"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "取った",
+                            "と"
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "全部",
+                            "ぜんぶ"
+                        ],
+                        [
+                            "食べ",
+                            "た"
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "You'd better eat everything that's on your plate."
+                },
+                {
+                    "sentence": [
+                        [
+                            "塩",
+                            "しお"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "とって",
+                            null
+                        ],
+                        [
+                            "いただけます",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Could you pass me the salt, please?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "数学",
+                            "すうがく"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "満点",
+                            "まんてん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取った",
+                            "と"
+                        ]
+                    ],
+                    "translation": "He got full marks in mathematics."
+                },
+                {
+                    "sentence": [
+                        [
+                            "老人",
+                            "ろうじん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ごう慢な",
+                            "ごうまん"
+                        ],
+                        [
+                            "態度",
+                            "たいど"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "とった",
+                            null
+                        ]
+                    ],
+                    "translation": "The old man assumed an impudent attitude."
+                },
+                {
+                    "sentence": [
+                        [
+                            "肉",
+                            "にく"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "脂身",
+                            "あぶらみ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り",
+                            "と"
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "Trim the fat off the meat."
+                },
+                {
+                    "sentence": [
+                        [
+                            "水分",
+                            "すいぶん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "たくさん",
+                            null
+                        ],
+                        [
+                            "取って",
+                            "と"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "You should drink a lot of liquid."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "時間",
+                            "じかん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "全て",
+                            "すべ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取られている",
+                            "と"
+                        ]
+                    ],
+                    "translation": "Business absorbs all his time."
+                },
+                {
+                    "sentence": [
+                        [
+                            "座席",
+                            "ざせき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "とって",
+                            null
+                        ],
+                        [
+                            "おいて",
+                            null
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Please save my place."
+                },
+                {
+                    "sentence": [
+                        [
+                            "先生",
+                            "せんせい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ノート",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取る",
+                            "と"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "大切さ",
+                            "たいせつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "強調",
+                            "きょうちょう"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "The teacher stressed the importance of taking notes."
+                },
+                {
+                    "sentence": [
+                        [
+                            "どんな",
+                            null
+                        ],
+                        [
+                            "雑誌",
+                            "ざっし"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "とっています",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "What magazines do you subscribe to?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "とり"
+                ],
+                [
+                    "引",
+                    "ひき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. transactions; dealings; business "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Trade Trade is the transfer of ownership of goods and services ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取り引き 【とりひき】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. transactions; dealings; business "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Trade Trade is the transfer of ownership of goods and services ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取り引き 【とりひき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "替",
+                    "か"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to exchange; to swap; to barter これを青いのと取り替えてください。Please change this for a blue one."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to replace; to substitute 彼らは欠陥テレビを新しいのと取りかえた。They replaced the defective TV with a new one."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取り換える 【とりかえる】、取りかえる 【とりかえる】、取替える 【とりかえる】、取換える 【とりかえる】、取換る 【とりかえる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "取換る: Irregular okurigana usage."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to exchange; to swap; to barter これを青いのと取り替えてください。Please change this for a blue one."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to replace; to substitute 彼らは欠陥テレビを新しいのと取りかえた。They replaced the defective TV with a new one."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取り換える 【とりかえる】、取りかえる 【とりかえる】、取替える 【とりかえる】、取換える 【とりかえる】、取換る 【とりかえる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "取換る: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "これ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "青い",
+                            "あお"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "取り替えて",
+                            "とりか"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Please change this for a blue one."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼ら",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "欠陥",
+                            "けっかん"
+                        ],
+                        [
+                            "テレビ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "新しい",
+                            "あたら"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "取りかえた",
+                            "とりか"
+                        ]
+                    ],
+                    "translation": "They replaced the defective TV with a new one."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to come off (of a button, handle, lid, etc.) 鋳物が金型からすっぽりとれた。The casting came cleanly out of its mold."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to go away (of a fever, pain, swelling, etc.); to disappear; to come out (of a stain); to come off (e.g. of dust); to be removed (e.g. of wrinkles) しびれがとれるまで食事はしないでください。Don't eat till the numbness wears off."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to be harvested; to be picked; to be produced; to be caught (of fish); to be obtained; to be extracted オリーブの実から油が取れます。Oil is extracted from olives."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to be interpreted (as); to be taken (as); to be understood (as); to be read (as) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to be attained (of balance, harmony, etc.); to be achieved ちょっと手を休めて気持ちを和らげれば、肩のストレスや緊張感がとれるよ。If you stop and relax, this will relieve the tension and stress in your shoulders."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb, Transitive verb",
+                    "meaning": "6. to be able to get; to be able to obtain; to be able to secure; to be able to win; to be able to catch See also 取る, potential form of 取るやっと免許が取れました。I got a driver's license at last."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to come off (of a button, handle, lid, etc.) 鋳物が金型からすっぽりとれた。The casting came cleanly out of its mold."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to go away (of a fever, pain, swelling, etc.); to disappear; to come out (of a stain); to come off (e.g. of dust); to be removed (e.g. of wrinkles) しびれがとれるまで食事はしないでください。Don't eat till the numbness wears off."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to be harvested; to be picked; to be produced; to be caught (of fish); to be obtained; to be extracted オリーブの実から油が取れます。Oil is extracted from olives."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to be interpreted (as); to be taken (as); to be understood (as); to be read (as) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to be attained (of balance, harmony, etc.); to be achieved ちょっと手を休めて気持ちを和らげれば、肩のストレスや緊張感がとれるよ。If you stop and relax, this will relieve the tension and stress in your shoulders."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb, Transitive verb",
+                    "meaning": "6. to be able to get; to be able to obtain; to be able to secure; to be able to win; to be able to catch See also 取る, potential form of 取るやっと免許が取れました。I got a driver's license at last."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "鋳物",
+                            "いもの"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "金型",
+                            "かながた"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "すっぽり",
+                            null
+                        ],
+                        [
+                            "とれた",
+                            null
+                        ]
+                    ],
+                    "translation": "The casting came cleanly out of its mold."
+                },
+                {
+                    "sentence": [
+                        [
+                            "しびれ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "とれる",
+                            null
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "食事",
+                            "しょくじ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "しないで",
+                            null
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Don't eat till the numbness wears off."
+                },
+                {
+                    "sentence": [
+                        [
+                            "オリーブ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "実",
+                            "み"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "油",
+                            "あぶら"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "取れます",
+                            "と"
+                        ]
+                    ],
+                    "translation": "Oil is extracted from olives."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ちょっと",
+                            null
+                        ],
+                        [
+                            "手",
+                            "て"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "休めて",
+                            "やす"
+                        ],
+                        [
+                            "気持ち",
+                            "きも"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "和らげれば",
+                            "やわ"
+                        ],
+                        [
+                            "肩",
+                            "かた"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ストレス",
+                            null
+                        ],
+                        [
+                            "や",
+                            null
+                        ],
+                        [
+                            "緊張",
+                            "きんちょう"
+                        ],
+                        [
+                            "感",
+                            "かん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "とれる",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "If you stop and relax, this will relieve the tension and stress in your shoulders."
+                },
+                {
+                    "sentence": [
+                        [
+                            "やっと",
+                            null
+                        ],
+                        [
+                            "免許",
+                            "めんきょ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "取れました",
+                            "と"
+                        ]
+                    ],
+                    "translation": "I got a driver's license at last."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to pick up 彼女はガラスの花瓶を取り上げた。She picked up one of the glass vases."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to adopt (a proposal); to take up (a topic); to accept; to listen to sometimes written as 採り上げるこのブログは情報インフラを中心としたトピックを取り上げています。This blog covers topics that centre on information infrastructure."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to take issue with; to make a problem of; to bring up (as a point of criticism) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to report (news); to cover; to feature 全新聞がその事件を大きく取り上げた。All the papers featured the case."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to take away; to confiscate; to deprive (someone) of; to revoke; to disqualify; to cancel 向こう見ずな運転の為彼は免許を取り上げられた。He had his license taken away because of reckless driving."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to deliver (a baby) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to collect (taxes) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to pick up 彼女はガラスの花瓶を取り上げた。She picked up one of the glass vases."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to adopt (a proposal); to take up (a topic); to accept; to listen to sometimes written as 採り上げるこのブログは情報インフラを中心としたトピックを取り上げています。This blog covers topics that centre on information infrastructure."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to take issue with; to make a problem of; to bring up (as a point of criticism) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to report (news); to cover; to feature 全新聞がその事件を大きく取り上げた。All the papers featured the case."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to take away; to confiscate; to deprive (someone) of; to revoke; to disqualify; to cancel 向こう見ずな運転の為彼は免許を取り上げられた。He had his license taken away because of reckless driving."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to deliver (a baby) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to collect (taxes) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ガラス",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "花瓶",
+                            "かびん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り上げた",
+                            "とりあ"
+                        ]
+                    ],
+                    "translation": "She picked up one of the glass vases."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "ブログ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "情報インフラ",
+                            "じょうほう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "中心",
+                            "ちゅうしん"
+                        ],
+                        [
+                            "とした",
+                            null
+                        ],
+                        [
+                            "トピック",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り上げています",
+                            "とりあ"
+                        ]
+                    ],
+                    "translation": "This blog covers topics that centre on information infrastructure."
+                },
+                {
+                    "sentence": [
+                        [
+                            "全",
+                            "ぜん"
+                        ],
+                        [
+                            "新聞",
+                            "しんぶん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "事件",
+                            "じけん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "大きく",
+                            "おお"
+                        ],
+                        [
+                            "取り上げた",
+                            "とりあ"
+                        ]
+                    ],
+                    "translation": "All the papers featured the case."
+                },
+                {
+                    "sentence": [
+                        [
+                            "向こう見ずな",
+                            "むこうみ"
+                        ],
+                        [
+                            "運転",
+                            "うんてん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "為",
+                            "ため"
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "免許",
+                            "めんきょ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り上げられた",
+                            "とりあ"
+                        ]
+                    ],
+                    "translation": "He had his license taken away because of reckless driving."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "消",
+                    "け"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to cancel; to withdraw; to retract; to take back (words, etc.); to revoke "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取消す 【とりけす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to cancel; to withdraw; to retract; to take back (words, etc.); to revoke "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取消す 【とりけす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to take out; to produce; to pick out もう一つの面白いエネルギー源は、放射能の廃棄物質から取り出せる熱である。Another interesting source of energy is the heat that can be recovered from radioactive waste material."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to fetch; to retrieve 適合率とは取り出した記事のうち、どの程度の記事が検索条件に合っているかを示す指標です。The precision ratio is an index that indicates how many articles meet the search criteria out of all of the articles retrieved."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取出す 【とりだす】、取りだす 【とりだす】、とり出す 【とりだす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to take out; to produce; to pick out もう一つの面白いエネルギー源は、放射能の廃棄物質から取り出せる熱である。Another interesting source of energy is the heat that can be recovered from radioactive waste material."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to fetch; to retrieve 適合率とは取り出した記事のうち、どの程度の記事が検索条件に合っているかを示す指標です。The precision ratio is an index that indicates how many articles meet the search criteria out of all of the articles retrieved."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取出す 【とりだす】、取りだす 【とりだす】、とり出す 【とりだす】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "もう一つ",
+                            "もうひと"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "面白い",
+                            "おもしろ"
+                        ],
+                        [
+                            "エネルギー源",
+                            "エネルギーげん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "放射能",
+                            "ほうしゃのう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "廃棄",
+                            "はいき"
+                        ],
+                        [
+                            "物質",
+                            "ぶっしつ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "取り出せる",
+                            "とりだ"
+                        ],
+                        [
+                            "熱",
+                            "ねつ"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "Another interesting source of energy is the heat that can be recovered from radioactive waste material."
+                },
+                {
+                    "sentence": [
+                        [
+                            "適合率",
+                            "てきごうりつ"
+                        ],
+                        [
+                            "とは",
+                            null
+                        ],
+                        [
+                            "取り出した",
+                            "とりだ"
+                        ],
+                        [
+                            "記事",
+                            "きじ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "うち",
+                            null
+                        ],
+                        [
+                            "どの",
+                            null
+                        ],
+                        [
+                            "程度",
+                            "ていど"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "記事",
+                            "きじ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "検索条件",
+                            "けんさくじょうけん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "合っている",
+                            "あ"
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "示す",
+                            "しめ"
+                        ],
+                        [
+                            "指標",
+                            "しひょう"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "The precision ratio is an index that indicates how many articles meet the search criteria out of all of the articles retrieved."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to harvest; to reap Only applies to 取り入れる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to take in; to gather in Only applies to 取り入れる洗濯物を中へ取り入れて下さい。Please bring in the washing."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to adopt (e.g. an idea); to accept (e.g. advice); to introduce; to borrow (e.g. a word) 私達はいつも彼の忠告を取り入れるというわけではない。We do not always take his advice."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "採り入れる 【とりいれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "採り入れる: Rarely-used kanji form."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to harvest; to reap Only applies to 取り入れる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to take in; to gather in Only applies to 取り入れる洗濯物を中へ取り入れて下さい。Please bring in the washing."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to adopt (e.g. an idea); to accept (e.g. advice); to introduce; to borrow (e.g. a word) 私達はいつも彼の忠告を取り入れるというわけではない。We do not always take his advice."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "採り入れる 【とりいれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "採り入れる: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "洗濯物",
+                            "せんたくもの"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "中",
+                            "なか"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "取り入れて",
+                            "とりい"
+                        ],
+                        [
+                            "下さい",
+                            "くだ"
+                        ]
+                    ],
+                    "translation": "Please bring in the washing."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私達",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いつも",
+                            null
+                        ],
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "忠告",
+                            "ちゅうこく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り入れる",
+                            "とりい"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "いう",
+                            null
+                        ],
+                        [
+                            "わけではない",
+                            null
+                        ]
+                    ],
+                    "translation": "We do not always take his advice."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "手",
+                    "て"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. handle; grip; knob "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "把手 【とって】、把っ手 【とって】、取手 【とって】、把手 【はしゅ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "取手: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. handle; grip; knob "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "把手 【とって】、把っ手 【とって】、取手 【とって】、把手 【はしゅ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "取手: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "扱",
+                    "あつか"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. treatment; service; handling; management "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取扱い 【とりあつかい】、取り扱 【とりあつかい】、取扱 【とりあつかい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. treatment; service; handling; management "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取扱い 【とりあつかい】、取り扱 【とりあつかい】、取扱 【とりあつかい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "しゅ"
+                ],
+                [
+                    "材",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. gathering material (for an article, novel, etc.); collecting information; covering (an event, incident, etc.); reporting; interview (for a news story) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. gathering material (for an article, novel, etc.); collecting information; covering (an event, incident, etc.); reporting; interview (for a news story) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "締",
+                    "し"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. control; management; supervision "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取締り 【とりしまり】、取締 【とりしまり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. control; management; supervision "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取締り 【とりしまり】、取締 【とりしまり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "戻",
+                    "もど"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to take back; to get back; to regain; to recover; to restore; to recoup "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to take back; to get back; to regain; to recover; to restore; to recoup "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "除",
+                    "のぞ"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to remove; to deinstall; to take away; to set apart "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取除く 【とりのぞく】、とり除く 【とりのぞく】、取りのぞく 【とりのぞく】"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to remove; to deinstall; to take away; to set apart "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取除く 【とりのぞく】、とり除く 【とりのぞく】、取りのぞく 【とりのぞく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. especially; particularly; above all Usually written using kana aloneとりわけ子供たちは愛情を必要とする。Above all, children need love."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. portioning out (servings of food) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取分け 【とりわけ】"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. especially; particularly; above all Usually written using kana aloneとりわけ子供たちは愛情を必要とする。Above all, children need love."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. portioning out (servings of food) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取分け 【とりわけ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "とりわけ",
+                            null
+                        ],
+                        [
+                            "子供たち",
+                            "こども"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "愛情",
+                            "あいじょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "必要とする",
+                            "ひつよう"
+                        ]
+                    ],
+                    "translation": "Above all, children need love."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "組",
+                    "く"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to grapple with; to wrestle with; to engage in a bout; to be matched against "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to tackle (e.g. a problem); to come to grips with; to work hard on そろそろ本気で仕事に取り組むころだよ。It is time you get down to work."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取組む 【とりくむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "そろそろ",
+                            null
+                        ],
+                        [
+                            "本気",
+                            "ほんき"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "取り組む",
+                            "とりく"
+                        ],
+                        [
+                            "ころ",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "It is time you get down to work."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "扱",
+                    "あつか"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to handle; to operate (a machine, etc.); to use "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to deal with (an issue); to manage "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "3. to treat (someone); to deal with (someone) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "4. to deal in; to carry; to sell "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取扱う 【とりあつかう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "取",
+                "くわとり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kuwatori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "取",
+                "たかとる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Takatoru "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Takadori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to receive; to get; to accept この贈り物は受け取れません。I cannot accept this gift."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to take (someone's words or behaviour); to interpret; to understand 彼女は私の言葉を侮辱と受け取ったようだ。She seems to have taken my remark as an insult."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受取る 【うけとる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "贈り物",
+                            "おくりもの"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "受け取れません",
+                            "うけと"
+                        ]
+                    ],
+                    "translation": "I cannot accept this gift."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "言葉",
+                            "ことば"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "侮辱",
+                            "ぶじょく"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "受け取った",
+                            "うけと"
+                        ],
+                        [
+                            "ようだ",
+                            null
+                        ]
+                    ],
+                    "translation": "She seems to have taken my remark as an insult."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "うけ"
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. receiving; receipt "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受け取り 【うけとり】、受取 【うけとり】、受け取 【うけとり】、請け取り 【うけとり】、請取り 【うけとり】、請取 【うけとり】、請け取 【うけとり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "書",
+                    "か"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. writing down from other written material; writing kanji text from hiragana 今日は漢字の書き取りがある。We have a kanji dictation test today."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. transcription (of spoken material); dictation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "書取 【かきとり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "今日",
+                            "きょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "漢字",
+                            "かんじ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "書き取り",
+                            "かきと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ]
+                    ],
+                    "translation": "We have a kanji dictation test today."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "ひ"
+                ],
+                [
+                    "取",
+                    "ど"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fixed date; appointed day "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "日どり 【ひどり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "引",
+                    "ひ"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to take into one's possession; to receive; to accept; to collect; to claim 私は苦情を言ったが、店ではこのセーターを引き取るのを拒んだ。I complained, but they refused to take this sweater back."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to take into one's care (e.g. person, pet); to take custody of; to adopt 彼は戦災孤児をひきとって養女として育てています。He adopted a war orphan and is bringing her up as a foster daughter."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to leave; to go away; to withdraw; to get out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "引取る 【ひきとる】、引きとる 【ひきとる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "引取る: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "苦情",
+                            "くじょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "言った",
+                            "い"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "店",
+                            "みせ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "セーター",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "引き取る",
+                            "ひきと"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "拒んだ",
+                            "こば"
+                        ]
+                    ],
+                    "translation": "I complained, but they refused to take this sweater back."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "戦災孤児",
+                            "せんさいこじ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "ひきとって",
+                            null
+                        ],
+                        [
+                            "養女",
+                            "ようじょ"
+                        ],
+                        [
+                            "として",
+                            null
+                        ],
+                        [
+                            "育てています",
+                            "そだ"
+                        ]
+                    ],
+                    "translation": "He adopted a war orphan and is bringing her up as a foster daughter."
+                }
+            ]
+        }
+    ]
+}

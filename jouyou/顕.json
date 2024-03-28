@@ -1,0 +1,1503 @@
+{
+    "kanji": "顕",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "appear",
+        "existing"
+    ],
+    "kun": [
+        "あきらか",
+        "あらわ.れる"
+    ],
+    "on": [
+        "ケン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.14009174311926606,
+            0.16192660550458715,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.013394495412844036,
+            0.02192660550458716,
+            0.015412844036697248,
+            0.034128440366972476,
+            "c",
+            0.006238532110091744,
+            0.03752293577981651,
+            0.014403669724770642,
+            0.11706422018348624,
+            0.02073394495412844,
+            0.1661467889908257,
+            "C",
+            0.17917431192660552,
+            0.3853211009174312,
+            0.1812844036697248,
+            0.401651376146789,
+            0.181651376146789,
+            0.4036697247706422
+        ],
+        [
+            "M",
+            0.1622935779816514,
+            0.18110091743119264,
+            "c",
+            0.053577981651376144,
+            -0.011376146788990826,
+            0.19495412844036697,
+            -0.03376146788990826,
+            0.25311926605504587,
+            -0.041009174311926605,
+            "c",
+            0.03376146788990826,
+            -0.004220183486238533,
+            0.046697247706422015,
+            0.009816513761467891,
+            0.04256880733944954,
+            0.04577981651376147,
+            "c",
+            -0.0047706422018348625,
+            0.04128440366972477,
+            -0.01036697247706422,
+            0.09146788990825688,
+            -0.015504587155963302,
+            0.13999999999999999,
+            "c",
+            -0.0016513761467889907,
+            0.015688073394495412,
+            -0.0033027522935779813,
+            0.029724770642201838,
+            -0.004862385321100918,
+            0.0408256880733945
+        ],
+        [
+            "M",
+            0.175045871559633,
+            0.28339449541284406,
+            "C",
+            0.22018348623853212,
+            0.27522935779816515,
+            0.3830275229357798,
+            0.25,
+            0.4385321100917431,
+            0.24568807339449542
+        ],
+        [
+            "M",
+            0.1898165137614679,
+            0.37880733944954126,
+            "c",
+            0.07394495412844038,
+            -0.011834862385321101,
+            0.16110091743119265,
+            -0.02330275229357798,
+            0.23944954128440368,
+            -0.03128440366972477
+        ],
+        [
+            "M",
+            0.23697247706422017,
+            0.4453211009174312,
+            "c",
+            0.009816513761467891,
+            0.009816513761467891,
+            0.013761467889908258,
+            0.02256880733944954,
+            0.013761467889908258,
+            0.0373394495412844,
+            "c",
+            0,
+            0.00963302752293578,
+            0.0002752293577981651,
+            0.22256880733944956,
+            0.0002752293577981651,
+            0.29669724770642203
+        ],
+        [
+            "M",
+            0.35596330275229354,
+            0.43009174311926607,
+            "c",
+            0.008899082568807339,
+            0.008899082568807339,
+            0.014036697247706422,
+            0.021743119266055048,
+            0.014036697247706422,
+            0.03541284403669725,
+            "c",
+            0,
+            0.009724770642201836,
+            0.0001834862385321101,
+            0.18706422018348626,
+            0.0001834862385321101,
+            0.26522935779816514
+        ],
+        [
+            "M",
+            0.11522935779816514,
+            0.5621100917431193,
+            "c",
+            0.01889908256880734,
+            0.024403669724770642,
+            0.048715596330275224,
+            0.10027522935779816,
+            0.05348623853211009,
+            0.13825688073394496
+        ],
+        [
+            "M",
+            0.4919266055045871,
+            0.4889908256880734,
+            "c",
+            0.0005504587155963302,
+            0.009724770642201836,
+            -0.0005504587155963302,
+            0.016972477064220184,
+            -0.0033027522935779813,
+            0.0263302752293578,
+            "c",
+            -0.01036697247706422,
+            0.034770642201834866,
+            -0.02568807339449541,
+            0.06284403669724771,
+            -0.06568807339449541,
+            0.12623853211009173
+        ],
+        [
+            "M",
+            0.1353211009174312,
+            0.8095412844036697,
+            "c",
+            0.009174311926605505,
+            0.00926605504587156,
+            0.0218348623853211,
+            0.016146788990825688,
+            0.03697247706422019,
+            0.010091743119266056,
+            "c",
+            0.06743119266055045,
+            -0.027155963302752294,
+            0.19587155963302755,
+            -0.07651376146788991,
+            0.2886238532110092,
+            -0.11018348623853211
+        ],
+        [
+            "M",
+            0.518348623853211,
+            0.15036697247706424,
+            "c",
+            0.020825688073394497,
+            0.004403669724770642,
+            0.04238532110091743,
+            0.003119266055045872,
+            0.06321100917431192,
+            0.0010091743119266055,
+            "c",
+            0.05752293577981651,
+            -0.005871559633027523,
+            0.17119266055045873,
+            -0.019633027522935782,
+            0.23724770642201834,
+            -0.024220183486238535,
+            "c",
+            0.02,
+            -0.0013761467889908255,
+            0.03963302752293578,
+            -0.0022935779816513763,
+            0.05954128440366973,
+            0.0003669724770642202
+        ],
+        [
+            "M",
+            0.6768807339449542,
+            0.17596330275229358,
+            "c",
+            0.0005504587155963302,
+            0.007981651376146788,
+            -0.00045871559633027525,
+            0.015779816513761466,
+            -0.003119266055045872,
+            0.02330275229357798,
+            "c",
+            -0.00834862385321101,
+            0.027798165137614676,
+            -0.02238532110091743,
+            0.050733944954128446,
+            -0.05229357798165138,
+            0.09220183486238533
+        ],
+        [
+            "M",
+            0.5557798165137614,
+            0.3052293577981652,
+            "c",
+            0.0081651376146789,
+            0.0081651376146789,
+            0.009908256880733945,
+            0.017706422018348624,
+            0.009908256880733945,
+            0.030825688073394496,
+            "c",
+            0,
+            0.0047706422018348625,
+            -0.0001834862385321101,
+            0.22,
+            -0.0002752293577981651,
+            0.3245871559633028,
+            "c",
+            0,
+            0.026238532110091743,
+            0,
+            0.045504587155963304,
+            0,
+            0.052752293577981654
+        ],
+        [
+            "M",
+            0.5724770642201835,
+            0.3190825688073395,
+            "c",
+            0.036513761467889906,
+            -0.004862385321100918,
+            0.14917431192660552,
+            -0.018440366972477064,
+            0.2038532110091743,
+            -0.02568807339449541,
+            "c",
+            0.0355045871559633,
+            -0.004678899082568807,
+            0.04779816513761468,
+            0.0005504587155963302,
+            0.04724770642201835,
+            0.03688073394495413,
+            "c",
+            -0.0007339449541284404,
+            0.05055045871559633,
+            -0.0001834862385321101,
+            0.20889908256880735,
+            0,
+            0.3131192660550459,
+            "c",
+            0,
+            0.020458715596330276,
+            0.00009174311926605505,
+            0.03889908256880734,
+            0.00009174311926605505,
+            0.053944954128440366
+        ],
+        [
+            "M",
+            0.576605504587156,
+            0.4395412844036697,
+            "c",
+            0.03981651376146789,
+            -0.005229357798165137,
+            0.18788990825688073,
+            -0.026238532110091743,
+            0.23688073394495412,
+            -0.027155963302752294
+        ],
+        [
+            "M",
+            0.5755963302752294,
+            0.5623853211009174,
+            "c",
+            0.052752293577981654,
+            -0.005504587155963302,
+            0.1773394495412844,
+            -0.01889908256880734,
+            0.23990825688073394,
+            -0.020275229357798165
+        ],
+        [
+            "M",
+            0.5748623853211009,
+            0.6878899082568808,
+            "c",
+            0.052752293577981654,
+            -0.006972477064220183,
+            0.173302752293578,
+            -0.01871559633027523,
+            0.23990825688073394,
+            -0.02018348623853211
+        ],
+        [
+            "M",
+            0.5989908256880735,
+            0.7345871559633027,
+            "c",
+            0.001926605504587156,
+            0.00963302752293578,
+            -0.0001834862385321101,
+            0.021376146788990826,
+            -0.008532110091743119,
+            0.031467889908256885,
+            "c",
+            -0.02853211009174312,
+            0.034403669724770644,
+            -0.08403669724770642,
+            0.07981651376146788,
+            -0.14880733944954128,
+            0.11605504587155964
+        ],
+        [
+            "M",
+            0.7579816513761468,
+            0.7522935779816514,
+            "c",
+            0.056330275229357796,
+            0.03541284403669725,
+            0.10211009174311927,
+            0.08201834862385321,
+            0.12788990825688074,
+            0.13788990825688072
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. exposure; clarity Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. exoteric Buddhism; public Buddhist teachings Buddhism, Abbreviation, See also 顕教"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "露",
+                    "あらわ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. exposed; scanty; bare; unconcealed; naked "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. public; open "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "露わ 【あらわ】、顕 【あらわ】、顕わ 【あらわ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "微",
+                    "び"
+                ],
+                [
+                    "鏡",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. microscope "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Microscope A microscope (from the Greek: μικρός, mikrós, \"small\" and... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. microscope "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Microscope A microscope (from the Greek: μικρός, mikrós, \"small\" and... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "現",
+                    "あらわ"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to appear; to come in sight; to become visible; to come out; to embody; to materialize; to materialise ２０人の警官が現場に現れた。Twenty police have arrived on the scene."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be expressed (e.g. emotions); to become apparent (e.g. trends, effects) その薬の効きめが現れた。The medicine took effect."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "現われる 【あらわれる】、表れる 【あらわれる】、表われる 【あらわれる】、顕れる 【あらわれる】、顕われる 【あらわれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "顕われる: Irregular okurigana usage."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to appear; to come in sight; to become visible; to come out; to embody; to materialize; to materialise ２０人の警官が現場に現れた。Twenty police have arrived on the scene."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be expressed (e.g. emotions); to become apparent (e.g. trends, effects) その薬の効きめが現れた。The medicine took effect."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "現われる 【あらわれる】、表れる 【あらわれる】、表われる 【あらわれる】、顕れる 【あらわれる】、顕われる 【あらわれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "顕われる: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "人",
+                            "にん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "警官",
+                            "けいかん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "現場",
+                            "げんば"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "現れた",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "Twenty police have arrived on the scene."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "薬",
+                            "くすり"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "効きめ",
+                            "き"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "現れた",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "The medicine took effect."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "明",
+                    "あき"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. clear; obvious; evident; plain; definite "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. bright; light "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顕らか 【あきらか】"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. clear; obvious; evident; plain; definite "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. bright; light "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顕らか 【あきらか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "現",
+                    "あらわ"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. embodiment; manifestation; materialization; materialisation; expression; indication "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "表れ 【あらわれ】、現われ 【あらわれ】、表われ 【あらわれ】、顕れ 【あらわれ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. embodiment; manifestation; materialization; materialisation; expression; indication "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "表れ 【あらわれ】、現われ 【あらわれ】、表われ 【あらわれ】、顕れ 【あらわれ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "あらわ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to represent; to signify; to stand for esp. 表す, 表わす＆のマークはａｎｄの文字を表す。The sign \"&\" stands for \"and\"."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to reveal; to show; to display esp. 現す, 現わすご自分の栄光を現された。He thus revealed his glory."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to express See also 言い表す, esp. 表す, 表わすあなたのご親切に対し深く感謝の意を表します。I wish to express my deep appreciation for your kindness."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to make widely known esp. 顕す"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "現す 【あらわす】、表わす 【あらわす】、現わす 【あらわす】、顕す 【あらわす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to represent; to signify; to stand for esp. 表す, 表わす＆のマークはａｎｄの文字を表す。The sign \"&\" stands for \"and\"."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to reveal; to show; to display esp. 現す, 現わすご自分の栄光を現された。He thus revealed his glory."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to express See also 言い表す, esp. 表す, 表わすあなたのご親切に対し深く感謝の意を表します。I wish to express my deep appreciation for your kindness."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to make widely known esp. 顕す"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "現す 【あらわす】、表わす 【あらわす】、現わす 【あらわす】、顕す 【あらわす】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "マーク",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "文字",
+                            "もじ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "表す",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "The sign \"&\" stands for \"and\"."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ご",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "栄光",
+                            "えいこう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "現された",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "He thus revealed his glory."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ご",
+                            null
+                        ],
+                        [
+                            "親切",
+                            "しんせつ"
+                        ],
+                        [
+                            "に対し",
+                            "にたい"
+                        ],
+                        [
+                            "深く",
+                            "ふか"
+                        ],
+                        [
+                            "感謝",
+                            "かんしゃ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "意",
+                            "い"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "表します",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "I wish to express my deep appreciation for your kindness."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "著",
+                    "ちょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. remarkable; striking; obvious "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. remarkable; striking; obvious "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "化",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. being actualized; becoming apparent; becoming tangible; surfacing "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. being actualized; becoming apparent; becoming tangible; surfacing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. being actual (as opposed to hidden or latent); being apparent; being obvious; being tangible; being revealed See also 顕在化, Antonym: 潜在"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. being actual (as opposed to hidden or latent); being apparent; being obvious; being tangible; being revealed See also 顕在化, Antonym: 潜在"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "彰",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. honouring (publicly); honoring; making someone's good deeds or achievements well-known "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. honouring (publicly); honoring; making someone's good deeds or achievements well-known "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "ょ",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "座",
+                    "ざ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Microscopium (constellation); the Microscope Astronomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Microscopium Microscopium is a small constellation in the southern sky... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顕微鏡座 【けんびきょうざ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Microscopium (constellation); the Microscope Astronomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Microscopium Microscopium is a small constellation in the southern sky... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顕微鏡座 【けんびきょうざ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "生",
+                    "せい"
+                ],
+                [
+                    "代",
+                    "だい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. Phanerozoic "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Phanerozoic The Phanerozoic (Brit. Phanærozoic) is the current geolog... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. Phanerozoic "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Phanerozoic The Phanerozoic (Brit. Phanærozoic) is the current geolog... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "微",
+                    "び"
+                ],
+                [
+                    "授",
+                    "じゅ"
+                ],
+                [
+                    "精",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. microinsemination; microfertilization; intra-cytoplasmic sperm injection; ICSI Medicine"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顕微受精 【けんびじゅせい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. microinsemination; microfertilization; intra-cytoplasmic sperm injection; ICSI Medicine"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顕微受精 【けんびじゅせい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "性",
+                    "せい"
+                ],
+                [
+                    "感",
+                    "かん"
+                ],
+                [
+                    "染",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. apparent infection Medicine, Antonym: 不顕性感染"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "微",
+                    "び"
+                ],
+                [
+                    "鏡",
+                    "きょう"
+                ],
+                [
+                    "写",
+                    "しゃ"
+                ],
+                [
+                    "真",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. photomicrograph; microphotograph "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "教",
+                    "ぎょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kengyō; exoteric Buddhism; public Buddhist teachings Buddhism, Antonym: 密教 みっきょう"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顕教 【けんきょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "揚",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. extolling; exalting "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. dominance Rare term, See also 優性"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "正",
+                    "しょう"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kenshōkai (Buddhist lay group) Organization name"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "顕",
+                "あきのり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Akinori "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Akira "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "顕",
+                "けん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Ken "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "露",
+                    "ろ"
+                ],
+                [
+                    "見",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. discovery (of a plot, misdeed, etc.); detection; exposure; disclosure "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "露顕 【ろけん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "電",
+                    "でん"
+                ],
+                [
+                    "子",
+                    "し"
+                ],
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "微",
+                    "び"
+                ],
+                [
+                    "鏡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. electron microscope "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Electron microscope An electron microscope is a type of microscope that uses ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "自",
+                    "じ"
+                ],
+                [
+                    "己",
+                    "こ"
+                ],
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "示",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. making oneself conspicuous; pressing one's own cause Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "性",
+                    "せい"
+                ],
+                [
+                    "感",
+                    "かん"
+                ],
+                [
+                    "染",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. inapparent infection; subclinical infection Medicine, Antonym: 顕性感染"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Subclinical infection A subclinical infection is the asymptomatic (without appa... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "蛍",
+                    "けい"
+                ],
+                [
+                    "光",
+                    "こう"
+                ],
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "微",
+                    "び"
+                ],
+                [
+                    "鏡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fluorescence microscope "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fluorescence microscope A fluorescence microscope is an optical microscope that u... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "光",
+                    "こう"
+                ],
+                [
+                    "学",
+                    "がく"
+                ],
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "微",
+                    "び"
+                ],
+                [
+                    "鏡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. optical microscope "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Optical microscope The optical microscope, often referred to as the \"light m... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "微",
+                    "び"
+                ],
+                [
+                    "鏡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phase-contrast microscope "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Phase contrast microscopy Phase contrast microscopy is an optical microscopy illumi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "微",
+                    "び"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. microscopic "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1262 @@
+{
+    "kanji": "棋",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "chess piece",
+        "Japanese chess",
+        "shogi"
+    ],
+    "kun": [
+        "ご"
+    ],
+    "on": [
+        "キ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.11495412844036697,
+            0.35293577981651375,
+            "c",
+            0.01926605504587156,
+            0.006055045871559634,
+            0.04577981651376147,
+            0.0039449541284403665,
+            0.059449541284403676,
+            0.0017431192660550458,
+            "c",
+            0.04990825688073395,
+            -0.007889908256880733,
+            0.13394495412844037,
+            -0.027889908256880733,
+            0.18779816513761466,
+            -0.03706422018348624,
+            "c",
+            0.009357798165137614,
+            -0.001559633027522936,
+            0.019724770642201832,
+            -0.0022935779816513763,
+            0.027889908256880733,
+            -0.0022935779816513763
+        ],
+        [
+            "M",
+            0.2842201834862385,
+            0.15137614678899083,
+            "c",
+            0.00926605504587156,
+            0.00926605504587156,
+            0.01275229357798165,
+            0.022935779816513763,
+            0.01275229357798165,
+            0.038256880733944953,
+            "c",
+            0,
+            0.03330275229357798,
+            -0.0005504587155963302,
+            0.44697247706422016,
+            -0.0007339449541284404,
+            0.6131192660550459,
+            "c",
+            0,
+            0.032293577981651375,
+            -0.00009174311926605505,
+            0.05522935779816513,
+            -0.00009174311926605505,
+            0.06422018348623854
+        ],
+        [
+            "M",
+            0.2876146788990826,
+            0.34889908256880736,
+            "c",
+            0,
+            0.01688073394495413,
+            -0.013761467889908258,
+            0.04513761467889908,
+            -0.020458715596330276,
+            0.06036697247706422,
+            "c",
+            -0.046055045871559626,
+            0.10504587155963302,
+            -0.0871559633027523,
+            0.1710091743119266,
+            -0.161651376146789,
+            0.2684403669724771
+        ],
+        [
+            "M",
+            0.31880733944954126,
+            0.41394495412844035,
+            "c",
+            0.0255045871559633,
+            0.015504587155963302,
+            0.05788990825688073,
+            0.055963302752293574,
+            0.07935779816513762,
+            0.08605504587155964
+        ],
+        [
+            "M",
+            0.4369724770642202,
+            0.33568807339449547,
+            "c",
+            0.022293577981651377,
+            0.002018348623853211,
+            0.0408256880733945,
+            0.0011926605504587156,
+            0.06311926605504586,
+            -0.0022935779816513763,
+            "c",
+            0.08110091743119266,
+            -0.012844036697247705,
+            0.22440366972477066,
+            -0.031009174311926603,
+            0.3036697247706422,
+            -0.038256880733944953,
+            "c",
+            0.017339449541284403,
+            -0.001559633027522936,
+            0.03403669724770642,
+            -0.003853211009174312,
+            0.0510091743119266,
+            0.0008256880733944953
+        ],
+        [
+            "M",
+            0.5189908256880734,
+            0.18376146788990827,
+            "c",
+            0.008715596330275228,
+            0.008715596330275228,
+            0.011743119266055046,
+            0.020366972477064222,
+            0.011743119266055046,
+            0.03311926605504587,
+            "c",
+            0,
+            0.008899082568807339,
+            0,
+            0.3946788990825688,
+            -0.001559633027522936,
+            0.4494495412844037
+        ],
+        [
+            "M",
+            0.7130275229357798,
+            0.14908256880733944,
+            "c",
+            0.0081651376146789,
+            0.0081651376146789,
+            0.011834862385321101,
+            0.01834862385321101,
+            0.011834862385321101,
+            0.030825688073394496,
+            "c",
+            0,
+            0.008899082568807339,
+            0.0007339449541284404,
+            0.3992660550458716,
+            0.0007339449541284404,
+            0.4620183486238532
+        ],
+        [
+            "M",
+            0.5423853211009174,
+            0.4334862385321101,
+            "C",
+            0.5688073394495413,
+            0.4315596330275229,
+            0.6890825688073394,
+            0.41467889908256883,
+            0.7137614678899082,
+            0.41275229357798165
+        ],
+        [
+            "M",
+            0.5423853211009174,
+            0.5493577981651376,
+            "c",
+            0.04238532110091743,
+            -0.0045871559633027525,
+            0.13302752293577982,
+            -0.016055045871559634,
+            0.17422018348623852,
+            -0.019357798165137614
+        ],
+        [
+            "M",
+            0.3988990825688073,
+            0.6805504587155964,
+            "c",
+            0.025412844036697246,
+            0.0029357798165137615,
+            0.0481651376146789,
+            0.001559633027522936,
+            0.07247706422018349,
+            -0.0011926605504587156,
+            "c",
+            0.08366972477064219,
+            -0.00963302752293578,
+            0.26,
+            -0.03211009174311927,
+            0.3588990825688073,
+            -0.037706422018348625,
+            "c",
+            0.020917431192660547,
+            -0.0011926605504587156,
+            0.041651376146788995,
+            -0.0022935779816513763,
+            0.06211009174311926,
+            0.0034862385321100917
+        ],
+        [
+            "M",
+            0.5319266055045871,
+            0.7358715596330274,
+            "c",
+            0.0011009174311926604,
+            0.008715596330275228,
+            -0.0033027522935779813,
+            0.016605504587155963,
+            -0.008532110091743119,
+            0.023577981651376145,
+            "c",
+            -0.024495412844036696,
+            0.030642201834862385,
+            -0.06807339449541285,
+            0.06963302752293578,
+            -0.1356880733944954,
+            0.1098165137614679
+        ],
+        [
+            "M",
+            0.6972477064220184,
+            0.7224770642201835,
+            "c",
+            0.05972477064220183,
+            0.0255045871559633,
+            0.15422018348623853,
+            0.1046788990825688,
+            0.1691743119266055,
+            0.1443119266055046
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "碁",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. go (board game) See also 囲碁"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "棊 【ご】、棋 【ご】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. go (board game) See also 囲碁"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "棊 【ご】、棋 【ご】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "譜",
+                    "ふ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. record of a game of go, shogi, chess, etc. "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Kifu Kifu (棋譜) is the Japanese term for a game record for a ga... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. record of a game of go, shogi, chess, etc. "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Kifu Kifu (棋譜) is the Japanese term for a game record for a ga... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "士",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. professional shogi player; professional go player "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. professional shogi player; professional go player "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "聖",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. great master of go; great master of shogi "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. great master of go; great master of shogi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "院",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. go institution; go club; go hall "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. go institution; go club; go hall "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "界",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. world of go; world of shogi; go circles; shogi circles "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. world of go; world of shogi; go circles; shogi circles "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "風",
+                    "ふう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's style of playing shogi or go "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's style of playing shogi or go "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "戦",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. go or shogi tournament "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "道",
+                    "どう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. art of shogi "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. art of go "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. skill in go or shogi "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. skill in go or shogi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "客",
+                    "かく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shogi player; go player "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "棋客 【ききゃく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "局",
+                    "きょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. go or shogi board "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. position of a game of go or shogi "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "棊局 【ききょく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "王",
+                    "おう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kiō (one of the eight major professional titles of shogi); shogi king Shogi"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "布",
+                    "ふ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. scattering (of islands, Go pieces, etc., often in harmonious balance); dispersal; constellation; irregular spread Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "棊布 【きふ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    null
+                ],
+                [
+                    "聖",
+                    null
+                ],
+                [
+                    "戦",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "中",
+                    null
+                ],
+                [
+                    "国",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Qisheng The Qisheng is a Zhongguo Qiyuan Go competition."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    null
+                ],
+                [
+                    "王",
+                    null
+                ],
+                [
+                    "戦",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Kioh is one of the seven titles in Japanese professional shogi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    null
+                ],
+                [
+                    "聖",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "囲",
+                    null
+                ],
+                [
+                    "碁",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Kisei The Kisei (棋聖) is a Go competition. The title, meaning go... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    null
+                ],
+                [
+                    "士",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "囲",
+                    null
+                ],
+                [
+                    "碁",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Go players This page gives an overview of well-known players of the ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    null
+                ],
+                [
+                    "聖",
+                    null
+                ],
+                [
+                    "戦",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "将",
+                    null
+                ],
+                [
+                    "棋",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Kisei (shogi) is one of the seven titles in Japanese professional shogi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棋",
+                    null
+                ],
+                [
+                    "聖",
+                    null
+                ],
+                [
+                    "戦",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "韓",
+                    null
+                ],
+                [
+                    "国",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Kisung The Kisung is a Go competition in South Korea."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "棋原",
+                "しではら"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Shidehara "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "棋司",
+                "きし"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Kishi "
+                },
+                {
+                    "type": "Male given name",
+                    "meaning": "1. Kishirou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shogi; Japanese chess "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shogi , also known as Japanese chess, is a two-player strategy ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "象棋 【しょうぎ】、象戯 【しょうぎ】、将棊 【しょうぎ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "象棋: Rarely-used kanji form. 象戯: Rarely-used kanji form. 将棊: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つめ"
+                ],
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. composed shogi problem Shogi, See also 詰む"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tsumeshogi Tsumeshogi or tsume is the Japanese term for a shogi prob... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰め将棋 【つめしょうぎ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ],
+                [
+                    "倒",
+                    "だお"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. falling down one after another (like dominoes) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. toppling shogi pieces (lined up in a row) orig. meaning"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "関",
+                    "かん"
+                ],
+                [
+                    "西",
+                    "さい"
+                ],
+                [
+                    "棋",
+                    "き"
+                ],
+                [
+                    "院",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kansai Go Institution Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Kansai Go Institution "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Kansai Ki-in The Kansai Ki-in (関西棋院), i.e. , Kansai Go Association, is... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "平",
+                    "へい"
+                ],
+                [
+                    "安",
+                    "あん"
+                ],
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Heian shogi (precursor to modern shogi) See also 将棋 しょうぎ"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Heian shogi Heian shōgi is a predecessor of modern shogi (Japanese ch... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "にほんきいん"
+                ],
+                [
+                    "本",
+                    null
+                ],
+                [
+                    "棋",
+                    null
+                ],
+                [
+                    "院",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Nihon Kiin, central Go organization of Japan "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Nihon Ki-in The Nihon Ki-in (日本棋院), also known as the Japan Go Associ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "たい"
+                ],
+                [
+                    "局",
+                    "きょく"
+                ],
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Taikyoku shogi (variant of shogi) See also 将棋 しょうぎ"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Taikyoku shogi Taikyoku shōgi (大局将棋 'ultimate chess') is a large board v... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "国",
+                    "ごく"
+                ],
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Chinese chess; xiangqi "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中国象棋 【ちゅうごくしょうぎ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "駒",
+                    "こま"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shogi piece See also 将棋"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "軍",
+                    "ぐん"
+                ],
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gunjin shogi (board game) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "持",
+                    "じ"
+                ],
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. drawn game; impasse Shogi"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "西",
+                    "せい"
+                ],
+                [
+                    "洋",
+                    "よう"
+                ],
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chess Dated term, See also チェス"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

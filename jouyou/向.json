@@ -1,0 +1,1820 @@
+{
+    "kanji": "向",
+    "grade": 3,
+    "jlpt": 3,
+    "meanings": [
+        "yonder",
+        "facing",
+        "beyond",
+        "confront",
+        "defy",
+        "tend toward",
+        "approach"
+    ],
+    "kun": [
+        "む.く",
+        "む.い",
+        "-む.き",
+        "む.ける",
+        "-む.け",
+        "む.かう",
+        "む.かい",
+        "む.こう",
+        "む.こう-",
+        "むこ",
+        "むか.い"
+    ],
+    "on": [
+        "コウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.4542201834862385,
+            0.16871559633027525,
+            "c",
+            0.002201834862385321,
+            0.008990825688073394,
+            0.0003669724770642202,
+            0.01908256880733945,
+            -0.003027522935779817,
+            0.02614678899082569,
+            "C",
+            0.41853211009174307,
+            0.26146788990825687,
+            0.3944954128440367,
+            0.30045871559633025,
+            0.3124770642201835,
+            0.3942201834862385
+        ],
+        [
+            "M",
+            0.1720183486238532,
+            0.38990825688073394,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.015229357798165137,
+            0.020917431192660547,
+            0.0163302752293578,
+            0.03339449541284404,
+            "c",
+            0.0037614678899082566,
+            0.04504587155963303,
+            0.010825688073394495,
+            0.2214678899082569,
+            0.014495412844036697,
+            0.3369724770642202,
+            "c",
+            0.0005504587155963302,
+            0.0163302752293578,
+            0.0009174311926605505,
+            0.031376146788990825,
+            0.0012844036697247708,
+            0.04467889908256881
+        ],
+        [
+            "M",
+            0.19587155963302755,
+            0.41376146788990825,
+            "c",
+            0.14706422018348625,
+            -0.016972477064220184,
+            0.5608256880733945,
+            -0.06577981651376147,
+            0.5777064220183487,
+            -0.06816513761467889,
+            "c",
+            0.02688073394495413,
+            -0.003853211009174312,
+            0.061834862385321106,
+            0.014220183486238533,
+            0.06110091743119266,
+            0.04889908256880734,
+            "c",
+            -0.002018348623853211,
+            0.08954128440366972,
+            -0.0336697247706422,
+            0.30678899082568806,
+            -0.05954128440366973,
+            0.38788990825688074,
+            "C",
+            0.7442201834862385,
+            0.8784403669724771,
+            0.7212844036697248,
+            0.8267889908256881,
+            0.6972477064220184,
+            0.7889908256880734
+        ],
+        [
+            "M",
+            0.3555045871559633,
+            0.5094495412844037,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.011834862385321101,
+            0.017431192660550456,
+            0.012385321100917432,
+            0.02201834862385321,
+            "c",
+            0.006146788990825688,
+            0.050917431192660546,
+            0.01036697247706422,
+            0.08100917431192661,
+            0.018073394495412842,
+            0.13376146788990825,
+            "c",
+            0.0011926605504587156,
+            0.008532110091743119,
+            0.0025688073394495416,
+            0.017614678899082567,
+            0.0039449541284403665,
+            0.02743119266055046
+        ],
+        [
+            "M",
+            0.3764220183486239,
+            0.5255045871559633,
+            "c",
+            0.09486238532110092,
+            -0.014036697247706422,
+            0.15807339449541286,
+            -0.02238532110091743,
+            0.22706422018348624,
+            -0.03247706422018349,
+            "c",
+            0.0226605504587156,
+            -0.0033027522935779813,
+            0.030733944954128442,
+            0.010458715596330274,
+            0.02724770642201835,
+            0.02532110091743119,
+            "c",
+            -0.009174311926605505,
+            0.03990825688073394,
+            -0.020642201834862386,
+            0.06880733944954129,
+            -0.03055045871559633,
+            0.12275229357798166
+        ],
+        [
+            "M",
+            0.3992660550458716,
+            0.6721100917431193,
+            "c",
+            0.05146788990825688,
+            -0.0045871559633027525,
+            0.11908256880733946,
+            -0.012660550458715595,
+            0.1981651376146789,
+            -0.020550458715596333,
+            "c",
+            0.010642201834862385,
+            -0.0011009174311926604,
+            0.02128440366972477,
+            -0.0008256880733944953,
+            0.031743119266055046,
+            -0.0010091743119266055
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. opposite side; other side; opposite direction 彼女は背が低すぎて塀の向こうがみえなかった。She was too short to see over the fence."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. over there; that way; far away; beyond その男の子は向こうにいます。The boy is over there."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. the other party; the other person 向こうの思う壷だぞ。You will play into their hands."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. future (starting now) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. opposite side; other side; opposite direction 彼女は背が低すぎて塀の向こうがみえなかった。She was too short to see over the fence."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. over there; that way; far away; beyond その男の子は向こうにいます。The boy is over there."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. the other party; the other person 向こうの思う壷だぞ。You will play into their hands."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. future (starting now) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "背が低",
+                            "せがひく"
+                        ],
+                        [
+                            "すぎて",
+                            null
+                        ],
+                        [
+                            "塀",
+                            "へい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "向こう",
+                            "む"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "みえなかった",
+                            null
+                        ]
+                    ],
+                    "translation": "She was too short to see over the fence."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "男の子",
+                            "おとこのこ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "向こう",
+                            "む"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "います",
+                            null
+                        ]
+                    ],
+                    "translation": "The boy is over there."
+                },
+                {
+                    "sentence": [
+                        [
+                            "向こう",
+                            "む"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "思う壷",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "ぞ",
+                            null
+                        ]
+                    ],
+                    "translation": "You will play into their hands."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to face 一日中コンピューターに向かってるから、結構電磁波浴びてる。I sit in front of a computer screen all day, so I get pretty heavily bombarded by electro-magnetic waves."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "2. to go towards; to head towards あなたは何処へ向かっているのですか。Where are you bound for?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向う 【むかう】、対う 【むかう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "対う: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to face 一日中コンピューターに向かってるから、結構電磁波浴びてる。I sit in front of a computer screen all day, so I get pretty heavily bombarded by electro-magnetic waves."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "2. to go towards; to head towards あなたは何処へ向かっているのですか。Where are you bound for?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向う 【むかう】、対う 【むかう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "対う: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "一日中",
+                            "いちにちじゅう"
+                        ],
+                        [
+                            "コンピューター",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "向かってる",
+                            "む"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "結構",
+                            "けっこう"
+                        ],
+                        [
+                            "電磁波",
+                            "でんじは"
+                        ],
+                        [
+                            "浴びてる",
+                            "あび"
+                        ]
+                    ],
+                    "translation": "I sit in front of a computer screen all day, so I get pretty heavily bombarded by electro-magnetic waves."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "何処",
+                            "どこ"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "向かっている",
+                            "む"
+                        ],
+                        [
+                            "のです",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Where are you bound for?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. direction; orientation; aspect; exposure "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. suited to; suitable for; designed for "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. tendency; inclination "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. nature (of a request or desire) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. person "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "6. Orientation (vector space) In mathematics, orientation is a geometric notion that in... Read more"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. direction; orientation; aspect; exposure "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. suited to; suitable for; designed for "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. tendency; inclination "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. nature (of a request or desire) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. person "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "6. Orientation (vector space) In mathematics, orientation is a geometric notion that in... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "むか"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. facing; opposite; across the street; other side "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向かい 【むかい】、対い 【むかい】"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. facing; opposite; across the street; other side "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向かい 【むかい】、対い 【むかい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to turn (towards); to face; to point; to aim; to direct to 強盗は店員に銃を向けた。The robber aimed his gun at the clerk."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to head to; to go towards 今度の土曜日の朝、シカゴに向けて出発します。I'm leaving for Chicago next Saturday morning."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to allot; to allocate "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to send; to dispatch (e.g. a person) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to aim for; to pursue 過去ではなく、未来に向けて取り組むのが当社の方針です。Our policy is to build for the future, not the past."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to turn (towards); to face; to point; to aim; to direct to 強盗は店員に銃を向けた。The robber aimed his gun at the clerk."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to head to; to go towards 今度の土曜日の朝、シカゴに向けて出発します。I'm leaving for Chicago next Saturday morning."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to allot; to allocate "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to send; to dispatch (e.g. a person) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to aim for; to pursue 過去ではなく、未来に向けて取り組むのが当社の方針です。Our policy is to build for the future, not the past."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "強盗",
+                            "ごうとう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "店員",
+                            "てんいん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "銃",
+                            "じゅう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "向けた",
+                            "む"
+                        ]
+                    ],
+                    "translation": "The robber aimed his gun at the clerk."
+                },
+                {
+                    "sentence": [
+                        [
+                            "今度",
+                            "こんど"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "土曜日",
+                            "どようび"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "朝",
+                            "あさ"
+                        ],
+                        [
+                            "シカゴ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "向けて",
+                            "む"
+                        ],
+                        [
+                            "出発します",
+                            "しゅっぱつ"
+                        ]
+                    ],
+                    "translation": "I'm leaving for Chicago next Saturday morning."
+                },
+                {
+                    "sentence": [
+                        [
+                            "過去",
+                            "かこ"
+                        ],
+                        [
+                            "ではなく",
+                            null
+                        ],
+                        [
+                            "未来",
+                            "みらい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "向けて",
+                            "む"
+                        ],
+                        [
+                            "取り組む",
+                            "とりく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "当社",
+                            "とうしゃ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "方針",
+                            "ほうしん"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "Our policy is to build for the future, not the past."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb, Intransitive verb",
+                    "meaning": "1. to turn toward; to look (up, down, etc.) 私の方を向いてください。Turn toward me, please."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb, Intransitive verb",
+                    "meaning": "2. to face (e.g. east) (of a building, window, etc.); to look out on; to front (on) "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb, Intransitive verb",
+                    "meaning": "3. to point (of an arrow, compass needle, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "4. to be suited to; to be fit for 彼は先生に向いてない。He's not cut out for teaching."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "5. to go towards; to turn to (of one's interests, feelings, etc.); to be inclined (to do) 足の向くままに歩いた。We let our legs do the leading."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb, Intransitive verb",
+                    "meaning": "1. to turn toward; to look (up, down, etc.) 私の方を向いてください。Turn toward me, please."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb, Intransitive verb",
+                    "meaning": "2. to face (e.g. east) (of a building, window, etc.); to look out on; to front (on) "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb, Intransitive verb",
+                    "meaning": "3. to point (of an arrow, compass needle, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "4. to be suited to; to be fit for 彼は先生に向いてない。He's not cut out for teaching."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "5. to go towards; to turn to (of one's interests, feelings, etc.); to be inclined (to do) 足の向くままに歩いた。We let our legs do the leading."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "方",
+                            "ほう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "向いて",
+                            "む"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Turn toward me, please."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "先生",
+                            "せんせい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "向いてない",
+                            "む"
+                        ]
+                    ],
+                    "translation": "He's not cut out for teaching."
+                },
+                {
+                    "sentence": [
+                        [
+                            "足",
+                            "あし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "向く",
+                            "む"
+                        ],
+                        [
+                            "まま",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "歩いた",
+                            "ある"
+                        ]
+                    ],
+                    "translation": "We let our legs do the leading."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "こう"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. elevation; rise; improvement; advancement; progress "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. elevation; rise; improvement; advancement; progress "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "1. intended for ...; oriented towards ...; aimed at ... "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "1. intended for ...; oriented towards ...; aimed at ... "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "側",
+                    "がわ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. other side; opposite side; other party "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向う側 【むこうがわ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to be opposite; to face each other "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向かいあう 【むかいあう】、向い合う 【むかいあう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to be opposite; to face each other "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "2. to confront (an issue); to face "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向きあう 【むきあう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "側",
+                    "がわ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. opposite side; other side; other party "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向い側 【むかいがわ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "向い側: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "むか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "風",
+                    "かぜ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. headwind; head wind "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向かい風 【むかいかぜ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "ひまわり"
+                ],
+                [
+                    "日",
+                    null
+                ],
+                [
+                    "葵",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sunflower (Helianthus annuus) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sunflower Sunflower (Helianthus annuus) is an annual plant native t... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "日回り 【ひまわり】、ヒマワリ"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ひまわり: Gikun (meaning as reading) or jukujikun (special kanji reading). ひまわり: Gikun (meaning as reading) or jukujikun (special kanji reading). 日回り: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "岸",
+                    "ぎし"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. opposite bank; farther shore "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "むこう岸 【むこうぎし】、向こうぎし 【むこうぎし】、向う岸 【むこうぎし】、向岸 【むこうぎし】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "向う岸: Irregular okurigana usage. 向岸: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "見",
+                    "み"
+                ],
+                [
+                    "ず",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. recklessness; rashness; foolhardiness; temerity; without watching where one is going "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向こうみず 【むこうみず】、向う見ず 【むこうみず】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "向う見ず: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to be cut out for (e.g. a job); to be suited (to) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "と",
+                    null
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "ろ",
+                    null
+                ],
+                [
+                    "敵",
+                    "てき"
+                ],
+                [
+                    "無",
+                    "な"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. unbeatable; invincible; irresistible 千代の富士は、向かうところ敵無しだった。Chiyonofuji carried all before him."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "向かう所敵無し 【むかうところてきなし】、向かう所敵なし 【むかうところてきなし】、向かうところ敵なし 【むかうところてきなし】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "向かうところ敵無し",
+                            "むかうところてきな"
+                        ],
+                        [
+                            "だった",
+                            null
+                        ]
+                    ],
+                    "translation": "Chiyonofuji carried all before him."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "直",
+                    "なお"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to turn round; to face about; to turn about "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "向",
+                    "こう"
+                ],
+                [
+                    "学",
+                    "がく"
+                ],
+                [
+                    "心",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. love of learning; desire for learning; passion for knowledge "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "向",
+                "こう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "向",
+                "しょう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Shou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "向",
+                "のこ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Noko "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "方",
+                    "ほう"
+                ],
+                [
+                    "向",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. direction; orientation; bearing; way "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. course (e.g. of action) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Direction (geometry) Direction is the information contained in the relative po... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "傾",
+                    "けい"
+                ],
+                [
+                    "向",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tendency; trend; inclination "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "意",
+                    "い"
+                ],
+                [
+                    "向",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. intention; idea; inclination; wish "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "意嚮 【いこう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "動",
+                    "どう"
+                ],
+                [
+                    "向",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. trend; tendency; movement; attitude "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "志",
+                    "し"
+                ],
+                [
+                    "向",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. intention; aim; preference (for); orientation (towards a goal) See also 指向"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "只",
+                    "ひたすら"
+                ],
+                [
+                    "管",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Na-adjective (keiyodoshi)",
+                    "meaning": "1. intently; single-mindedly; devotedly; solely; earnestly; with all one's heart Usually written using kana alone, See also ひたぶる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "一向 【ひたすら】、頓 【ひたすら】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "只管: Rarely-used kanji form. 一向: Rarely-used kanji form. 頓: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "ひ"
+                ],
+                [
+                    "向",
+                    "なた"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sunny place; in the sun "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Hyūga "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "日なた 【ひなた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "転",
+                    "てん"
+                ],
+                [
+                    "向",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. conversion; shift; about-face; switch "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tenkō is a Japanese term referring to the ideological reversal ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "向",
+                    "こう"
+                ],
+                [
+                    "に",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. completely; absolutely; totally 健康のせいで仕事がいっこうにはかどらない。My health makes me a very slow worker."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. (not) at all; (not) a bit; (not) in the least in a negative sentence彼の言うことは僕には一向にわからない。I can make nothing of what he says."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. earnestly; intently; determinedly "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "健康",
+                            "けんこう"
+                        ],
+                        [
+                            "のせいで",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "いっこうに",
+                            null
+                        ],
+                        [
+                            "はかどらない",
+                            null
+                        ]
+                    ],
+                    "translation": "My health makes me a very slow worker."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "言う",
+                            "い"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "僕",
+                            "ぼく"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "一向に",
+                            "いっこう"
+                        ],
+                        [
+                            "わからない",
+                            null
+                        ]
+                    ],
+                    "translation": "I can make nothing of what he says."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "うわ"
+                ],
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. pointing up; pointing upward; upturn; uptrend; upward tendency Antonym: 下向き"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上向き 【うえむき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "後",
+                    "うし"
+                ],
+                [
+                    "ろ",
+                    null
+                ],
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. back-facing; backwards Antonym: 前向き"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "2. backward-looking; retrogressive; reactionary; retrospective; negative Antonym: 前向き"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "後向き 【うしろむき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "後向き: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "出",
+                    "で"
+                ],
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "1. to go to; to proceed to; to leave for "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

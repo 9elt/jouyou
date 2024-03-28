@@ -1,0 +1,1455 @@
+{
+    "kanji": "周",
+    "grade": 4,
+    "jlpt": 2,
+    "meanings": [
+        "circumference",
+        "circuit",
+        "lap"
+    ],
+    "kun": [
+        "まわ.り"
+    ],
+    "on": [
+        "シュウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.231651376146789,
+            0.14678899082568808,
+            "c",
+            0.010275229357798166,
+            0.010275229357798166,
+            0.013394495412844036,
+            0.025137614678899085,
+            0.013761467889908258,
+            0.045871559633027525,
+            "c",
+            0.0045871559633027525,
+            0.29357798165137616,
+            0.0045871559633027525,
+            0.5412844036697247,
+            -0.12385321100917432,
+            0.676605504587156
+        ],
+        [
+            "M",
+            0.25,
+            0.1628440366972477,
+            "c",
+            0.07697247706422018,
+            -0.008073394495412844,
+            0.37889908256880733,
+            -0.03458715596330275,
+            0.45972477064220185,
+            -0.041926605504587156,
+            "c",
+            0.0526605504587156,
+            -0.0047706422018348625,
+            0.06990825688073395,
+            -0.0017431192660550458,
+            0.07009174311926605,
+            0.0544954128440367,
+            "c",
+            0.0002752293577981651,
+            0.08834862385321102,
+            0,
+            0.5851376146788991,
+            0,
+            0.6342201834862385,
+            "c",
+            0,
+            0.11238532110091744,
+            -0.05733944954128441,
+            0.03669724770642202,
+            -0.08100917431192661,
+            0.013027522935779816
+        ],
+        [
+            "M",
+            0.3460550458715596,
+            0.30715596330275224,
+            "c",
+            0.013027522935779816,
+            0.004128440366972477,
+            0.03688073394495413,
+            0.0034862385321100917,
+            0.04990825688073395,
+            0.002477064220183486,
+            "c",
+            0.042201834862385317,
+            -0.0032110091743119264,
+            0.17275229357798164,
+            -0.023211009174311924,
+            0.22486238532110092,
+            -0.02522935779816514,
+            "c",
+            0.02165137614678899,
+            -0.0008256880733944953,
+            0.034678899082568805,
+            0.0007339449541284404,
+            0.045504587155963304,
+            0.0025688073394495416
+        ],
+        [
+            "M",
+            0.4928440366972477,
+            0.19651376146788993,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.011467889908256881,
+            0.02018348623853211,
+            0.011467889908256881,
+            0.032018348623853214,
+            "c",
+            0,
+            0.03981651376146789,
+            0.0006422018348623854,
+            0.1544954128440367,
+            0.0006422018348623854,
+            0.20752293577981654
+        ],
+        [
+            "M",
+            0.32403669724770645,
+            0.4541284403669725,
+            "c",
+            0.01889908256880734,
+            0.0034862385321100917,
+            0.042477064220183484,
+            0.0022935779816513763,
+            0.061467889908256884,
+            0.0006422018348623854,
+            "c",
+            0.0736697247706422,
+            -0.006330275229357797,
+            0.14513761467889907,
+            -0.01651376146788991,
+            0.24642201834862384,
+            -0.022752293577981652,
+            "c",
+            0.02128440366972477,
+            -0.0012844036697247708,
+            0.043486238532110096,
+            -0.002018348623853211,
+            0.06467889908256881,
+            0.0011926605504587156
+        ],
+        [
+            "M",
+            0.36587155963302753,
+            0.5699082568807339,
+            "c",
+            0.0074311926605504595,
+            0.006788990825688073,
+            0.013119266055045872,
+            0.019908256880733943,
+            0.014862385321100919,
+            0.029908256880733942,
+            "c",
+            0.007706422018348624,
+            0.04568807339449542,
+            0.013761467889908258,
+            0.08587155963302752,
+            0.02146788990825688,
+            0.13394495412844037,
+            "c",
+            0.001559633027522936,
+            0.009816513761467891,
+            0.0032110091743119264,
+            0.019908256880733943,
+            0.004954128440366972,
+            0.030458715596330274
+        ],
+        [
+            "M",
+            0.38853211009174315,
+            0.5894495412844036,
+            "c",
+            0.05467889908256881,
+            -0.008440366972477065,
+            0.1426605504587156,
+            -0.020825688073394497,
+            0.191651376146789,
+            -0.02587155963302752,
+            "c",
+            0.030091743119266053,
+            -0.003119266055045872,
+            0.04477064220183486,
+            0.011009174311926604,
+            0.04027522935779816,
+            0.03541284403669725,
+            "c",
+            -0.006605504587155963,
+            0.03577981651376147,
+            -0.015045871559633026,
+            0.07403669724770642,
+            -0.02660550458715596,
+            0.1155045871559633
+        ],
+        [
+            "M",
+            0.4142201834862385,
+            0.7401834862385321,
+            "c",
+            0.031743119266055046,
+            -0.004220183486238533,
+            0.10743119266055047,
+            -0.010458715596330274,
+            0.16376146788990828,
+            -0.013944954128440367,
+            "c",
+            0.012385321100917432,
+            -0.0007339449541284404,
+            0.023577981651376145,
+            -0.0012844036697247708,
+            0.032844036697247704,
+            -0.0014678899082568807
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Counter",
+                    "meaning": "1. counter for laps or circuits "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. perimeter Mathematics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. Zhou dynasty (of China; approx. 1046-256 BCE); Chou dynasty Historical termその衛星は地球の軌道を１０周した。The satellite made 10 orbits of the earth."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Zhou Dynasty The Zhou Dynasty (1046–256 BC) was a Chinese dynasty that... Read more"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "1. counter for laps or circuits "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. perimeter Mathematics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. Zhou dynasty (of China; approx. 1046-256 BCE); Chou dynasty Historical termその衛星は地球の軌道を１０周した。The satellite made 10 orbits of the earth."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Zhou Dynasty The Zhou Dynasty (1046–256 BC) was a Chinese dynasty that... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "衛星",
+                            "えいせい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "地球の",
+                            "ちきゅう"
+                        ],
+                        [
+                            "軌道",
+                            "きどう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "周",
+                            "しゅう"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "The satellite made 10 orbits of the earth."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "まわ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. circumference; girth See also 回り まわり"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. surroundings; neighbourhood; neighborhood; vicinity 周りを見渡しなさい。Look about you."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. people surrounding oneself; surrounding circumstances 彼は多くの点で周りの人と違う。He is different from the people around him."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. circumference; girth See also 回り まわり"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. surroundings; neighbourhood; neighborhood; vicinity 周りを見渡しなさい。Look about you."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. people surrounding oneself; surrounding circumstances 彼は多くの点で周りの人と違う。He is different from the people around him."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "周り",
+                            "まわ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "見渡し",
+                            "みわた"
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "Look about you."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "多く",
+                            "おお"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "点",
+                            "てん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "周り",
+                            "まわ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "違う",
+                            "ちが"
+                        ]
+                    ],
+                    "translation": "He is different from the people around him."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "囲",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. surroundings; environs 生活のしかたを周囲の状況に合わせたらどうだい。Why don't you adapt your way of life to circumstances?"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. circumference この木は周囲３メートルある。This tree measures three meters around."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. surroundings; environs 生活のしかたを周囲の状況に合わせたらどうだい。Why don't you adapt your way of life to circumstances?"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. circumference この木は周囲３メートルある。This tree measures three meters around."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "生活",
+                            "せいかつ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "しかた",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "周囲",
+                            "しゅうい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "状況",
+                            "じょうきょう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "合わせたら",
+                            "あ"
+                        ],
+                        [
+                            "どう",
+                            null
+                        ],
+                        [
+                            "だい",
+                            null
+                        ]
+                    ],
+                    "translation": "Why don't you adapt your way of life to circumstances?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "木",
+                            "き"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "周囲",
+                            "しゅうい"
+                        ],
+                        [
+                            "メートル",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ]
+                    ],
+                    "translation": "This tree measures three meters around."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "慌",
+                    "あわ"
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to become confused (disconcerted, disorganized, disorganised); to be flustered; to panic その質問で彼はすっかりあわてた。The question threw him off his balance."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to hurry; to rush; to hasten usu. 慌てて"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "周章てる 【あわてる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "周章てる: Rarely-used kanji form."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to become confused (disconcerted, disorganized, disorganised); to be flustered; to panic その質問で彼はすっかりあわてた。The question threw him off his balance."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to hurry; to rush; to hasten usu. 慌てて"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "周章てる 【あわてる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "周章てる: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "質問",
+                            "しつもん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "すっかり",
+                            null
+                        ],
+                        [
+                            "あわてた",
+                            null
+                        ]
+                    ],
+                    "translation": "The question threw him off his balance."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "辺",
+                    "へん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. circumference; outskirts; environs; around; in the area of; in the vicinity of 北極圏とは北極周辺の地域の事である。The Arctic is the area round the North Pole."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (computer) peripheral Computing"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. circumference; outskirts; environs; around; in the area of; in the vicinity of 北極圏とは北極周辺の地域の事である。The Arctic is the area round the North Pole."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (computer) peripheral Computing"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "北極圏",
+                            "ほっきょくけん"
+                        ],
+                        [
+                            "とは",
+                            null
+                        ],
+                        [
+                            "北極",
+                            "ほっきょく"
+                        ],
+                        [
+                            "周辺",
+                            "しゅうへん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "地域",
+                            "ちいき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "事",
+                            "こと"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "The Arctic is the area round the North Pole."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "波",
+                    "は"
+                ],
+                [
+                    "数",
+                    "すう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. frequency (esp. of waveforms) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Frequency Frequency is the number of occurrences of a repeating eve... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. frequency (esp. of waveforms) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Frequency Frequency is the number of occurrences of a repeating eve... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "年",
+                    "ねん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. whole year; entire year "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. n-th year anniversary "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. whole year; entire year "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. n-th year anniversary "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. common knowledge; being well-known; making (something) well-known "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. common knowledge; being well-known; making (something) well-known "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "到",
+                    "とう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. careful; thorough; meticulous; scrupulous "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. careful; thorough; meticulous; scrupulous "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cycle; period "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. cycle; period "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "回",
+                    "まわ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "ど",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. circuitous; roundabout; indirect "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "回り諄い 【まわりくどい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "回り諄い: Rarely-used kanji form."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. circuitous; roundabout; indirect "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "回り諄い 【まわりくどい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "回り諄い: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. periodic; cyclic "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. periodic; cyclic "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "遊",
+                    "ゆう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. (circular) tour; round trip; excursion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "波",
+                    "は"
+                ],
+                [
+                    "数",
+                    "すう"
+                ],
+                [
+                    "変",
+                    "へん"
+                ],
+                [
+                    "調",
+                    "ちょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. frequency modulation; FM "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Frequency modulation In telecommunications and signal processing, frequency mo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "辺",
+                    "へん"
+                ],
+                [
+                    "機",
+                    "き"
+                ],
+                [
+                    "器",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. peripheral; peripheral device; accessory "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Peripheral A peripheral is a device connected to a host computer, bu... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "波",
+                    "は"
+                ],
+                [
+                    "数",
+                    "すう"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "割",
+                    "かつ"
+                ],
+                [
+                    "多",
+                    "た"
+                ],
+                [
+                    "元",
+                    "げん"
+                ],
+                [
+                    "接",
+                    "せつ"
+                ],
+                [
+                    "続",
+                    "ぞく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. frequency division multiple access; FDMA Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Frequency-division multiple access Frequency Division Multiple Access or FDMA is a channel a... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "極",
+                    "きょく"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. circumpolar star Astronomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Circumpolar star A circumpolar star is a star that, as viewed from a given... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "表",
+                    "ひょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. periodic table "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Periodic table The periodic table is a tabular display of the chemical e... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "波",
+                    "は"
+                ],
+                [
+                    "数",
+                    "すう"
+                ],
+                [
+                    "変",
+                    "へん"
+                ],
+                [
+                    "換",
+                    "かん"
+                ],
+                [
+                    "所",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. frequency-changer station; frequency converter station "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Shuuhasuuhenkanjo "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "天",
+                    "てん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the full scope of the heavens; 360 degrees; one full revolution of Earth "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. twelve years; one full cycle of the Chinese calendar "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "周",
+                "あまね"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name, Family or surname",
+                    "meaning": "1. Amane "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "周",
+                "いたる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Itaru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "周",
+                "おさむ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Osamu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "遠",
+                    "とお"
+                ],
+                [
+                    "回",
+                    "まわ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. detour; roundabout way "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "周",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. one round; one circuit; one revolution; one lap; one turn "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "身",
+                    "み"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "回",
+                    "まわ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. one's personal belongings; one's vicinity; one's daily life; everyday necessities "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "身のまわり 【みのまわり】、身の周り 【みのまわり】、身の廻り 【みのまわり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "身の廻り: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "円",
+                    "えん"
+                ],
+                [
+                    "周",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. circumference "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "世",
+                    "せ"
+                ],
+                [
+                    "界",
+                    "かい"
+                ],
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "周",
+                    "しゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. round-the-world trip; circumnavigation; globe-trotting "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Circumnavigation Circumnavigation – literally, \"navigation of a circumfere... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "世",
+                    "せ"
+                ],
+                [
+                    "界",
+                    "かい"
+                ],
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "旅",
+                    "りょ"
+                ],
+                [
+                    "行",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. round-the-world trip; world cruise "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "意",
+                    "い"
+                ],
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "到",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. very careful; thoroughly prepared Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "月",
+                    "げっ"
+                ],
+                [
+                    "経",
+                    "けい"
+                ],
+                [
+                    "周",
+                    "しゅう"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. menstrual cycle "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1358 @@
+{
+    "kanji": "醒",
+    "grade": 10,
+    "jlpt": null,
+    "meanings": [
+        "awake",
+        "be disillusioned",
+        "sober up"
+    ],
+    "kun": [
+        "さ.ます",
+        "さ.める"
+    ],
+    "on": [
+        "セイ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.10357798165137613,
+            0.18853211009174312,
+            "c",
+            0.018990825688073393,
+            0.008532110091743119,
+            0.037981651376146786,
+            0.0081651376146789,
+            0.05825688073394495,
+            0.006330275229357797,
+            "c",
+            0.05577981651376147,
+            -0.005045871559633028,
+            0.13155963302752294,
+            -0.013853211009174311,
+            0.17752293577981654,
+            -0.017155963302752295,
+            "c",
+            0.0181651376146789,
+            -0.001559633027522936,
+            0.03642201834862385,
+            -0.001559633027522936,
+            0.054587155963302755,
+            0
+        ],
+        [
+            "M",
+            0.12,
+            0.32807339449541284,
+            "c",
+            0.007064220183486239,
+            0.007064220183486239,
+            0.009357798165137614,
+            0.019357798165137614,
+            0.009357798165137614,
+            0.031192660550458714,
+            "c",
+            0,
+            0.006513761467889908,
+            0,
+            0.25073394495412843,
+            0,
+            0.38146788990825686,
+            "c",
+            0,
+            0.044954128440366975,
+            0,
+            0.07642201834862386,
+            0,
+            0.08027522935779817
+        ],
+        [
+            "M",
+            0.13788990825688072,
+            0.3395412844036697,
+            "c",
+            0.017064220183486238,
+            -0.0009174311926605505,
+            0.1511926605504587,
+            -0.015504587155963302,
+            0.19596330275229357,
+            -0.020917431192660547,
+            "c",
+            0.03642201834862385,
+            -0.004403669724770642,
+            0.04660550458715596,
+            0.013853211009174311,
+            0.04660550458715596,
+            0.04844036697247707,
+            "c",
+            -0.00009174311926605505,
+            0.07761467889908258,
+            -0.0005504587155963302,
+            0.44137614678899084,
+            -0.0005504587155963302,
+            0.4473394495412844
+        ],
+        [
+            "M",
+            0.21155963302752293,
+            0.2136697247706422,
+            "c",
+            0.005229357798165137,
+            0.007706422018348624,
+            0.006422018348623853,
+            0.014678899082568808,
+            0.005596330275229358,
+            0.02981651376146789,
+            "c",
+            -0.007339449541284404,
+            0.1401834862385321,
+            -0.017614678899082567,
+            0.21871559633027524,
+            -0.054587155963302755,
+            0.2894495412844037
+        ],
+        [
+            "M",
+            0.2761467889908257,
+            0.20770642201834863,
+            "c",
+            0.007522935779816513,
+            0.007522935779816513,
+            0.008715596330275228,
+            0.02165137614678899,
+            0.008715596330275228,
+            0.033211009174311926,
+            "c",
+            0,
+            0.0528440366972477,
+            0.00045871559633027525,
+            0.15532110091743118,
+            0.00045871559633027525,
+            0.2205504587155963,
+            "c",
+            0,
+            0.04422018348623853,
+            0.008899082568807339,
+            0.05229357798165138,
+            0.03954128440366972,
+            0.05229357798165138,
+            "c",
+            0.024770642201834864,
+            0,
+            0.041834862385321095,
+            -0.001926605504587156,
+            0.04422018348623853,
+            -0.00834862385321101
+        ],
+        [
+            "M",
+            0.1389908256880734,
+            0.6452293577981651,
+            "c",
+            0.02642201834862385,
+            0,
+            0.2026605504587156,
+            -0.01,
+            0.23256880733944957,
+            -0.01
+        ],
+        [
+            "M",
+            0.14009174311926606,
+            0.7893577981651376,
+            "c",
+            0.05376146788990826,
+            -0.004678899082568807,
+            0.1626605504587156,
+            -0.007247706422018349,
+            0.22908256880733943,
+            -0.0076146788990825685
+        ],
+        [
+            "M",
+            0.4760550458715596,
+            0.1656880733944954,
+            "c",
+            0.007155963302752294,
+            0.007155963302752294,
+            0.010458715596330274,
+            0.016055045871559634,
+            0.011743119266055046,
+            0.022477064220183487,
+            "c",
+            0.004678899082568807,
+            0.024587155963302753,
+            0.016605504587155963,
+            0.10119266055045871,
+            0.024587155963302753,
+            0.1524770642201835,
+            "c",
+            0.003119266055045872,
+            0.020275229357798165,
+            0.005596330275229358,
+            0.036513761467889906,
+            0.006880733944954129,
+            0.04422018348623853
+        ],
+        [
+            "M",
+            0.49577981651376146,
+            0.17238532110091742,
+            "c",
+            0.02743119266055046,
+            -0.0021100917431192663,
+            0.21770642201834864,
+            -0.020550458715596333,
+            0.27477064220183484,
+            -0.02587155963302752,
+            "c",
+            0.03779816513761468,
+            -0.0034862385321100917,
+            0.05174311926605504,
+            0.00963302752293578,
+            0.04477064220183486,
+            0.048348623853211,
+            "c",
+            -0.00908256880733945,
+            0.05064220183486238,
+            -0.008990825688073394,
+            0.10743119266055047,
+            -0.02128440366972477,
+            0.1642201834862385
+        ],
+        [
+            "M",
+            0.5076146788990825,
+            0.26880733944954127,
+            "c",
+            0.049724770642201835,
+            -0.005045871559633028,
+            0.23669724770642203,
+            -0.021100917431192658,
+            0.2920183486238532,
+            -0.02018348623853211
+        ],
+        [
+            "M",
+            0.5280733944954129,
+            0.3588990825688073,
+            "c",
+            0.07055045871559633,
+            -0.005688073394495413,
+            0.1798165137614679,
+            -0.013761467889908258,
+            0.2584403669724771,
+            -0.017706422018348624
+        ],
+        [
+            "M",
+            0.5371559633027523,
+            0.45348623853211006,
+            "c",
+            0,
+            0.009816513761467891,
+            -0.0021100917431192663,
+            0.017522935779816513,
+            -0.003853211009174312,
+            0.026055045871559632,
+            "C",
+            0.5137614678899083,
+            0.5321100917431193,
+            0.48853211009174313,
+            0.588256880733945,
+            0.4446788990825688,
+            0.656880733944954
+        ],
+        [
+            "M",
+            0.5313761467889908,
+            0.556697247706422,
+            "c",
+            0.015963302752293577,
+            0.001926605504587156,
+            0.031926605504587154,
+            0.003669724770642202,
+            0.047889908256880734,
+            0.0022935779816513763,
+            "c",
+            0.05486238532110092,
+            -0.005045871559633028,
+            0.15000000000000002,
+            -0.01651376146788991,
+            0.20495412844036698,
+            -0.02220183486238532,
+            "c",
+            0.015963302752293577,
+            -0.0016513761467889907,
+            0.03128440366972477,
+            -0.003669724770642202,
+            0.04688073394495413,
+            -0.0005504587155963302
+        ],
+        [
+            "M",
+            0.6447706422018349,
+            0.40724770642201835,
+            "c",
+            0.010091743119266056,
+            0.010091743119266056,
+            0.012110091743119267,
+            0.023944954128440367,
+            0.012110091743119267,
+            0.03972477064220183,
+            "c",
+            0,
+            0.009357798165137614,
+            -0.0009174311926605505,
+            0.32339449541284404,
+            -0.0009174311926605505,
+            0.3821100917431193
+        ],
+        [
+            "M",
+            0.5049541284403669,
+            0.6941284403669724,
+            "c",
+            0.01798165137614679,
+            0.004311926605504587,
+            0.036238532110091745,
+            0.006422018348623853,
+            0.05467889908256881,
+            0.004954128440366972,
+            "c",
+            0.05504587155963303,
+            -0.004128440366972477,
+            0.14220183486238533,
+            -0.009908256880733945,
+            0.19724770642201836,
+            -0.014495412844036697,
+            "c",
+            0.0163302752293578,
+            -0.0013761467889908255,
+            0.03220183486238532,
+            -0.0028440366972477065,
+            0.0481651376146789,
+            0.00009174311926605505
+        ],
+        [
+            "M",
+            0.4392660550458716,
+            0.846788990825688,
+            "c",
+            0.026972477064220183,
+            0.005688073394495413,
+            0.05385321100917431,
+            0.004678899082568807,
+            0.08137614678899081,
+            0.0021100917431192663,
+            "C",
+            0.6089908256880734,
+            0.8408256880733945,
+            0.7155963302752294,
+            0.8348623853211009,
+            0.7924770642201835,
+            0.8326605504587157,
+            "c",
+            0.03422018348623853,
+            -0.0010091743119266055,
+            0.06825688073394495,
+            0.0025688073394495416,
+            0.1020183486238532,
+            0.009724770642201836
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "覚",
+                    "さ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to wake; to wake up その叫び声で私は眠りからさめた。The cry roused me from my sleep."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to become sober; to sober up; to regain consciousness (e.g. after anaesthesia) けが人は麻酔から覚めた後痛みで泣きわめいた。The injured person wailed with pain after recovering from the anaesthesia."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to come to one's senses; to be disillusioned 彼の音楽熱はいつまでもさめない。Music is his abiding passion."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "醒める 【さめる】"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to wake; to wake up その叫び声で私は眠りからさめた。The cry roused me from my sleep."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to become sober; to sober up; to regain consciousness (e.g. after anaesthesia) けが人は麻酔から覚めた後痛みで泣きわめいた。The injured person wailed with pain after recovering from the anaesthesia."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to come to one's senses; to be disillusioned 彼の音楽熱はいつまでもさめない。Music is his abiding passion."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "醒める 【さめる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "叫び声",
+                            "さけびごえ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "眠り",
+                            "ねむ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "さめた",
+                            null
+                        ]
+                    ],
+                    "translation": "The cry roused me from my sleep."
+                },
+                {
+                    "sentence": [
+                        [
+                            "けが人",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "麻酔",
+                            "ますい"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "覚めた",
+                            "さ"
+                        ],
+                        [
+                            "後",
+                            "あと"
+                        ],
+                        [
+                            "痛み",
+                            "いた"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "泣きわめいた",
+                            "なきわめ"
+                        ]
+                    ],
+                    "translation": "The injured person wailed with pain after recovering from the anaesthesia."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "音楽",
+                            "おんがく"
+                        ],
+                        [
+                            "熱",
+                            "ねつ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いつまでも",
+                            null
+                        ],
+                        [
+                            "さめない",
+                            null
+                        ]
+                    ],
+                    "translation": "Music is his abiding passion."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "さ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to awaken; to arouse from sleep その物音が私を眠りから覚まさせた。The noise awoke me from my sleep."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to bring to one's senses; to disabuse (someone of) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to sober up 酔いを覚ますために散歩に出かけた。I went for a walk to try to sober up."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to dampen; to throw a damper on; to spoil Only applies to 醒ます, See also 冷ます さます"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "醒ます 【さます】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to awaken; to arouse from sleep その物音が私を眠りから覚まさせた。The noise awoke me from my sleep."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to bring to one's senses; to disabuse (someone of) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to sober up 酔いを覚ますために散歩に出かけた。I went for a walk to try to sober up."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to dampen; to throw a damper on; to spoil Only applies to 醒ます, See also 冷ます さます"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "醒ます 【さます】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "物音",
+                            "ものおと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "眠り",
+                            "ねむ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "覚まさせた",
+                            "さ"
+                        ]
+                    ],
+                    "translation": "The noise awoke me from my sleep."
+                },
+                {
+                    "sentence": [
+                        [
+                            "酔い",
+                            "よ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "覚ます",
+                            "さ"
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "散歩",
+                            "さんぽ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "出かけた",
+                            "で"
+                        ]
+                    ],
+                    "translation": "I went for a walk to try to sober up."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "冷",
+                    "さ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "ぬ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Pre-noun adjectival (rentaishi)",
+                    "meaning": "1. lingering (usu. feeling, emotion, etc.); continuing (to); still (...) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚めやらぬ 【さめやらぬ】、醒めやらぬ 【さめやらぬ】、冷め遣らぬ 【さめやらぬ】、覚め遣らぬ 【さめやらぬ】、醒め遣らぬ 【さめやらぬ】"
+                },
+                {
+                    "type": "Pre-noun adjectival (rentaishi)",
+                    "meaning": "1. lingering (usu. feeling, emotion, etc.); continuing (to); still (...) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚めやらぬ 【さめやらぬ】、醒めやらぬ 【さめやらぬ】、冷め遣らぬ 【さめやらぬ】、覚め遣らぬ 【さめやらぬ】、醒め遣らぬ 【さめやらぬ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "醒",
+                    "せい"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. awakening; waking up; opening one's eyes Archaic, See also 覚醒"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "醒",
+                    null
+                ],
+                [
+                    "井",
+                    null
+                ],
+                [
+                    "宿",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Samegai-juku Samegai-juku was the sixty-first of the sixty-nine statio... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "醒",
+                "すみお"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sumio "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sumitomo "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "醒ヶ井駅",
+                "さめがいえき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Train station",
+                    "meaning": "1. Samegai Station "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Samegai Station Samegai Station is a train station in Maibara, Shiga Pref... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "目",
+                    "め"
+                ],
+                [
+                    "覚",
+                    "ざ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to wake up; to awake "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to awaken to (instinct, ability, perception, etc.); to become aware of; to become conscious of; to realize "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to come to one's senses "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "目ざめる 【めざめる】、目醒める 【めざめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "目",
+                    "め"
+                ],
+                [
+                    "覚",
+                    "ざ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. remarkable; striking; brilliant; splendid; spectacular; wonderful; conspicuous; outstanding; amazing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "目覚しい 【めざましい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "かく"
+                ],
+                [
+                    "醒",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. waking up; awakening; arousal; revival "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. disillusion; disillusionment; awakening "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "目",
+                    "め"
+                ],
+                [
+                    "覚",
+                    "ざ"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. waking "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "目ざめ 【めざめ】、目醒め 【めざめ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "興",
+                    "きょう"
+                ],
+                [
+                    "ざ",
+                    null
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi), Suru verb, Intransitive verb",
+                    "meaning": "1. spoiled fun; loss of interest; damper (e.g. on the party); wet blanket; turn-off "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "興醒め 【きょうざめ】、興冷め 【きょうざめ】、興覚め 【きょうざめ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "興冷め: Irregular kanji usage. 興覚め: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "かく"
+                ],
+                [
+                    "醒",
+                    "せい"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stimulant (e.g. psychoactive drugs like methamphetamine, ritalin, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Stimulant Stimulants (also referred to as psychostimulants) are psy... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚せい剤 【かくせいざい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "目",
+                    "め"
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "覚",
+                    "さ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to wake up; to awake; to perk up; to snap out (of a day dream, etc.) See also 目覚める"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "2. to awaken (to the truth, etc.); to come to a realization; to come to one's senses "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "目がさめる 【めがさめる】、目が醒める 【めがさめる】、眼が覚める 【めがさめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "覚",
+                    "ざ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb",
+                    "meaning": "1. to wake up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝醒める 【ねざめる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "寝醒める: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "警",
+                    "けい"
+                ],
+                [
+                    "醒",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. warning "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "酔",
+                    "よ"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "覚",
+                    "ざ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sobering up; method of sobering up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "酔い醒まし 【よいざまし】、酔いざまし 【よいざまし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "かく"
+                ],
+                [
+                    "醒",
+                    "せい"
+                ],
+                [
+                    "作",
+                    "さ"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stimulant effect (e.g. caffeine) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "酔",
+                    "よ"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "覚",
+                    "ざ"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. recovering from intoxication; sobering up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "酔い醒め 【よいざめ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "興",
+                    "きょう"
+                ],
+                [
+                    "ざ",
+                    null
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to lose interest; to be dampened (of enjoyment, interest, etc.); to fall flat; to turn sour "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "興醒める 【きょうざめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "半",
+                    "はん"
+                ],
+                [
+                    "醒",
+                    "せい"
+                ],
+                [
+                    "半",
+                    "はん"
+                ],
+                [
+                    "睡",
+                    "すい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. half awake and half asleep Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "かく"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ],
+                [
+                    "取",
+                    "とり"
+                ],
+                [
+                    "締",
+                    "しまり"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Stimulants Control Act Law"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚醒剤取締法 【かくせいざいとりしまりほう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "半",
+                    "はん"
+                ],
+                [
+                    "睡",
+                    "すい"
+                ],
+                [
+                    "半",
+                    "はん"
+                ],
+                [
+                    "醒",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. half asleep and half awake Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "興",
+                    "きょう"
+                ],
+                [
+                    "ざ",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. kill-joy; wet-blanket; spoiling the fun "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "興醒まし 【きょうざまし】、興醒し 【きょうざまし】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "興醒し: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

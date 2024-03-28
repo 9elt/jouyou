@@ -1,0 +1,1246 @@
+{
+    "kanji": "弄",
+    "grade": 10,
+    "jlpt": null,
+    "meanings": [
+        "play with",
+        "tamper",
+        "trifle with"
+    ],
+    "kun": [
+        "いじく.る",
+        "ろう.する",
+        "いじ.る",
+        "ひねく.る",
+        "たわむ.れる",
+        "もてあそ.ぶ"
+    ],
+    "on": [
+        "ロウ",
+        "ル"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.22935779816513763,
+            0.16293577981651378,
+            "c",
+            0.010275229357798166,
+            0.004036697247706422,
+            0.0436697247706422,
+            0.0011009174311926604,
+            0.05403669724770642,
+            0.0002752293577981651,
+            "c",
+            0.11348623853211008,
+            -0.009541284403669725,
+            0.32779816513761467,
+            -0.028715596330275227,
+            0.44394495412844037,
+            -0.032844036697247704,
+            "c",
+            0.015871559633027523,
+            -0.0005504587155963302,
+            0.03018348623853211,
+            0.0008256880733944953,
+            0.04330275229357798,
+            0.004128440366972477
+        ],
+        [
+            "M",
+            0.4842201834862385,
+            0.1559633027522936,
+            "c",
+            0.010550458715596329,
+            0.013119266055045872,
+            0.010550458715596329,
+            0.021009174311926605,
+            0.010550458715596329,
+            0.03155963302752293,
+            "c",
+            0,
+            0.07357798165137615,
+            -0.00009174311926605505,
+            0.1165137614678899,
+            -0.00009174311926605505,
+            0.2344954128440367
+        ],
+        [
+            "M",
+            0.27293577981651373,
+            0.29357798165137616,
+            "c",
+            0.008623853211009174,
+            0.005229357798165137,
+            0.03706422018348624,
+            0.0032110091743119264,
+            0.045871559633027525,
+            0.0022935779816513763,
+            "c",
+            0.09174311926605505,
+            -0.009174311926605505,
+            0.24541284403669725,
+            -0.022935779816513763,
+            0.3532110091743119,
+            -0.032293577981651375,
+            "c",
+            0.01073394495412844,
+            -0.0009174311926605505,
+            0.034403669724770644,
+            -0.0021100917431192663,
+            0.05045871559633028,
+            0.002477064220183486
+        ],
+        [
+            "M",
+            0.14908256880733944,
+            0.44486238532110095,
+            "c",
+            0.008440366972477065,
+            0.0029357798165137615,
+            0.05229357798165138,
+            0.001559633027522936,
+            0.06651376146788991,
+            0.00009174311926605505,
+            "c",
+            0.19954128440366972,
+            -0.020642201834862386,
+            0.3853211009174312,
+            -0.027522935779816515,
+            0.5986238532110092,
+            -0.034678899082568805,
+            "c",
+            0.022935779816513763,
+            -0.0007339449541284404,
+            0.05045871559633028,
+            0.004862385321100918,
+            0.06192660550458716,
+            0.00944954128440367
+        ],
+        [
+            "M",
+            0.1365137614678899,
+            0.6190825688073395,
+            "c",
+            0.013944954128440367,
+            0.004954128440366972,
+            0.039449541284403665,
+            0.0057798165137614675,
+            0.05339449541284404,
+            0.004954128440366972,
+            "c",
+            0.14495412844036698,
+            -0.00834862385321101,
+            0.45917431192660546,
+            -0.03458715596330275,
+            0.643211009174312,
+            -0.03880733944954129,
+            "c",
+            0.023211009174311924,
+            -0.0005504587155963302,
+            0.03715596330275229,
+            0.0023853211009174312,
+            0.048715596330275224,
+            0.004862385321100918
+        ],
+        [
+            "M",
+            0.37504587155963304,
+            0.481651376146789,
+            "c",
+            0.007064220183486239,
+            0.00944954128440367,
+            0.014311926605504588,
+            0.019357798165137614,
+            0.014311926605504588,
+            0.033211009174311926,
+            "c",
+            0,
+            0.15256880733944952,
+            -0.004036697247706422,
+            0.29935779816513763,
+            -0.21045871559633028,
+            0.3796330275229358
+        ],
+        [
+            "M",
+            0.6226605504587156,
+            0.46559633027522934,
+            "c",
+            0.01036697247706422,
+            0.009174311926605505,
+            0.01798165137614679,
+            0.020642201834862386,
+            0.01798165137614679,
+            0.0389908256880734,
+            "c",
+            0,
+            0.06192660550458716,
+            0,
+            0.36009174311926606,
+            -0.002018348623853211,
+            0.41743119266055045
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "弄",
+                    "いじ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to finger; to touch; to play with; to fiddle with; to toy with Usually written using kana aloneその鍵をいじるな！Don't play with that key!"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to make changes to; to tinker with; to tamper with Usually written using kana alone, Only applies to いじる書類は勝手にいじられた形跡があった。The documents were tampered with."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to dabble in; to do as a hobby; to play around with Usually written using kana alone, Only applies to いじる子供がおもちゃをカチャカチャいじっている。The kid is clanging away with his toy."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "4. to tease; to make fun of Usually written using kana alone, Colloquial, Only applies to いじる, See also いじめるポールはいつも女性の体を弄っている。Paul is always groping women."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "5. to grope; to feel around (in one's pocket, bag, etc.) Usually written using kana alone, Only applies to まさぐる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "弄る 【まさぐる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to finger; to touch; to play with; to fiddle with; to toy with Usually written using kana aloneその鍵をいじるな！Don't play with that key!"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to make changes to; to tinker with; to tamper with Usually written using kana alone, Only applies to いじる書類は勝手にいじられた形跡があった。The documents were tampered with."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to dabble in; to do as a hobby; to play around with Usually written using kana alone, Only applies to いじる子供がおもちゃをカチャカチャいじっている。The kid is clanging away with his toy."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "4. to tease; to make fun of Usually written using kana alone, Colloquial, Only applies to いじる, See also いじめるポールはいつも女性の体を弄っている。Paul is always groping women."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "5. to grope; to feel around (in one's pocket, bag, etc.) Usually written using kana alone, Only applies to まさぐる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "弄る 【まさぐる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "鍵",
+                            "かぎ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "いじる",
+                            null
+                        ],
+                        [
+                            "な",
+                            null
+                        ]
+                    ],
+                    "translation": "Don't play with that key!"
+                },
+                {
+                    "sentence": [
+                        [
+                            "書類",
+                            "しょるい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "勝手に",
+                            "かって"
+                        ],
+                        [
+                            "いじられた",
+                            null
+                        ],
+                        [
+                            "形跡",
+                            "けいせき"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あった",
+                            null
+                        ]
+                    ],
+                    "translation": "The documents were tampered with."
+                },
+                {
+                    "sentence": [
+                        [
+                            "子供",
+                            "こども"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "おもちゃ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "カチャカチャ",
+                            null
+                        ],
+                        [
+                            "いじっている",
+                            null
+                        ]
+                    ],
+                    "translation": "The kid is clanging away with his toy."
+                },
+                {
+                    "sentence": [
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いつも",
+                            null
+                        ],
+                        [
+                            "女性",
+                            "じょせい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "体",
+                            "からだ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "弄っている",
+                            "いじ"
+                        ]
+                    ],
+                    "translation": "Paul is always groping women."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "弄",
+                    "いじ"
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to finger; to tamper (with) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "弄る 【いじくる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "弄る: Irregular okurigana usage."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to finger; to tamper (with) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "弄る 【いじくる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "弄る: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "弄",
+                    "もてあそ"
+                ],
+                [
+                    "ぶ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "1. to play with (a toy, one's hair, etc.); to fiddle with 猫は生きたネズミをもて遊んでいた。The cat was playing with a live mouse."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "2. to toy with (one's emotions, etc.); to trifle with あなたは彼の気持ちを弄んではいけない。You should not trifle with his feelings."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "3. to do with something as one pleases 私は数奇な運命にもてあそばれてきた。I have lived a life of a puppet of fortune."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "4. to appreciate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "玩ぶ 【もてあそぶ】、翫ぶ 【もてあそぶ】、もて遊ぶ 【もてあそぶ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "翫ぶ: Rarely-used kanji form. もて遊ぶ: Irregular kanji usage."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "1. to play with (a toy, one's hair, etc.); to fiddle with 猫は生きたネズミをもて遊んでいた。The cat was playing with a live mouse."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "2. to toy with (one's emotions, etc.); to trifle with あなたは彼の気持ちを弄んではいけない。You should not trifle with his feelings."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "3. to do with something as one pleases 私は数奇な運命にもてあそばれてきた。I have lived a life of a puppet of fortune."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "4. to appreciate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "玩ぶ 【もてあそぶ】、翫ぶ 【もてあそぶ】、もて遊ぶ 【もてあそぶ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "翫ぶ: Rarely-used kanji form. もて遊ぶ: Irregular kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "猫",
+                            "ねこ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "生きた",
+                            "い"
+                        ],
+                        [
+                            "ネズミ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "もて遊んでいた",
+                            "もてあそ"
+                        ]
+                    ],
+                    "translation": "The cat was playing with a live mouse."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "気持ち",
+                            "きも"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "弄んで",
+                            "もてあそ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いけない",
+                            null
+                        ]
+                    ],
+                    "translation": "You should not trifle with his feelings."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "数奇な",
+                            "すうき"
+                        ],
+                        [
+                            "運命",
+                            "うんめい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "もてあそばれて",
+                            null
+                        ],
+                        [
+                            "きた",
+                            null
+                        ]
+                    ],
+                    "translation": "I have lived a life of a puppet of fortune."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "じ",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "回",
+                    "まわ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to fiddle with; to monkey around with Usually written using kana alone, See also いじり回す"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "弄くり回す 【いじくりまわす】、弄くりまわす 【いじくりまわす】、弄繰り回す 【いじくりまわす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "弄繰り回す: Irregular kanji usage."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to fiddle with; to monkey around with Usually written using kana alone, See also いじり回す"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "弄くり回す 【いじくりまわす】、弄くりまわす 【いじくりまわす】、弄繰り回す 【いじくりまわす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "弄繰り回す: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "じ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "回",
+                    "まわ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to tinker with; to fumble with; to fiddle with; to twiddle "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "弄り回す 【いじりまわす】、弄りまわす 【いじりまわす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to tinker with; to fumble with; to fiddle with; to twiddle "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "弄り回す 【いじりまわす】、弄りまわす 【いじりまわす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "弄",
+                    "ろう"
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suru verb - special class",
+                    "meaning": "1. to play with; to joke; to use (esp. trick, sophistry, etc.) "
+                },
+                {
+                    "type": "Suru verb - special class",
+                    "meaning": "2. to deride; to scoff at; to make fun of "
+                },
+                {
+                    "type": "Suru verb - special class",
+                    "meaning": "1. to play with; to joke; to use (esp. trick, sophistry, etc.) "
+                },
+                {
+                    "type": "Suru verb - special class",
+                    "meaning": "2. to deride; to scoff at; to make fun of "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "弄",
+                    "ろう"
+                ],
+                [
+                    "火",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. playing with fire See also 火遊び"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "弄",
+                    "もてあそ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "物",
+                    "もの"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. plaything; toy "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "もてあそび物 【もてあそびもの】、弄物 【もてあそびもの】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "弄物: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. plaything; toy "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "もてあそび物 【もてあそびもの】、弄物 【もてあそびもの】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "弄物: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "弄",
+                    "ろう"
+                ],
+                [
+                    "花",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. gambling with hanafuda Hanafuda, See also 花札"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "弄",
+                    "いら"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to touch; to finger; to play with Usually written using kana alone, See also いじる, in Western Japanese dialects"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to tease; to make fun of Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "綺う 【いらう】"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to touch; to finger; to play with Usually written using kana alone, See also いじる, in Western Japanese dialects"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to tease; to make fun of Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "綺う 【いらう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "弄",
+                    "いじ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. meddling; fumbling; fondling; playing around with something Usually written using kana alone"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "弄月",
+                "ろうげつ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Rougetsu "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Rougetsushi "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Rougetsugawa "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "弄",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. having at one's mercy; trifling with; toying with; playing with; making a fool of; leading around by the nose; tossing about (a ship); buffeting "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飜弄 【ほんろう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "飜弄: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "愚",
+                    "ぐ"
+                ],
+                [
+                    "弄",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. mockery; derision; ridicule "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庭",
+                    "にわ"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "じ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gardening; puttering around in the garden "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "庭弄り 【にわいじり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "手",
+                    "て"
+                ],
+                [
+                    "弄",
+                    "まさぐ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. playing with something with one's fingers "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. searching with one's fingers (e.g. in the dark) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "手まさぐり 【てまさぐり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泥",
+                    "どろ"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "じ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. playing with mud "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "泥弄り 【どろいじり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "土",
+                    "つち"
+                ],
+                [
+                    "弄",
+                    "いじ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. playing with dirt See also 土遊び"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. gardening; farming (as a hobby) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "土いじり 【つちいじり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "玩",
+                    "がん"
+                ],
+                [
+                    "弄",
+                    "ろう"
+                ],
+                [
+                    "品",
+                    "ひん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. toy Obsolete term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "火",
+                    "ひ"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "じ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. playing with fire Rare term, See also 火遊び"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "火弄り 【ひいじり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘲",
+                    "ちょう"
+                ],
+                [
+                    "弄",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. scorn; mockery; ridicule "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "客",
+                    "きゃく"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "じ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. involving the audience (by talking to them, bringing them on stage, etc.) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "客弄り 【きゃくいじり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "玩",
+                    "がん"
+                ],
+                [
+                    "弄",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. toying with; playing with "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. making a plaything of (someone); treating as a plaything; trifling with "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "翫弄 【がんろう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "翫弄: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "戯",
+                    "ぎ"
+                ],
+                [
+                    "弄",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. teasing; toying with someone's emotions "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

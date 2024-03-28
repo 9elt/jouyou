@@ -1,0 +1,968 @@
+{
+    "kanji": "裾",
+    "grade": 10,
+    "jlpt": null,
+    "meanings": [
+        "cuff",
+        "hem",
+        "foot of mountain"
+    ],
+    "kun": [
+        "すそ"
+    ],
+    "on": [
+        "キョ",
+        "コ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.21633027522935777,
+            0.13302752293577982,
+            "c",
+            0.024311926605504585,
+            0.02,
+            0.0555045871559633,
+            0.05045871559633028,
+            0.07110091743119266,
+            0.08486238532110092
+        ],
+        [
+            "M",
+            0.12568807339449542,
+            0.31293577981651377,
+            "c",
+            0.02073394495412844,
+            0.006972477064220183,
+            0.04146788990825688,
+            0.0074311926605504595,
+            0.06220183486238532,
+            0.0016513761467889907,
+            "c",
+            0.04568807339449542,
+            -0.010642201834862385,
+            0.13348623853211009,
+            -0.034770642201834866,
+            0.15018348623853212,
+            -0.03954128440366972,
+            "c",
+            0.025137614678899085,
+            -0.007155963302752294,
+            0.04018348623853211,
+            0.010458715596330274,
+            0.026788990825688072,
+            0.030825688073394496,
+            "C",
+            0.2941284403669725,
+            0.4132110091743119,
+            0.19935779816513763,
+            0.5357798165137615,
+            0.0963302752293578,
+            0.6169724770642202
+        ],
+        [
+            "M",
+            0.26146788990825687,
+            0.4711926605504587,
+            "c",
+            0.008623853211009174,
+            0.008623853211009174,
+            0.01165137614678899,
+            0.019633027522935782,
+            0.01165137614678899,
+            0.03339449541284404,
+            "c",
+            0,
+            0.06192660550458716,
+            0.0002752293577981651,
+            0.22871559633027522,
+            0.00045871559633027525,
+            0.31880733944954126,
+            "c",
+            0,
+            0.02926605504587156,
+            0.00009174311926605505,
+            0.05045871559633028,
+            0.00009174311926605505,
+            0.05733944954128441
+        ],
+        [
+            "M",
+            0.3853211009174312,
+            0.4187155963302752,
+            "c",
+            0.0007339449541284404,
+            0.01110091743119266,
+            -0.002201834862385321,
+            0.02073394495412844,
+            -0.008899082568807339,
+            0.028715596330275227,
+            "c",
+            -0.011834862385321101,
+            0.016605504587155963,
+            -0.031376146788990825,
+            0.038073394495412846,
+            -0.05082568807339449,
+            0.055963302752293574
+        ],
+        [
+            "M",
+            0.3034862385321101,
+            0.5160550458715596,
+            "C",
+            0.3394495412844037,
+            0.5402752293577981,
+            0.38073394495412843,
+            0.5871559633027523,
+            0.39522935779816515,
+            0.6146788990825688
+        ],
+        [
+            "M",
+            0.45954128440366976,
+            0.19477064220183488,
+            "c",
+            0.01908256880733945,
+            0.007339449541284404,
+            0.038256880733944953,
+            0.00944954128440367,
+            0.057798165137614675,
+            0.007155963302752294,
+            "c",
+            0.07899082568807339,
+            -0.00926605504587156,
+            0.21100917431192662,
+            -0.027339449541284404,
+            0.2646788990825688,
+            -0.0336697247706422,
+            "c",
+            0.02614678899082569,
+            -0.003119266055045872,
+            0.0426605504587156,
+            0.013486238532110091,
+            0.0355045871559633,
+            0.03963302752293578,
+            "c",
+            -0.008623853211009174,
+            0.031743119266055046,
+            -0.014678899082568808,
+            0.056422018348623856,
+            -0.023577981651376145,
+            0.10009174311926605
+        ],
+        [
+            "M",
+            0.49577981651376146,
+            0.3572477064220183,
+            "c",
+            0.05587155963302752,
+            -0.005229357798165137,
+            0.16743119266055045,
+            -0.019541284403669725,
+            0.2565137614678899,
+            -0.028165137614678898,
+            "c",
+            0.022935779816513763,
+            -0.002201834862385321,
+            0.04357798165137615,
+            -0.004128440366972477,
+            0.060183486238532105,
+            -0.005504587155963302
+        ],
+        [
+            "M",
+            0.48284403669724774,
+            0.20678899082568808,
+            "c",
+            0.006146788990825688,
+            0.006146788990825688,
+            0.007706422018348624,
+            0.015412844036697248,
+            0.007522935779816513,
+            0.03055045871559633,
+            "c",
+            -0.0029357798165137615,
+            0.23513761467889907,
+            -0.02926605504587156,
+            0.4588073394495413,
+            -0.13889908256880734,
+            0.5797247706422018
+        ],
+        [
+            "M",
+            0.498348623853211,
+            0.5380733944954128,
+            "c",
+            0.023027522935779813,
+            0.006880733944954129,
+            0.0453211009174312,
+            0.0010091743119266055,
+            0.06944954128440367,
+            -0.0028440366972477065,
+            "c",
+            0.07568807339449542,
+            -0.011926605504587157,
+            0.18908256880733945,
+            -0.02660550458715596,
+            0.26,
+            -0.03155963302752293,
+            "c",
+            0.020458715596330276,
+            -0.0028440366972477065,
+            0.04091743119266055,
+            -0.002660550458715596,
+            0.061192660550458716,
+            0.0005504587155963302
+        ],
+        [
+            "M",
+            0.6511009174311927,
+            0.39165137614678897,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.015229357798165137,
+            0.021192660550458715,
+            0.015229357798165137,
+            0.037981651376146786,
+            "c",
+            0,
+            0.10715596330275229,
+            0.0011009174311926604,
+            0.18394495412844036,
+            0.0011009174311926604,
+            0.23431192660550457
+        ],
+        [
+            "M",
+            0.5247706422018349,
+            0.6856880733944953,
+            "c",
+            0.01,
+            0.01,
+            0.014036697247706422,
+            0.02165137614678899,
+            0.016146788990825688,
+            0.03339449541284404,
+            "c",
+            0.007247706422018349,
+            0.040091743119266054,
+            0.020458715596330276,
+            0.10110091743119266,
+            0.027155963302752294,
+            0.15706422018348626
+        ],
+        [
+            "M",
+            0.54,
+            0.6928440366972477,
+            "c",
+            0.059816513761467884,
+            -0.009357798165137614,
+            0.18825688073394495,
+            -0.02706422018348624,
+            0.24779816513761468,
+            -0.033486238532110094,
+            "c",
+            0.031009174311926603,
+            -0.0033944954128440367,
+            0.04477064220183486,
+            0.007155963302752294,
+            0.038623853211009175,
+            0.034678899082568805,
+            "c",
+            -0.008256880733944955,
+            0.03724770642201834,
+            -0.018073394495412842,
+            0.08779816513761468,
+            -0.026238532110091743,
+            0.13302752293577982
+        ],
+        [
+            "M",
+            0.5711926605504587,
+            0.8553211009174312,
+            "c",
+            0.04697247706422018,
+            -0.004403669724770642,
+            0.13256880733944953,
+            -0.011834862385321101,
+            0.19935779816513763,
+            -0.017614678899082567,
+            "c",
+            0.01798165137614679,
+            -0.001559633027522936,
+            0.03394495412844037,
+            -0.002752293577981651,
+            0.046330275229357794,
+            -0.003577981651376147
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hem; (trouser) cuff; shirttail; bottom (of a kimono); train (of a dress) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bottom part; bottom edge "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. foot (of a mountain) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. tips (of hair) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. downstream Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. hem; (trouser) cuff; shirttail; bottom (of a kimono); train (of a dress) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bottom part; bottom edge "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. foot (of a mountain) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. tips (of hair) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. downstream Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "野",
+                    "の"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. foot of a mountain; plain at the foot of a mountain "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. range; spread; extent; encompassing circle "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "すそ野 【すその】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. foot of a mountain; plain at the foot of a mountain "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. range; spread; extent; encompassing circle "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "すそ野 【すその】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "払",
+                    "はら"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rear footsweep Sumo"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. rear footsweep Sumo"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. taking a hem up; hemming up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "裾あげ 【すそあげ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. taking a hem up; hemming up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "裾あげ 【すそあげ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "切",
+                    "ぎ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. exemption (from a regulation, etc. usu. because of small scale) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cut-off cuffs (trousers, etc.) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "裾切 【すそぎり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "裾切: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. exemption (from a regulation, etc. usu. because of small scale) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cut-off cuffs (trousers, etc.) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "裾切 【すそぎり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "裾切: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "野",
+                    "の"
+                ],
+                [
+                    "産",
+                    "さん"
+                ],
+                [
+                    "業",
+                    "ぎょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. supporting industries; component and parts-supply industries "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. supporting industries; component and parts-supply industries "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sharing with others what has been given to you; sharing a portion of the profit with others See also 御裾分け"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "すそ分け 【すそわけ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. sharing with others what has been given to you; sharing a portion of the profit with others See also 御裾分け"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "すそ分け 【すそわけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "模",
+                    "も"
+                ],
+                [
+                    "様",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kimono with design on the skirt "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. kimono with design on the skirt "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "回",
+                    "まわ"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lining at the bottom of a kimono "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. lining at the bottom of a kimono "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "きょ"
+                ],
+                [
+                    "礁",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fringing reef "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. fringing reef "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "除",
+                    "よ"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. underskirt (half-slip), worn under kimono "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "裾よけ 【すそよけ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. underskirt (half-slip), worn under kimono "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "裾よけ 【すそよけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "刈",
+                    "が"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. trimming hair "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. trimming hair "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ankle pick Sumo"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ankle pick Sumo"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "裏",
+                    "うら"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lining at the bottom of a kimono See also 裾回し"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. lining at the bottom of a kimono See also 裾回し"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "襴",
+                    "らん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. horizontally-wrapped fabric forming the bottom part of some traditional Japanese clothing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "襴 【すそつき】、裾着 【すそつき】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. horizontally-wrapped fabric forming the bottom part of some traditional Japanese clothing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "襴 【すそつき】、裾着 【すそつき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裾",
+                    "すそ"
+                ],
+                [
+                    "花",
+                    "はな"
+                ],
+                [
+                    "ダ",
+                    null
+                ],
+                [
+                    "ム",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Susohana dam "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Susobana Dam Susobana Dam is a dam in the Nagano Prefecture, Japan."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "裾分",
+                "すそわけ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Susowake "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Susoaidaira "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "裾坂",
+                "つまさか"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tsumasaka "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "そ",
+                    null
+                ],
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. sharing with others what has been given to you; sharing a portion of the profit with others "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "お裾分け 【おすそわけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裳",
+                    "もすそ"
+                ],
+                [
+                    "裾",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cuff (of pants); hem (of skirt); train (of dress); foot (of mountain) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "山",
+                    "やま"
+                ],
+                [
+                    "裾",
+                    "すそ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. foot of a mountain; base of a mountain; foothills "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "山すそ 【やますそ】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

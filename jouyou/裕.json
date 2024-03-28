@@ -1,0 +1,850 @@
+{
+    "kanji": "裕",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "abundant",
+        "rich",
+        "fertile"
+    ],
+    "kun": [
+        "ユウ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.1865137614678899,
+            0.12385321100917432,
+            "c",
+            0.03055045871559633,
+            0.01944954128440367,
+            0.06330275229357799,
+            0.048532110091743116,
+            0.08944954128440367,
+            0.08256880733944955
+        ],
+        [
+            "M",
+            0.1073394495412844,
+            0.31064220183486235,
+            "c",
+            0.019633027522935782,
+            0.008256880733944955,
+            0.039449541284403665,
+            0.00834862385321101,
+            0.059449541284403676,
+            0.0033027522935779813,
+            "c",
+            0.04541284403669725,
+            -0.011559633027522935,
+            0.1355045871559633,
+            -0.03853211009174312,
+            0.15293577981651377,
+            -0.043486238532110096,
+            "c",
+            0.021376146788990826,
+            -0.006055045871559634,
+            0.03743119266055046,
+            0.0076146788990825685,
+            0.02532110091743119,
+            0.02614678899082569,
+            "C",
+            0.2739449541284404,
+            0.405045871559633,
+            0.19403669724770642,
+            0.5208256880733946,
+            0.08944954128440367,
+            0.6032110091743119
+        ],
+        [
+            "M",
+            0.25,
+            0.4528440366972477,
+            "c",
+            0.006972477064220183,
+            0.006972477064220183,
+            0.009357798165137614,
+            0.019633027522935782,
+            0.009357798165137614,
+            0.03339449541284404,
+            "c",
+            0,
+            0.07642201834862386,
+            0.00045871559633027525,
+            0.2787155963302752,
+            0.00045871559633027525,
+            0.3348623853211009,
+            "c",
+            0,
+            0.02614678899082569,
+            0.00009174311926605505,
+            0.047706422018348627,
+            0.00009174311926605505,
+            0.06192660550458716
+        ],
+        [
+            "M",
+            0.3598165137614679,
+            0.42100917431192664,
+            "c",
+            0,
+            0.006788990825688073,
+            -0.002660550458715596,
+            0.015871559633027523,
+            -0.006880733944954129,
+            0.020917431192660547,
+            "c",
+            -0.012844036697247705,
+            0.015504587155963302,
+            -0.041009174311926605,
+            0.03972477064220183,
+            -0.06669724770642202,
+            0.05807339449541284
+        ],
+        [
+            "M",
+            0.28211009174311924,
+            0.5137614678899083,
+            "c",
+            0.02532110091743119,
+            0.01724770642201835,
+            0.05238532110091743,
+            0.043119266055045874,
+            0.07412844036697248,
+            0.07339449541284404
+        ],
+        [
+            "M",
+            0.5227522935779816,
+            0.1511926605504587,
+            "c",
+            0.0010091743119266055,
+            0.007889908256880733,
+            -0.002018348623853211,
+            0.015596330275229357,
+            -0.005963302752293578,
+            0.022293577981651377,
+            "c",
+            -0.020275229357798165,
+            0.035229357798165134,
+            -0.045504587155963304,
+            0.0753211009174312,
+            -0.11174311926605504,
+            0.12697247706422018
+        ],
+        [
+            "M",
+            0.676605504587156,
+            0.1456880733944954,
+            "c",
+            0.0555045871559633,
+            0.027706422018348623,
+            0.12302752293577982,
+            0.08064220183486238,
+            0.1420183486238532,
+            0.1089908256880734
+        ],
+        [
+            "M",
+            0.5998165137614678,
+            0.2981651376146789,
+            "c",
+            0.0006422018348623854,
+            0.007522935779816513,
+            -0.0017431192660550458,
+            0.020091743119266054,
+            -0.0057798165137614675,
+            0.03018348623853211,
+            "C",
+            0.5596330275229358,
+            0.41284403669724773,
+            0.481651376146789,
+            0.5344036697247706,
+            0.37770642201834864,
+            0.6169724770642202
+        ],
+        [
+            "M",
+            0.6005504587155963,
+            0.3310091743119266,
+            "c",
+            0.0644954128440367,
+            0.06036697247706422,
+            0.1508256880733945,
+            0.13642201834862386,
+            0.2128440366972477,
+            0.17944954128440366,
+            "c",
+            0.01834862385321101,
+            0.01275229357798165,
+            0.03880733944954129,
+            0.028165137614678898,
+            0.06055045871559633,
+            0.034403669724770644
+        ],
+        [
+            "M",
+            0.4572477064220184,
+            0.6184403669724771,
+            "c",
+            0.006880733944954129,
+            0.006880733944954129,
+            0.011467889908256881,
+            0.017431192660550456,
+            0.012477064220183487,
+            0.028165137614678898,
+            "c",
+            0.008532110091743119,
+            0.038073394495412846,
+            0.017798165137614678,
+            0.10486238532110091,
+            0.025137614678899085,
+            0.16504587155963302,
+            "c",
+            0.002477064220183486,
+            0.020275229357798165,
+            0.004678899082568807,
+            0.03972477064220183,
+            0.006605504587155963,
+            0.0571559633027523
+        ],
+        [
+            "M",
+            0.47844036697247705,
+            0.6386238532110091,
+            "c",
+            0.09788990825688074,
+            -0.018073394495412842,
+            0.17862385321100915,
+            -0.02724770642201835,
+            0.23807339449541284,
+            -0.03504587155963303,
+            "c",
+            0.028899082568807338,
+            -0.0037614678899082566,
+            0.05889908256880734,
+            -0.0001834862385321101,
+            0.05,
+            0.0373394495412844,
+            "c",
+            -0.013761467889908258,
+            0.057798165137614675,
+            -0.024403669724770642,
+            0.10403669724770642,
+            -0.03743119266055046,
+            0.17559633027522936
+        ],
+        [
+            "M",
+            0.5109174311926605,
+            0.8448623853211009,
+            "c",
+            0.06440366972477064,
+            -0.004862385321100918,
+            0.1210091743119266,
+            -0.01073394495412844,
+            0.19559633027522935,
+            -0.015779816513761466,
+            "c",
+            0.016055045871559634,
+            -0.0011009174311926604,
+            0.03302752293577982,
+            -0.002201834862385321,
+            0.0510091743119266,
+            -0.0033944954128440367
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "裕",
+                    "ゆう"
+                ],
+                [
+                    "福",
+                    "ふく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. wealthy; rich; affluent; well-off "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. wealthy; rich; affluent; well-off "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "優",
+                    "ゆう"
+                ],
+                [
+                    "に",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. easily (reach, exceed, etc.); comfortably; amply; fully; well over usu. used with quantities"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "裕に 【ゆうに】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "裕に: Irregular kanji usage."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. easily (reach, exceed, etc.); comfortably; amply; fully; well over usu. used with quantities"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "裕に 【ゆうに】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "裕に: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裕",
+                    "ゆう"
+                ],
+                [
+                    "福",
+                    "ふく"
+                ],
+                [
+                    "層",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wealthy people; the rich See also 富裕層"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. wealthy people; the rich See also 富裕層"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裕",
+                    "ゆう"
+                ],
+                [
+                    "度",
+                    "ど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. electrical tolerance "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. electrical tolerance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裕",
+                    null
+                ],
+                [
+                    "安",
+                    null
+                ],
+                [
+                    "区",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Yu'an District Yu'an District is a district in Anhui Province, People's ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裕",
+                    null
+                ],
+                [
+                    "隆",
+                    null
+                ],
+                [
+                    "汽",
+                    null
+                ],
+                [
+                    "車",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Yulon Motor Yulon Motor is a Taiwanese automaker and importer. Taiwan... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裕",
+                    null
+                ],
+                [
+                    "華",
+                    null
+                ],
+                [
+                    "区",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Yuhua District, Shijiazhuang Yuhua District, is a district of the municipality of Shij... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裕",
+                    null
+                ],
+                [
+                    "隆",
+                    null
+                ],
+                [
+                    "ダ",
+                    null
+                ],
+                [
+                    "イ",
+                    null
+                ],
+                [
+                    "ナ",
+                    null
+                ],
+                [
+                    "ソ",
+                    null
+                ],
+                [
+                    "ー",
+                    null
+                ],
+                [
+                    "ズ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Yulon Dinos The Yulon Dinos are a basketball team in the Super Basket... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "裕",
+                "ひとし"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Hitoshi "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Hiro "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Hirokatsu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "余",
+                    "よ"
+                ],
+                [
+                    "裕",
+                    "ゆう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. surplus; margin; leeway; room; space; time; allowance; flexibility; scope 車を持つ余裕はないな。I cannot afford to keep a car."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. composure; placidity; complacency; calm "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "車",
+                            "くるま"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "持つ",
+                            "も"
+                        ],
+                        [
+                            "余裕",
+                            "よゆう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ない",
+                            null
+                        ],
+                        [
+                            "な",
+                            null
+                        ]
+                    ],
+                    "translation": "I cannot afford to keep a car."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "富",
+                    "ふ"
+                ],
+                [
+                    "裕",
+                    "ゆう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. wealth; riches; affluence; opulence "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "富祐 【ふゆう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "余",
+                    "よ"
+                ],
+                [
+                    "裕",
+                    "ゆう"
+                ],
+                [
+                    "綽",
+                    "しゃく"
+                ],
+                [
+                    "々",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', 'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. calm and collected; with composure; having enough and to spare Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "余裕しゃくしゃく 【よゆうしゃくしゃく】、余裕綽綽 【よゆうしゃくしゃく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "富",
+                    "ふ"
+                ],
+                [
+                    "裕",
+                    "ゆう"
+                ],
+                [
+                    "層",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wealthy people; the rich "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. High-net-worth individual A high-net-worth individual (HNWI) is a person with a hig... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "富",
+                    "ふ"
+                ],
+                [
+                    "裕",
+                    "ゆう"
+                ],
+                [
+                    "税",
+                    "ぜい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wealth tax; capital tax; equity tax "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Wealth tax A wealth tax is generally conceived of as a levy based on... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "余",
+                    "よ"
+                ],
+                [
+                    "裕",
+                    "ゆう"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "よ",
+                    null
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "ゃ",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. no problem; piece of cake Jocular, humorous term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "余",
+                    "よ"
+                ],
+                [
+                    "裕",
+                    "ゆう"
+                ],
+                [
+                    "手",
+                    "しゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. free move (othello) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "余",
+                    "よ"
+                ],
+                [
+                    "裕",
+                    "ゆう"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'su' ending",
+                    "meaning": "1. to feign composure; to act like one has (time, money, strength, etc.) to spare Colloquial"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "余裕を噛ます 【よゆうをかます】、余裕を咬ます 【よゆうをかます】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "余",
+                    "よ"
+                ],
+                [
+                    "裕",
+                    "ゆう"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "与",
+                    "あた"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to give someone space; to give someone breathing room; to cut someone some slack; to provide leeway; to provide an opportunity "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

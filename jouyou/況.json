@@ -1,0 +1,847 @@
+{
+    "kanji": "況",
+    "grade": 10,
+    "jlpt": 2,
+    "meanings": [
+        "condition",
+        "situation"
+    ],
+    "kun": [
+        "まし.て",
+        "いわ.んや",
+        "おもむき"
+    ],
+    "on": [
+        "キョウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1789908256880734,
+            0.17321100917431193,
+            "c",
+            0.042844036697247706,
+            0.014128440366972478,
+            0.11073394495412844,
+            0.05798165137614679,
+            0.12146788990825688,
+            0.08
+        ],
+        [
+            "M",
+            0.13302752293577982,
+            0.41853211009174307,
+            "c",
+            0.04293577981651376,
+            0.013119266055045872,
+            0.11082568807339449,
+            0.05412844036697248,
+            0.12155963302752294,
+            0.07449541284403668
+        ],
+        [
+            "M",
+            0.15880733944954128,
+            0.8086238532110092,
+            "c",
+            0.012385321100917432,
+            0.004954128440366972,
+            0.025045871559633028,
+            0.003027522935779817,
+            0.03247706422018349,
+            -0.007522935779816513,
+            "C",
+            0.21853211009174311,
+            0.7622935779816514,
+            0.26880733944954127,
+            0.6688990825688073,
+            0.29357798165137616,
+            0.6192660550458715
+        ],
+        [
+            "M",
+            0.405137614678899,
+            0.193302752293578,
+            "c",
+            0.007522935779816513,
+            0.007522935779816513,
+            0.01165137614678899,
+            0.016788990825688074,
+            0.01330275229357798,
+            0.02688073394495413,
+            "c",
+            0.006055045871559634,
+            0.037706422018348625,
+            0.017339449541284403,
+            0.10972477064220185,
+            0.027706422018348623,
+            0.17412844036697248,
+            "c",
+            0.0022935779816513763,
+            0.014128440366972478,
+            0.004311926605504587,
+            0.027981651376146787,
+            0.006055045871559634,
+            0.04119266055045872
+        ],
+        [
+            "M",
+            0.42660550458715596,
+            0.20440366972477064,
+            "c",
+            0.09174311926605505,
+            -0.01293577981651376,
+            0.2509174311926606,
+            -0.031743119266055046,
+            0.3080733944954128,
+            -0.04155963302752294,
+            "c",
+            0.019541284403669725,
+            -0.0033944954128440367,
+            0.03752293577981651,
+            0.01724770642201835,
+            0.03376146788990826,
+            0.0381651376146789,
+            "c",
+            -0.00944954128440367,
+            0.0528440366972477,
+            -0.02256880733944954,
+            0.12009174311926606,
+            -0.03541284403669725,
+            0.18844036697247707
+        ],
+        [
+            "M",
+            0.46348623853211013,
+            0.4207339449541284,
+            "c",
+            0.04990825688073395,
+            -0.003669724770642202,
+            0.1610091743119266,
+            -0.013577981651376147,
+            0.24522935779816515,
+            -0.02165137614678899,
+            "c",
+            0.015871559633027523,
+            -0.001559633027522936,
+            0.030642201834862385,
+            -0.0029357798165137615,
+            0.0436697247706422,
+            -0.004036697247706422
+        ],
+        [
+            "M",
+            0.5202752293577981,
+            0.47275229357798165,
+            "c",
+            0.0006422018348623854,
+            0.008715596330275228,
+            0.001559633027522936,
+            0.02256880733944954,
+            -0.0012844036697247708,
+            0.03513761467889908,
+            "C",
+            0.4988990825688074,
+            0.5963302752293578,
+            0.44385321100917435,
+            0.7442201834862385,
+            0.29458715596330276,
+            0.8440366972477065
+        ],
+        [
+            "M",
+            0.6255963302752293,
+            0.4355045871559633,
+            "c",
+            0.008440366972477065,
+            0.008440366972477065,
+            0.01110091743119266,
+            0.019174311926605504,
+            0.011376146788990826,
+            0.04055045871559633,
+            "c",
+            0.0008256880733944953,
+            0.058807339449541286,
+            -0.002660550458715596,
+            0.18458715596330277,
+            -0.002660550458715596,
+            0.2575229357798165,
+            "c",
+            0,
+            0.0863302752293578,
+            0.014770642201834864,
+            0.10330275229357798,
+            0.13412844036697247,
+            0.10330275229357798,
+            "c",
+            0.09972477064220182,
+            0,
+            0.11458715596330275,
+            -0.012385321100917432,
+            0.11458715596330275,
+            -0.10596330275229358
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "況",
+                    "ま"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. still more; to say nothing of; not to mention Usually written using kana aloneそれらの星は肉眼で見える、まして望遠鏡ならなおさらである。You can see the stars with your naked eye, and even better through a telescope."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "2. still less Usually written using kana alone, with neg. verbメアリーはフランス語を読むことさえできない、まして話すことはできない。Mary can't even read French, much less speak it."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "増して 【まして】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "況して: Rarely-used kanji form. 増して: Rarely-used kanji form."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. still more; to say nothing of; not to mention Usually written using kana aloneそれらの星は肉眼で見える、まして望遠鏡ならなおさらである。You can see the stars with your naked eye, and even better through a telescope."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "2. still less Usually written using kana alone, with neg. verbメアリーはフランス語を読むことさえできない、まして話すことはできない。Mary can't even read French, much less speak it."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "増して 【まして】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "況して: Rarely-used kanji form. 増して: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "それら",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "星",
+                            "ほし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "肉眼",
+                            "にくがん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "見える",
+                            "み"
+                        ],
+                        [
+                            "まして",
+                            null
+                        ],
+                        [
+                            "望遠鏡",
+                            "ぼうえんきょう"
+                        ],
+                        [
+                            "なら",
+                            null
+                        ],
+                        [
+                            "なおさら",
+                            null
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "You can see the stars with your naked eye, and even better through a telescope."
+                },
+                {
+                    "sentence": [
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "フランス語",
+                            "フランスご"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "読む",
+                            "よ"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "さえ",
+                            null
+                        ],
+                        [
+                            "できない",
+                            null
+                        ],
+                        [
+                            "まして",
+                            null
+                        ],
+                        [
+                            "話す",
+                            "はな"
+                        ],
+                        [
+                            "ことはできない",
+                            null
+                        ]
+                    ],
+                    "translation": "Mary can't even read French, much less speak it."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "況",
+                    "ま"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "や",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. much less; to say nothing of Usually written using kana alone"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "況してや: Rarely-used kanji form."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. much less; to say nothing of Usually written using kana alone"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "況してや: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "況",
+                    "いわ"
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "や",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. much more; not to mention; not to speak of; to say nothing of; let alone Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "況や 【いわんや】、况や 【いわんや】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. state of affairs; situation; conditions; circumstances "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "情況 【じょうきょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. depression; recession; slump See also 好況"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "好",
+                    "こう"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. prosperous conditions; healthy economy; boom See also 不況"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "苦",
+                    "く"
+                ],
+                [
+                    "境",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. difficult situation; adverse circumstances; predicament; trouble; dilemma; distress "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "苦況 【くきょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "苦況: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "盛",
+                    "せい"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. success; prosperity; boom "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "戦",
+                    "せん"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. war situation; progress of a battle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "活",
+                    "かっ"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. activity; briskness; prosperity "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ],
+                [
+                    "報",
+                    "ほう"
+                ],
+                [
+                    "告",
+                    "こく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. situation report; status report; progress report "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. state of progress "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ],
+                [
+                    "証",
+                    "しょう"
+                ],
+                [
+                    "拠",
+                    "こ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. circumstantial evidence Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "情況証拠 【じょうきょうしょうこ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "市",
+                    "し"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. market conditions "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "作",
+                    "さっ"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ],
+                [
+                    "指",
+                    "し"
+                ],
+                [
+                    "数",
+                    "すう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rice-crop index "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じっ"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. actual state (of things); real state; actual condition; real condition; actual scene "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. live; on-the-scene "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "3. reporting live; live coverage; live broadcasting Abbreviation, See also 実況放送"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. Let's Play (playthrough of a video game with player commentary) Abbreviation, See also 実況プレイ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "現",
+                    "げん"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. present condition "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "近",
+                    "きん"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. recent state; present state; present condition; current status; current circumstances "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "作",
+                    "さっ"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. crops; quality "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "景",
+                    "けい"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. situation; business climate; outlook "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "概",
+                    "がい"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. outlook; general situation "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1207 @@
+{
+    "kanji": "危",
+    "grade": 6,
+    "jlpt": 3,
+    "meanings": [
+        "dangerous",
+        "fear",
+        "uneasy"
+    ],
+    "kun": [
+        "あぶ.ない",
+        "あや.うい",
+        "あや.ぶむ"
+    ],
+    "on": [
+        "キ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.41743119266055045,
+            0.0963302752293578,
+            "c",
+            0.0005504587155963302,
+            0.004954128440366972,
+            -0.001559633027522936,
+            0.013669724770642202,
+            -0.005688073394495413,
+            0.02,
+            "c",
+            -0.027522935779816515,
+            0.041926605504587156,
+            -0.11357798165137616,
+            0.13825688073394496,
+            -0.2122018348623853,
+            0.20477064220183486
+        ],
+        [
+            "M",
+            0.3876146788990826,
+            0.16174311926605503,
+            "c",
+            0.026055045871559632,
+            0,
+            0.1623853211009174,
+            -0.017155963302752295,
+            0.1898165137614679,
+            -0.019724770642201832,
+            "c",
+            0.02348623853211009,
+            -0.002201834862385321,
+            0.030917431192660553,
+            0.021192660550458715,
+            0.021192660550458715,
+            0.03220183486238532,
+            "c",
+            -0.04477064220183486,
+            0.05045871559633028,
+            -0.07908256880733944,
+            0.0998165137614679,
+            -0.14220183486238533,
+            0.1743119266055046
+        ],
+        [
+            "M",
+            0.21733944954128442,
+            0.3790825688073394,
+            "c",
+            0.023761467889908256,
+            0.007247706422018349,
+            0.05678899082568808,
+            0.006055045871559634,
+            0.08100917431192661,
+            0.0025688073394495416,
+            "c",
+            0.11688073394495413,
+            -0.016972477064220184,
+            0.24073394495412842,
+            -0.035321100917431195,
+            0.3898165137614679,
+            -0.04926605504587156,
+            "c",
+            0.027798165137614676,
+            -0.0025688073394495416,
+            0.05174311926605504,
+            -0.005504587155963302,
+            0.07917431192660551,
+            -0.00045871559633027525
+        ],
+        [
+            "M",
+            0.23596330275229357,
+            0.38688073394495415,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.011009174311926604,
+            0.01871559633027523,
+            0.010825688073394495,
+            0.034403669724770644,
+            "c",
+            -0.0013761467889908255,
+            0.1143119266055046,
+            -0.0163302752293578,
+            0.3069724770642202,
+            -0.11091743119266055,
+            0.4365137614678899
+        ],
+        [
+            "M",
+            0.3394495412844037,
+            0.4793577981651376,
+            "c",
+            0.012660550458715595,
+            0.005688073394495413,
+            0.02568807339449541,
+            0.007064220183486239,
+            0.04256880733944954,
+            0.005321100917431192,
+            "c",
+            0.07321100917431193,
+            -0.0076146788990825685,
+            0.20678899082568808,
+            -0.02568807339449541,
+            0.22770642201834862,
+            -0.02908256880733945,
+            "c",
+            0.034403669724770644,
+            -0.005504587155963302,
+            0.05678899082568808,
+            0.012018348623853212,
+            0.055412844036697245,
+            0.03422018348623853,
+            "c",
+            -0.0022935779816513763,
+            0.037706422018348625,
+            -0.031467889908256885,
+            0.13688073394495412,
+            -0.0536697247706422,
+            0.18541284403669725,
+            "c",
+            -0.02128440366972477,
+            0.04642201834862385,
+            -0.05412844036697248,
+            0.009357798165137614,
+            -0.06871559633027523,
+            -0.0037614678899082566
+        ],
+        [
+            "M",
+            0.36458715596330277,
+            0.4935779816513761,
+            "c",
+            0.007889908256880733,
+            0.007889908256880733,
+            0.012293577981651376,
+            0.02018348623853211,
+            0.012293577981651376,
+            0.035229357798165134,
+            "c",
+            0,
+            0.09055045871559632,
+            0.0003669724770642202,
+            0.17623853211009174,
+            0.0003669724770642202,
+            0.2377981651376147,
+            "c",
+            0,
+            0.10724770642201835,
+            0.02522935779816514,
+            0.12522935779816513,
+            0.22422018348623854,
+            0.12522935779816513,
+            "c",
+            0.21504587155963303,
+            0,
+            0.22770642201834862,
+            -0.020275229357798165,
+            0.22770642201834862,
+            -0.10091743119266056
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. danger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Chinese \"rooftop\" constellation (one of the 28 mansions) Astronomy, See also 危宿, See also 二十八宿, See also 玄武 げんぶ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "険",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. danger; peril; hazard Antonym: 安全トムは危険に直面して彼の勇気を示した。Tom showed his courage in the face of danger."
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "2. risk その時になって初めて私は危険な事態に気がついたのである。Not till then did I realize the danger of the situation."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Danger "
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. danger; peril; hazard Antonym: 安全トムは危険に直面して彼の勇気を示した。Tom showed his courage in the face of danger."
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "2. risk その時になって初めて私は危険な事態に気がついたのである。Not till then did I realize the danger of the situation."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Danger "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "危険",
+                            "きけん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "直面",
+                            "ちょくめん"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "勇気",
+                            "ゆうき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "示した",
+                            "しめ"
+                        ]
+                    ],
+                    "translation": "Tom showed his courage in the face of danger."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "時",
+                            "とき"
+                        ],
+                        [
+                            "になって初めて",
+                            "になってはじ"
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "危険な",
+                            "きけん"
+                        ],
+                        [
+                            "事態",
+                            "じたい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "気がついた",
+                            "き"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "Not till then did I realize the danger of the situation."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "あぶ"
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. dangerous; risky; hazardous; perilous; precarious 火は非常に危ない。Fire is very dangerous."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. in danger; in jeopardy; critical; grave; at risk 彼の命が危ない。His life is in danger."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. uncertain; unreliable; insecure; unsteady; doubtful 危ない空模様だ。The weather is threatening."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "5. look out!; watch out!; be careful! "
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. dangerous; risky; hazardous; perilous; precarious 火は非常に危ない。Fire is very dangerous."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. in danger; in jeopardy; critical; grave; at risk 彼の命が危ない。His life is in danger."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. uncertain; unreliable; insecure; unsteady; doubtful 危ない空模様だ。The weather is threatening."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "5. look out!; watch out!; be careful! "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "火",
+                            "ひ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "非常に",
+                            "ひじょう"
+                        ],
+                        [
+                            "危ない",
+                            "あぶ"
+                        ]
+                    ],
+                    "translation": "Fire is very dangerous."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "命",
+                            "いのち"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "危ない",
+                            "あぶ"
+                        ]
+                    ],
+                    "translation": "His life is in danger."
+                },
+                {
+                    "sentence": [
+                        [
+                            "危ない",
+                            "あぶ"
+                        ],
+                        [
+                            "空模様",
+                            "そらもよう"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "The weather is threatening."
+                },
+                {
+                    "sentence": [
+                        [
+                            "間一髪",
+                            "かんいっぱつ"
+                        ],
+                        [
+                            "危ない",
+                            "あぶ"
+                        ],
+                        [
+                            "ところ",
+                            null
+                        ],
+                        [
+                            "でした",
+                            null
+                        ]
+                    ],
+                    "translation": "That was a close call."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. crisis; critical situation; emergency; pinch "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Close to the Edge (Yes album) Close to the Edge is the fifth studio album by the Englis... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. crisis; critical situation; emergency; pinch "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Close to the Edge (Yes album) Close to the Edge is the fifth studio album by the Englis... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "あや"
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. dangerous; in danger; facing imminent danger usu. as 危ういところ危うい所を助かった。I had a narrow escape."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. precarious (situation); perilous (state, balance, etc.); in doubt; in jeopardy; uncertain; insecure; concerning; worrying 彼は今入院中で、生きられるかどうかは危うい状態だ。He is now in the hospital and his life is in the balance."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. dangerous; in danger; facing imminent danger usu. as 危ういところ危うい所を助かった。I had a narrow escape."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. precarious (situation); perilous (state, balance, etc.); in doubt; in jeopardy; uncertain; insecure; concerning; worrying 彼は今入院中で、生きられるかどうかは危うい状態だ。He is now in the hospital and his life is in the balance."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "危うい",
+                            "あや"
+                        ],
+                        [
+                            "所",
+                            "ところ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "助かった",
+                            "たす"
+                        ]
+                    ],
+                    "translation": "I had a narrow escape."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "今",
+                            "いま"
+                        ],
+                        [
+                            "入院",
+                            "にゅういん"
+                        ],
+                        [
+                            "中",
+                            "ちゅう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "生きられる",
+                            "いき"
+                        ],
+                        [
+                            "かどうか",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "危うい",
+                            "あや"
+                        ],
+                        [
+                            "状態",
+                            "じょうたい"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "He is now in the hospital and his life is in the balance."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "害",
+                    "がい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. injury; harm; danger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. injury; harm; danger "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "あや"
+                ],
+                [
+                    "ぶ",
+                    null
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to fear; to doubt; to have misgivings about; to worry about; to be anxious about; to be apprehensive about "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to fear; to doubt; to have misgivings about; to worry about; to be anxious about; to be apprehensive about "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "あや"
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. barely; narrowly "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. almost; nearly 我々はあやうく凍死するところだった。We were nearly frozen to death."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. barely; narrowly "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. almost; nearly 我々はあやうく凍死するところだった。We were nearly frozen to death."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "我々",
+                            "われわれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "あやうく",
+                            null
+                        ],
+                        [
+                            "凍死",
+                            "とうし"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "ところ",
+                            null
+                        ],
+                        [
+                            "だった",
+                            null
+                        ]
+                    ],
+                    "translation": "We were nearly frozen to death."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "惧",
+                    "ぐ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. apprehension; misgivings; uneasiness; fear; anxiety "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. apprehension; misgivings; uneasiness; fear; anxiety "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "篤",
+                    "とく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. critical condition; being on the verge of death "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. critical condition; being on the verge of death "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "険",
+                    "けん"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (degree of) risk; riskiness; danger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (degree of) risk; riskiness; danger "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "急",
+                    "きゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. emergency; crisis; imminent danger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Vulnerable (conservation status); VU Obsolete term, See also 絶滅危惧"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. emergency; crisis; imminent danger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Vulnerable (conservation status); VU Obsolete term, See also 絶滅危惧"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "険",
+                    "けん"
+                ],
+                [
+                    "物",
+                    "ぶつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hazardous materials; dangerous goods; explosives; combustibles "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Dangerous goods Dangerous goods are solids, liquids, or gases that can ha... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. hazardous materials; dangerous goods; explosives; combustibles "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Dangerous goods Dangerous goods are solids, liquids, or gases that can ha... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "篤",
+                    "とく"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "態",
+                    "たい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. critical condition "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. critical condition "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "あぶ"
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. nearly; almost; on the point of (doing) "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. nearly; almost; on the point of (doing) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "険",
+                    "けん"
+                ],
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "物",
+                    "ぶつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dangerous person; security risk "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. loose cannon "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. dangerous person; security risk "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. loose cannon "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "険",
+                    "けん"
+                ],
+                [
+                    "防",
+                    "ぼう"
+                ],
+                [
+                    "止",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hazard prevention "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "険",
+                    "けん"
+                ],
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "帯",
+                    "たい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. danger zone "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. danger zone "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "険",
+                    "けん"
+                ],
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. danger signal; red light "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. danger signal; red light "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "機",
+                    "き"
+                ],
+                [
+                    "感",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sense of impending crisis; sense of danger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. sense of impending crisis; sense of danger "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "危機",
+                "きき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kiki "
+                },
+                {
+                    "type": "Product",
+                    "meaning": "1. Dangerous Liaisons (novel, film); Les Liaisons dangereuses "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "金",
+                    "きん"
+                ],
+                [
+                    "融",
+                    "ゆう"
+                ],
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. financial crisis "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Financial crisis The term financial crisis is applied broadly to a variety... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "財",
+                    "ざい"
+                ],
+                [
+                    "政",
+                    "せい"
+                ],
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. economic crisis; financial crisis "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

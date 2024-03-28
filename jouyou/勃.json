@@ -1,0 +1,833 @@
+{
+    "kanji": "勃",
+    "grade": 10,
+    "jlpt": null,
+    "meanings": [
+        "suddenness",
+        "rise"
+    ],
+    "kun": [
+        "おこ.る",
+        "にわかに"
+    ],
+    "on": [
+        "ボツ",
+        "ホツ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1153211009174312,
+            0.21100917431192662,
+            "c",
+            0.00926605504587156,
+            0.004311926605504587,
+            0.027522935779816515,
+            0.005229357798165137,
+            0.03688073394495413,
+            0.004036697247706422,
+            "c",
+            0.05917431192660551,
+            -0.0074311926605504595,
+            0.2228440366972477,
+            -0.024036697247706424,
+            0.2886238532110092,
+            -0.030917431192660553,
+            "c",
+            0.015412844036697248,
+            -0.0016513761467889907,
+            0.03220183486238532,
+            0.0022935779816513763,
+            0.03990825688073394,
+            0.004403669724770642
+        ],
+        [
+            "M",
+            0.2858715596330275,
+            0.10091743119266056,
+            "c",
+            0.008623853211009174,
+            0.0045871559633027525,
+            0.015504587155963302,
+            0.020458715596330276,
+            0.015504587155963302,
+            0.02981651376146789,
+            "c",
+            0,
+            0.06651376146788991,
+            0.0002752293577981651,
+            0.13302752293577982,
+            0.0002752293577981651,
+            0.1834862385321101
+        ],
+        [
+            "M",
+            0.12660550458715597,
+            0.32,
+            "c",
+            0,
+            0.029357798165137616,
+            -0.022935779816513763,
+            0.10990825688073395,
+            -0.03339449541284404,
+            0.12954128440366972
+        ],
+        [
+            "M",
+            0.12522935779816513,
+            0.34165137614678903,
+            "c",
+            0.07385321100917432,
+            -0.00908256880733945,
+            0.286697247706422,
+            -0.04155963302752294,
+            0.3246788990825688,
+            -0.044954128440366975,
+            "c",
+            0.059357798165137615,
+            -0.005412844036697248,
+            0.04091743119266055,
+            0.03357798165137615,
+            -0.006788990825688073,
+            0.07596330275229357
+        ],
+        [
+            "M",
+            0.181651376146789,
+            0.4463302752293578,
+            "c",
+            0.006055045871559634,
+            0.002201834862385321,
+            0.017614678899082567,
+            0.0057798165137614675,
+            0.02688073394495413,
+            0.003853211009174312,
+            "c",
+            0.011192660550458715,
+            -0.0023853211009174312,
+            0.15036697247706424,
+            -0.0436697247706422,
+            0.1610091743119266,
+            -0.0436697247706422,
+            "s",
+            0.022293577981651377,
+            0.006788990825688073,
+            0.011559633027522935,
+            0.020275229357798165,
+            "c",
+            -0.010642201834862385,
+            0.013486238532110091,
+            -0.059816513761467884,
+            0.07091743119266056,
+            -0.08688073394495413,
+            0.09541284403669725
+        ],
+        [
+            "M",
+            0.2679816513761468,
+            0.5288990825688074,
+            "C",
+            0.33256880733944955,
+            0.5688073394495413,
+            0.3717431192660551,
+            0.701743119266055,
+            0.32137614678899085,
+            0.818348623853211,
+            "c",
+            -0.027614678899082565,
+            0.06376146788990826,
+            -0.05651376146788991,
+            0.047889908256880734,
+            -0.0818348623853211,
+            0.004678899082568807
+        ],
+        [
+            "M",
+            0.1406422018348624,
+            0.6735779816513762,
+            "c",
+            0.008440366972477065,
+            0.012201834862385321,
+            0.023944954128440367,
+            0.014036697247706422,
+            0.041651376146788995,
+            0.006513761467889908,
+            "c",
+            0.03788990825688073,
+            -0.015963302752293577,
+            0.2236697247706422,
+            -0.09972477064220182,
+            0.2788990825688073,
+            -0.1234862385321101
+        ],
+        [
+            "M",
+            0.5530275229357798,
+            0.385045871559633,
+            "c",
+            0.013486238532110091,
+            0.0025688073394495416,
+            0.02724770642201835,
+            0.004862385321100918,
+            0.04412844036697247,
+            0.0033027522935779813,
+            "c",
+            0.0698165137614679,
+            -0.006330275229357797,
+            0.1973394495412844,
+            -0.03981651376146789,
+            0.23027522935779818,
+            -0.04211009174311926,
+            "c",
+            0.032844036697247704,
+            -0.002201834862385321,
+            0.03385321100917431,
+            0.01862385321100917,
+            0.03357798165137615,
+            0.04761467889908257,
+            "C",
+            0.8600917431192661,
+            0.48623853211009177,
+            0.8096330275229358,
+            0.7247706422018348,
+            0.7408256880733946,
+            0.8351376146788991,
+            "c",
+            -0.03394495412844037,
+            0.0544954128440367,
+            -0.052752293577981654,
+            0.013486238532110091,
+            -0.06568807339449541,
+            -0.010825688073394495
+        ],
+        [
+            "M",
+            0.6952293577981652,
+            0.12091743119266055,
+            "c",
+            0.006605504587155963,
+            0.014403669724770642,
+            0.008623853211009174,
+            0.026055045871559632,
+            0.0076146788990825685,
+            0.051834862385321104,
+            "c",
+            -0.007889908256880733,
+            0.2103669724770642,
+            -0.0901834862385321,
+            0.563302752293578,
+            -0.274954128440367,
+            0.7071559633027523
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "勃",
+                    "ぼつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Bulgaria Abbreviation, See also 勃牙利 ブルガリア"
+                },
+                {
+                    "type": "'taru' adjective",
+                    "meaning": "2. spirited; rising; energetic Obsolete term, See also 勃々 ぼつぼつ"
+                },
+                {
+                    "type": "'taru' adjective",
+                    "meaning": "3. sudden; abrupt Obsolete term"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Bulgaria Abbreviation, See also 勃牙利 ブルガリア"
+                },
+                {
+                    "type": "'taru' adjective",
+                    "meaning": "2. spirited; rising; energetic Obsolete term, See also 勃々 ぼつぼつ"
+                },
+                {
+                    "type": "'taru' adjective",
+                    "meaning": "3. sudden; abrupt Obsolete term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    "ブルガリア"
+                ],
+                [
+                    "牙",
+                    null
+                ],
+                [
+                    "利",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Bulgaria Usually written using kana alone"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "勃牙利: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Bulgaria Usually written using kana alone"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "勃牙利: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    "ぼっ"
+                ],
+                [
+                    "発",
+                    "ぱつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. outbreak (e.g. of war); outburst; sudden occurrence "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ぼっ発 【ぼっぱつ】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. outbreak (e.g. of war); outburst; sudden occurrence "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ぼっ発 【ぼっぱつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    "ぼっ"
+                ],
+                [
+                    "起",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. erection (of the penis); becoming erect; stiffening Physiology"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. welling up (of an emotion) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Erection Penile erection is a physiological phenomenon where the p... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. erection (of the penis); becoming erect; stiffening Physiology"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. welling up (of an emotion) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Erection Penile erection is a physiological phenomenon where the p... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    "ぼっ"
+                ],
+                [
+                    "起",
+                    "き"
+                ],
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "全",
+                    "ぜん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. erectile dysfunction "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Erectile dysfunction Erectile dysfunction (ED) is sexual dysfunction character... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. erectile dysfunction "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Erectile dysfunction Erectile dysfunction (ED) is sexual dysfunction character... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    "ぼっ"
+                ],
+                [
+                    "興",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. sudden rise to power; sudden rise in prosperity "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. sudden rise to power; sudden rise in prosperity "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    "ぼつ"
+                ],
+                [
+                    "々",
+                    "ぼつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. spirited; rising; energetic "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "勃勃 【ぼつぼつ】"
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. spirited; rising; energetic "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "勃勃 【ぼつぼつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    "ぼつ"
+                ],
+                [
+                    "然",
+                    "ぜん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb taking the 'to' particle, 'taru' adjective",
+                    "meaning": "1. suddenly; all at once "
+                },
+                {
+                    "type": "Adverb taking the 'to' particle, 'taru' adjective",
+                    "meaning": "2. flaring up (in anger); in a flare "
+                },
+                {
+                    "type": "Adverb taking the 'to' particle, 'taru' adjective",
+                    "meaning": "1. suddenly; all at once "
+                },
+                {
+                    "type": "Adverb taking the 'to' particle, 'taru' adjective",
+                    "meaning": "2. flaring up (in anger); in a flare "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    "ぼっ"
+                ],
+                [
+                    "起",
+                    "き"
+                ],
+                [
+                    "障",
+                    "しょう"
+                ],
+                [
+                    "害",
+                    "がい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. erectile dysfunction; ED "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. erectile dysfunction; ED "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    "た"
+                ],
+                [
+                    "つ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'tsu' ending, Intransitive verb",
+                    "meaning": "1. to have an erection; to become erect Colloquial, See also 勃起, See also 立つ"
+                },
+                {
+                    "type": "Godan verb with 'tsu' ending, Intransitive verb",
+                    "meaning": "1. to have an erection; to become erect Colloquial, See also 勃起, See also 立つ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    null
+                ],
+                [
+                    "利",
+                    null
+                ],
+                [
+                    "県",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Boli County Boli County is a county of southeastern Heilongjiang prov... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勃",
+                    null
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "屋",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Fluffer Commonly, a fluffer keeps an adult film star \"cleaned up\"... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朝",
+                    "あさ"
+                ],
+                [
+                    "立",
+                    "だ"
+                ],
+                [
+                    "ち",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. erection when waking in the morning; nocturnal penile tumescence; morning glory; morning wood 朝立ちやしょんべんまでの命かな。A morning erection: Will it last only until I take a leak?"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. early morning departure Only applies to 朝立ち"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "朝勃ち 【あさだち】、朝起ち 【あさだち】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "朝立ち",
+                            "あさだ"
+                        ],
+                        [
+                            "や",
+                            null
+                        ],
+                        [
+                            "しょんべん",
+                            null
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "命",
+                            "いのち"
+                        ],
+                        [
+                            "かな",
+                            null
+                        ]
+                    ],
+                    "translation": "A morning erection: Will it last only until I take a leak?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "雄",
+                    "ゆう"
+                ],
+                [
+                    "心",
+                    "しん"
+                ],
+                [
+                    "勃",
+                    "ぼつ"
+                ],
+                [
+                    "々",
+                    "ぼつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. aspiring; ambitious Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "雄心勃勃 【ゆうしんぼつぼつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "鬱",
+                    "うつ"
+                ],
+                [
+                    "勃",
+                    "ぼつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. pent-up (energy, enthusiasm, etc.); burning (e.g. ambition); irrepressible (e.g. desire) Formal or literary term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "半",
+                    "はん"
+                ],
+                [
+                    "勃",
+                    "ぼっ"
+                ],
+                [
+                    "起",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. semi-erection; half-boner Colloquial"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "持",
+                    "じ"
+                ],
+                [
+                    "続",
+                    "ぞく"
+                ],
+                [
+                    "勃",
+                    "ぼっ"
+                ],
+                [
+                    "起",
+                    "き"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. priapism Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Priapism Priapism is a potentially painful medical condition, in w... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "そ",
+                    null
+                ],
+                [
+                    "そ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "勃",
+                    "た"
+                ],
+                [
+                    "つ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'tsu' ending, Intransitive verb",
+                    "meaning": "1. to become erect (penis, nipple, etc.); to tower (like an erection) See also そそり立つ そそりたつ, pun on そそり立つ"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

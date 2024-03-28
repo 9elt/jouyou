@@ -1,0 +1,1443 @@
+{
+    "kanji": "謀",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "conspire",
+        "cheat",
+        "impose on",
+        "plan",
+        "devise",
+        "scheme",
+        "have in mind",
+        "deceive"
+    ],
+    "kun": [
+        "はか.る",
+        "たばか.る",
+        "はかりごと"
+    ],
+    "on": [
+        "ボウ",
+        "ム"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.18807339449541285,
+            0.13761467889908258,
+            "c",
+            0.02651376146788991,
+            0.014128440366972478,
+            0.06844036697247706,
+            0.05825688073394495,
+            0.07504587155963302,
+            0.08027522935779817
+        ],
+        [
+            "M",
+            0.09743119266055045,
+            0.3111009174311926,
+            "c",
+            0.0181651376146789,
+            0.005504587155963302,
+            0.03972477064220183,
+            0.009908256880733945,
+            0.05862385321100917,
+            0.007247706422018349,
+            "c",
+            0.06293577981651377,
+            -0.008715596330275228,
+            0.11201834862385322,
+            -0.020825688073394497,
+            0.15706422018348626,
+            -0.024862385321100917,
+            "c",
+            0.014128440366972478,
+            -0.0012844036697247708,
+            0.029174311926605506,
+            -0.001559633027522936,
+            0.04321100917431193,
+            0.0010091743119266055
+        ],
+        [
+            "M",
+            0.13926605504587156,
+            0.4294495412844037,
+            "c",
+            0.012385321100917432,
+            0.0034862385321100917,
+            0.028256880733944955,
+            0.0016513761467889907,
+            0.0408256880733945,
+            -0.0001834862385321101,
+            "c",
+            0.039266055045871565,
+            -0.005688073394495413,
+            0.07761467889908258,
+            -0.013211009174311925,
+            0.11348623853211008,
+            -0.01853211009174312,
+            "c",
+            0.012293577981651376,
+            -0.001834862385321101,
+            0.026788990825688072,
+            -0.0045871559633027525,
+            0.039174311926605504,
+            -0.002477064220183486
+        ],
+        [
+            "M",
+            0.14036697247706423,
+            0.5443119266055045,
+            "c",
+            0.011192660550458715,
+            0.0033944954128440367,
+            0.024770642201834864,
+            0.003669724770642202,
+            0.03642201834862385,
+            0.0029357798165137615,
+            "c",
+            0.034678899082568805,
+            -0.002201834862385321,
+            0.08990825688073395,
+            -0.015137614678899082,
+            0.12834862385321102,
+            -0.02165137614678899,
+            "c",
+            0.01165137614678899,
+            -0.001926605504587156,
+            0.02330275229357798,
+            -0.005137614678899083,
+            0.03504587155963303,
+            -0.003027522935779817
+        ],
+        [
+            "M",
+            0.13311926605504587,
+            0.6652293577981652,
+            "c",
+            0.007155963302752294,
+            0.006513761467889908,
+            0.009174311926605505,
+            0.016238532110091745,
+            0.011009174311926604,
+            0.02522935779816514,
+            "c",
+            0.006238532110091744,
+            0.03018348623853211,
+            0.011743119266055046,
+            0.08027522935779817,
+            0.017706422018348624,
+            0.12357798165137615,
+            "c",
+            0.0021100917431192663,
+            0.015045871559633026,
+            0.004220183486238533,
+            0.029174311926605506,
+            0.006513761467889908,
+            0.04146788990825688
+        ],
+        [
+            "M",
+            0.15477064220183487,
+            0.68,
+            "c",
+            0.06321100917431192,
+            -0.008990825688073394,
+            0.09605504587155964,
+            -0.015688073394495412,
+            0.14211009174311925,
+            -0.02238532110091743,
+            "c",
+            0.02568807339449541,
+            -0.0037614678899082566,
+            0.045504587155963304,
+            -0.004678899082568807,
+            0.03935779816513762,
+            0.026788990825688072,
+            "c",
+            -0.006422018348623853,
+            0.032293577981651375,
+            -0.01091743119266055,
+            0.06880733944954129,
+            -0.024587155963302753,
+            0.12229357798165137
+        ],
+        [
+            "M",
+            0.17660550458715596,
+            0.8288990825688073,
+            "c",
+            0.03605504587155964,
+            -0.004220183486238533,
+            0.07165137614678899,
+            -0.005504587155963302,
+            0.11605504587155964,
+            -0.01091743119266055,
+            "c",
+            0.01128440366972477,
+            -0.0013761467889908255,
+            0.0226605504587156,
+            -0.0022935779816513763,
+            0.03577981651376147,
+            -0.0022935779816513763
+        ],
+        [
+            "M",
+            0.4144954128440367,
+            0.24412844036697248,
+            "c",
+            0.02330275229357798,
+            0.0057798165137614675,
+            0.043486238532110096,
+            0.008532110091743119,
+            0.06724770642201836,
+            0.006330275229357797,
+            "c",
+            0.08100917431192661,
+            -0.0076146788990825685,
+            0.20522935779816515,
+            -0.025596330275229357,
+            0.2968807339449541,
+            -0.035871559633027524,
+            "c",
+            0.023211009174311924,
+            -0.0025688073394495416,
+            0.0453211009174312,
+            -0.0057798165137614675,
+            0.06825688073394495,
+            -0.00009174311926605505
+        ],
+        [
+            "M",
+            0.5073394495412844,
+            0.13761467889908258,
+            "c",
+            0.008256880733944955,
+            0.008256880733944955,
+            0.011009174311926604,
+            0.01834862385321101,
+            0.011009174311926604,
+            0.033211009174311926,
+            "c",
+            0,
+            0.04614678899082569,
+            0.0008256880733944953,
+            0.1746788990825688,
+            0.0008256880733944953,
+            0.27165137614678897,
+            "c",
+            0,
+            0.020550458715596333,
+            -0.00045871559633027525,
+            0.036146788990825685,
+            -0.0006422018348623854,
+            0.04357798165137615
+        ],
+        [
+            "M",
+            0.7079816513761468,
+            0.10623853211009174,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.011467889908256881,
+            0.021009174311926605,
+            0.011467889908256881,
+            0.03706422018348624,
+            "c",
+            0,
+            0.04403669724770642,
+            0.0002752293577981651,
+            0.19495412844036697,
+            -0.0001834862385321101,
+            0.2793577981651376,
+            "c",
+            -0.00009174311926605505,
+            0.020917431192660547,
+            -0.0001834862385321101,
+            0.0373394495412844,
+            -0.0001834862385321101,
+            0.046330275229357794
+        ],
+        [
+            "M",
+            0.5303669724770642,
+            0.35477064220183485,
+            "c",
+            0.023853211009174313,
+            -0.0032110091743119264,
+            0.15963302752293576,
+            -0.01944954128440367,
+            0.17642201834862387,
+            -0.01944954128440367
+        ],
+        [
+            "M",
+            0.5280733944954129,
+            0.46559633027522934,
+            "c",
+            0.04761467889908257,
+            -0.0034862385321100917,
+            0.14596330275229358,
+            -0.014403669724770642,
+            0.17963302752293575,
+            -0.016055045871559634
+        ],
+        [
+            "M",
+            0.40211009174311924,
+            0.5772477064220184,
+            "c",
+            0.025779816513761468,
+            0.0077981651376146785,
+            0.05,
+            0.006605504587155963,
+            0.07614678899082569,
+            0.0029357798165137615,
+            "c",
+            0.08825688073394494,
+            -0.012293577981651376,
+            0.23183486238532108,
+            -0.020550458715596333,
+            0.3324770642201835,
+            -0.024036697247706424,
+            "c",
+            0.02284403669724771,
+            -0.0008256880733944953,
+            0.042477064220183484,
+            0.0001834862385321101,
+            0.06495412844036698,
+            0.004311926605504587
+        ],
+        [
+            "M",
+            0.6113761467889909,
+            0.4935779816513761,
+            "c",
+            0.008899082568807339,
+            0.008899082568807339,
+            0.012201834862385321,
+            0.022477064220183487,
+            0.012201834862385321,
+            0.03853211009174312,
+            "c",
+            0,
+            0.08348623853211008,
+            0.0005504587155963302,
+            0.2001834862385321,
+            -0.00009174311926605505,
+            0.3072477064220184,
+            "c",
+            -0.0001834862385321101,
+            0.024220183486238535,
+            -0.0002752293577981651,
+            0.047889908256880734,
+            -0.0002752293577981651,
+            0.07064220183486239
+        ],
+        [
+            "M",
+            0.6074311926605505,
+            0.5761467889908256,
+            "c",
+            0,
+            0.015596330275229357,
+            -0.008899082568807339,
+            0.027155963302752294,
+            -0.01889908256880734,
+            0.043119266055045874,
+            "C",
+            0.5346788990825688,
+            0.7055045871559633,
+            0.4755963302752294,
+            0.7728440366972477,
+            0.38073394495412843,
+            0.8290825688073394
+        ],
+        [
+            "M",
+            0.6294495412844037,
+            0.5852293577981651,
+            "c",
+            0.03,
+            0.03403669724770642,
+            0.1208256880733945,
+            0.12009174311926606,
+            0.18018348623853211,
+            0.17743119266055046,
+            "c",
+            0.01834862385321101,
+            0.017706422018348624,
+            0.040458715596330276,
+            0.03779816513761468,
+            0.06192660550458716,
+            0.051834862385321104
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "謀",
+                    "はかりごと"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. plan; strategy "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "籌 【はかりごと】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. plan; strategy "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "籌 【はかりごと】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "図",
+                    "はか"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to plan; to attempt; to devise 私はいろいろな機会を利用して英語の上達をはかった。I made use of every opportunity to improve my English."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to plot; to conspire; to scheme esp. 謀る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to aim for; to strive for; to work towards; to seek Only applies to 図るその会社は市場を拡大するために最近の製品の多角化を図った。The firm has recently diversified its products so as to extend its market."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "4. to deceive; to trick; to take in "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "謀る 【はかる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to plan; to attempt; to devise 私はいろいろな機会を利用して英語の上達をはかった。I made use of every opportunity to improve my English."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to plot; to conspire; to scheme esp. 謀る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to aim for; to strive for; to work towards; to seek Only applies to 図るその会社は市場を拡大するために最近の製品の多角化を図った。The firm has recently diversified its products so as to extend its market."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "4. to deceive; to trick; to take in "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "謀る 【はかる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いろいろな",
+                            null
+                        ],
+                        [
+                            "機会",
+                            "きかい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "利用",
+                            "りよう"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "英語",
+                            "えいご"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "上達",
+                            "じょうたつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "はかった",
+                            null
+                        ]
+                    ],
+                    "translation": "I made use of every opportunity to improve my English."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "会社",
+                            "かいしゃ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "市場",
+                            "しじょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "拡大",
+                            "かくだい"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "最近の",
+                            "さいきん"
+                        ],
+                        [
+                            "製品",
+                            "せいひん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "多角化",
+                            "たかくか"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "図った",
+                            "はか"
+                        ]
+                    ],
+                    "translation": "The firm has recently diversified its products so as to extend its market."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. plot; conspiracy; conference "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. plot; conspiracy; conference "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "略",
+                    "りゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. scheme; plot; artifice; stratagem; trick "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. scheme; plot; artifice; stratagem; trick "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "たばか"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to work out a plan of deception; to scheme; to take in; to dupe; to deceive Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to think up a plan; to think over a plan Archaic"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to discuss; to consult Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "計",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conspiracy; plot "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "大",
+                    "たい"
+                ],
+                [
+                    "逆",
+                    "ぎゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. plotting to damage the imperial palace or an imperial tomb Archaic, See also 八虐"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "将",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. military general skilled at strategy "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. forgery of documents; forged document Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "図",
+                    "はか"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "ず",
+                    null
+                ],
+                [
+                    "も",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. unexpectedly; by chance; by accident "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "謀らずも 【はからずも】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "謀らずも: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "殺",
+                    "さつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. premeditated murder; deliberate murder; willful murder; wilful murder "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "む"
+                ],
+                [
+                    "反",
+                    "ほん"
+                ],
+                [
+                    "人",
+                    "にん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rebel; traitor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "略",
+                    "りゃく"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conspiracy theory See also 陰謀論"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "臣",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. strategist; tactician; schemer "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "む"
+                ],
+                [
+                    "反",
+                    "ほん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. rebellion; revolt; insurrection; treason "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "謀叛 【むほん】、謀叛 【ぼうはん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. plotting to overthrow the government (by assassinating the emperor) Archaic, See also 八虐, sometimes むほん"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "謀反 【ぼうへん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謀",
+                    "はかりごと"
+                ],
+                [
+                    "は",
+                    null
+                ],
+                [
+                    "密",
+                    "みつ"
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "良",
+                    "よ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "と",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Su verb - precursor to the modern suru",
+                    "meaning": "1. strategies cannot succeed unless they are kept secret Proverb"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "謀",
+                "すえた"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sueta "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sueda "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Suetsumu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "参",
+                    "さん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. staff officer; military staff "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. adviser; counselor; counsellor "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Staff (military) A military staff, often referred to as General Staff, Arm... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陰",
+                    "いん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. plot; intrigue; scheme "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. conspiracy; agreement between two or more people to commit an unlawful act Law"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "隠謀 【いんぼう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陰",
+                    "いん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "説",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conspiracy theory "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "首",
+                    "しゅ"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ringleader; mastermind; leader (of a plot) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "主謀者 【しゅぼうしゃ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "権",
+                    "けん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. scheme; stratagem; ploy "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. reckless; thoughtless; rash; ill-advised; impulsive; mad (e.g. scheme) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "無暴 【むぼう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "無暴: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "首",
+                    "しゅ"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. plotting; planning (crime, intrigue) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. ringleader; mastermind; leader (of a plot) See also 首謀者"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "主謀 【しゅぼう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "共",
+                    "きょう"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. conspiracy; collusion; complicity "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "権",
+                    "けん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "術",
+                    "じゅっ"
+                ],
+                [
+                    "数",
+                    "すう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. trickery; wiles; finesse; Machiavellism Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "策",
+                    "さく"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. strategy; artifice "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "参",
+                    "さん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "長",
+                    "ちょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chief of staff Military, See also 参謀"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Chief of staff The title, chief of staff, identifies the leader of a com... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陰",
+                    "いん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conspiracy theory "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Conspiracy theory A conspiracy theory explains an event as being the result... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "火",
+                    "か"
+                ],
+                [
+                    "薬",
+                    "やく"
+                ],
+                [
+                    "陰",
+                    "いん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "件",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Gunpowder Plot (of 1605) Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gunpowder Plot The Gunpowder Plot of 1605, in earlier centuries often ca... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "参",
+                    "さん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ],
+                [
+                    "本",
+                    "ほん"
+                ],
+                [
+                    "部",
+                    "ぶ"
+                ],
+                [
+                    "情",
+                    "じょう"
+                ],
+                [
+                    "報",
+                    "ほう"
+                ],
+                [
+                    "総",
+                    "そう"
+                ],
+                [
+                    "局",
+                    "きょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Chief Administration for Intelligence Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Chief Administration for Intelligence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "深",
+                    "しん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. deliberate; careful; thoughtful; deeply laid plan "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奸",
+                    "かん"
+                ],
+                [
+                    "謀",
+                    "ぼう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wicked design; vicious plan; plot "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "姦謀 【かんぼう】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

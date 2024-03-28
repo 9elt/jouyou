@@ -1,0 +1,1606 @@
+{
+    "kanji": "承",
+    "grade": 6,
+    "jlpt": 2,
+    "meanings": [
+        "acquiesce",
+        "hear",
+        "listen to",
+        "be informed",
+        "receive"
+    ],
+    "kun": [
+        "うけたまわ.る",
+        "う.ける"
+    ],
+    "on": [
+        "ショウ",
+        "ジョウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.32137614678899085,
+            0.1573394495412844,
+            "c",
+            0.020458715596330276,
+            0.0077981651376146785,
+            0.03880733944954129,
+            0.008532110091743119,
+            0.06055045871559633,
+            0.004678899082568807,
+            "c",
+            0.05954128440366973,
+            -0.010642201834862385,
+            0.1375229357798165,
+            -0.03128440366972477,
+            0.1789908256880734,
+            -0.040458715596330276,
+            "c",
+            0.013853211009174311,
+            -0.003027522935779817,
+            0.029174311926605506,
+            0.008990825688073394,
+            0.015321100917431192,
+            0.027798165137614676,
+            "c",
+            -0.026972477064220183,
+            0.03642201834862385,
+            -0.07403669724770642,
+            0.09495412844036696,
+            -0.12422018348623852,
+            0.13761467889908258
+        ],
+        [
+            "M",
+            0.43064220183486235,
+            0.2957798165137615,
+            "c",
+            0.06706422018348623,
+            0.09073394495412844,
+            0.10944954128440366,
+            0.3636697247706422,
+            0.029357798165137616,
+            0.5397247706422018,
+            "c",
+            -0.04064220183486238,
+            0.08926605504587157,
+            -0.07807339449541284,
+            0.02688073394495413,
+            -0.09073394495412844,
+            0.01
+        ],
+        [
+            "M",
+            0.3669724770642202,
+            0.3957798165137615,
+            "c",
+            0.008623853211009174,
+            0.0034862385321100917,
+            0.024403669724770642,
+            0.004036697247706422,
+            0.03302752293577982,
+            0.0034862385321100917,
+            "c",
+            0.038073394495412846,
+            -0.002477064220183486,
+            0.10770642201834862,
+            -0.00926605504587156,
+            0.15284403669724772,
+            -0.013027522935779816,
+            "c",
+            0.012660550458715595,
+            -0.0010091743119266055,
+            0.022935779816513763,
+            -0.0017431192660550458,
+            0.02944954128440367,
+            -0.002018348623853211
+        ],
+        [
+            "M",
+            0.36926605504587157,
+            0.5173394495412844,
+            "c",
+            0.008623853211009174,
+            0.0034862385321100917,
+            0.024403669724770642,
+            0.003853211009174312,
+            0.03302752293577982,
+            0.0034862385321100917,
+            "c",
+            0.033486238532110094,
+            -0.0013761467889908255,
+            0.10055045871559634,
+            -0.008256880733944955,
+            0.14605504587155962,
+            -0.012201834862385321,
+            "c",
+            0.016788990825688074,
+            -0.0014678899082568807,
+            0.03055045871559633,
+            -0.0001834862385321101,
+            0.03844036697247707,
+            -0.00045871559633027525
+        ],
+        [
+            "M",
+            0.3532110091743119,
+            0.6549541284403669,
+            "c",
+            0.008623853211009174,
+            0.0034862385321100917,
+            0.024403669724770642,
+            0.0039449541284403665,
+            0.03302752293577982,
+            0.0034862385321100917,
+            "C",
+            0.43119266055045874,
+            0.6559633027522935,
+            0.5137614678899083,
+            0.643302752293578,
+            0.578440366972477,
+            0.6295412844036697,
+            "c",
+            0.016238532110091745,
+            -0.0034862385321100917,
+            0.02926605504587156,
+            -0.001926605504587156,
+            0.035871559633027524,
+            -0.002201834862385321
+        ],
+        [
+            "M",
+            0.10550458715596331,
+            0.4461467889908257,
+            "c",
+            0.01128440366972477,
+            0.0029357798165137615,
+            0.028073394495412844,
+            0.004220183486238533,
+            0.040458715596330276,
+            0.0012844036697247708,
+            "c",
+            0.024954128440366975,
+            -0.005871559633027523,
+            0.08798165137614679,
+            -0.027706422018348623,
+            0.11348623853211008,
+            -0.03844036697247707,
+            "c",
+            0.020458715596330276,
+            -0.008623853211009174,
+            0.03853211009174312,
+            -0.0008256880733944953,
+            0.035229357798165134,
+            0.02587155963302752,
+            "c",
+            -0.011376146788990826,
+            0.09036697247706421,
+            -0.09513761467889907,
+            0.2600917431192661,
+            -0.16899082568807341,
+            0.3403669724770642
+        ],
+        [
+            "M",
+            0.7821100917431193,
+            0.29128440366972475,
+            "c",
+            0,
+            0.009174311926605505,
+            -0.004036697247706422,
+            0.017798165137614678,
+            -0.008715596330275228,
+            0.024495412844036696,
+            "c",
+            -0.031376146788990825,
+            0.04477064220183486,
+            -0.09247706422018348,
+            0.0971559633027523,
+            -0.14275229357798166,
+            0.12
+        ],
+        [
+            "M",
+            0.5802752293577982,
+            0.4288990825688073,
+            "c",
+            0.03385321100917431,
+            0.010550458715596329,
+            0.15825688073394495,
+            0.21229357798165138,
+            0.23889908256880732,
+            0.2943119266055046,
+            "c",
+            0.017155963302752295,
+            0.017431192660550456,
+            0.03642201834862385,
+            0.03431192660550459,
+            0.056972477064220185,
+            0.04743119266055046
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. second line of a four-line Chinese poem Abbreviation, See also 承句"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to receive; to get ６５歳以上の人たちは政府から年金を受けている。People 65 and above get a pension from the government."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to catch (e.g. a ball) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to be struck by (wind, waves, sunlight, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to sustain (damage); to incur (a loss); to suffer (an injury); to feel (influence) 立ち退きの予告を受けた。We received an eviction notice."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to undergo (e.g. surgery); to take (a test); to accept (a challenge) 喜んでお申し出をお受けします。We gladly accept your offer."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to be given (e.g. life, talent) esp. 受ける, 享ける"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "7. to find funny; to find humorous; to be amused (by) Colloquial, Usually written using kana alone, esp. ウケる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to follow; to succeed; to be descended from esp. 受ける, 享ける"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "9. to face (south, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "10. to be modified by Linguistics, esp. 受ける, 承ける"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "11. to obtain (a pawned item, etc.) by paying a fee See also 請け出す, esp. 請ける; now primarily used in compound words"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "12. to be well-received; to become popular; to go down well Usually written using kana alone, esp. ウケる, うける冗談が受けたよ。My joke went over very well."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請ける 【うける】、承ける 【うける】、享ける 【うける】、ウケる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to receive; to get ６５歳以上の人たちは政府から年金を受けている。People 65 and above get a pension from the government."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to catch (e.g. a ball) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to be struck by (wind, waves, sunlight, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to sustain (damage); to incur (a loss); to suffer (an injury); to feel (influence) 立ち退きの予告を受けた。We received an eviction notice."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to undergo (e.g. surgery); to take (a test); to accept (a challenge) 喜んでお申し出をお受けします。We gladly accept your offer."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to be given (e.g. life, talent) esp. 受ける, 享ける"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "7. to find funny; to find humorous; to be amused (by) Colloquial, Usually written using kana alone, esp. ウケる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to follow; to succeed; to be descended from esp. 受ける, 享ける"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "9. to face (south, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "10. to be modified by Linguistics, esp. 受ける, 承ける"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "11. to obtain (a pawned item, etc.) by paying a fee See also 請け出す, esp. 請ける; now primarily used in compound words"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "12. to be well-received; to become popular; to go down well Usually written using kana alone, esp. ウケる, うける冗談が受けたよ。My joke went over very well."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請ける 【うける】、承ける 【うける】、享ける 【うける】、ウケる"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "歳",
+                            "さい"
+                        ],
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "人たち",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "政府",
+                            "せいふ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "年金",
+                            "ねんきん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "受けている",
+                            "うけ"
+                        ]
+                    ],
+                    "translation": "People 65 and above get a pension from the government."
+                },
+                {
+                    "sentence": [
+                        [
+                            "立ち退き",
+                            "たちの"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "予告",
+                            "よこく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "受けた",
+                            "う"
+                        ]
+                    ],
+                    "translation": "We received an eviction notice."
+                },
+                {
+                    "sentence": [
+                        [
+                            "喜んで",
+                            "よろこ"
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "申し出",
+                            "もうしで"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "お受け",
+                            "う"
+                        ],
+                        [
+                            "します",
+                            null
+                        ]
+                    ],
+                    "translation": "We gladly accept your offer."
+                },
+                {
+                    "sentence": [
+                        [
+                            "冗談",
+                            "じょうだん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "受けた",
+                            "う"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "My joke went over very well."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "諾",
+                    "だく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. consent; approval; acceptance; agreement; compliance Antonym: 拒否"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Acceptance Acceptance in human psychology is a person's assent to th... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. consent; approval; acceptance; agreement; compliance Antonym: 拒否"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Acceptance Acceptance in human psychology is a person's assent to th... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. knowledge; awareness 人はすべて死すべきものと承知している。We know that all men are mortal."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. acceptance; consent; assent; agreement; compliance; acknowledgment; acknowledgement よろしい。お申し出は承知しました。All right. I'll accept your offer."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. forgiving; pardoning; excusing usu. in the negative"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. knowledge; awareness 人はすべて死すべきものと承知している。We know that all men are mortal."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. acceptance; consent; assent; agreement; compliance; acknowledgment; acknowledgement よろしい。お申し出は承知しました。All right. I'll accept your offer."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. forgiving; pardoning; excusing usu. in the negative"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "すべて",
+                            null
+                        ],
+                        [
+                            "死すべき",
+                            "し"
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "承知",
+                            "しょうち"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "We know that all men are mortal."
+                },
+                {
+                    "sentence": [
+                        [
+                            "よろしい",
+                            null
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "申し出",
+                            "もうしで"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "承知",
+                            "しょうち"
+                        ],
+                        [
+                            "しました",
+                            null
+                        ]
+                    ],
+                    "translation": "All right. I'll accept your offer."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "認",
+                    "にん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recognition; acknowledgement; acknowledgment; approval; consent; agreement "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recognition; acknowledgement; acknowledgment; approval; consent; agreement "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "うけたまわ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to hear; to be told; to know Humble (kenjougo) language展示会へのご招待、本日ありがたく承りました。Today, we received your invitation to the exhibition with pleasure."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to receive (order); to undertake; to comply; to take (a reservation, etc.) ご用は承っておりますか。Is anybody waiting on you?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受け賜る 【うけたまわる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "受け賜る: Irregular kanji usage."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to hear; to be told; to know Humble (kenjougo) language展示会へのご招待、本日ありがたく承りました。Today, we received your invitation to the exhibition with pleasure."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to receive (order); to undertake; to comply; to take (a reservation, etc.) ご用は承っておりますか。Is anybody waiting on you?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受け賜る 【うけたまわる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "受け賜る: Irregular kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "展示会",
+                            "てんじかい"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ご",
+                            null
+                        ],
+                        [
+                            "招待",
+                            "しょうたい"
+                        ],
+                        [
+                            "本日",
+                            "ほんじつ"
+                        ],
+                        [
+                            "ありがたく",
+                            null
+                        ],
+                        [
+                            "承りました",
+                            "うけたまわ"
+                        ]
+                    ],
+                    "translation": "Today, we received your invitation to the exhibition with pleasure."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ご用",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "承って",
+                            "うけたまわ"
+                        ],
+                        [
+                            "おります",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Is anybody waiting on you?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "諾",
+                    "だく"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. letter of acceptance; letter of consent "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. letter of acceptance; letter of consent "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. popularity; favour; favor; reception "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. defense; defence; reputation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. agreement "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. receiver of technique (e.g. in martial arts) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. bottom (submissive partner of a homosexual relationship) Usually written using kana alone, Slang, See also ねこ, See also 攻め, See also タチ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請け 【うけ】、承け 【うけ】、ウケ"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. popularity; favour; favor; reception "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. defense; defence; reputation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. agreement "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. receiver of technique (e.g. in martial arts) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. bottom (submissive partner of a homosexual relationship) Usually written using kana alone, Slang, See also ねこ, See also 攻め, See also タチ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請け 【うけ】、承け 【うけ】、ウケ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "継",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. succession; accession; inheritance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "紹継 【しょうけい】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. succession; accession; inheritance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "紹継 【しょうけい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "服",
+                    "ふく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. accepting; consenting; agreeing; submission; compliance; agreement; consent "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "承伏 【しょうふく】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. accepting; consenting; agreeing; submission; compliance; agreement; consent "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "承伏 【しょうふく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "じょう"
+                ],
+                [
+                    "和",
+                    "わ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Jōwa era (834.1.3-848.6.13); Shōwa era "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jōwa (Heian period) Jōwa was a Japanese era name after Tenchō and before Kash... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "承和 【しょうわ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "じょう"
+                ],
+                [
+                    "徳",
+                    "とく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Jōtoku era (1097.11.21-1099.8.28); Shōtoku era "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jōtoku Jōtoku was a Japanese era name after Eichō and before Kōw... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "承徳 【しょうとく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "上",
+                    "うえ"
+                ],
+                [
+                    "で",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. intentionally; on purpose; deliberately; taking something into account "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "じょう"
+                ],
+                [
+                    "保",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Jōhō era (1074.8.23-1077.11.17); Shōho era; Shōhō era "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jōhō Jōhō was a Japanese era name (年号, nengō, lit. year name) ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "承保 【しょうほ】、承保 【しょうほう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "じょう"
+                ],
+                [
+                    "暦",
+                    "りゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Jōryaku era (1077.11.17-1081.2.10); Shōryaku era "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jōryaku Jōryaku was a Japanese era name (年号, nengō, lit. year nam... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "承暦 【しょうりゃく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "応",
+                    "おう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Shōō era (1652.9.18-1655.4.13); Jōō era "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jōō (Edo period) , alternatively romanized as Jō-ō or Shōō, was a Japanese... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "承応 【じょうおう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "じょう"
+                ],
+                [
+                    "元",
+                    "げん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Jōgen era (1207.10.25-1211.3.9); Shōgen era "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jōgen (Kamakura period) Jōgen was a Japanese era name (年号, nengō, lit. year name)... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "承元 【しょうげん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Jōgen era (1207.10.25-1211.3.9); Shōgen era "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jōgen (Kamakura period) Jōgen was a Japanese era name (年号, nengō, lit. year name)... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "承元 【しょうげん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "じょう"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Jōkyū era (1219.4.12-1222.4.13); Shōkyū era "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jōkyū , also called Shōkyū, was a Japanese era name (年号, nengō,... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "承久 【しょうきゅう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "口",
+                    "ぐち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. mouth with a protruding lower lip and jaw "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. socket; receiving window; slot Only applies to うけぐち"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "3. Ukeguchi "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受け口 【うけくち】、受口 【うけぐち】、受口 【うけくち】、承口 【うけぐち】、承口 【うけくち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. development of a text See also 起承転結"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. the second line in a four-line Chinese poem "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "承",
+                "かつい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsui "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsuki "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsuji "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "了",
+                    "りょう"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. acknowledgement; acknowledgment; understanding; approval; consent See also ご了承"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "諒承 【りょうしょう】、領承 【りょうしょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "諒承: Rarely-used kanji form. 領承: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. inheritance; succession; accession "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. share-alike Law"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. inheritance Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "間",
+                    "かん"
+                ],
+                [
+                    "伝",
+                    "でん"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. folklore "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "認",
+                    "にん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. disapproval; dissent; veto "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "王",
+                    "おう"
+                ],
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. heir to a throne "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. successor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "了",
+                    "りょう"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "済",
+                    "ず"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. acknowledged; accepted; agreed 明日会合があるということは了承済みだ。It is accepted that we'll have a meeting tomorrow."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "明日",
+                            "あした"
+                        ],
+                        [
+                            "会合",
+                            "かいごう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "いう",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "了承済み",
+                            "りょうしょうず"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "It is accepted that we'll have a meeting tomorrow."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "伝",
+                    "でん"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. handing down (information); legend; tradition; folklore; transmission "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Folklore Folklore (or lore) consists of legends, music, oral histo... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傳承 【でんしょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "傳承: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘉",
+                    "か"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kashō era (1106.4.9-1108.8.3) Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Kajō , also romanized as Kashō, was a Japanese era name after ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Tenshō era (1131.1.29-1132.8.11) Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Daiji (era) Daiji was a Japanese era name after Tenji and before Tens... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "李承晩",
+                "りしょうばん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Full name",
+                    "meaning": "1. Ri Shouban "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Syngman Rhee Syngman Rhee or Yi Seungman (March 26, 1875 – July 19, 19... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

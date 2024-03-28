@@ -1,0 +1,985 @@
+{
+    "kanji": "呈",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "display",
+        "offer",
+        "present",
+        "send",
+        "exhibit"
+    ],
+    "kun": [
+        "テイ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.26339449541284404,
+            0.175045871559633,
+            "c",
+            0.0081651376146789,
+            0.005412844036697248,
+            0.01330275229357798,
+            0.012844036697247705,
+            0.015412844036697248,
+            0.02220183486238532,
+            "c",
+            0.012477064220183487,
+            0.04238532110091743,
+            0.024862385321100917,
+            0.08871559633027523,
+            0.037706422018348625,
+            0.15137614678899083,
+            "c",
+            0.0025688073394495416,
+            0.012568807339449543,
+            0.005137614678899083,
+            0.0255045871559633,
+            0.007706422018348624,
+            0.038623853211009175
+        ],
+        [
+            "M",
+            0.2846788990825688,
+            0.18761467889908257,
+            "c",
+            0.10302752293577983,
+            -0.014311926605504588,
+            0.31128440366972476,
+            -0.03669724770642202,
+            0.38522935779816514,
+            -0.043944954128440364,
+            "c",
+            0.028073394495412844,
+            -0.002752293577981651,
+            0.050733944954128446,
+            0.0077981651376146785,
+            0.041834862385321095,
+            0.03908256880733945,
+            "c",
+            -0.011743119266055046,
+            0.04128440366972477,
+            -0.027981651376146787,
+            0.07587155963302752,
+            -0.052477064220183486,
+            0.13724770642201836
+        ],
+        [
+            "M",
+            0.3287155963302752,
+            0.3608256880733945,
+            "c",
+            0.06577981651376147,
+            -0.008715596330275228,
+            0.2098165137614679,
+            -0.02256880733944954,
+            0.3065137614678899,
+            -0.03128440366972477,
+            "c",
+            0.016972477064220184,
+            -0.001559633027522936,
+            0.03220183486238532,
+            -0.0028440366972477065,
+            0.044862385321100914,
+            -0.003669724770642202
+        ],
+        [
+            "M",
+            0.26605504587155965,
+            0.49513761467889905,
+            "c",
+            0.02642201834862385,
+            0.0037614678899082566,
+            0.053944954128440366,
+            0.0012844036697247708,
+            0.07449541284403668,
+            -0.0012844036697247708,
+            "c",
+            0.07018348623853211,
+            -0.008990825688073394,
+            0.23045871559633027,
+            -0.024770642201834864,
+            0.3235779816513762,
+            -0.031376146788990825,
+            "c",
+            0.020458715596330276,
+            -0.0014678899082568807,
+            0.04568807339449542,
+            -0.0025688073394495416,
+            0.06522935779816515,
+            0.0032110091743119264
+        ],
+        [
+            "M",
+            0.48623853211009177,
+            0.5022935779816514,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.011467889908256881,
+            0.016055045871559634,
+            0.011467889908256881,
+            0.02981651376146789,
+            "c",
+            0,
+            0.06422018348623854,
+            0,
+            0.2053211009174312,
+            0,
+            0.2706422018348624
+        ],
+        [
+            "M",
+            0.268348623853211,
+            0.6444954128440367,
+            "c",
+            0.022935779816513763,
+            0.005688073394495413,
+            0.058990825688073394,
+            0.0033027522935779813,
+            0.07697247706422018,
+            0.0013761467889908255,
+            "c",
+            0.08495412844036697,
+            -0.008807339449541284,
+            0.20752293577981654,
+            -0.024587155963302753,
+            0.3015596330275229,
+            -0.03330275229357798,
+            "c",
+            0.02587155963302752,
+            -0.0023853211009174312,
+            0.05733944954128441,
+            -0.003669724770642202,
+            0.08027522935779817,
+            0.0021100917431192663
+        ],
+        [
+            "M",
+            0.1444954128440367,
+            0.8301834862385321,
+            "c",
+            0.028165137614678898,
+            0.009724770642201836,
+            0.06504587155963303,
+            0.007064220183486239,
+            0.09403669724770643,
+            0.0047706422018348625,
+            "c",
+            0.18715596330275228,
+            -0.014495412844036697,
+            0.3402752293577982,
+            -0.030733944954128442,
+            0.5287155963302752,
+            -0.038256880733944953,
+            "c",
+            0.031467889908256885,
+            -0.0012844036697247708,
+            0.06743119266055045,
+            0.0008256880733944953,
+            0.09743119266055045,
+            0.012844036697247705
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "1. to present; to offer 一言苦言を呈したい。Let me give you a piece of advice."
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "2. to show; to display; to exhibit その界隈は行事で活気を呈している。The neighborhood is alive with activities."
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "3. to assume (e.g. a shape) "
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "1. to present; to offer 一言苦言を呈したい。Let me give you a piece of advice."
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "2. to show; to display; to exhibit その界隈は行事で活気を呈している。The neighborhood is alive with activities."
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "3. to assume (e.g. a shape) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "一言",
+                            "ひとこと"
+                        ],
+                        [
+                            "苦言",
+                            "くげん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "呈したい",
+                            "てい"
+                        ]
+                    ],
+                    "translation": "Let me give you a piece of advice."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "界隈",
+                            "かいわい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "行事",
+                            "ぎょうじ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "活気",
+                            "かっき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "呈している",
+                            "てい"
+                        ]
+                    ],
+                    "translation": "The neighborhood is alive with activities."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "出",
+                    "しゅつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. present; introduce "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. present; introduce "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "茶",
+                    "ちゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. serving tea (esp. in tea ceremony) Polite (teineigo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to present; to offer; to give See also 呈する"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to show; to display; to exhibit "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to assume (e.g. a shape) "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Susumu "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to present; to offer; to give See also 呈する"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to show; to display; to exhibit "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to assume (e.g. a shape) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "示",
+                    "じ"
+                ],
+                [
+                    "次",
+                    "し"
+                ],
+                [
+                    "第",
+                    "だい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. at (upon) presentation; when presented "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. at (upon) presentation; when presented "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. giving; gifting; presenting Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呈上 【ていしょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ていしょう: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. giving; gifting; presenting Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呈上 【ていしょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ていしょう: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "色",
+                    "しょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coloration; colouration; color; colour; coloring; colouring "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呈色 【ていしき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "示",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. presentation (of a passport, ID, bill of exchange, etc.); showing; production (e.g. of documents) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呈",
+                    null
+                ],
+                [
+                    "色",
+                    null
+                ],
+                [
+                    "反",
+                    null
+                ],
+                [
+                    "応",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Color reaction In chemistry, a color reaction or colour reaction is a ch... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呈",
+                    null
+                ],
+                [
+                    "貢",
+                    null
+                ],
+                [
+                    "区",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Chenggong District Chenggong District is a city district under the jurisdict... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "呈",
+                "たいら"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Taira "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Takumi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "贈",
+                    "ぞう"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. presentation (of a gift, prize, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. presentation (e.g. of a gift) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "露",
+                    "ろ"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. exposure; disclosure "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "様",
+                    "よう"
+                ],
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Suru verb - special class",
+                    "meaning": "1. to assume an aspect; to take on an appearance 望遠鏡を通してみると、惑星はまったく新たな様相を呈する。Seen through a telescope, the planets take on a completely new appearance."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "望遠鏡",
+                            "ぼうえんきょう"
+                        ],
+                        [
+                            "を通して",
+                            "をとお"
+                        ],
+                        [
+                            "みる",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "惑星",
+                            "わくせい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "まったく",
+                            null
+                        ],
+                        [
+                            "新たな",
+                            "あら"
+                        ],
+                        [
+                            "様相を呈する",
+                            "ようそうをてい"
+                        ]
+                    ],
+                    "translation": "Seen through a telescope, the planets take on a completely new appearance."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "贈",
+                    "ぞう"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "品",
+                    "ひん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. present; gift "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "贈",
+                    "ぞう"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "式",
+                    "しき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. presentation ceremony "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "贈",
+                    "ぞう"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "本",
+                    "ぼん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. complimentary copy (of a book) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "送",
+                    "そう"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. sending (one's own book, etc.) as a gift Formal or literary term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "献",
+                    "けん"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "本",
+                    "ぼん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. presentation book "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奉",
+                    "ほう"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. presentation (to someone of high status); submitting; offering Formal or literary term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "捧呈 【ほうてい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "案",
+                    "あん"
+                ],
+                [
+                    "内",
+                    "ない"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. presentation of a guidebook "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "謹",
+                    "きん"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. humbly presenting; respectfully presenting when giving a gift, esp. if one's own work"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ],
+                [
+                    "本",
+                    "ぼん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. complimentary copy "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "献",
+                    "けん"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. presentation; dedication "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拝",
+                    "はい"
+                ],
+                [
+                    "呈",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. presenting; presentation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Dear (so and so); Dear Sir; Dear Madam; To Whom It May Concern Honorific or respectful (sonkeigo) language, salutation of a formal letter"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

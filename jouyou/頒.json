@@ -1,0 +1,731 @@
+{
+    "kanji": "頒",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "distribute",
+        "disseminate",
+        "partition",
+        "understand"
+    ],
+    "kun": [
+        "わ.かつ",
+        "わ.ける"
+    ],
+    "on": [
+        "ハン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2556880733944954,
+            0.23009174311926603,
+            "c",
+            0.00009174311926605505,
+            0.009541284403669725,
+            0.0001834862385321101,
+            0.018807339449541282,
+            -0.0039449541284403665,
+            0.027522935779816515,
+            "c",
+            -0.03238532110091743,
+            0.06880733944954129,
+            -0.08935779816513761,
+            0.14605504587155962,
+            -0.14899082568807337,
+            0.19018348623853212
+        ],
+        [
+            "M",
+            0.33926605504587154,
+            0.21100917431192662,
+            "C",
+            0.3853211009174312,
+            0.2408256880733945,
+            0.4541284403669725,
+            0.3440366972477064,
+            0.47724770642201836,
+            0.4075229357798165
+        ],
+        [
+            "M",
+            0.16816513761467888,
+            0.4613761467889908,
+            "c",
+            0.017614678899082567,
+            0.003027522935779817,
+            0.03220183486238532,
+            0.003669724770642202,
+            0.04642201834862385,
+            0.0007339449541284404,
+            "c",
+            0.05917431192660551,
+            -0.012201834862385321,
+            0.13633027522935778,
+            -0.028807339449541284,
+            0.16706422018348624,
+            -0.032844036697247704,
+            "c",
+            0.02220183486238532,
+            -0.0029357798165137615,
+            0.03211009174311927,
+            0.008807339449541284,
+            0.030917431192660553,
+            0.02926605504587156,
+            "C",
+            0.40935779816513757,
+            0.5126605504587156,
+            0.3761467889908257,
+            0.7018348623853211,
+            0.3347706422018349,
+            0.7743119266055046,
+            "c",
+            -0.03834862385321101,
+            0.0671559633027523,
+            -0.05495412844036698,
+            0.027339449541284404,
+            -0.06844036697247706,
+            0.007064220183486239
+        ],
+        [
+            "M",
+            0.268348623853211,
+            0.4887155963302753,
+            "c",
+            0.00045871559633027525,
+            0.006330275229357797,
+            0.0014678899082568807,
+            0.01669724770642202,
+            -0.0009174311926605505,
+            0.0255045871559633,
+            "c",
+            -0.026238532110091743,
+            0.09816513761467889,
+            -0.06788990825688074,
+            0.18642201834862385,
+            -0.1481651376146789,
+            0.2573394495412844
+        ],
+        [
+            "M",
+            0.5063302752293578,
+            0.16825688073394496,
+            "c",
+            0.013669724770642202,
+            0.007889908256880733,
+            0.03963302752293578,
+            0.007247706422018349,
+            0.054587155963302755,
+            0.004862385321100918,
+            "c",
+            0.0928440366972477,
+            -0.014862385321100919,
+            0.161651376146789,
+            -0.020550458715596333,
+            0.24073394495412842,
+            -0.0255045871559633,
+            "c",
+            0.021192660550458715,
+            -0.0012844036697247708,
+            0.04761467889908257,
+            -0.0032110091743119264,
+            0.06798165137614678,
+            0.0039449541284403665
+        ],
+        [
+            "M",
+            0.6851376146788991,
+            0.18715596330275228,
+            "c",
+            0.0010091743119266055,
+            0.006513761467889908,
+            -0.00009174311926605505,
+            0.012660550458715595,
+            -0.0033944954128440367,
+            0.01834862385321101,
+            "c",
+            -0.00908256880733945,
+            0.022935779816513763,
+            -0.017155963302752295,
+            0.045504587155963304,
+            -0.0426605504587156,
+            0.08477064220183486
+        ],
+        [
+            "M",
+            0.5507339449541284,
+            0.3063302752293578,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.010825688073394495,
+            0.018990825688073393,
+            0.010825688073394495,
+            0.031743119266055046,
+            "c",
+            0,
+            0.010091743119266056,
+            -0.0002752293577981651,
+            0.24330275229357798,
+            -0.0002752293577981651,
+            0.34311926605504584,
+            "c",
+            0,
+            0.02596330275229358,
+            -0.0003669724770642202,
+            0.04275229357798165,
+            -0.0003669724770642202,
+            0.04403669724770642
+        ],
+        [
+            "M",
+            0.5665137614678899,
+            0.32137614678899085,
+            "c",
+            0.06880733944954129,
+            -0.010642201834862385,
+            0.21844036697247704,
+            -0.03036697247706422,
+            0.24110091743119266,
+            -0.032293577981651375,
+            "c",
+            0.01889908256880734,
+            -0.001559633027522936,
+            0.03376146788990826,
+            0.017706422018348624,
+            0.03220183486238532,
+            0.029541284403669727,
+            "c",
+            -0.001559633027522936,
+            0.011743119266055046,
+            0.0012844036697247708,
+            0.23963302752293578,
+            0.0006422018348623854,
+            0.3419266055045872,
+            "c",
+            -0.0001834862385321101,
+            0.028073394495412844,
+            -0.0002752293577981651,
+            0.04678899082568807,
+            -0.0002752293577981651,
+            0.048807339449541284
+        ],
+        [
+            "M",
+            0.5707339449541284,
+            0.4471559633027523,
+            "c",
+            0.07605504587155963,
+            -0.009541284403669725,
+            0.20330275229357797,
+            -0.0218348623853211,
+            0.2565137614678899,
+            -0.02532110091743119
+        ],
+        [
+            "M",
+            0.5704587155963303,
+            0.5714678899082569,
+            "c",
+            0.06504587155963303,
+            -0.009541284403669725,
+            0.19091743119266052,
+            -0.021100917431192658,
+            0.2588073394495413,
+            -0.025596330275229357
+        ],
+        [
+            "M",
+            0.5700000000000001,
+            0.6956880733944953,
+            "c",
+            0.07871559633027524,
+            -0.009357798165137614,
+            0.18880733944954126,
+            -0.017798165137614678,
+            0.2611926605504587,
+            -0.02256880733944954
+        ],
+        [
+            "M",
+            0.6169724770642202,
+            0.7443119266055045,
+            "c",
+            0.0022935779816513763,
+            0.011376146788990826,
+            -0.0010091743119266055,
+            0.018807339449541282,
+            -0.009174311926605505,
+            0.026972477064220183,
+            "C",
+            0.583302752293578,
+            0.7958715596330275,
+            0.5137614678899083,
+            0.841743119266055,
+            0.4522935779816514,
+            0.8738532110091743
+        ],
+        [
+            "M",
+            0.7671559633027524,
+            0.7511926605504586,
+            "c",
+            0.04779816513761468,
+            0.031467889908256885,
+            0.10422018348623853,
+            0.08862385321100917,
+            0.11724770642201834,
+            0.11623853211009175
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to divide (into); to split (into); to part; to separate; to divide up; to classify; to sort out; to divide out 彼は自分の本を５分野に分けた。He grouped his books into five categories."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to share; to distribute; to deal out; to dish out 母は子供たちに金をわけてやった。The mother divided the money among her children."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to distinguish; to discriminate; to differentiate (between) 君は夢と現実を分けることができないのか。Can't you divorce fantasy from reality?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to break up (a fight); to mediate "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to call a draw; to tie "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to push one's way through (a crowd) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to sell also written as 頒ける"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "別ける 【わける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "別ける: Rarely-used kanji form."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to divide (into); to split (into); to part; to separate; to divide up; to classify; to sort out; to divide out 彼は自分の本を５分野に分けた。He grouped his books into five categories."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to share; to distribute; to deal out; to dish out 母は子供たちに金をわけてやった。The mother divided the money among her children."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to distinguish; to discriminate; to differentiate (between) 君は夢と現実を分けることができないのか。Can't you divorce fantasy from reality?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to break up (a fight); to mediate "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to call a draw; to tie "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to push one's way through (a crowd) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to sell also written as 頒ける"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "別ける 【わける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "別ける: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "分野",
+                            "ぶんや"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "分けた",
+                            "わ"
+                        ]
+                    ],
+                    "translation": "He grouped his books into five categories."
+                },
+                {
+                    "sentence": [
+                        [
+                            "母",
+                            "はは"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "子供たち",
+                            "こども"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "金",
+                            "かね"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "わけて",
+                            null
+                        ],
+                        [
+                            "やった",
+                            null
+                        ]
+                    ],
+                    "translation": "The mother divided the money among her children."
+                },
+                {
+                    "sentence": [
+                        [
+                            "君",
+                            "きみ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "夢",
+                            "ゆめ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "現実",
+                            "げんじつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "分ける",
+                            "わ"
+                        ],
+                        [
+                            "ことができない",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Can't you divorce fantasy from reality?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "頒",
+                    "はん"
+                ],
+                [
+                    "布",
+                    "ぷ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. distribution; circulation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. distribution; circulation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "半",
+                    "はん"
+                ],
+                [
+                    "白",
+                    "ぱく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grayish color; greyish colour "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. grizzled hair "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "3. Hanpaku "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "斑白 【はんぱく】、頒白 【はんぱく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "斑白: Rarely-used kanji form. 頒白: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. grayish color; greyish colour "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. grizzled hair "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "3. Hanpaku "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "斑白 【はんぱく】、頒白 【はんぱく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "斑白: Rarely-used kanji form. 頒白: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "頒",
+                    "はん"
+                ],
+                [
+                    "行",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. circulation; distribution; promulgation Rare term"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. circulation; distribution; promulgation Rare term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "頒",
+                    "はん"
+                ],
+                [
+                    "布",
+                    "ぷ"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. buying club (e.g. fruit-of-the-month) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. buying club (e.g. fruit-of-the-month) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "頒",
+                    "はん"
+                ],
+                [
+                    "価",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. distribution price "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. distribution price "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "頒",
+                    "はん"
+                ],
+                [
+                    "布",
+                    "ぷ"
+                ],
+                [
+                    "権",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (movie) distribution rights "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (movie) distribution rights "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "あか"
+                ],
+                [
+                    "つ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Yodan verb with 'tsu' ending (archaic), Transitive verb",
+                    "meaning": "1. to divide; to separate Archaic, See also 分かつ わかつ"
+                },
+                {
+                    "type": "Yodan verb with 'tsu' ending (archaic), Transitive verb",
+                    "meaning": "2. to share; to distribute Archaic, See also 分かつ わかつ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "頒つ 【あかつ】"
+                },
+                {
+                    "type": "Yodan verb with 'tsu' ending (archaic), Transitive verb",
+                    "meaning": "1. to divide; to separate Archaic, See also 分かつ わかつ"
+                },
+                {
+                    "type": "Yodan verb with 'tsu' ending (archaic), Transitive verb",
+                    "meaning": "2. to share; to distribute Archaic, See also 分かつ わかつ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "頒つ 【あかつ】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

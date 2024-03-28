@@ -1,0 +1,1368 @@
+{
+    "kanji": "邦",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "home country",
+        "country",
+        "Japan"
+    ],
+    "kun": [
+        "くに"
+    ],
+    "on": [
+        "ホウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.15376146788990827,
+            0.28623853211009176,
+            "c",
+            0.01981651376146789,
+            0.007981651376146788,
+            0.04422018348623853,
+            0.008807339449541284,
+            0.0653211009174312,
+            0.006330275229357797,
+            "c",
+            0.0881651376146789,
+            -0.010183486238532111,
+            0.1524770642201835,
+            -0.02330275229357798,
+            0.22376146788990825,
+            -0.0326605504587156,
+            "c",
+            0.015688073394495412,
+            -0.002018348623853211,
+            0.03220183486238532,
+            -0.0045871559633027525,
+            0.04779816513761468,
+            -0.0002752293577981651
+        ],
+        [
+            "M",
+            0.17073394495412844,
+            0.42853211009174313,
+            "c",
+            0.02146788990825688,
+            0.006330275229357797,
+            0.04137614678899083,
+            0.00963302752293578,
+            0.06321100917431192,
+            0.006146788990825688,
+            "c",
+            0.08871559633027523,
+            -0.014128440366972478,
+            0.13238532110091744,
+            -0.024495412844036696,
+            0.2008256880733945,
+            -0.0336697247706422,
+            "c",
+            0.013853211009174311,
+            -0.001834862385321101,
+            0.030825688073394496,
+            -0.006238532110091744,
+            0.04467889908256881,
+            -0.002477064220183486
+        ],
+        [
+            "M",
+            0.12009174311926606,
+            0.6037614678899083,
+            "c",
+            0.023027522935779813,
+            0.010550458715596329,
+            0.057798165137614675,
+            0.006972477064220183,
+            0.08174311926605504,
+            0.0016513761467889907,
+            "c",
+            0.0871559633027523,
+            -0.01944954128440367,
+            0.15944954128440367,
+            -0.03431192660550459,
+            0.25908256880733943,
+            -0.0453211009174312,
+            "c",
+            0.02348623853211009,
+            -0.0025688073394495416,
+            0.03779816513761468,
+            -0.0014678899082568807,
+            0.04963302752293578,
+            0.0017431192660550458
+        ],
+        [
+            "M",
+            0.32743119266055043,
+            0.11009174311926606,
+            "c",
+            0.008899082568807339,
+            0.008899082568807339,
+            0.01073394495412844,
+            0.022935779816513763,
+            0.01073394495412844,
+            0.04330275229357798,
+            "c",
+            0,
+            0.24908256880733945,
+            0.03220183486238532,
+            0.5943119266055046,
+            -0.18853211009174312,
+            0.7568807339449541
+        ],
+        [
+            "M",
+            0.5864220183486238,
+            0.19091743119266052,
+            "c",
+            0.01798165137614679,
+            0.008623853211009174,
+            0.031926605504587154,
+            0.008899082568807339,
+            0.050091743119266056,
+            0.005412844036697248,
+            "c",
+            0.05,
+            -0.009724770642201836,
+            0.12926605504587155,
+            -0.030275229357798163,
+            0.15036697247706424,
+            -0.0373394495412844,
+            "c",
+            0.029724770642201838,
+            -0.009908256880733945,
+            0.05559633027522935,
+            0.013669724770642202,
+            0.04385321100917432,
+            0.037614678899082564,
+            "C",
+            0.8119266055045872,
+            0.23504587155963302,
+            0.7706422018348624,
+            0.3165137614678899,
+            0.7403669724770643,
+            0.36577981651376146
+        ],
+        [
+            "M",
+            0.7431192660550459,
+            0.3669724770642202,
+            "c",
+            0.16862385321100917,
+            0.11357798165137616,
+            0.10660550458715595,
+            0.3521100917431193,
+            -0.0005504587155963302,
+            0.26440366972477064
+        ],
+        [
+            "M",
+            0.6062385321100917,
+            0.20412844036697247,
+            "c",
+            0.008256880733944955,
+            0.008256880733944955,
+            0.009816513761467891,
+            0.01834862385321101,
+            0.009816513761467891,
+            0.034403669724770644,
+            "c",
+            0,
+            0.11192660550458715,
+            0.0005504587155963302,
+            0.481651376146789,
+            0.0005504587155963302,
+            0.5940366972477065,
+            "c",
+            0,
+            0.03715596330275229,
+            -0.00045871559633027525,
+            0.06706422018348623,
+            -0.0008256880733944953,
+            0.07688073394495414
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "国",
+                    "くに"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. country; state その王がその国を治めていた。The king governed the country."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. region 『北の国から』は、北海道富良野市を舞台にしたフジテレビジョン制作のテレビドラマ。\"From the North Country\" is a TV drama produced by Fuji TV and set in Furano in Hokkaido."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. national government; central government "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. home (i.e. hometown, home country) その科学者は国の内外で有名である。The scientist is famous both at home and abroad."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. province (of Japan) Historical term, See also 国郡里制"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. land; earth Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "邦 【くに】、國 【くに】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "國: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. country; state その王がその国を治めていた。The king governed the country."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. region 『北の国から』は、北海道富良野市を舞台にしたフジテレビジョン制作のテレビドラマ。\"From the North Country\" is a TV drama produced by Fuji TV and set in Furano in Hokkaido."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. national government; central government "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. home (i.e. hometown, home country) その科学者は国の内外で有名である。The scientist is famous both at home and abroad."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. province (of Japan) Historical term, See also 国郡里制"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. land; earth Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "邦 【くに】、國 【くに】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "國: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "王",
+                            "おう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "国",
+                            "くに"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "治めていた",
+                            "おさ"
+                        ]
+                    ],
+                    "translation": "The king governed the country."
+                },
+                {
+                    "sentence": [
+                        [
+                            "北",
+                            "きた"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "国",
+                            "くに"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "北海道",
+                            "ほっかいどう"
+                        ],
+                        [
+                            "市",
+                            "し"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "舞台",
+                            "ぶたい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "した",
+                            null
+                        ],
+                        [
+                            "制作",
+                            "せいさく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "テレビドラマ",
+                            null
+                        ]
+                    ],
+                    "translation": "\"From the North Country\" is a TV drama produced by Fuji TV and set in Furano in Hokkaido."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "科学者",
+                            "かがくしゃ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "国",
+                            "くに"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "内外",
+                            "ないがい"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "有名",
+                            "ゆうめい"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "The scientist is famous both at home and abroad."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "貨",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese money "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese money "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "楽",
+                    "がく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese music (esp. traditional Japanese music) See also 洋楽"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Music of Japan The music of Japan includes a wide array of performers in... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese music (esp. traditional Japanese music) See also 洋楽"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Music of Japan The music of Japan includes a wide array of performers in... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "人",
+                    "じん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese national (esp. abroad) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. fellow countryman "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese national (esp. abroad) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. fellow countryman "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "画",
+                    "が"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese film See also 洋画"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Japanese painting "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese film See also 洋画"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Japanese painting "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "題",
+                    "だい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese title (given to foreign work) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese title (given to foreign work) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "字",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese characters; kanji and kana "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese characters; kanji and kana "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "訳",
+                    "やく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. translation into Japanese "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. translation into Japanese "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "語",
+                    "ご"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's native language; Japanese "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "家",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. country; one's own country "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "銀",
+                    "ぎん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. overseas Japanese bank "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese (language) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "暦",
+                    "れき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese calendar Rare term, See also 和暦"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "字",
+                    "じ"
+                ],
+                [
+                    "紙",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese-language newspaper (printed outside Japan) See also 邦字新聞"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "土",
+                    "ど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. realm; country "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "国",
+                    "こく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. country; state Obsolete term, See also 国家"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. various countries Obsolete term, See also 諸国"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "字",
+                    "じ"
+                ],
+                [
+                    "新",
+                    "しん"
+                ],
+                [
+                    "聞",
+                    "ぶん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese-language newspaper (printed outside Japan) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "船",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese ship "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ],
+                [
+                    "タ",
+                    null
+                ],
+                [
+                    "イ",
+                    null
+                ],
+                [
+                    "プ",
+                    null
+                ],
+                [
+                    "ラ",
+                    null
+                ],
+                [
+                    "イ",
+                    null
+                ],
+                [
+                    "タ",
+                    null
+                ],
+                [
+                    "ー",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese typewriter; typewriter that can type using Japanese characters See also 和文タイプライター"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "邦",
+                    null
+                ],
+                [
+                    "子",
+                    null
+                ],
+                [
+                    "内",
+                    null
+                ],
+                [
+                    "親",
+                    null
+                ],
+                [
+                    "王",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Princess Kuniko Princess Kuniko (1209–1283) was an Empress of Japan. She ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "邦",
+                "いく"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Iku "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "邦",
+                "くに"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name, Family or surname",
+                    "meaning": "1. Kuni "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kuniji "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "連",
+                    "れん"
+                ],
+                [
+                    "邦",
+                    "ぽう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. federation (of states); confederation; commonwealth; union "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Federation A federation, also known as a federal state, is a type of... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "聯邦 【れんぽう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "聯邦: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "連",
+                    "れん"
+                ],
+                [
+                    "邦",
+                    "ぽう"
+                ],
+                [
+                    "準",
+                    "じゅん"
+                ],
+                [
+                    "備",
+                    "び"
+                ],
+                [
+                    "銀",
+                    "ぎん"
+                ],
+                [
+                    "行",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Federal Reserve Bank (USA) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "連",
+                    "れん"
+                ],
+                [
+                    "邦",
+                    "ぽう"
+                ],
+                [
+                    "政",
+                    "せい"
+                ],
+                [
+                    "府",
+                    "ふ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. federal government "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "連",
+                    "れん"
+                ],
+                [
+                    "邦",
+                    "ぽう"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. federal parliament; federal congress "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "連",
+                    "れん"
+                ],
+                [
+                    "邦",
+                    "ぽう"
+                ],
+                [
+                    "予",
+                    "よ"
+                ],
+                [
+                    "算",
+                    "さん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. federal budget "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "異",
+                    "い"
+                ],
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "人",
+                    "じん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. foreigner "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. stranger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. gentile; goy; non-Jew "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. The Stranger "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "東",
+                    "とう"
+                ],
+                [
+                    "邦",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Oriental country; the Orient "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "友",
+                    "ゆう"
+                ],
+                [
+                    "邦",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. friendly nation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "本",
+                    "ほん"
+                ],
+                [
+                    "邦",
+                    "ぽう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. this country; our country "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "満",
+                            "まん"
+                        ],
+                        [
+                            "持して",
+                            "じ"
+                        ],
+                        [
+                            "少女漫画展",
+                            "しょうじょまんがてん"
+                        ],
+                        [
+                            "有名",
+                            "ゆうめい"
+                        ],
+                        [
+                            "人気漫画家",
+                            "にんきまんがか"
+                        ],
+                        [
+                            "本邦",
+                            "ほんぽう"
+                        ],
+                        [
+                            "初公開",
+                            "はつこうかい"
+                        ],
+                        [
+                            "話題",
+                            "わだい"
+                        ]
+                    ],
+                    "translation": "In the long-awaited shōjo manga (girls manga) exhibition, which is being held in response to enthusiastic expectations of fans, the childhood works of the famous, popular manga artists are shown for the first time in Japan, creating a buzz."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "東",
+                    "とう"
+                ],
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Toho University Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Toho University "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Toho University is a university in Tokyo, Japan. Drs. Yutaka and Susumu N... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "東",
+                    "とう"
+                ],
+                [
+                    "邦",
+                    "ほう"
+                ],
+                [
+                    "音",
+                    "おん"
+                ],
+                [
+                    "楽",
+                    "がく"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Toho College of Music Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Toho College of Music "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Toho College of Music Toho College of Music is a private university in Kawagoe,... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "連",
+                    "れん"
+                ],
+                [
+                    "邦",
+                    "ぽう"
+                ],
+                [
+                    "通",
+                    "つう"
+                ],
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "委",
+                    "い"
+                ],
+                [
+                    "員",
+                    "いん"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Federal Communications Commission (USA); FCC Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Federal Communications Commission (USA); FCC "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Federal Communications Commission The Federal Communications Commission (FCC) is an indepen... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

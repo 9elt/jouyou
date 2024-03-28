@@ -1,0 +1,988 @@
+{
+    "kanji": "匹",
+    "grade": 10,
+    "jlpt": 2,
+    "meanings": [
+        "equal",
+        "head",
+        "counter for small animals",
+        "roll of cloth"
+    ],
+    "kun": [
+        "ひき"
+    ],
+    "on": [
+        "ヒツ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.15944954128440367,
+            0.2118348623853211,
+            "c",
+            0.027981651376146787,
+            0.008899082568807339,
+            0.057431192660550454,
+            0.007889908256880733,
+            0.08605504587155964,
+            0.0047706422018348625,
+            "c",
+            0.1389908256880734,
+            -0.015321100917431192,
+            0.3301834862385321,
+            -0.04,
+            0.485045871559633,
+            -0.04568807339449542,
+            "c",
+            0.03302752293577982,
+            -0.0011926605504587156,
+            0.06155963302752294,
+            -0.0003669724770642202,
+            0.09403669724770643,
+            0.005871559633027523
+        ],
+        [
+            "M",
+            0.41532110091743124,
+            0.268348623853211,
+            "c",
+            0.00963302752293578,
+            0.00963302752293578,
+            0.013027522935779816,
+            0.02256880733944954,
+            0.013027522935779816,
+            0.036513761467889906,
+            "c",
+            0,
+            0.11944954128440366,
+            -0.03036697247706422,
+            0.2960550458715597,
+            -0.1393577981651376,
+            0.3763302752293578
+        ],
+        [
+            "M",
+            0.5962385321100917,
+            0.25110091743119267,
+            "c",
+            0.011009174311926604,
+            0.011009174311926604,
+            0.012660550458715595,
+            0.023761467889908256,
+            0.012660550458715595,
+            0.04064220183486238,
+            "c",
+            0,
+            0.0775229357798165,
+            -0.0009174311926605505,
+            0.16357798165137613,
+            -0.0009174311926605505,
+            0.2564220183486238,
+            "c",
+            0,
+            0.07449541284403668,
+            0.008990825688073394,
+            0.08743119266055045,
+            0.09706422018348623,
+            0.08743119266055045,
+            "c",
+            0.081651376146789,
+            0,
+            0.1,
+            -0.00944954128440367,
+            0.11146788990825689,
+            -0.021743119266055048
+        ],
+        [
+            "M",
+            0.19954128440366972,
+            0.22844036697247705,
+            "c",
+            0.0045871559633027525,
+            0.0077981651376146785,
+            0.009174311926605505,
+            0.020366972477064222,
+            0.009174311926605505,
+            0.037614678899082564,
+            "c",
+            0,
+            0.1189908256880734,
+            -0.013761467889908258,
+            0.4827522935779816,
+            -0.013761467889908258,
+            0.5273394495412844,
+            "c",
+            0,
+            0.0218348623853211,
+            0.008623853211009174,
+            0.034770642201834866,
+            0.030917431192660553,
+            0.03220183486238532,
+            "C",
+            0.3490825688073394,
+            0.8111926605504587,
+            0.6467889908256881,
+            0.786697247706422,
+            0.7889908256880734,
+            0.7885321100917432,
+            "c",
+            0.02981651376146789,
+            0.0003669724770642202,
+            0.05504587155963303,
+            0.002018348623853211,
+            0.07339449541284404,
+            0.006146788990825688
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "匹",
+                    "ひき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Counter",
+                    "meaning": "1. counter for small animals Only applies to ひき私たちは１匹の犬と１匹の猫を飼っている。We own a dog and a cat."
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "2. counter for rolls of cloth (two han in size) "
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "3. counter for horses Archaic, Only applies to き"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. roll of cloth "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "匹 【き】、疋 【ひき】、疋 【き】"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "1. counter for small animals Only applies to ひき私たちは１匹の犬と１匹の猫を飼っている。We own a dog and a cat."
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "2. counter for rolls of cloth (two han in size) "
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "3. counter for horses Archaic, Only applies to き"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. roll of cloth "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "匹 【き】、疋 【ひき】、疋 【き】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私たち",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "匹",
+                            "ひき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "犬",
+                            "いぬ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "匹",
+                            "ひき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "猫",
+                            "ねこ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "飼っている",
+                            "か"
+                        ]
+                    ],
+                    "translation": "We own a dog and a cat."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "匹",
+                    "ひっ"
+                ],
+                [
+                    "敵",
+                    "てき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Suru verb, Intransitive verb",
+                    "meaning": "1. to be a match for; to rival; to equal; to compare with; to be equivalent to "
+                },
+                {
+                    "type": "Suru verb, Intransitive verb",
+                    "meaning": "1. to be a match for; to rival; to equal; to compare with; to be equivalent to "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "匹",
+                    "ひっ"
+                ],
+                [
+                    "婦",
+                    "ぷ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coarse woman; country woman "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. coarse woman; country woman "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "匹",
+                    "ひつ"
+                ],
+                [
+                    "偶",
+                    "ぐう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. pair; couple (husband and wife) Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. friend; comrade Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "匹耦 【ひつぐう】"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. pair; couple (husband and wife) Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. friend; comrade Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "匹耦 【ひつぐう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "匹",
+                    "ひっ"
+                ],
+                [
+                    "夫",
+                    "ぷ"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "勇",
+                    "ゆう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rash courage "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. rash courage "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "匹",
+                    "ひっ"
+                ],
+                [
+                    "夫",
+                    "ぷ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (humble) man; coarse man; rustic "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (humble) man; coarse man; rustic "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "匹",
+                    "ひっ"
+                ],
+                [
+                    "儔",
+                    "ちゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. equal; match "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. equal; match "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "匹",
+                    "ひっ"
+                ],
+                [
+                    "夫",
+                    "ぷ"
+                ],
+                [
+                    "匹",
+                    "ひっ"
+                ],
+                [
+                    "婦",
+                    "ぷ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coarse men and women Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. coarse men and women Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "匹",
+                    "ひっ"
+                ],
+                [
+                    "夫",
+                    "ぷ"
+                ],
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "志",
+                    "こころざし"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "奪",
+                    "うば"
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "べ",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "ず",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. one cannot shake the will of even the lowliest man; a person's will should be respected; even a menial deserves his convictions Proverb"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. one cannot shake the will of even the lowliest man; a person's will should be respected; even a menial deserves his convictions Proverb"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "匹",
+                "ひき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Hiki "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Hikichi "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Hikishima "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "匹",
+                    "ぴき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one (small animal) See also 匹彼はネコを一匹と犬を二匹飼っている。He has a cat and two dogs."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. two-tan bolt of cloth See also 反 たん"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "１匹 【いっぴき】、一疋 【いっぴき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "一疋: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ネコ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "一匹",
+                            "いっぴき"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "犬",
+                            "いぬ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "二",
+                            "に"
+                        ],
+                        [
+                            "匹",
+                            "ひき"
+                        ],
+                        [
+                            "飼っている",
+                            "か"
+                        ]
+                    ],
+                    "translation": "He has a cat and two dogs."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "匹",
+                    "ぴき"
+                ],
+                [
+                    "狼",
+                    "おおかみ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lone wolf; loner; self-reliant person "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Lone wolf (trait) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "一匹オオカミ 【いっぴきオオカミ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "数",
+                    "すう"
+                ],
+                [
+                    "匹",
+                    "ひき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. several animals 彼は研究の目的でねずみを数匹飼っている。He keeps some mice for the purpose of studying."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "研究",
+                            "けんきゅう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "目的",
+                            "もくてき"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "ねずみ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "数匹",
+                            "すうひき"
+                        ],
+                        [
+                            "飼っている",
+                            "か"
+                        ]
+                    ],
+                    "translation": "He keeps some mice for the purpose of studying."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "猫",
+                    "ねこ"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "子",
+                    "こ"
+                ],
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "匹",
+                    "ぴき"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. completely deserted Idiomatic expression"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "猫の子一匹居ない 【ねこのこいっぴきいない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "絹",
+                    "きぬ"
+                ],
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "匹",
+                    "ぴき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one roll of silk "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "馬",
+                    "ば"
+                ],
+                [
+                    "匹",
+                    "ひつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. horses "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "蟻",
+                    "あり"
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "１",
+                    "じゅっぴき"
+                ],
+                [
+                    "０",
+                    null
+                ],
+                [
+                    "匹",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": null,
+                    "meaning": "1. thank you; thanks Jocular, humorous term, Slang, See also ありがとう"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "蟻が十匹 【ありがじゅっぴき】、アリが１０匹 【ありがじゅっぴき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ミ",
+                    null
+                ],
+                [
+                    "ミ",
+                    null
+                ],
+                [
+                    "ズ",
+                    null
+                ],
+                [
+                    "千",
+                    "せん"
+                ],
+                [
+                    "匹",
+                    "びき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. thousand earthworms (as a description for a vagina that has many folds and provides extraordinary pleasure during intercourse) Vulgar expression or word, Slang"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ミミズ１０００匹 【ミミズせんびき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "二",
+                    "に"
+                ],
+                [
+                    "匹",
+                    "ひき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. two small animals "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "２匹 【にひき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "男",
+                    "おとこ"
+                ],
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "匹",
+                    "ぴき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shining example of a man "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "たい"
+                ],
+                [
+                    "山",
+                    "ざん"
+                ],
+                [
+                    "鳴",
+                    "めい"
+                ],
+                [
+                    "動",
+                    "どう"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "鼠",
+                    "ねずみ"
+                ],
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "匹",
+                    "ぴき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. much ado about nothing; great cry and little wool; the mountain laboured and brought forth a mouse Idiomatic expression"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "泰山鳴動して鼠一匹 【たいざんめいどうしてねずみいっぴき】、大山鳴動してねずみ一匹 【たいざんめいどうしてねずみいっぴき】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

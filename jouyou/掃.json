@@ -1,0 +1,1432 @@
+{
+    "kanji": "掃",
+    "grade": 10,
+    "jlpt": 2,
+    "meanings": [
+        "sweep",
+        "brush"
+    ],
+    "kun": [
+        "は.く"
+    ],
+    "on": [
+        "ソウ",
+        "シュ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1353211009174312,
+            0.35935779816513763,
+            "c",
+            0.018990825688073393,
+            0.0022935779816513763,
+            0.03660550458715597,
+            0.0039449541284403665,
+            0.056055045871559635,
+            0.0012844036697247708,
+            "c",
+            0.0436697247706422,
+            -0.005963302752293578,
+            0.10247706422018349,
+            -0.014036697247706422,
+            0.16403669724770642,
+            -0.02201834862385321,
+            "c",
+            0.00963302752293578,
+            -0.0012844036697247708,
+            0.02073394495412844,
+            -0.0014678899082568807,
+            0.029174311926605506,
+            -0.0014678899082568807
+        ],
+        [
+            "M",
+            0.27541284403669725,
+            0.13761467889908258,
+            "c",
+            0.00908256880733945,
+            0.00908256880733945,
+            0.013853211009174311,
+            0.027522935779816515,
+            0.013853211009174311,
+            0.05064220183486238,
+            "c",
+            0,
+            0.13972477064220185,
+            -0.00009174311926605505,
+            0.4973394495412844,
+            -0.00009174311926605505,
+            0.6022935779816514,
+            "c",
+            0,
+            0.13073394495412843,
+            -0.05798165137614679,
+            0.03238532110091743,
+            -0.07128440366972477,
+            0.01834862385321101
+        ],
+        [
+            "M",
+            0.11036697247706422,
+            0.6325688073394495,
+            "c",
+            0.008899082568807339,
+            0.006146788990825688,
+            0.025045871559633028,
+            0.005321100917431192,
+            0.036238532110091745,
+            -0.002752293577981651,
+            "c",
+            0.04944954128440367,
+            -0.03577981651376147,
+            0.08155963302752293,
+            -0.06330275229357799,
+            0.19504587155963304,
+            -0.14889908256880735
+        ],
+        [
+            "M",
+            0.47706422018348627,
+            0.13990825688073394,
+            "c",
+            0.01908256880733945,
+            0.004495412844036697,
+            0.038073394495412846,
+            0.004128440366972477,
+            0.05733944954128441,
+            0.002201834862385321,
+            "c",
+            0.04513761467889908,
+            -0.004495412844036697,
+            0.15761467889908257,
+            -0.01688073394495413,
+            0.2055045871559633,
+            -0.022477064220183487,
+            "c",
+            0.02614678899082569,
+            -0.003027522935779817,
+            0.05431192660550459,
+            -0.0057798165137614675,
+            0.04743119266055046,
+            0.02963302752293578,
+            "c",
+            -0.007981651376146788,
+            0.0408256880733945,
+            -0.015229357798165137,
+            0.10357798165137613,
+            -0.020550458715596333,
+            0.1493577981651376,
+            "c",
+            -0.0022935779816513763,
+            0.019908256880733943,
+            -0.004311926605504587,
+            0.036513761467889906,
+            -0.0057798165137614675,
+            0.04678899082568807
+        ],
+        [
+            "M",
+            0.48293577981651375,
+            0.23917431192660552,
+            "c",
+            0.013761467889908258,
+            0.004678899082568807,
+            0.03155963302752293,
+            0.006697247706422018,
+            0.04577981651376147,
+            0.0057798165137614675,
+            "c",
+            0.06256880733944954,
+            -0.004220183486238533,
+            0.17871559633027523,
+            -0.020366972477064222,
+            0.23605504587155965,
+            -0.02192660550458716
+        ],
+        [
+            "M",
+            0.4695412844036697,
+            0.3403669724770642,
+            "c",
+            0.015045871559633026,
+            0.004954128440366972,
+            0.03541284403669725,
+            0.006605504587155963,
+            0.0510091743119266,
+            0.0057798165137614675,
+            "c",
+            0.059357798165137615,
+            -0.0032110091743119264,
+            0.1559633027522936,
+            -0.01853211009174312,
+            0.23155963302752292,
+            -0.021009174311926605
+        ],
+        [
+            "M",
+            0.4222935779816514,
+            0.42357798165137617,
+            "c",
+            -0.0007339449541284404,
+            0.043486238532110096,
+            -0.01798165137614679,
+            0.11770642201834862,
+            -0.024128440366972478,
+            0.14366972477064222
+        ],
+        [
+            "M",
+            0.42908256880733947,
+            0.4480733944954129,
+            "c",
+            0.11678899082568808,
+            -0.014587155963302753,
+            0.2936697247706422,
+            -0.0318348623853211,
+            0.40458715596330275,
+            -0.03779816513761468,
+            "c",
+            0.08146788990825689,
+            -0.004311926605504587,
+            0.019541284403669725,
+            0.050733944954128446,
+            -0.013486238532110091,
+            0.07541284403669725
+        ],
+        [
+            "M",
+            0.4759633027522936,
+            0.564954128440367,
+            "c",
+            0.007064220183486239,
+            0.007064220183486239,
+            0.01091743119266055,
+            0.017614678899082567,
+            0.01091743119266055,
+            0.03018348623853211,
+            "c",
+            0,
+            0.06587155963302752,
+            0.00009174311926605505,
+            0.10935779816513762,
+            0.0003669724770642202,
+            0.1546788990825688,
+            "c",
+            0.00009174311926605505,
+            0.017155963302752295,
+            -0.0010091743119266055,
+            0.03,
+            -0.0010091743119266055,
+            0.04614678899082569
+        ],
+        [
+            "M",
+            0.494954128440367,
+            0.5780733944954128,
+            "c",
+            0.039449541284403665,
+            -0.004678899082568807,
+            0.25513761467889906,
+            -0.02944954128440367,
+            0.27366972477064216,
+            -0.030458715596330274,
+            "c",
+            0.0218348623853211,
+            -0.0012844036697247708,
+            0.035229357798165134,
+            0.010825688073394495,
+            0.035229357798165134,
+            0.03504587155963303,
+            "c",
+            0,
+            0.056422018348623856,
+            -0.0022935779816513763,
+            0.11568807339449541,
+            -0.007706422018348624,
+            0.17376146788990826,
+            "c",
+            -0.005504587155963302,
+            0.05917431192660551,
+            -0.04412844036697247,
+            0.0003669724770642202,
+            -0.05238532110091743,
+            -0.0081651376146789
+        ],
+        [
+            "M",
+            0.6261467889908257,
+            0.4538532110091743,
+            "c",
+            0.010458715596330274,
+            0.010458715596330274,
+            0.011467889908256881,
+            0.022110091743119266,
+            0.011467889908256881,
+            0.03376146788990826,
+            "c",
+            0,
+            0.04330275229357798,
+            0.0011009174311926604,
+            0.23733944954128441,
+            0.00045871559633027525,
+            0.35844036697247705,
+            "c",
+            -0.0001834862385321101,
+            0.03513761467889908,
+            -0.0003669724770642202,
+            0.06064220183486239,
+            -0.00045871559633027525,
+            0.06798165137614678
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "除",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. cleaning; sweeping; dusting; scrubbing "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cleanliness Cleanliness is both the abstract state of being clean and... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. cleaning; sweeping; dusting; scrubbing "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cleanliness Cleanliness is both the abstract state of being clean and... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "払",
+                    "はら"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to pay (e.g. money, bill) 払えるかどうか分からないざます。I'm not sure I can afford it."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to brush off; to wipe away; to clear away; to dust off; to cut off (e.g. branches) ジャックはブラシで上着のほこりを払った。Jack brushed the dust off his coat."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "3. to drive away (e.g. one's competitors) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "4. to sell off (something unneeded); to dispose of "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "5. to pay (e.g. attention); to show (e.g. respect, concern) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "6. to make (e.g. effort, sacrifice); to expend; to exert "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "7. to move out (of one's own place); to vacate "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "8. to sweep (e.g. one's legs); to knock aside "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "9. to make a sweeping stroke (in Japanese calligraphy) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "10. to reset (an abacus) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掃う 【はらう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "掃う: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to pay (e.g. money, bill) 払えるかどうか分からないざます。I'm not sure I can afford it."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to brush off; to wipe away; to clear away; to dust off; to cut off (e.g. branches) ジャックはブラシで上着のほこりを払った。Jack brushed the dust off his coat."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "3. to drive away (e.g. one's competitors) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "4. to sell off (something unneeded); to dispose of "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "5. to pay (e.g. attention); to show (e.g. respect, concern) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "6. to make (e.g. effort, sacrifice); to expend; to exert "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "7. to move out (of one's own place); to vacate "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "8. to sweep (e.g. one's legs); to knock aside "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "9. to make a sweeping stroke (in Japanese calligraphy) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "10. to reset (an abacus) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掃う 【はらう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "掃う: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "払える",
+                            "はら"
+                        ],
+                        [
+                            "かどうか",
+                            null
+                        ],
+                        [
+                            "分からない",
+                            "わ"
+                        ],
+                        [
+                            "ざます",
+                            null
+                        ]
+                    ],
+                    "translation": "I'm not sure I can afford it."
+                },
+                {
+                    "sentence": [
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ブラシ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "上着",
+                            "うわぎ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ほこり",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "払った",
+                            "はら"
+                        ]
+                    ],
+                    "translation": "Jack brushed the dust off his coat."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "は"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to sweep; to brush; to clean "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "2. to gather silkworms "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to sweep; to brush; to clean "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "2. to gather silkworms "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "除",
+                    "じ"
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. vacuum cleaner; vacuum; hoover "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cleaning device Only applies to 掃除器"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Vacuum cleaner A vacuum cleaner is a device that uses an air pump to cre... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掃除器 【そうじき】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. vacuum cleaner; vacuum; hoover "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cleaning device Only applies to 掃除器"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Vacuum cleaner A vacuum cleaner is a device that uses an air pump to cre... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掃除器 【そうじき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "討",
+                    "とう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. cleaning up (enemy remnants); sweeping clean (of opponents); mopping up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掃蕩 【そうとう】、掃盪 【そうとう】、剿討 【そうとう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "掃蕩: Rarely-used kanji form. 掃盪: Rarely-used kanji form. 剿討: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. cleaning up (enemy remnants); sweeping clean (of opponents); mopping up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掃蕩 【そうとう】、掃盪 【そうとう】、剿討 【そうとう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "掃蕩: Rarely-used kanji form. 掃盪: Rarely-used kanji form. 剿討: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "海",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. sweeping the sea for mines; dragging for mines "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. sweeping the sea for mines; dragging for mines "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "射",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. sweeping with fire; mowing down; strafing "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. sweeping with fire; mowing down; strafing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "艇",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. minesweeping ship; minesweeper "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Minesweeper (ship) A minesweeper is a small naval warship designed to counte... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. minesweeping ship; minesweeper "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Minesweeper (ship) A minesweeper is a small naval warship designed to counte... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "除",
+                    "じ"
+                ],
+                [
+                    "魚",
+                    "うお"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cleaner fish "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cleaner fish Cleaner fish are fish that provide a service to other fis... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. cleaner fish "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cleaner fish Cleaner fish are fish that provide a service to other fis... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "苔",
+                    "たい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. visit to a family grave (esp. during the Bon festival) "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. removal of moss from a tombstone "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "は"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to sweep out; to clean out "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "は"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "手",
+                    "て"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hand touching the ground resulting in direct loss Sumo"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "は"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "溜",
+                    "だ"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rubbish heap; garbage dump "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掃きだめ 【はきだめ】、掃溜め 【はきだめ】、掃溜 【はきだめ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "掃溜め: Irregular okurigana usage. 掃溜: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "引",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sweeping; scanning "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "は"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "除",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sweeping and cleaning "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. sweeping and cleaning "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "討",
+                    "とう"
+                ],
+                [
+                    "作",
+                    "さく"
+                ],
+                [
+                    "戦",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. mopping-up operation; search-and-destroy operation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "は"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "窓",
+                    "まど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (sliding) glass door; patio door "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. small floor-level opening through which dirt is swept "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "除",
+                    "じ"
+                ],
+                [
+                    "人",
+                    "にん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. janitor; cleaner "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "滅",
+                    "めつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. wiping out; annihilation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "剿滅 【そうめつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掃",
+                    "は"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "立",
+                    "た"
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. newly swept (room, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. gathering silkworms from the egg paper "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掃立て 【はきたて】、掃きたて 【はきたて】"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. newly swept (room, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. gathering silkworms from the egg paper "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掃立て 【はきたて】、掃きたて 【はきたて】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "掃",
+                "そう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Sou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "掃守",
+                "かどもり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kadomori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "掃守",
+                "はきもり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Hakimori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "清",
+                    "せい"
+                ],
+                [
+                    "掃",
+                    "そう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. cleaning; clean-up; garbage collection; scavenging "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "掃",
+                    "そう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. clean sweep; purging; doing away with; eradication "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "おお"
+                ],
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "除",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. major cleanup; spring cleaning "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "床",
+                    "ゆか"
+                ],
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "除",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. cleaning the floor 彼女は会社の床掃除よりましな仕事を望んだ。She wanted a better job than cleaning office floors."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "会社",
+                            "かいしゃ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "床掃除",
+                            "ゆかそうじ"
+                        ],
+                        [
+                            "より",
+                            null
+                        ],
+                        [
+                            "ましな",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "望んだ",
+                            "のぞ"
+                        ]
+                    ],
+                    "translation": "She wanted a better job than cleaning office floors."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "電",
+                    "でん"
+                ],
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "除",
+                    "じ"
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. electric vacuum cleaner "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "型",
+                    "がた"
+                ],
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "艦",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Yaeyama class minesweeper "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Yaeyama class minesweeper The Yaeyama class is the largest class of Japan Maritime ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "機",
+                    "き"
+                ],
+                [
+                    "銃",
+                    "じゅう"
+                ],
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "射",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. machine-gun fire "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Strafing Strafing is the practice of attacking ground targets from... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "清",
+                    "せい"
+                ],
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "工",
+                    "こう"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. garbage processing plant; waste incineration plant "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Seisou Factory "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "清",
+                    "せい"
+                ],
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "員",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cleaner; janitor "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

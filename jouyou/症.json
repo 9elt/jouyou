@@ -1,0 +1,973 @@
+{
+    "kanji": "症",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "symptoms",
+        "illness"
+    ],
+    "kun": [
+        "ショウ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.5257798165137615,
+            0.11587155963302753,
+            "c",
+            0.00944954128440367,
+            0.00944954128440367,
+            0.016146788990825688,
+            0.0263302752293578,
+            0.016146788990825688,
+            0.04036697247706422,
+            "c",
+            0,
+            0.007247706422018349,
+            0.0007339449541284404,
+            0.04036697247706422,
+            -0.0006422018348623854,
+            0.08449541284403671
+        ],
+        [
+            "M",
+            0.2718348623853211,
+            0.26357798165137614,
+            "c",
+            0.020642201834862386,
+            0.003669724770642202,
+            0.05348623853211009,
+            0.002752293577981651,
+            0.07788990825688073,
+            0.0011926605504587156,
+            "c",
+            0.13036697247706422,
+            -0.008256880733944955,
+            0.28477064220183484,
+            -0.024036697247706424,
+            0.40376146788990824,
+            -0.031192660550458714,
+            "c",
+            0.02596330275229358,
+            -0.001559633027522936,
+            0.05018348623853211,
+            -0.0021100917431192663,
+            0.07568807339449542,
+            0.0033944954128440367
+        ],
+        [
+            "M",
+            0.2957798165137615,
+            0.2706422018348624,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.011559633027522935,
+            0.02522935779816514,
+            0.011376146788990826,
+            0.03669724770642202,
+            "C",
+            0.3038532110091743,
+            0.5229357798165137,
+            0.29009174311926605,
+            0.6983486238532111,
+            0.17256880733944954,
+            0.866697247706422
+        ],
+        [
+            "M",
+            0.14220183486238533,
+            0.36587155963302753,
+            "c",
+            0.02834862385321101,
+            0.016788990825688074,
+            0.07321100917431193,
+            0.06908256880733946,
+            0.08027522935779817,
+            0.09522935779816515
+        ],
+        [
+            "M",
+            0.12541284403669725,
+            0.6258715596330275,
+            "c",
+            0.009908256880733945,
+            0.005963302752293578,
+            0.01889908256880734,
+            0.004954128440366972,
+            0.031743119266055046,
+            -0.003577981651376147,
+            "C",
+            0.20990825688073395,
+            0.5871559633027523,
+            0.22247706422018348,
+            0.5807339449541284,
+            0.26146788990825687,
+            0.5504587155963303
+        ],
+        [
+            "M",
+            0.4065137614678899,
+            0.3967889908256881,
+            "c",
+            0.016788990825688074,
+            0.006146788990825688,
+            0.04321100917431193,
+            0.0034862385321100917,
+            0.060275229357798166,
+            0.0014678899082568807,
+            "c",
+            0.06155963302752294,
+            -0.007155963302752294,
+            0.14963302752293578,
+            -0.022935779816513763,
+            0.2223853211009174,
+            -0.02743119266055046,
+            "c",
+            0.017155963302752295,
+            -0.0011009174311926604,
+            0.03486238532110091,
+            -0.0025688073394495416,
+            0.051834862385321104,
+            0.0011926605504587156
+        ],
+        [
+            "M",
+            0.568440366972477,
+            0.4131192660550459,
+            "c",
+            0.01036697247706422,
+            0.01036697247706422,
+            0.014311926605504588,
+            0.023853211009174313,
+            0.014311926605504588,
+            0.04614678899082569,
+            "c",
+            0,
+            0.13990825688073394,
+            -0.0001834862385321101,
+            0.29055045871559637,
+            -0.0001834862385321101,
+            0.33816513761467887
+        ],
+        [
+            "M",
+            0.5952293577981651,
+            0.5836697247706422,
+            "c",
+            0.03128440366972477,
+            -0.0028440366972477065,
+            0.08495412844036697,
+            -0.009541284403669725,
+            0.12844036697247707,
+            -0.01330275229357798,
+            "c",
+            0.011834862385321101,
+            -0.0010091743119266055,
+            0.025137614678899085,
+            -0.003577981651376147,
+            0.03688073394495413,
+            -0.0009174311926605505
+        ],
+        [
+            "M",
+            0.41458715596330276,
+            0.5428440366972477,
+            "c",
+            0.008715596330275228,
+            0.008715596330275228,
+            0.014862385321100919,
+            0.024862385321100917,
+            0.014862385321100919,
+            0.04477064220183486,
+            "c",
+            0,
+            0.061467889908256884,
+            0.0006422018348623854,
+            0.1371559633027523,
+            0.0006422018348623854,
+            0.2189908256880734
+        ],
+        [
+            "M",
+            0.29825688073394496,
+            0.8134862385321101,
+            "c",
+            0.027981651376146787,
+            0.009357798165137614,
+            0.05770642201834862,
+            0.00908256880733945,
+            0.08678899082568808,
+            0.006422018348623853,
+            "c",
+            0.09844036697247707,
+            -0.00908256880733945,
+            0.2326605504587156,
+            -0.025137614678899085,
+            0.3900917431192661,
+            -0.027339449541284404,
+            "c",
+            0.024128440366972478,
+            -0.0003669724770642202,
+            0.05165137614678899,
+            0.0010091743119266055,
+            0.07568807339449542,
+            0.01036697247706422
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Suffix",
+                    "meaning": "1. illness; condition; -pathy "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "1. illness; condition; -pathy "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "症",
+                    "しょう"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. symptoms; condition (of a patient) "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. symptoms; condition (of a patient) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "症",
+                    "しょう"
+                ],
+                [
+                    "例",
+                    "れい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. case Medicine"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "症",
+                    "しょう"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "群",
+                    "ぐん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. syndrome Medicine"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "症",
+                    "しょう"
+                ],
+                [
+                    "候",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. symptoms "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "症",
+                    null
+                ],
+                [
+                    "候",
+                    null
+                ],
+                [
+                    "学",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Symptom A symptom (from Greek σύμπτωμα, \"accident, misfortune, th... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "症",
+                    null
+                ],
+                [
+                    "例",
+                    null
+                ],
+                [
+                    "対",
+                    null
+                ],
+                [
+                    "照",
+                    null
+                ],
+                [
+                    "研",
+                    null
+                ],
+                [
+                    "究",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Case-control study A case-control study is a type of study design used widel... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "症",
+                "かつお"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsuo "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsutoshi "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsuhiko "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "炎",
+                    "えん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. inflammation; irritation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Inflammation Inflammation is part of the complex biological response o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "花",
+                    "か"
+                ],
+                [
+                    "粉",
+                    "ふん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hay fever; pollinosis (allergy to pollen) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Allergic rhinitis Allergic rhinitis is an allergic inflammation of the nasa... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "感",
+                    "かん"
+                ],
+                [
+                    "染",
+                    "せん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. infectious disease; infection "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Infectious disease Infectious diseases, also known as transmissible diseases... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "狭",
+                    "きょう"
+                ],
+                [
+                    "心",
+                    "しん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. angina pectoris Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Angina pectoris Angina pectoris, commonly known as angina, is chest pain ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "白",
+                    "はく"
+                ],
+                [
+                    "内",
+                    "ない"
+                ],
+                [
+                    "障",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cataract Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cataract A cataract is a clouding that develops in the crystalline... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "白内症 【はくないしょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "白内症: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "依",
+                    "い"
+                ],
+                [
+                    "存",
+                    "ぞん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dependence (on alcohol, drugs, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Addiction Addiction is the continued use of a mood altering substan... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "依存症 【いそんしょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "眠",
+                    "みん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sleeplessness; insomnia; wakefulness Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Insomnia Insomnia (or sleeplessness) is an individual's report of ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "妊",
+                    "にん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. infertility; sterility; barrenness "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "高",
+                    "こう"
+                ],
+                [
+                    "所",
+                    "しょ"
+                ],
+                [
+                    "恐",
+                    "きょう"
+                ],
+                [
+                    "怖",
+                    "ふ"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fear of heights; acrophobia "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Acrophobia Acrophobia (from the Greek: ἄκρον, ákron, meaning \"peak, ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "蓄",
+                    "ちく"
+                ],
+                [
+                    "膿",
+                    "のう"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. empyema "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Empyema An empyema is a collection of pus within a naturally exis... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "感",
+                    "かん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sexual frigidity "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. insensitivity; indifference "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Hypoactive sexual desire disorder Hypoactive sexual desire disorder (HSDD) is considered as... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "脱",
+                    "だっ"
+                ],
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dehydration "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "妊",
+                    "にん"
+                ],
+                [
+                    "娠",
+                    "しん"
+                ],
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "毒",
+                    "どく"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pre-eclampsia Medicine"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "重",
+                    "じゅう"
+                ],
+                [
+                    "軽",
+                    "けい"
+                ],
+                [
+                    "傷",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. serious or slight injury; major and minor injuries "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "重軽症 【じゅうけいしょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "自",
+                    "じ"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. subjective symptoms; patient's complaints "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "あ",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stage fright; social anxiety disorder; social phobia "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上がり症 【あがりしょう】、上がり性 【あがりしょう】、あがり性 【あがりしょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "安",
+                    "あん"
+                ],
+                [
+                    "神",
+                    "しん"
+                ],
+                [
+                    "経",
+                    "けい"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. anxiety neurosis; aporio-neurosis "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "鞭",
+                    "むち"
+                ],
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. whiplash "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "むち打ち症 【むちうちしょう】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

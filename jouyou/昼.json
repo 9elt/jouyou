@@ -1,0 +1,1288 @@
+{
+    "kanji": "昼",
+    "grade": 2,
+    "jlpt": 4,
+    "meanings": [
+        "daytime",
+        "noon"
+    ],
+    "kun": [
+        "ひる"
+    ],
+    "on": [
+        "チュウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.27293577981651373,
+            0.15770642201834864,
+            "c",
+            0.013211009174311925,
+            0.005688073394495413,
+            0.03422018348623853,
+            0.006146788990825688,
+            0.048256880733944955,
+            0.004954128440366972,
+            "c",
+            0.07568807339449542,
+            -0.006330275229357797,
+            0.2601834862385321,
+            -0.03422018348623853,
+            0.3375229357798165,
+            -0.03990825688073394,
+            "c",
+            0.026055045871559632,
+            -0.001926605504587156,
+            0.04357798165137615,
+            0.016605504587155963,
+            0.03954128440366972,
+            0.03330275229357798,
+            "c",
+            -0.006972477064220183,
+            0.028899082568807338,
+            -0.017064220183486238,
+            0.05376146788990826,
+            -0.028256880733944955,
+            0.09247706422018348
+        ],
+        [
+            "M",
+            0.30504587155963303,
+            0.2981651376146789,
+            "c",
+            0.05174311926605504,
+            -0.005504587155963302,
+            0.24908256880733945,
+            -0.026972477064220183,
+            0.3443119266055046,
+            -0.036146788990825685,
+            "c",
+            0.02284403669724771,
+            -0.002201834862385321,
+            0.03981651376146789,
+            -0.003669724770642202,
+            0.04752293577981651,
+            -0.004036697247706422
+        ],
+        [
+            "M",
+            0.2958715596330275,
+            0.1655045871559633,
+            "c",
+            0.006697247706422018,
+            0.006697247706422018,
+            0.010091743119266056,
+            0.016238532110091745,
+            0.009724770642201836,
+            0.02724770642201835,
+            "C",
+            0.2981651376146789,
+            0.3796330275229358,
+            0.25,
+            0.5711009174311926,
+            0.13761467889908258,
+            0.6475229357798165
+        ],
+        [
+            "M",
+            0.5688073394495413,
+            0.29706422018348627,
+            "C",
+            0.6310091743119266,
+            0.3944954128440367,
+            0.7160550458715597,
+            0.47779816513761464,
+            0.7931192660550459,
+            0.538256880733945,
+            "c",
+            0.02256880733944954,
+            0.017706422018348624,
+            0.04477064220183486,
+            0.03385321100917431,
+            0.07275229357798164,
+            0.04091743119266055
+        ],
+        [
+            "M",
+            0.3098165137614679,
+            0.4989908256880734,
+            "c",
+            0.008440366972477065,
+            0.008440366972477065,
+            0.014220183486238533,
+            0.01853211009174312,
+            0.015596330275229357,
+            0.030642201834862385,
+            "c",
+            0.005045871559633028,
+            0.0453211009174312,
+            0.020917431192660547,
+            0.20504587155963305,
+            0.020917431192660547,
+            0.20853211009174313,
+            "c",
+            0,
+            0.0039449541284403665,
+            0.0012844036697247708,
+            0.02,
+            0.002477064220183486,
+            0.027981651376146787
+        ],
+        [
+            "M",
+            0.33055045871559635,
+            0.5098165137614679,
+            "c",
+            0.0763302752293578,
+            -0.007889908256880733,
+            0.2661467889908257,
+            -0.02963302752293578,
+            0.28137614678899087,
+            -0.03055045871559633,
+            "c",
+            0.02256880733944954,
+            -0.0013761467889908255,
+            0.03247706422018349,
+            0.013394495412844036,
+            0.030458715596330274,
+            0.03018348623853211,
+            "c",
+            -0.0045871559633027525,
+            0.03889908256880734,
+            -0.015137614678899082,
+            0.14871559633027523,
+            -0.020550458715596333,
+            0.21091743119266054,
+            "c",
+            -0.0007339449541284404,
+            0.008899082568807339,
+            -0.0012844036697247708,
+            0.01293577981651376,
+            -0.0012844036697247708,
+            0.018807339449541282
+        ],
+        [
+            "M",
+            0.3463302752293578,
+            0.6166055045871559,
+            "c",
+            0.0481651376146789,
+            -0.003119266055045872,
+            0.2213761467889908,
+            -0.02146788990825688,
+            0.27266055045871557,
+            -0.023577981651376145
+        ],
+        [
+            "M",
+            0.35752293577981653,
+            0.7322935779816513,
+            "c",
+            0.059082568807339454,
+            -0.004311926605504587,
+            0.18091743119266054,
+            -0.015688073394495412,
+            0.25422018348623854,
+            -0.019357798165137614
+        ],
+        [
+            "M",
+            0.18238532110091743,
+            0.8455963302752294,
+            "c",
+            0.021743119266055048,
+            0.0076146788990825685,
+            0.04697247706422018,
+            0.009908256880733945,
+            0.07165137614678899,
+            0.007889908256880733,
+            "c",
+            0.15541284403669725,
+            -0.01293577981651376,
+            0.32275229357798163,
+            -0.03238532110091743,
+            0.4955045871559633,
+            -0.03302752293577982,
+            "c",
+            0.029174311926605506,
+            -0.00009174311926605505,
+            0.05321100917431192,
+            0.0029357798165137615,
+            0.07045871559633027,
+            0.01
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. noon; midday See also 御昼ケンは昼まで家にいるでしょう。Ken will be at home until noon."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. daytime Only applies to 昼, Only applies to 晝, See also 御昼私は昼も夜も彼女のことを考えている。I think of her day and night."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. lunch Only applies to 昼, Only applies to 晝, See also 御昼昼はホットドッグを食べたんだ。I ate a hot dog for lunch."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Daylight Daylight or the light of day is the combination of all di... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "午 【ひる】、晝 【ひる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "晝: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. noon; midday See also 御昼ケンは昼まで家にいるでしょう。Ken will be at home until noon."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. daytime Only applies to 昼, Only applies to 晝, See also 御昼私は昼も夜も彼女のことを考えている。I think of her day and night."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. lunch Only applies to 昼, Only applies to 晝, See also 御昼昼はホットドッグを食べたんだ。I ate a hot dog for lunch."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Daylight Daylight or the light of day is the combination of all di... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "午 【ひる】、晝 【ひる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "晝: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "昼",
+                            "ひる"
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "家",
+                            "いえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "いる",
+                            null
+                        ],
+                        [
+                            "でしょう",
+                            null
+                        ]
+                    ],
+                    "translation": "Ken will be at home until noon."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "昼",
+                            "ひる"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "夜",
+                            "よる"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "考えている",
+                            "かんがえ"
+                        ]
+                    ],
+                    "translation": "I think of her day and night."
+                },
+                {
+                    "sentence": [
+                        [
+                            "昼",
+                            "ひる"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ホットドッグ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "食べた",
+                            "た"
+                        ],
+                        [
+                            "んだ",
+                            null
+                        ]
+                    ],
+                    "translation": "I ate a hot dog for lunch."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch; midday meal 彼は今昼食を取っているところです。He is having lunch now."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. food served at a tea party (tea ceremony) usu. 中食"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Lunch Luncheon, commonly abbreviated to lunch, is a middle of t... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼食 【ちゅうじき】、中食 【ちゅうじき】、昼食 【ひるげ】、昼餉 【ひるげ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch; midday meal 彼は今昼食を取っているところです。He is having lunch now."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. food served at a tea party (tea ceremony) usu. 中食"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Lunch Luncheon, commonly abbreviated to lunch, is a middle of t... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼食 【ちゅうじき】、中食 【ちゅうじき】、昼食 【ひるげ】、昼餉 【ひるげ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "今",
+                            "いま"
+                        ],
+                        [
+                            "昼食",
+                            "ちゅうしょく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取っている",
+                            "と"
+                        ],
+                        [
+                            "ところ",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "He is having lunch now."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "寝",
+                    "ね"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. (afternoon) nap; sleeping during the day; siesta "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Hirune "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Nap A nap is a short period of sleep, typically taken during ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼寐 【ひるね】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "昼寐: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. (afternoon) nap; sleeping during the day; siesta "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Hirune "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Nap A nap is a short period of sleep, typically taken during ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼寐 【ひるね】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "昼寐: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "ご",
+                    null
+                ],
+                [
+                    "飯",
+                    "はん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch; midday meal "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼ごはん 【ひるごはん】、昼御飯 【ひるごはん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch; midday meal "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼ごはん 【ひるごはん】、昼御飯 【ひるごはん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "間",
+                    "ま"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. daytime; during the day; time from sunrise until sunset; diurnal period "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼間 【ちゅうかん】"
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. daytime; during the day; time from sunrise until sunset; diurnal period "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼間 【ちゅうかん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "飯",
+                    "めし"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch; midday meal "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼めし 【ひるめし】、昼飯 【ちゅうはん】、昼飯 【ひるはん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch; midday meal "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼めし 【ひるめし】、昼飯 【ちゅうはん】、昼飯 【ひるはん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "夜",
+                    "や"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. day and night "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. day and night "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "前",
+                    "まえ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. morning; forenoon "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. just before noon "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. morning; forenoon "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. just before noon "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "過",
+                    "す"
+                ],
+                [
+                    "ぎ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. just past noon; afternoon "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼すぎ 【ひるすぎ】"
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. just past noon; afternoon "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼すぎ 【ひるすぎ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "休",
+                    "やす"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. lunch break; noon recess; noon rest period "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. lunch break; noon recess; noon rest period "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "下",
+                    "さ"
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. early afternoon "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼下り 【ひるさがり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. early afternoon "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼下り 【ひるさがり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "後",
+                    "ご"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. after lunch "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. after lunch "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "代",
+                    "だい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch price あなたは昼食代を払わなくてもいいですよ。You need not pay for your lunch."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch price あなたは昼食代を払わなくてもいいですよ。You need not pay for your lunch."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "昼食代",
+                            "ちゅうしょくだい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "払わ",
+                            "はら"
+                        ],
+                        [
+                            "なくてもいい",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "You need not pay for your lunch."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. luncheon meeting "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. luncheon meeting "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "時",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch time "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch time "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "頃",
+                    "ごろ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. about noon "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. about noon "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "夜",
+                    "や"
+                ],
+                [
+                    "兼",
+                    "けん"
+                ],
+                [
+                    "行",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. around-the-clock; (working) day and night Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. diurnality; daytime activity "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. diurnal "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Diurnality Diurnality is a plant or animal behavior characterized by... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "日",
+                    "ひ"
+                ],
+                [
+                    "中",
+                    "なか"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun, Adverb (fukushi)",
+                    "meaning": "1. daytime; noon; broad daylight See also 真っ昼間 まっぴるま"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼ひなか 【ひるひなか】、昼日なか 【ひるひなか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "中",
+                    "なか"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. daytime See also 昼間"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "昼ケ浦",
+                "ひるがうら"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Hirugaura "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Hirugadake "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Hirugaura "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "昼",
+                    "ひる"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch Polite (teineigo) language, See also 昼お昼をおごってくれたのを覚えてますか。Do you remember buying me lunch?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. noon; midday Polite (teineigo) language, See also 昼お昼までには戻ってきなさい。You are supposed to be back by noon."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. daytime Polite (teineigo) language, See also 昼"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. waking up; getting up; rising Honorific or respectful (sonkeigo) language"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "お昼",
+                            "おひる"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "おごって",
+                            null
+                        ],
+                        [
+                            "くれた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "覚えてます",
+                            "おぼ"
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Do you remember buying me lunch?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "お昼",
+                            "おひる"
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "戻ってき",
+                            "もど"
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "You are supposed to be back by noon."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "白",
+                    "はく"
+                ],
+                [
+                    "昼",
+                    "ちゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. daytime; midday "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "真",
+                    "ま"
+                ],
+                [
+                    "昼",
+                    "ひる"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. midday; broad daylight "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "白",
+                    "はく"
+                ],
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "堂",
+                    "どう"
+                ],
+                [
+                    "々",
+                    "どう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', 'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. openly (unashamedly) in broad daylight "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "白昼堂堂 【はくちゅうどうどう】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1425 @@
+{
+    "kanji": "仰",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "face-up",
+        "look up",
+        "depend",
+        "seek",
+        "respect",
+        "revere",
+        "drink",
+        "take"
+    ],
+    "kun": [
+        "あお.ぐ",
+        "おお.せ",
+        "お.っしゃる",
+        "おっしゃ.る"
+    ],
+    "on": [
+        "ギョウ",
+        "コウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2822935779816514,
+            0.16055045871559634,
+            "c",
+            0.001834862385321101,
+            0.019174311926605504,
+            -0.00045871559633027525,
+            0.03275229357798165,
+            -0.006330275229357797,
+            0.049082568807339445,
+            "c",
+            -0.03688073394495413,
+            0.1044954128440367,
+            -0.08825688073394494,
+            0.2140366972477064,
+            -0.17275229357798164,
+            0.3411926605504587
+        ],
+        [
+            "M",
+            0.2181651376146789,
+            0.3922018348623853,
+            "c",
+            0.00963302752293578,
+            0.00963302752293578,
+            0.011559633027522935,
+            0.0218348623853211,
+            0.011559633027522935,
+            0.036513761467889906,
+            "c",
+            0,
+            0.12293577981651377,
+            0.0011926605504587156,
+            0.29403669724770637,
+            0,
+            0.39697247706422023,
+            "C",
+            0.22954128440366972,
+            0.8470642201834863,
+            0.22935779816513763,
+            0.8650458715596331,
+            0.22935779816513763,
+            0.8784403669724771
+        ],
+        [
+            "M",
+            0.5489908256880734,
+            0.1324770642201835,
+            "c",
+            0.0011009174311926604,
+            0.008256880733944955,
+            -0.0005504587155963302,
+            0.015871559633027523,
+            -0.006513761467889908,
+            0.022110091743119266,
+            "c",
+            -0.028715596330275227,
+            0.030091743119266053,
+            -0.052752293577981654,
+            0.050733944954128446,
+            -0.11009174311926606,
+            0.08055045871559632
+        ],
+        [
+            "M",
+            0.3978899082568807,
+            0.22339449541284406,
+            "c",
+            0.006513761467889908,
+            0.006513761467889908,
+            0.009816513761467891,
+            0.01862385321100917,
+            0.009816513761467891,
+            0.030642201834862385,
+            "c",
+            0,
+            0.027155963302752294,
+            -0.0006422018348623854,
+            0.33770642201834866,
+            -0.0006422018348623854,
+            0.3755963302752293,
+            "c",
+            0,
+            0.01651376146788991,
+            0.005596330275229358,
+            0.019633027522935782,
+            0.0218348623853211,
+            0.006880733944954129,
+            "s",
+            0.08256880733944955,
+            -0.05853211009174312,
+            0.16119266055045872,
+            -0.11146788990825689
+        ],
+        [
+            "M",
+            0.6467889908256881,
+            0.23467889908256878,
+            "c",
+            0.011467889908256881,
+            0.002752293577981651,
+            0.025045871559633028,
+            0.003119266055045872,
+            0.03715596330275229,
+            0.0013761467889908255,
+            "c",
+            0.012110091743119267,
+            -0.0017431192660550458,
+            0.14917431192660552,
+            -0.03128440366972477,
+            0.1643119266055046,
+            -0.03302752293577982,
+            "c",
+            0.015137614678899082,
+            -0.0017431192660550458,
+            0.03743119266055046,
+            -0.0034862385321100917,
+            0.03935779816513762,
+            0.03339449541284404,
+            "C",
+            0.8899082568807339,
+            0.2798165137614679,
+            0.8738532110091743,
+            0.47706422018348627,
+            0.8412844036697248,
+            0.5723853211009174,
+            "c",
+            -0.025412844036697246,
+            0.07449541284403668,
+            -0.05752293577981651,
+            0.008807339449541284,
+            -0.062018348623853206,
+            0.005229357798165137
+        ],
+        [
+            "M",
+            0.6574311926605504,
+            0.24422018348623853,
+            "c",
+            0.007889908256880733,
+            0.007889908256880733,
+            0.012018348623853212,
+            0.020642201834862386,
+            0.012018348623853212,
+            0.0355045871559633,
+            "c",
+            0,
+            0.0779816513761468,
+            0,
+            0.5665137614678899,
+            0,
+            0.6270642201834862
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "仰",
+                    "あお"
+                ],
+                [
+                    "ぐ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "1. to look up (at) 彼は天を仰いだ。He looked up at the sky."
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "2. to look up to; to respect; to revere 彼は彼らの師と仰がれた。He was respected as their teacher."
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "3. to ask for (e.g. guidance); to seek; to turn to (someone) for 私は何事にも彼の指導を仰ぐ。I look to him for direction in everything."
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "4. to depend on; to rely on 日本は原綿の供給を海外に仰ぐ。Japan depends on overseas countries for the supply of raw cotton."
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "5. to gulp down; to quaff; to drink "
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "1. to look up (at) 彼は天を仰いだ。He looked up at the sky."
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "2. to look up to; to respect; to revere 彼は彼らの師と仰がれた。He was respected as their teacher."
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "3. to ask for (e.g. guidance); to seek; to turn to (someone) for 私は何事にも彼の指導を仰ぐ。I look to him for direction in everything."
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "4. to depend on; to rely on 日本は原綿の供給を海外に仰ぐ。Japan depends on overseas countries for the supply of raw cotton."
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "5. to gulp down; to quaff; to drink "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "天",
+                            "てん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "仰いだ",
+                            "あお"
+                        ]
+                    ],
+                    "translation": "He looked up at the sky."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "彼らの",
+                            "かれ"
+                        ],
+                        [
+                            "師",
+                            "し"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "仰がれた",
+                            "あお"
+                        ]
+                    ],
+                    "translation": "He was respected as their teacher."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "何事",
+                            "なにごと"
+                        ],
+                        [
+                            "にも",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "指導",
+                            "しどう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "仰ぐ",
+                            "あお"
+                        ]
+                    ],
+                    "translation": "I look to him for direction in everything."
+                },
+                {
+                    "sentence": [
+                        [
+                            "日本",
+                            "にほん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "原綿",
+                            "げんめん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "供給",
+                            "きょうきゅう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "海外",
+                            "かいがい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "仰ぐ",
+                            "あお"
+                        ]
+                    ],
+                    "translation": "Japan depends on overseas countries for the supply of raw cotton."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "おっしゃ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb - -aru special class, Transitive verb",
+                    "meaning": "1. to say; to speak; to tell; to talk Usually written using kana alone, Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仰有る 【おっしゃる】、仰しゃる 【おっしゃる】、仰っしゃる 【おっしゃる】"
+                },
+                {
+                    "type": "Godan verb - -aru special class, Transitive verb",
+                    "meaning": "1. to say; to speak; to tell; to talk Usually written using kana alone, Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仰有る 【おっしゃる】、仰しゃる 【おっしゃる】、仰っしゃる 【おっしゃる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "あお"
+                ],
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. facing upward usu. as 〜に"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "あお向け 【あおむけ】、仰むけ 【あおむけ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. facing upward usu. as 〜に"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "あお向け 【あおむけ】、仰むけ 【あおむけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "ぎょう"
+                ],
+                [
+                    "々",
+                    "ぎょう"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. exaggerated; bombastic; highly colored; highly coloured "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仰仰しい 【ぎょうぎょうしい】"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. exaggerated; bombastic; highly colored; highly coloured "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仰仰しい 【ぎょうぎょうしい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "ぎょう"
+                ],
+                [
+                    "天",
+                    "てん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. being amazed; being horrified; being taken aback "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. being amazed; being horrified; being taken aback "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "あお"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "見",
+                    "み"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to look up (at); to look upwards "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to respect; to look up to "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to look up (at); to look upwards "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to respect; to look up to "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "ゃ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ],
+                [
+                    "通",
+                    "とお"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. I agree with you; it is as (someone) says Honorific or respectful (sonkeigo) language, See also 言う通りこれについては「まことに仰る通りでございます」と答えるしかないのです。In connection with this I can only reply, \"it is just as you say.\""
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仰るとおり 【おっしゃるとおり】、仰る通り 【おっしゃるとおり】"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. I agree with you; it is as (someone) says Honorific or respectful (sonkeigo) language, See also 言う通りこれについては「まことに仰る通りでございます」と答えるしかないのです。In connection with this I can only reply, \"it is just as you say.\""
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仰るとおり 【おっしゃるとおり】、仰る通り 【おっしゃるとおり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "これ",
+                            null
+                        ],
+                        [
+                            "について",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "まことに",
+                            null
+                        ],
+                        [
+                            "仰る通り",
+                            null
+                        ],
+                        [
+                            "でございます",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "答える",
+                            "こた"
+                        ],
+                        [
+                            "しかない",
+                            null
+                        ],
+                        [
+                            "のです",
+                            null
+                        ]
+                    ],
+                    "translation": "In connection with this I can only reply, \"it is just as you say.\""
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "あお"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to turn up (one's face or a card) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "あお"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "望",
+                    "のぞ"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. look to (for help); look up to; reverence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "あお"
+                ],
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending",
+                    "meaning": "1. to look upward "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仰むく 【あおむく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "ぎょう"
+                ],
+                [
+                    "山",
+                    "さん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Adverb (fukushi)",
+                    "meaning": "1. a lot; plenty; abundant; great many Usually written using kana alone, Kansai dialect"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. exaggerated; grandiose Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ぎょーさん"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "あお"
+                ],
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to turn up (one's face) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "おお"
+                ],
+                [
+                    "せ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. order (from one's superior); command Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. what you say; (someone's) words Honorific or respectful (sonkeigo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "のけざま"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "様",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. being on one's back Usually written using kana alone, usu. used adverbially as のけざまに"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仰け様 【のけさま】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "行",
+                    "ぎょう"
+                ],
+                [
+                    "々",
+                    "ぎょう"
+                ],
+                [
+                    "子",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reed warbler (esp. the great reed warbler, but also the black-browed reed warbler) Rare term, See also 葦切"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "行行子 【ぎょうぎょうし】、仰々子 【ぎょうぎょうし】、仰仰子 【ぎょうぎょうし】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. reed warbler (esp. the great reed warbler, but also the black-browed reed warbler) Rare term, See also 葦切"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "行行子 【ぎょうぎょうし】、仰々子 【ぎょうぎょうし】、仰仰子 【ぎょうぎょうし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "あお"
+                ],
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. facing upward See also 俯き"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "おお"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to command; to order; to tell (to do); to appoint (to the post of) Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仰せつける 【おおせつける】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "おお"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to say; to state Honorific or respectful (sonkeigo) language, Formal or literary term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "の"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "反",
+                    "ぞ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to bend backwards; to bend oneself back Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be taken aback Usually written using kana alone"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仰",
+                    "おお"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "言",
+                    "ごと"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. statement; order Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "仰",
+                "あおい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Aoi "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Aogi "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Aogu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "仰",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. (religious) faith; belief; creed "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Faith Faith is confidence or trust in a person or entity. Depen... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "仰",
+                    "ぎょう"
+                ],
+                [
+                    "天",
+                    "てん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. astonished; stunned; startled out of one's wits; thunderstruck; open-eyed astonishment "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "吃驚仰天 【びっくりぎょうてん】、吃驚仰天 【きっきょうぎょうてん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "おお"
+                ],
+                [
+                    "仰",
+                    "ぎょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. exaggerated; overblown; overdone "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "大形 【おおぎょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "大形: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "師",
+                    "し"
+                ],
+                [
+                    "と",
+                    null
+                ],
+                [
+                    "仰",
+                    "あお"
+                ],
+                [
+                    "ぐ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'gu' ending",
+                    "meaning": "1. to look up to (a person) as one's preceptor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "山",
+                    "さん"
+                ],
+                [
+                    "岳",
+                    "がく"
+                ],
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "仰",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. religion that worships mountains as sacred (e.g. Shugendō); mountain worship See also 修験道"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sacred mountains Sacred mountains are central to certain religions and are... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "仰",
+                    "こう"
+                ],
+                [
+                    "告",
+                    "こく"
+                ],
+                [
+                    "白",
+                    "はく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. profession of faith "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Confession of faith A Confession of Faith is a statement of doctrine very sim... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "間",
+                    "かん"
+                ],
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "仰",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. folk beliefs; folk religion "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Folk religion Folk religion consists of ethnic or regional religious cu... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "来",
+                    "らい"
+                ],
+                [
+                    "世",
+                    "せ"
+                ],
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "仰",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. belief in the next world; belief in the hereafter "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "稲",
+                    "いな"
+                ],
+                [
+                    "荷",
+                    "りしんこう"
+                ],
+                [
+                    "信",
+                    null
+                ],
+                [
+                    "仰",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cult of Inari; worship of the deity Inari "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "俯",
+                    "ふ"
+                ],
+                [
+                    "仰",
+                    "ぎょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. looking up and down; actions; being obliging "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "重",
+                    "じゅう"
+                ],
+                [
+                    "層",
+                    "そう"
+                ],
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "仰",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. syncretism See also シンクレティズム"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "学",
+                    "がく"
+                ],
+                [
+                    "歴",
+                    "れき"
+                ],
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "仰",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. over-belief in (the importance of) academic credentials; academic credentialism "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

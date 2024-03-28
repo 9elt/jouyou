@@ -1,0 +1,791 @@
+{
+    "kanji": "嘱",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "entrust",
+        "request",
+        "send a message"
+    ],
+    "kun": [
+        "しょく.する",
+        "たの.む"
+    ],
+    "on": [
+        "ショク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.11137614678899083,
+            0.32036697247706425,
+            "c",
+            0.007064220183486239,
+            0.0076146788990825685,
+            0.010642201834862385,
+            0.016605504587155963,
+            0.010642201834862385,
+            0.02706422018348624,
+            "c",
+            0.007064220183486239,
+            0.04055045871559633,
+            0.015229357798165137,
+            0.10440366972477065,
+            0.022477064220183487,
+            0.15944954128440367,
+            "c",
+            0.001559633027522936,
+            0.012018348623853212,
+            0.003119266055045872,
+            0.023577981651376145,
+            0.0045871559633027525,
+            0.034403669724770644
+        ],
+        [
+            "M",
+            0.1289908256880734,
+            0.333302752293578,
+            "c",
+            0.05798165137614679,
+            -0.01275229357798165,
+            0.0971559633027523,
+            -0.020091743119266054,
+            0.1428440366972477,
+            -0.028256880733944955,
+            "c",
+            0.02926605504587156,
+            -0.005229357798165137,
+            0.042201834862385317,
+            -0.00045871559633027525,
+            0.0373394495412844,
+            0.030825688073394496,
+            "c",
+            -0.006697247706422018,
+            0.04275229357798165,
+            -0.009908256880733945,
+            0.08963302752293578,
+            -0.02311926605504587,
+            0.1598165137614679
+        ],
+        [
+            "M",
+            0.1556880733944954,
+            0.5219266055045871,
+            "c",
+            0.03743119266055046,
+            -0.004954128440366972,
+            0.0763302752293578,
+            -0.012018348623853212,
+            0.12412844036697247,
+            -0.017339449541284403,
+            "c",
+            0.008440366972477065,
+            -0.0009174311926605505,
+            0.01724770642201835,
+            -0.001926605504587156,
+            0.026788990825688072,
+            -0.003119266055045872
+        ],
+        [
+            "M",
+            0.39541284403669724,
+            0.15990825688073393,
+            "c",
+            0.013119266055045872,
+            0.006972477064220183,
+            0.03293577981651376,
+            0.0077981651376146785,
+            0.04678899082568807,
+            0.006513761467889908,
+            "c",
+            0.07715596330275229,
+            -0.006880733944954129,
+            0.2218348623853211,
+            -0.020825688073394497,
+            0.3089908256880734,
+            -0.02669724770642202,
+            "c",
+            0.03018348623853211,
+            -0.002018348623853211,
+            0.039266055045871565,
+            0.01165137614678899,
+            0.03486238532110091,
+            0.03495412844036697,
+            "c",
+            -0.002752293577981651,
+            0.014495412844036697,
+            -0.006146788990825688,
+            0.02944954128440367,
+            -0.017339449541284403,
+            0.06788990825688074
+        ],
+        [
+            "M",
+            0.43577981651376146,
+            0.2788073394495413,
+            "c",
+            0.07339449541284404,
+            -0.0081651376146789,
+            0.19935779816513763,
+            -0.01669724770642202,
+            0.29256880733944957,
+            -0.02330275229357798,
+            "c",
+            0.01944954128440367,
+            -0.0013761467889908255,
+            0.039174311926605504,
+            -0.0033944954128440367,
+            0.05871559633027523,
+            -0.0032110091743119264
+        ],
+        [
+            "M",
+            0.41642201834862386,
+            0.17155963302752292,
+            "c",
+            0.0076146788990825685,
+            0.0076146788990825685,
+            0.013394495412844036,
+            0.018807339449541282,
+            0.01330275229357798,
+            0.028073394495412844,
+            "c",
+            -0.0008256880733944953,
+            0.25110091743119267,
+            -0.050733944954128446,
+            0.48642201834862386,
+            -0.17513761467889907,
+            0.6193577981651377
+        ],
+        [
+            "M",
+            0.7219266055045871,
+            0.2981651376146789,
+            "c",
+            0,
+            0.008073394495412844,
+            -0.0045871559633027525,
+            0.015596330275229357,
+            -0.011834862385321101,
+            0.020917431192660547,
+            "c",
+            -0.042844036697247706,
+            0.03128440366972477,
+            -0.09477064220183486,
+            0.05045871559633028,
+            -0.19844036697247705,
+            0.07651376146788991
+        ],
+        [
+            "M",
+            0.47853211009174307,
+            0.4390825688073394,
+            "c",
+            0.005688073394495413,
+            0.005688073394495413,
+            0.007706422018348624,
+            0.01275229357798165,
+            0.010091743119266056,
+            0.02165137614678899,
+            "c",
+            0.006605504587155963,
+            0.024587155963302753,
+            0.008256880733944955,
+            0.03357798165137615,
+            0.014862385321100919,
+            0.07128440366972477,
+            "c",
+            0.0017431192660550458,
+            0.010091743119266056,
+            0.003669724770642202,
+            0.014495412844036697,
+            0.005688073394495413,
+            0.027155963302752294
+        ],
+        [
+            "M",
+            0.4991743119266055,
+            0.4502752293577981,
+            "c",
+            0.10862385321100917,
+            -0.014495412844036697,
+            0.22036697247706422,
+            -0.03275229357798165,
+            0.27577981651376143,
+            -0.03513761467889908,
+            "c",
+            0.02165137614678899,
+            -0.0009174311926605505,
+            0.0318348623853211,
+            0.007522935779816513,
+            0.028899082568807338,
+            0.024770642201834864,
+            "c",
+            -0.006055045871559634,
+            0.035688073394495416,
+            -0.01036697247706422,
+            0.050917431192660546,
+            -0.017155963302752295,
+            0.07045871559633027
+        ],
+        [
+            "M",
+            0.5188990825688073,
+            0.5421100917431193,
+            "c",
+            0.05311926605504587,
+            -0.0047706422018348625,
+            0.15972477064220184,
+            -0.014311926605504588,
+            0.2444954128440367,
+            -0.02018348623853211,
+            "c",
+            0.013486238532110091,
+            -0.0009174311926605505,
+            0.02642201834862385,
+            -0.0017431192660550458,
+            0.038256880733944953,
+            -0.002477064220183486
+        ],
+        [
+            "M",
+            0.44256880733944953,
+            0.6274311926605505,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.010091743119266056,
+            0.01798165137614679,
+            0.010642201834862385,
+            0.02587155963302752,
+            "c",
+            0.002201834862385321,
+            0.03220183486238532,
+            0.0034862385321100917,
+            0.1191743119266055,
+            0.004036697247706422,
+            0.1746788990825688,
+            "c",
+            0.0002752293577981651,
+            0.02532110091743119,
+            0.0003669724770642202,
+            0.04412844036697247,
+            0.0003669724770642202,
+            0.0481651376146789
+        ],
+        [
+            "M",
+            0.45844036697247703,
+            0.6388073394495413,
+            "c",
+            0.06678899082568808,
+            -0.0076146788990825685,
+            0.2769724770642202,
+            -0.026055045871559632,
+            0.3581651376146789,
+            -0.034770642201834866,
+            "c",
+            0.041009174311926605,
+            -0.004311926605504587,
+            0.05623853211009174,
+            -0.0006422018348623854,
+            0.052752293577981654,
+            0.04385321100917432,
+            "c",
+            -0.005688073394495413,
+            0.07458715596330276,
+            -0.01,
+            0.12422018348623852,
+            -0.028715596330275227,
+            0.1818348623853211,
+            "C",
+            0.8211009174311926,
+            0.8899082568807339,
+            0.7935779816513762,
+            0.8486238532110092,
+            0.7833027522935779,
+            0.833302752293578
+        ],
+        [
+            "M",
+            0.6286238532110091,
+            0.3805504587155963,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.01110091743119266,
+            0.019724770642201832,
+            0.01110091743119266,
+            0.033211009174311926,
+            "c",
+            0,
+            0.03706422018348624,
+            -0.0003669724770642202,
+            0.2731192660550459,
+            -0.0003669724770642202,
+            0.3135779816513761
+        ],
+        [
+            "M",
+            0.5355963302752293,
+            0.7462385321100917,
+            "c",
+            0.005688073394495413,
+            0.00944954128440367,
+            0.013761467889908258,
+            0.011743119266055046,
+            0.027155963302752294,
+            0.008715596330275228,
+            "c",
+            0.04449541284403669,
+            -0.010183486238532111,
+            0.1642201834862385,
+            -0.03990825688073394,
+            0.17761467889908256,
+            -0.04385321100917432
+        ],
+        [
+            "M",
+            0.7258715596330275,
+            0.6662385321100918,
+            "c",
+            0.017522935779816513,
+            0.017889908256880735,
+            0.0453211009174312,
+            0.07376146788990826,
+            0.049724770642201835,
+            0.10155963302752294
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "嘱",
+                    "しょく"
+                ],
+                [
+                    "望",
+                    "ぼう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. having great hopes for (someone's future); expecting much of; pinning one's hopes on oft. as 将来を嘱望される"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "属望 【しょくぼう】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. having great hopes for (someone's future); expecting much of; pinning one's hopes on oft. as 将来を嘱望される"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "属望 【しょくぼう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘱",
+                    "しょく"
+                ],
+                [
+                    "託",
+                    "たく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. commission; entrusting with (work) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. part-time employee; temporary work "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "属託 【しょくたく】、囑託 【しょくたく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "属託: Rarely-used kanji form. 囑託: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. commission; entrusting with (work) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. part-time employee; temporary work "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "属託 【しょくたく】、囑託 【しょくたく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "属託: Rarely-used kanji form. 囑託: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘱",
+                    "しょく"
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "1. to entrust (someone) with; to pin one's hopes on (someone's future); to have great expectations for Formal or literary term"
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "2. to have (someone) deliver (a letter, etc.); to leave (a message); to send word Formal or literary term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "属する 【しょくする】"
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "1. to entrust (someone) with; to pin one's hopes on (someone's future); to have great expectations for Formal or literary term"
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "2. to have (someone) deliver (a letter, etc.); to leave (a message); to send word Formal or literary term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "属する 【しょくする】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘱",
+                    "しょく"
+                ],
+                [
+                    "目",
+                    "もく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. paying attention to; taking note of; observing; watching; having great expectations for Formal or literary term"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. catching one's eye Formal or literary term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "属目 【しょくもく】、矚目 【しょくもく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "矚目: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. paying attention to; taking note of; observing; watching; having great expectations for Formal or literary term"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. catching one's eye Formal or literary term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "属目 【しょくもく】、矚目 【しょくもく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "矚目: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘱",
+                    "しょく"
+                ],
+                [
+                    "託",
+                    "たく"
+                ],
+                [
+                    "社",
+                    "しゃ"
+                ],
+                [
+                    "員",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. contract employee (esp. one rehired after mandatory retirement) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. contract employee (esp. one rehired after mandatory retirement) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘱",
+                    "しょく"
+                ],
+                [
+                    "託",
+                    "たく"
+                ],
+                [
+                    "医",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. commissioned doctor "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. commissioned doctor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘱",
+                    "しょく"
+                ],
+                [
+                    "託",
+                    "たく"
+                ],
+                [
+                    "殺",
+                    "さつ"
+                ],
+                [
+                    "人",
+                    "じん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. murder at the victim's request; consensual homicide See also 承諾殺人"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. murder at the victim's request; consensual homicide See also 承諾殺人"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘱",
+                    "しょく"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to entrust (someone) with; to pin one's hopes on (someone's future); to have great expectations for Formal or literary term, See also 嘱する"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to have (someone) deliver (a letter, etc.); to leave (a message); to send word Formal or literary term, See also 嘱する"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "属す 【しょくす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to entrust (someone) with; to pin one's hopes on (someone's future); to have great expectations for Formal or literary term, See also 嘱する"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to have (someone) deliver (a letter, etc.); to leave (a message); to send word Formal or literary term, See also 嘱する"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "属す 【しょくす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "委",
+                    "い"
+                ],
+                [
+                    "嘱",
+                    "しょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. commissioning; entrusting (with); request; appointment (to a position) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "依嘱 【いしょく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "依嘱: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "遺",
+                    "い"
+                ],
+                [
+                    "嘱",
+                    "しょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dying wish (to be carried out after one's death) Rare term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "委",
+                    "い"
+                ],
+                [
+                    "嘱",
+                    "しょく"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. letter of appointment (to a position) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "付",
+                    "ふ"
+                ],
+                [
+                    "嘱",
+                    "しょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conferment; act of conferring (honour, gift, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "じゅ"
+                ],
+                [
+                    "嘱",
+                    "しょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. being entrusted with; being delegated with "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

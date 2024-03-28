@@ -1,0 +1,913 @@
+{
+    "kanji": "后",
+    "grade": 6,
+    "jlpt": 1,
+    "meanings": [
+        "empress",
+        "queen",
+        "after",
+        "behind",
+        "back",
+        "later"
+    ],
+    "kun": [
+        "きさき"
+    ],
+    "on": [
+        "コウ",
+        "ゴ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.6441284403669724,
+            0.12972477064220184,
+            "c",
+            -0.001926605504587156,
+            0.010183486238532111,
+            -0.0076146788990825685,
+            0.022752293577981652,
+            -0.02165137614678899,
+            0.02981651376146789,
+            "c",
+            -0.06330275229357799,
+            0.03211009174311927,
+            -0.15458715596330277,
+            0.06513761467889909,
+            -0.31,
+            0.10614678899082569
+        ],
+        [
+            "M",
+            0.26431192660550457,
+            0.23394495412844038,
+            "c",
+            0.007706422018348624,
+            0.007706422018348624,
+            0.011192660550458715,
+            0.02192660550458716,
+            0.011192660550458715,
+            0.036788990825688074,
+            "c",
+            -0.0011009174311926604,
+            0.3110091743119266,
+            -0.04596330275229358,
+            0.4492660550458715,
+            -0.17,
+            0.5297247706422018
+        ],
+        [
+            "M",
+            0.30275229357798167,
+            0.4279816513761468,
+            "c",
+            0.022935779816513763,
+            0.004311926605504587,
+            0.05871559633027523,
+            0.00045871559633027525,
+            0.08366972477064219,
+            -0.003027522935779817,
+            "c",
+            0.09880733944954129,
+            -0.013944954128440367,
+            0.2846788990825688,
+            -0.03752293577981651,
+            0.3888073394495413,
+            -0.04752293577981651,
+            "c",
+            0.023944954128440367,
+            -0.0022935779816513763,
+            0.04990825688073395,
+            -0.0029357798165137615,
+            0.07339449541284404,
+            0.002201834862385321
+        ],
+        [
+            "M",
+            0.35091743119266056,
+            0.6110091743119266,
+            "c",
+            0.008715596330275228,
+            0.008715596330275228,
+            0.014862385321100919,
+            0.019724770642201832,
+            0.01724770642201835,
+            0.03394495412844037,
+            "c",
+            0.0081651376146789,
+            0.04889908256880734,
+            0.015596330275229357,
+            0.11385321100917431,
+            0.024311926605504585,
+            0.17807339449541285,
+            "c",
+            0.002201834862385321,
+            0.0163302752293578,
+            0.004403669724770642,
+            0.03256880733944954,
+            0.006422018348623853,
+            0.0481651376146789
+        ],
+        [
+            "M",
+            0.3726605504587156,
+            0.6303669724770642,
+            "c",
+            0.09339449541284403,
+            -0.016238532110091745,
+            0.2661467889908257,
+            -0.03743119266055046,
+            0.33724770642201835,
+            -0.04541284403669725,
+            "c",
+            0.034770642201834866,
+            -0.0039449541284403665,
+            0.05486238532110092,
+            0.011926605504587157,
+            0.04504587155963303,
+            0.0481651376146789,
+            "c",
+            -0.015229357798165137,
+            0.05614678899082569,
+            -0.023944954128440367,
+            0.09376146788990826,
+            -0.046697247706422015,
+            0.16522935779816514
+        ],
+        [
+            "M",
+            0.40311926605504583,
+            0.8360550458715595,
+            "c",
+            0.05376146788990826,
+            -0.005871559633027523,
+            0.2,
+            -0.019357798165137614,
+            0.2894495412844037,
+            -0.027522935779816515,
+            "c",
+            0.014862385321100919,
+            -0.0013761467889908255,
+            0.028256880733944955,
+            -0.0025688073394495416,
+            0.03963302752293578,
+            -0.0034862385321100917
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "後",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix, Adverb (fukushi)",
+                    "meaning": "1. after "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. later; afterwards Usually written using kana alone船が沈没してしまってのち、船の残骸が引き上げられた。The wreckage of the ship was salvaged after it had gone to Davy Jones's locker."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. future Usually written using kana alone"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. after one's death "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. descendant Archaic"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix, Adverb (fukushi)",
+                    "meaning": "1. after "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. later; afterwards Usually written using kana alone船が沈没してしまってのち、船の残骸が引き上げられた。The wreckage of the ship was salvaged after it had gone to Davy Jones's locker."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. future Usually written using kana alone"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. after one's death "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. descendant Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "后",
+                    "きさき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. empress; queen "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Princess consort Princess consort is a title or an informal designation no... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "妃 【きさき】、后 【きさい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "きさい: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. empress; queen "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Princess consort Princess consort is a title or an informal designation no... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "妃 【きさき】、后 【きさい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "きさい: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "后",
+                    "きさき"
+                ],
+                [
+                    "町",
+                    "まち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. women's pavilion (of the inner Heian palace) See also 常寧殿"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "后町 【きさいまち】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. women's pavilion (of the inner Heian palace) See also 常寧殿"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "后町 【きさいまち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "皇",
+                    "こう"
+                ],
+                [
+                    "妃",
+                    "ひ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. empress; queen "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "后妃 【こうひ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. empress; queen "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "后妃 【こうひ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "后",
+                    "こう"
+                ],
+                [
+                    "宮",
+                    "ぐう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. empress's palace; queen's palace "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. empress; queen "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. empress's palace; queen's palace "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. empress; queen "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "后",
+                    null
+                ],
+                [
+                    "土",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Hou Tu Hou Tu also Hou T'u, now Hou Tu Nainai, in Chinese mythol... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "后",
+                    null
+                ],
+                [
+                    "瑞",
+                    null
+                ],
+                [
+                    "駅",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Hourui Station Hourui Station is an elevated station on the Luobao Line ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "后",
+                    null
+                ],
+                [
+                    "稷",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Houji Houji, Lord of Millet, also variant, or Qi (棄; personal n... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "后",
+                    null
+                ],
+                [
+                    "里",
+                    null
+                ],
+                [
+                    "区",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Houli District Houli (后里區) is a rural district in northwestern Taichung ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "后",
+                    null
+                ],
+                [
+                    "里",
+                    null
+                ],
+                [
+                    "駅",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Houli Station Houli Station is a railway station of Taiwan Railway Admi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "后",
+                    null
+                ],
+                [
+                    "海",
+                    null
+                ],
+                [
+                    "駅",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Houhai Station Houhai Station, which has an old name Nanshan Shopping Ce... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "后",
+                "きさき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kisaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "后三郎",
+                "ごさぶろう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Male given name",
+                    "meaning": "1. Gosaburou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "后乃",
+                "さきの"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Sakino "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "午",
+                    "ご"
+                ],
+                [
+                    "後",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. afternoon; p.m. "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "午后 【ごご】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "午后: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "皇",
+                    "こう"
+                ],
+                [
+                    "太",
+                    "たい"
+                ],
+                [
+                    "后",
+                    "ごう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Empress Dowager; Queen Mother "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Empress dowager Empress dowager (also Dowager Empress or Empress mother) ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "皇太后 【こうたいこう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "こうたいこう: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "皇",
+                    "こう"
+                ],
+                [
+                    "后",
+                    "ごう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. (Japanese) empress; queen "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "皇",
+                    "こう"
+                ],
+                [
+                    "后",
+                    "ごう"
+                ],
+                [
+                    "宮",
+                    "ぐう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. empress's residence "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. empress See also 皇后"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "后",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. queen of heaven "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "三",
+                    "さん"
+                ],
+                [
+                    "后",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Grand Empress Dowager, the Empress Dowager and the Empress Consort "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "母",
+                    "ぼ"
+                ],
+                [
+                    "后",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. empress dowager "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "三",
+                    "さん"
+                ],
+                [
+                    "皇",
+                    "こう"
+                ],
+                [
+                    "后",
+                    "ごう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Grand Empress Dowager, the Empress Dowager and the Empress Consort Rare term, See also 三后"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "太",
+                    "たい"
+                ],
+                [
+                    "后",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. empress dowager; queen mother "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "皇",
+                    "こう"
+                ],
+                [
+                    "后",
+                    "ごう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. retired empress; ex-empress; former empress; empress emerita "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "王",
+                    "おう"
+                ],
+                [
+                    "后",
+                    "こう"
+                ],
+                [
+                    "陛",
+                    "へい"
+                ],
+                [
+                    "下",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Her Majesty the Queen "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "皇",
+                    "こう"
+                ],
+                [
+                    "后",
+                    "ごう"
+                ],
+                [
+                    "陛",
+                    "へい"
+                ],
+                [
+                    "下",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Her Majesty the Empress (of Japan) Honorific or respectful (sonkeigo) language, See also 皇后"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "王",
+                    "おう"
+                ],
+                [
+                    "后",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. queen "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "皇",
+                    "のうこうごうりょうへいか"
+                ],
+                [
+                    "皇",
+                    null
+                ],
+                [
+                    "后",
+                    null
+                ],
+                [
+                    "両",
+                    null
+                ],
+                [
+                    "陛",
+                    null
+                ],
+                [
+                    "下",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Their Majesties, the Emperor and Empress "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

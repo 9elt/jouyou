@@ -1,0 +1,1979 @@
+{
+    "kanji": "呼",
+    "grade": 6,
+    "jlpt": 3,
+    "meanings": [
+        "call",
+        "call out to",
+        "invite"
+    ],
+    "kun": [
+        "よ.ぶ"
+    ],
+    "on": [
+        "コ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.11238532110091744,
+            0.3218348623853211,
+            "c",
+            0.006972477064220183,
+            0.006788990825688073,
+            0.011009174311926604,
+            0.014954128440366971,
+            0.012201834862385321,
+            0.024587155963302753,
+            "c",
+            0.00908256880733945,
+            0.036238532110091745,
+            0.01889908256880734,
+            0.10256880733944954,
+            0.02642201834862385,
+            0.16018348623853212,
+            "c",
+            0.002018348623853211,
+            0.015504587155963302,
+            0.003853211009174312,
+            0.03036697247706422,
+            0.005504587155963302,
+            0.04385321100917432
+        ],
+        [
+            "M",
+            0.13211009174311927,
+            0.3367889908256881,
+            "c",
+            0.08,
+            -0.015688073394495412,
+            0.15137614678899083,
+            -0.026972477064220183,
+            0.1946788990825688,
+            -0.0326605504587156,
+            "c",
+            0.019541284403669725,
+            -0.0025688073394495416,
+            0.034403669724770644,
+            0.012385321100917432,
+            0.02981651376146789,
+            0.03211009174311927,
+            "c",
+            -0.009908256880733945,
+            0.04256880733944954,
+            -0.01853211009174312,
+            0.08862385321100917,
+            -0.031009174311926603,
+            0.1473394495412844
+        ],
+        [
+            "M",
+            0.15816513761467887,
+            0.5139449541284404,
+            "c",
+            0.04055045871559633,
+            -0.004862385321100918,
+            0.09394495412844037,
+            -0.012568807339449543,
+            0.14926605504587157,
+            -0.02018348623853211,
+            "c",
+            0.01110091743119266,
+            -0.001559633027522936,
+            0.021743119266055048,
+            -0.0029357798165137615,
+            0.03339449541284404,
+            -0.002201834862385321
+        ],
+        [
+            "M",
+            0.6873394495412845,
+            0.10779816513761468,
+            "c",
+            0,
+            0.010275229357798166,
+            -0.005321100917431192,
+            0.020642201834862386,
+            -0.015963302752293577,
+            0.02706422018348624,
+            "C",
+            0.6146788990825688,
+            0.16972477064220184,
+            0.5240366972477064,
+            0.20752293577981654,
+            0.40018348623853206,
+            0.24348623853211007
+        ],
+        [
+            "M",
+            0.4380733944954128,
+            0.3211009174311927,
+            "c",
+            0.021376146788990826,
+            0.021376146788990826,
+            0.05522935779816513,
+            0.08798165137614679,
+            0.06055045871559633,
+            0.12128440366972477
+        ],
+        [
+            "M",
+            0.8135779816513762,
+            0.23293577981651375,
+            "c",
+            0.0008256880733944953,
+            0.00908256880733945,
+            0.0001834862385321101,
+            0.018073394495412842,
+            -0.003027522935779817,
+            0.02651376146788991,
+            "c",
+            -0.015871559633027523,
+            0.04211009174311926,
+            -0.04568807339449542,
+            0.09486238532110092,
+            -0.09100917431192661,
+            0.14504587155963303
+        ],
+        [
+            "M",
+            0.32798165137614677,
+            0.5607339449541284,
+            "c",
+            0.028623853211009177,
+            0.0057798165137614675,
+            0.07009174311926605,
+            0.0007339449541284404,
+            0.09752293577981652,
+            -0.004220183486238533,
+            "c",
+            0.09816513761467889,
+            -0.017614678899082567,
+            0.2838532110091743,
+            -0.04935779816513761,
+            0.3979816513761468,
+            -0.05954128440366973,
+            "c",
+            0.027889908256880733,
+            -0.002477064220183486,
+            0.05504587155963303,
+            -0.004954128440366972,
+            0.08256880733944955,
+            0.001834862385321101
+        ],
+        [
+            "M",
+            0.5840366972477063,
+            0.2106422018348624,
+            "C",
+            0.6605504587155964,
+            0.3108256880733945,
+            0.6662385321100918,
+            0.6100917431192661,
+            0.6209174311926606,
+            0.8288073394495413,
+            "c",
+            -0.02,
+            0.0963302752293578,
+            -0.08302752293577982,
+            0.01,
+            -0.09568807339449541,
+            -0.0016513761467889907
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "呼",
+                    "こ"
+                ],
+                [
+                    "吸",
+                    "きゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. breathing; respiration 酸素は私たちが呼吸すると肺の中に取り込まれる。Oxygen is taken into our lungs when we breathe."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. knack; trick; secret (of doing something) 英語の発音の呼吸がなかなか飲み込めない。I still can't get the knack of English pronunciation."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. harmony; balance; synchronization; accord "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. short interval; short pause See also 一呼吸"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Breathing Breathing is the process that moves air in and out of the... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. breathing; respiration 酸素は私たちが呼吸すると肺の中に取り込まれる。Oxygen is taken into our lungs when we breathe."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. knack; trick; secret (of doing something) 英語の発音の呼吸がなかなか飲み込めない。I still can't get the knack of English pronunciation."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. harmony; balance; synchronization; accord "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. short interval; short pause See also 一呼吸"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Breathing Breathing is the process that moves air in and out of the... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "酸素",
+                            "さんそ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私たち",
+                            "わたし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "呼吸",
+                            "こきゅう"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "肺",
+                            "はい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "中",
+                            "なか"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "取り込まれる",
+                            "とりこ"
+                        ]
+                    ],
+                    "translation": "Oxygen is taken into our lungs when we breathe."
+                },
+                {
+                    "sentence": [
+                        [
+                            "英語",
+                            "えいご"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "発音",
+                            "はつおん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "呼吸",
+                            "こきゅう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "なかなか",
+                            null
+                        ],
+                        [
+                            "飲み込めない",
+                            "のみこ"
+                        ]
+                    ],
+                    "translation": "I still can't get the knack of English pronunciation."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "ぶ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "1. to call out (to); to call; to invoke あなたが呼べば、彼は来るでしょう。He will come if you call him."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "2. to summon (a doctor, etc.) パーティーに呼んでもらいましたが今回は行けません。You invited me to your party, but I can't make it this time."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "3. to invite 「本当に警察を呼びたいのか」と僕は彼女に尋ねた。\"Are you sure you want to call the police?\" I asked her."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "4. to designate; to name; to brand あなたをケパと呼ぶことにします。You will be called Cephas."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "5. to garner (support, etc.); to gather この映画は大変な人気を呼んだ。This movie has won great popularity."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "6. to take as one's wife Archaic, See also 娶る"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喚ぶ 【よぶ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "喚ぶ: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "1. to call out (to); to call; to invoke あなたが呼べば、彼は来るでしょう。He will come if you call him."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "2. to summon (a doctor, etc.) パーティーに呼んでもらいましたが今回は行けません。You invited me to your party, but I can't make it this time."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "3. to invite 「本当に警察を呼びたいのか」と僕は彼女に尋ねた。\"Are you sure you want to call the police?\" I asked her."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "4. to designate; to name; to brand あなたをケパと呼ぶことにします。You will be called Cephas."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "5. to garner (support, etc.); to gather この映画は大変な人気を呼んだ。This movie has won great popularity."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "6. to take as one's wife Archaic, See also 娶る"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喚ぶ 【よぶ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "喚ぶ: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "呼べば",
+                            "よ"
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "来る",
+                            "きた"
+                        ],
+                        [
+                            "でしょう",
+                            null
+                        ]
+                    ],
+                    "translation": "He will come if you call him."
+                },
+                {
+                    "sentence": [
+                        [
+                            "パーティー",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "呼んで",
+                            "よ"
+                        ],
+                        [
+                            "もらいました",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "今回",
+                            "こんかい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "行けません",
+                            "い"
+                        ]
+                    ],
+                    "translation": "You invited me to your party, but I can't make it this time."
+                },
+                {
+                    "sentence": [
+                        [
+                            "本当に",
+                            "ほんとう"
+                        ],
+                        [
+                            "警察",
+                            "けいさつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "呼び",
+                            "よ"
+                        ],
+                        [
+                            "たい",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "僕",
+                            "ぼく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "尋ねた",
+                            "たず"
+                        ]
+                    ],
+                    "translation": "\"Are you sure you want to call the police?\" I asked her."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "呼ぶ",
+                            "よ"
+                        ],
+                        [
+                            "ことにします",
+                            null
+                        ]
+                    ],
+                    "translation": "You will be called Cephas."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "映画",
+                            "えいが"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "大変な",
+                            "たいへん"
+                        ],
+                        [
+                            "人気",
+                            "にんき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "呼んだ",
+                            "よ"
+                        ]
+                    ],
+                    "translation": "This movie has won great popularity."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to call (someone) to (the door, phone, etc.); to tell (someone) to come; to call up (on the phone); to summon; to page; to invoke (e.g. a spirit) どうぞ彼を電話口に呼び出してください。Please call him to the telephone."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to invoke (e.g. a subroutine); to call; to open (e.g. a file) Computing4つのレジスタは、呼び出された関数側が保存する。The contents of the four registers are preserved by the called subroutine."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼出す 【よびだす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to call (someone) to (the door, phone, etc.); to tell (someone) to come; to call up (on the phone); to summon; to page; to invoke (e.g. a spirit) どうぞ彼を電話口に呼び出してください。Please call him to the telephone."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to invoke (e.g. a subroutine); to call; to open (e.g. a file) Computing4つのレジスタは、呼び出された関数側が保存する。The contents of the four registers are preserved by the called subroutine."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼出す 【よびだす】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "どうぞ",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "電話口",
+                            "でんわぐち"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "呼び出して",
+                            "よびだ"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Please call him to the telephone."
+                },
+                {
+                    "sentence": [
+                        [
+                            "4つ",
+                            "よっ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "レジスタ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "呼び出された",
+                            "よびだ"
+                        ],
+                        [
+                            "関数",
+                            "かんすう"
+                        ],
+                        [
+                            "側",
+                            "がわ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "保存",
+                            "ほぞん"
+                        ],
+                        [
+                            "する",
+                            null
+                        ]
+                    ],
+                    "translation": "The contents of the four registers are preserved by the called subroutine."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to call out to; to hail; to address 遠くから誰かが私に呼びかけているのが聞こえた。I heard someone calling me from a distance."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to appeal 警官はすりに対する注意を呼びかけた。The policeman called attention to the problem of pickpockets."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼び掛ける 【よびかける】、呼掛ける 【よびかける】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to call out to; to hail; to address 遠くから誰かが私に呼びかけているのが聞こえた。I heard someone calling me from a distance."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to appeal 警官はすりに対する注意を呼びかけた。The policeman called attention to the problem of pickpockets."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼び掛ける 【よびかける】、呼掛ける 【よびかける】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "遠くから",
+                            null
+                        ],
+                        [
+                            "誰か",
+                            "だれ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "呼びかけている",
+                            "よびかけ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "聞こえた",
+                            "き"
+                        ]
+                    ],
+                    "translation": "I heard someone calling me from a distance."
+                },
+                {
+                    "sentence": [
+                        [
+                            "警官",
+                            "けいかん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "すり",
+                            null
+                        ],
+                        [
+                            "に対する",
+                            "にたい"
+                        ],
+                        [
+                            "注意",
+                            "ちゅうい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "呼びかけた",
+                            "よ"
+                        ]
+                    ],
+                    "translation": "The policeman called attention to the problem of pickpockets."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "止",
+                    "と"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to (call and) stop; to call (someone) to stop; to hail (e.g. a taxi) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼びとめる 【よびとめる】、呼び留める 【よびとめる】、呼止める 【よびとめる】、呼留める 【よびとめる】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to (call and) stop; to call (someone) to stop; to hail (e.g. a taxi) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼びとめる 【よびとめる】、呼び留める 【よびとめる】、呼止める 【よびとめる】、呼留める 【よびとめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. call; summons; paging; curtain call See also 呼び出す よびだす呼び出しをお願いします。I'd like to page someone."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. call; invocation Computing"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. usher who calls the names of wrestlers, sweeps the ring, etc. Sumo"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. telephone number at which a person without a telephone can be reached Abbreviation, See also 呼び出し電話"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. box-shaped area containing clean water for rinsing oneself (in an Edo-period bathhouse) Archaic, See also 陸湯"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. high-ranking prostitute in the Yoshiwara district (Edo period) Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. unlicensed prostitute in the Fukagawa red-light district (Edo period) Archaic"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "8. Yobidashi The yobidashi (呼出 or 呼び出し) (announcer or beckoner) calls ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼出し 【よびだし】、呼出 【よびだし】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "呼出: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. call; summons; paging; curtain call See also 呼び出す よびだす呼び出しをお願いします。I'd like to page someone."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. call; invocation Computing"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. usher who calls the names of wrestlers, sweeps the ring, etc. Sumo"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. telephone number at which a person without a telephone can be reached Abbreviation, See also 呼び出し電話"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. box-shaped area containing clean water for rinsing oneself (in an Edo-period bathhouse) Archaic, See also 陸湯"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. high-ranking prostitute in the Yoshiwara district (Edo period) Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. unlicensed prostitute in the Fukagawa red-light district (Edo period) Archaic"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "8. Yobidashi The yobidashi (呼出 or 呼び出し) (announcer or beckoner) calls ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼出し 【よびだし】、呼出 【よびだし】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "呼出: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "呼び出し",
+                            "よびだ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "お願いします",
+                            "おねが"
+                        ]
+                    ],
+                    "translation": "I'd like to page someone."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "名",
+                    "な"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. popular name; common name; given name "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼名 【よびな】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. popular name; common name; given name "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼名 【よびな】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. call; appeal "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼び掛け 【よびかけ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. call; appeal "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼び掛け 【よびかけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "戻",
+                    "もど"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to call (someone) back; to recall; to call home "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to bring back (memories, etc.); to recall; to revive "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼戻す 【よびもどす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to call (someone) back; to recall; to call home "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to bring back (memories, etc.); to recall; to revive "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼戻す 【よびもどす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "起",
+                    "お"
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to wake (someone) up (by calling for them); to awaken "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to call (to mind); to bring back (memories); to evoke; to arouse (e.g. interest) 戦いは人間の獣性をよびおこす。War arouses the animal in man."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼び起す 【よびおこす】、呼起こす 【よびおこす】、呼起す 【よびおこす】、喚び起こす 【よびおこす】、喚び起す 【よびおこす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to wake (someone) up (by calling for them); to awaken "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to call (to mind); to bring back (memories); to evoke; to arouse (e.g. interest) 戦いは人間の獣性をよびおこす。War arouses the animal in man."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼び起す 【よびおこす】、呼起こす 【よびおこす】、呼起す 【よびおこす】、喚び起こす 【よびおこす】、喚び起す 【よびおこす】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "戦い",
+                            "たたか"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "人間",
+                            "にんげん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "獣性",
+                            "じゅうせい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "よびおこす",
+                            null
+                        ]
+                    ],
+                    "translation": "War arouses the animal in man."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "ば",
+                    null
+                ],
+                [
+                    "わ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, used as a suffix, Suru verb",
+                    "meaning": "1. calling (someone a thief, coward, etc.); branding (as); denouncing "
+                },
+                {
+                    "type": "Noun, used as a suffix, Suru verb",
+                    "meaning": "1. calling (someone a thief, coward, etc.); branding (as); denouncing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "声",
+                    "ごえ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. call; hail; yell "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼声 【よびごえ】、呼声 【こせい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. call; hail; yell "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼声 【よびごえ】、呼声 【こせい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "物",
+                    "もの"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. main attraction; special feature; big draw "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼びもの 【よびもの】、呼物 【よびもの】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. main attraction; special feature; big draw "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼びもの 【よびもの】、呼物 【よびもの】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to call; to summon; to send for; to call together "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼びよせる 【よびよせる】、呼寄せる 【よびよせる】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to call; to summon; to send for; to call together "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼びよせる 【よびよせる】、呼寄せる 【よびよせる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "こ"
+                ],
+                [
+                    "吸",
+                    "きゅう"
+                ],
+                [
+                    "困",
+                    "こん"
+                ],
+                [
+                    "難",
+                    "なん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. labored breathing; laboured breathing; dyspnea; dyspnoea Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Dyspnea Dyspnea, shortness of breath (SOB), or air hunger, is the... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. labored breathing; laboured breathing; dyspnea; dyspnoea Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Dyspnea Dyspnea, shortness of breath (SOB), or air hunger, is the... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "こ"
+                ],
+                [
+                    "吸",
+                    "きゅう"
+                ],
+                [
+                    "器",
+                    "き"
+                ],
+                [
+                    "疾",
+                    "しっ"
+                ],
+                [
+                    "患",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. respiratory illness Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Respiratory disease Respiratory disease is a medical term that encompasses pa... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. respiratory illness Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Respiratory disease Respiratory disease is a medical term that encompasses pa... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "ば",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to be called (a name); to be referred to (as) passive of 呼ぶこれがビッグベンと呼ばれる鐘です。This is the bell called Big Ben."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be treated to something (e.g. a meal); to be invited to 私たちは今晩食事に呼ばれました。We have been invited to dinner this evening."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "これ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ビッグベン",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "呼ばれる",
+                            "よ"
+                        ],
+                        [
+                            "鐘",
+                            "かね"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "This is the bell called Big Ben."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私たち",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "今晩",
+                            "こんばん"
+                        ],
+                        [
+                            "食事",
+                            "しょくじ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "呼ばれました",
+                            "よ"
+                        ]
+                    ],
+                    "translation": "We have been invited to dinner this evening."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to call in; to invite; to bring in "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼入れる 【よびいれる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "鈴",
+                    "りん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bell (used for summoning or signalling); buzzer "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼鈴 【よびりん】、呼びりん 【よびりん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呼",
+                    "よ"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "覚",
+                    "さ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to wake up (someone; by calling out); to awaken "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to bring back (e.g. memories); to evoke; to recall 私はその日の記憶を呼び覚まそうとした。I tried to call on my memories of that day."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呼びさます 【よびさます】、呼覚ます 【よびさます】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "日",
+                            "ひ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "記憶",
+                            "きおく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "呼び覚まそう",
+                            "よびさ"
+                        ],
+                        [
+                            "とした",
+                            null
+                        ]
+                    ],
+                    "translation": "I tried to call on my memories of that day."
+                }
+            ]
+        },
+        {
+            "word": [
+                "呼",
+                "こ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Ko "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Koko "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kokoro "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嗚",
+                    null
+                ],
+                [
+                    "呼",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": null,
+                    "meaning": "5. uh huh; yeah yeah; right; gotcha Usually written using kana aloneああ、なるほど！Ah, gotcha!"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "噫 【ああ】、あー"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "嗚呼: Ateji (phonetic) reading. 噫: Ateji (phonetic) reading, Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ああ",
+                            null
+                        ],
+                        [
+                            "悲しい",
+                            "かな"
+                        ]
+                    ],
+                    "translation": "Ah, me!"
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "疲れている",
+                            "つかれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "聞かれて",
+                            "き"
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ああ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "いった",
+                            null
+                        ]
+                    ],
+                    "translation": "He said \"Yeah\" when she asked if he was tired."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ああ",
+                            null
+                        ],
+                        [
+                            "また",
+                            null
+                        ],
+                        [
+                            "失敗",
+                            "しっぱい"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "Ah, I've failed again!"
+                },
+                {
+                    "sentence": [
+                        [
+                            "ああ",
+                            null
+                        ],
+                        [
+                            "飛行機",
+                            "ひこうき"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "離陸",
+                            "りりく"
+                        ],
+                        [
+                            "する",
+                            null
+                        ]
+                    ],
+                    "translation": "Look! There's a plane taking off."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ああ",
+                            null
+                        ],
+                        [
+                            "なるほど",
+                            null
+                        ]
+                    ],
+                    "translation": "Ah, gotcha!"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "工",
+                    "こう"
+                ],
+                [
+                    "呼",
+                    "こ"
+                ],
+                [
+                    "吸",
+                    "きゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. artificial respiration "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Mechanical ventilation In medicine, mechanical ventilation is a method to mechan... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "歓",
+                    "かん"
+                ],
+                [
+                    "呼",
+                    "こ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. acclamation; jubilation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "深",
+                    "しん"
+                ],
+                [
+                    "呼",
+                    "こ"
+                ],
+                [
+                    "吸",
+                    "きゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. deep breath "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

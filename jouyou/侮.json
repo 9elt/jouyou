@@ -1,0 +1,705 @@
+{
+    "kanji": "侮",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "scorn",
+        "despise",
+        "make light of",
+        "contempt"
+    ],
+    "kun": [
+        "あなど.る",
+        "あなず.る"
+    ],
+    "on": [
+        "ブ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.29807339449541287,
+            0.15954128440366974,
+            "c",
+            0.0012844036697247708,
+            0.009908256880733945,
+            0.002201834862385321,
+            0.02238532110091743,
+            -0.0011009174311926604,
+            0.03458715596330275,
+            "c",
+            -0.021009174311926605,
+            0.07715596330275229,
+            -0.10220183486238532,
+            0.22165137614678898,
+            -0.20009174311926603,
+            0.32623853211009174
+        ],
+        [
+            "M",
+            0.2296330275229358,
+            0.3853211009174312,
+            "c",
+            0.005412844036697248,
+            0.005596330275229358,
+            0.006972477064220183,
+            0.018073394495412842,
+            0.006972477064220183,
+            0.02963302752293578,
+            "c",
+            0,
+            0.09247706422018348,
+            0.0007339449541284404,
+            0.2646788990825688,
+            0,
+            0.37403669724770644,
+            "c",
+            -0.0001834862385321101,
+            0.031926605504587154,
+            -0.0003669724770642202,
+            0.05871559633027523,
+            -0.0003669724770642202,
+            0.07688073394495414
+        ],
+        [
+            "M",
+            0.5055045871559634,
+            0.13073394495412843,
+            "c",
+            0.00045871559633027525,
+            0.005963302752293578,
+            0.0014678899082568807,
+            0.015504587155963302,
+            -0.0008256880733944953,
+            0.023853211009174313,
+            "c",
+            -0.014220183486238533,
+            0.05137614678899082,
+            -0.07807339449541284,
+            0.14697247706422017,
+            -0.15926605504587155,
+            0.22412844036697246
+        ],
+        [
+            "M",
+            0.4943119266055046,
+            0.24788990825688073,
+            "c",
+            0.008623853211009174,
+            0.0016513761467889907,
+            0.03394495412844037,
+            0.002660550458715596,
+            0.04238532110091743,
+            0.0016513761467889907,
+            "c",
+            0.041009174311926605,
+            -0.0047706422018348625,
+            0.16963302752293577,
+            -0.022477064220183487,
+            0.24256880733944955,
+            -0.033211009174311926,
+            "c",
+            0.022293577981651377,
+            -0.0033027522935779813,
+            0.03697247706422019,
+            -0.004128440366972477,
+            0.05917431192660551,
+            -0.001559633027522936
+        ],
+        [
+            "M",
+            0.48458715596330276,
+            0.3618348623853211,
+            "c",
+            0.00944954128440367,
+            0.0077981651376146785,
+            0.012844036697247705,
+            0.034403669724770644,
+            0.006605504587155963,
+            0.05403669724770642,
+            "c",
+            -0.030917431192660553,
+            0.09788990825688074,
+            -0.05871559633027523,
+            0.18073394495412842,
+            -0.10412844036697247,
+            0.27559633027522934,
+            "c",
+            -0.01330275229357798,
+            0.027798165137614676,
+            -0.004495412844036697,
+            0.0389908256880734,
+            0.013486238532110091,
+            0.03972477064220183,
+            "c",
+            0.09944954128440367,
+            0.0039449541284403665,
+            0.17394495412844038,
+            0.00963302752293578,
+            0.2700917431192661,
+            0.034678899082568805,
+            "c",
+            0.05486238532110092,
+            0.014220183486238533,
+            0.11256880733944953,
+            0.03688073394495413,
+            0.1641284403669725,
+            0.07275229357798164
+        ],
+        [
+            "M",
+            0.501743119266055,
+            0.38596330275229357,
+            "c",
+            0.06128440366972477,
+            -0.008715596330275228,
+            0.20376146788990826,
+            -0.028807339449541284,
+            0.24486238532110094,
+            -0.031467889908256885,
+            "c",
+            0.03165137614678899,
+            -0.002018348623853211,
+            0.04064220183486238,
+            0.016605504587155963,
+            0.037981651376146786,
+            0.041651376146788995,
+            "c",
+            -0.012201834862385321,
+            0.1144954128440367,
+            -0.0544954128440367,
+            0.34678899082568804,
+            -0.09385321100917432,
+            0.4354128440366973,
+            "c",
+            -0.021100917431192658,
+            0.04743119266055046,
+            -0.04559633027522936,
+            0.03779816513761468,
+            -0.0691743119266055,
+            0.012201834862385321
+        ],
+        [
+            "M",
+            0.6267889908256881,
+            0.39770642201834866,
+            "c",
+            0.004128440366972477,
+            0.008073394495412844,
+            0.0057798165137614675,
+            0.02192660550458716,
+            0.0011926605504587156,
+            0.03871559633027523,
+            "c",
+            -0.02128440366972477,
+            0.07853211009174313,
+            -0.06908256880733946,
+            0.23192660550458716,
+            -0.0918348623853211,
+            0.29669724770642203
+        ],
+        [
+            "M",
+            0.2942201834862385,
+            0.5655045871559633,
+            "c",
+            0.031467889908256885,
+            0.005596330275229358,
+            0.0544954128440367,
+            0.004036697247706422,
+            0.07724770642201835,
+            0.001559633027522936,
+            "c",
+            0.11238532110091744,
+            -0.012018348623853212,
+            0.2908256880733945,
+            -0.028165137614678898,
+            0.44954128440366975,
+            -0.03596330275229358,
+            "c",
+            0.02532110091743119,
+            -0.0012844036697247708,
+            0.052752293577981654,
+            -0.0037614678899082566,
+            0.0773394495412844,
+            0.0034862385321100917
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (something) despised; (something) made light of "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (something) despised; (something) made light of "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. insult; affront; slight; contempt (e.g. of court) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. insult; affront; slight; contempt (e.g. of court) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "蔑",
+                    "べつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. scorn; disdain; contempt; slight "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Insult An insult is an expression, statement (or sometimes behav... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. scorn; disdain; contempt; slight "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Insult An insult is an expression, statement (or sometimes behav... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "あなど"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to disdain; to look down on; to make light of; to hold in contempt; to scorn; to despise "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "侮る 【あなずる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to disdain; to look down on; to make light of; to hold in contempt; to scorn; to despise "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "侮る 【あなずる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "蔑",
+                    "べつ"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. insulting; derogatory "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. insulting; derogatory "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "蔑",
+                    "べつ"
+                ],
+                [
+                    "語",
+                    "ご"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. degrading language (language used to lower the position of the listener) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. degrading language (language used to lower the position of the listener) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "あなど"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. contempt; scorn "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. contempt; scorn "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "慢",
+                    "まん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. contempt; insult; offense; offence "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. contempt; insult; offense; offence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "言",
+                    "げん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. insult "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. insult "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. insulting; offensive "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. insulting; offensive "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "あなど"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. formidable; not to be sneered at; not to be made light of "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "侮り難い 【あなどりがたい】"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. formidable; not to be sneered at; not to be made light of "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "侮り難い 【あなどりがたい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "日",
+                    "にち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. contempt for Japan; anti-Japanese sentiment "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. contempt for Japan; anti-Japanese sentiment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ],
+                [
+                    "罪",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (crime of) defamation (i.e. slander, libel) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (crime of) defamation (i.e. slander, libel) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "侮易",
+                "ぶい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Bui "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "廷",
+                    "てい"
+                ],
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ],
+                [
+                    "罪",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (crime of) contempt of court "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Contempt of court Contempt of court is a court order which, in the context ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "軽",
+                    "けい"
+                ],
+                [
+                    "侮",
+                    "ぶ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. contempt; scorn "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "廷",
+                    "てい"
+                ],
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. contempt of court "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

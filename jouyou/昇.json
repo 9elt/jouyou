@@ -1,0 +1,1529 @@
+{
+    "kanji": "昇",
+    "grade": 10,
+    "jlpt": 2,
+    "meanings": [
+        "rise up"
+    ],
+    "kun": [
+        "のぼ.る"
+    ],
+    "on": [
+        "ショウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.28458715596330275,
+            0.13770642201834862,
+            "c",
+            0.007889908256880733,
+            0.007889908256880733,
+            0.012477064220183487,
+            0.017889908256880735,
+            0.015137614678899082,
+            0.030733944954128442,
+            "c",
+            0.008256880733944955,
+            0.04,
+            0.024220183486238535,
+            0.13155963302752294,
+            0.03302752293577982,
+            0.18440366972477065,
+            "c",
+            0.003853211009174312,
+            0.022935779816513763,
+            0.006422018348623853,
+            0.03853211009174312,
+            0.006422018348623853,
+            0.03954128440366972
+        ],
+        [
+            "M",
+            0.3043119266055046,
+            0.14779816513761468,
+            "c",
+            0.10045871559633027,
+            -0.014770642201834864,
+            0.2495412844036697,
+            -0.02963302752293578,
+            0.35853211009174313,
+            -0.039266055045871565,
+            "c",
+            0.031192660550458714,
+            -0.002752293577981651,
+            0.06211009174311926,
+            0.004128440366972477,
+            0.05495412844036698,
+            0.045504587155963304,
+            "c",
+            -0.006146788990825688,
+            0.035596330275229356,
+            -0.029357798165137616,
+            0.10559633027522936,
+            -0.04697247706422018,
+            0.16055045871559634,
+            "c",
+            -0.005321100917431192,
+            0.016605504587155963,
+            -0.010550458715596329,
+            0.030825688073394496,
+            -0.015321100917431192,
+            0.04055045871559633
+        ],
+        [
+            "M",
+            0.32743119266055043,
+            0.2636697247706422,
+            "C",
+            0.42660550458715596,
+            0.24770642201834864,
+            0.5802752293577982,
+            0.231651376146789,
+            0.6903669724770642,
+            0.22706422018348624
+        ],
+        [
+            "M",
+            0.34642201834862385,
+            0.3710091743119266,
+            "c",
+            0.09055045871559632,
+            -0.012018348623853212,
+            0.2130275229357798,
+            -0.0263302752293578,
+            0.3055045871559633,
+            -0.02981651376146789
+        ],
+        [
+            "M",
+            0.3927522935779817,
+            0.4036697247706422,
+            "c",
+            0.0016513761467889907,
+            0.010275229357798166,
+            -0.003027522935779817,
+            0.01834862385321101,
+            -0.01,
+            0.02596330275229358,
+            "c",
+            -0.0408256880733945,
+            0.04504587155963303,
+            -0.09495412844036696,
+            0.07403669724770642,
+            -0.20155963302752292,
+            0.12119266055045873
+        ],
+        [
+            "M",
+            0.36954128440366973,
+            0.5045871559633027,
+            "c",
+            0.006513761467889908,
+            0.008807339449541284,
+            0.008899082568807339,
+            0.020366972477064222,
+            0.008440366972477065,
+            0.03330275229357798,
+            "C",
+            0.3738532110091743,
+            0.658256880733945,
+            0.3302752293577982,
+            0.8256880733944955,
+            0.18577981651376146,
+            0.8830275229357798
+        ],
+        [
+            "M",
+            0.1296330275229358,
+            0.6367889908256881,
+            "c",
+            0.031192660550458714,
+            0.007889908256880733,
+            0.06137614678899083,
+            0.005688073394495413,
+            0.0928440366972477,
+            0.002018348623853211,
+            "c",
+            0.16055045871559634,
+            -0.01834862385321101,
+            0.3956880733944954,
+            -0.04899082568807339,
+            0.5607339449541284,
+            -0.05678899082568808,
+            "c",
+            0.029908256880733942,
+            -0.0013761467889908255,
+            0.05972477064220183,
+            -0.0002752293577981651,
+            0.08944954128440367,
+            0.004220183486238533
+        ],
+        [
+            "M",
+            0.6088990825688074,
+            0.4151376146788991,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.013394495412844036,
+            0.0218348623853211,
+            0.013394495412844036,
+            0.0389908256880734,
+            "c",
+            0,
+            0.025596330275229357,
+            0.0001834862385321101,
+            0.24541284403669725,
+            0.0002752293577981651,
+            0.3714678899082569,
+            "c",
+            0,
+            0.03385321100917431,
+            0,
+            0.06036697247706422,
+            0,
+            0.07348623853211009
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "上",
+                    "のぼ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to ascend; to go up; to climb Only applies to 上る, Only applies to 登るあなたは、上れませんよ。You cannot climb!"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to ascend (as a natural process, e.g. the Sun); to rise Only applies to 上る, Only applies to 昇るそのとき太陽がのぼるところだった。The sun was coming up then."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to go to (the capital) Only applies to 上る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to be promoted Only applies to 昇る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to add up to Only applies to 上る損失は１００万ドル以上にのぼる。The loss adds up to more than one million dollars."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to advance (in price) Only applies to 上る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to swim up (a river); to sail up Only applies to 上る彼らは川を舟をこいで上った。They rowed up the river."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to come up (on the agenda) Only applies to 上る議題に上っている項目の議論を続けましょう。Let's proceed with the items on the agenda."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登る 【のぼる】、昇る 【のぼる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to ascend; to go up; to climb Only applies to 上る, Only applies to 登るあなたは、上れませんよ。You cannot climb!"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to ascend (as a natural process, e.g. the Sun); to rise Only applies to 上る, Only applies to 昇るそのとき太陽がのぼるところだった。The sun was coming up then."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to go to (the capital) Only applies to 上る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to be promoted Only applies to 昇る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to add up to Only applies to 上る損失は１００万ドル以上にのぼる。The loss adds up to more than one million dollars."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to advance (in price) Only applies to 上る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to swim up (a river); to sail up Only applies to 上る彼らは川を舟をこいで上った。They rowed up the river."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to come up (on the agenda) Only applies to 上る議題に上っている項目の議論を続けましょう。Let's proceed with the items on the agenda."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登る 【のぼる】、昇る 【のぼる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "上れません",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "You cannot climb!"
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "とき",
+                            null
+                        ],
+                        [
+                            "太陽",
+                            "たいよう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "のぼる",
+                            null
+                        ],
+                        [
+                            "ところ",
+                            null
+                        ],
+                        [
+                            "だった",
+                            null
+                        ]
+                    ],
+                    "translation": "The sun was coming up then."
+                },
+                {
+                    "sentence": [
+                        [
+                            "損失",
+                            "そんしつ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "万",
+                            "まん"
+                        ],
+                        [
+                            "ドル",
+                            null
+                        ],
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "のぼる",
+                            null
+                        ]
+                    ],
+                    "translation": "The loss adds up to more than one million dollars."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼ら",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "川",
+                            "かわ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "舟",
+                            "ふね"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "こいで",
+                            null
+                        ],
+                        [
+                            "上った",
+                            null
+                        ]
+                    ],
+                    "translation": "They rowed up the river."
+                },
+                {
+                    "sentence": [
+                        [
+                            "議題",
+                            "ぎだい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "上っている",
+                            null
+                        ],
+                        [
+                            "項目",
+                            "こうもく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "議論",
+                            "ぎろん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "続けましょう",
+                            "つづ"
+                        ]
+                    ],
+                    "translation": "Let's proceed with the items on the agenda."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "のぼ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ascent; climbing; ascending (path); climb 道はここからゆるやかな上りだ。The road ascends gently here."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. up-train; train heading toward the starting point of its route Only applies to 上り, See also 上り列車"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. upbound (esp. toward Tokyo) "
+                },
+                {
+                    "type": "Noun, Noun, used as a prefix",
+                    "meaning": "4. upstream; uphill Only applies to 上り, See also 上り勾配 のぼりこうばい"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "5. Nobori "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登り 【のぼり】、昇り 【のぼり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ascent; climbing; ascending (path); climb 道はここからゆるやかな上りだ。The road ascends gently here."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. up-train; train heading toward the starting point of its route Only applies to 上り, See also 上り列車"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. upbound (esp. toward Tokyo) "
+                },
+                {
+                    "type": "Noun, Noun, used as a prefix",
+                    "meaning": "4. upstream; uphill Only applies to 上り, See also 上り勾配 のぼりこうばい"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "5. Nobori "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登り 【のぼり】、昇り 【のぼり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "道",
+                            "みち"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "ゆるやかな",
+                            null
+                        ],
+                        [
+                            "上り",
+                            "のぼ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "The road ascends gently here."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. promotion; advancement; rising in rank "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昇進 【しょうじん】、陞進 【しょうしん】、陞進 【しょうじん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "しょうじん: Out-dated or obsolete kana usage. しょうじん: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. promotion; advancement; rising in rank "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昇進 【しょうじん】、陞進 【しょうしん】、陞進 【しょうじん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "しょうじん: Out-dated or obsolete kana usage. しょうじん: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "華",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. sublimation Chemistry物質が直接固体から気体に変わる過程を昇華という。The process by which substances are turned directly from a solid state into a gas is called sublimation."
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. sublimating (an emotion, impulse, etc.); channelling; diverting; converting; elevating "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Sublimation "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. sublimation Chemistry物質が直接固体から気体に変わる過程を昇華という。The process by which substances are turned directly from a solid state into a gas is called sublimation."
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. sublimating (an emotion, impulse, etc.); channelling; diverting; converting; elevating "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Sublimation "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "物質",
+                            "ぶっしつ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "直接",
+                            "ちょくせつ"
+                        ],
+                        [
+                            "固体",
+                            "こたい"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "気体",
+                            "きたい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "変わる",
+                            "か"
+                        ],
+                        [
+                            "過程",
+                            "かてい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "昇華",
+                            "しょうか"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "いう",
+                            null
+                        ]
+                    ],
+                    "translation": "The process by which substances are turned directly from a solid state into a gas is called sublimation."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "給",
+                    "きゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. salary raise Antonym: 降給"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. salary raise Antonym: 降給"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "格",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. promotion; raising of status Antonym: 降格"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. promotion; raising of status Antonym: 降格"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "のぼ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "坂",
+                    "ざか"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ascent; uphill; upward slope See also 下り坂"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (gradual) upturn; increase "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登り坂 【のぼりざか】、のぼり坂 【のぼりざか】、昇り坂 【のぼりざか】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ascent; uphill; upward slope See also 下り坂"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (gradual) upturn; increase "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登り坂 【のぼりざか】、のぼり坂 【のぼりざか】、昇り坂 【のぼりざか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "のぼ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "下",
+                    "くだ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. going up and down; ascent and descent; climb and descent "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上り下り 【のぼりおり】、昇り降り 【のぼりくだり】、昇り降り 【のぼりおり】、登り下り 【のぼりくだり】、登り下り 【のぼりおり】、登り降り 【のぼりくだり】、登り降り 【のぼりおり】、上り降り 【のぼりくだり】、上り降り 【のぼりおり】、昇り下り 【のぼりくだり】、昇り下り 【のぼりおり】"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. going up and down; ascent and descent; climb and descent "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上り下り 【のぼりおり】、昇り降り 【のぼりくだり】、昇り降り 【のぼりおり】、登り下り 【のぼりくだり】、登り下り 【のぼりおり】、登り降り 【のぼりくだり】、登り降り 【のぼりおり】、上り降り 【のぼりくだり】、上り降り 【のぼりおり】、昇り下り 【のぼりくだり】、昇り下り 【のぼりおり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "任",
+                    "にん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. promotion; advancement Antonym: 降任"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陞任 【しょうにん】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. promotion; advancement Antonym: 降任"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陞任 【しょうにん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "のぼ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to go to the top; to climb to the top; to ascend to the top; to reach the summit (e.g. of a mountain) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be engrossed in; to be very enthusiastic about; to be infatuated with "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登り詰める 【のぼりつめる】、昇り詰める 【のぼりつめる】"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to go to the top; to climb to the top; to ascend to the top; to reach the summit (e.g. of a mountain) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be engrossed in; to be very enthusiastic about; to be infatuated with "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登り詰める 【のぼりつめる】、昇り詰める 【のぼりつめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "幟",
+                    "のぼり"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. nobori; long, narrow banner attached to a pole on one side and a horizontal rod along the top Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Boys' Day nobori; carp streamer Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Nobori Nobori, literally meaning 'banner', had a more specific m... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昇り 【のぼり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "昇り: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. nobori; long, narrow banner attached to a pole on one side and a horizontal rod along the top Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Boys' Day nobori; carp streamer Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Nobori Nobori, literally meaning 'banner', had a more specific m... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昇り 【のぼり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "昇り: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "降",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. ascending and descending; going up and down "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "級",
+                    "きゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. promotion; advancement Antonym: 降級"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. promotion; advancement Antonym: 降級"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "降",
+                    "こう"
+                ],
+                [
+                    "舵",
+                    "だ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. elevator Aviation"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Elevator (aircraft) Elevators are flight control surfaces, usually at the rea... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "圧",
+                    "あつ"
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. booster (e.g. of current) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "のぼ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "龍",
+                    "りゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rising dragon See also 昇竜 しょうりゅう"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. white saddle (Helvella crispa); elfin saddle; common helvel Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昇り竜 【のぼりりゅう】、登り龍 【のぼりりゅう】、登り竜 【のぼりりゅう】、ノボリリュウ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "天",
+                    "てん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. ascension (into heaven); the Ascension Christianity"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. death Christianity"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. rising to heaven "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "祭",
+                    "さい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Ascension Day; Feast of the Ascension "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "のぼ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "藤",
+                    "ふじ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lupine "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昇藤 【のぼりふじ】、上り藤 【のぼりふじ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "上り藤: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "格",
+                    "かく"
+                ],
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. promotion; appointment to a more senior position "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "昇",
+                "かつざき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsuzaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "昇",
+                "しゅん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Shun "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Shou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "昇",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. rising; ascending; climbing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "急",
+                    "きゅう"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "昇",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. sudden rise; steep climb "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. trending (online) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "立",
+                    "た"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "上",
+                    "のぼ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to rise up (e.g. pillar of smoke); to go up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "立ち昇る 【たちのぼる】、立ちのぼる 【たちのぼる】、立上る 【たちのぼる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "登",
+                    "のぼ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. rising rapidly (e.g. prices, popularity); soaring; skyrocketing; going through the roof "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "うなぎ上り 【うなぎのぼり】、鰻登り 【うなぎのぼり】、鰻上り 【うなぎのぼり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "物",
+                    "ぶっ"
+                ],
+                [
+                    "価",
+                    "か"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "昇",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. price increase; prise rise "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "傾",
+                    "けい"
+                ],
+                [
+                    "向",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. upward tendency; rising trend "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "株",
+                    "かぶ"
+                ],
+                [
+                    "価",
+                    "か"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "昇",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stock price rise 株価上昇を契機に新工場建設の話が持ち上がった。They took advantage of the stock price increase to raise the idea of building a new factory."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "株価上昇",
+                            "かぶかじょうしょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "契機",
+                            "けいき"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "新",
+                            "しん"
+                        ],
+                        [
+                            "工場",
+                            "こうじょう"
+                        ],
+                        [
+                            "建設",
+                            "けんせつ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "話",
+                            "はなし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "持ち上がった",
+                            "もちあ"
+                        ]
+                    ],
+                    "translation": "They took advantage of the stock price increase to raise the idea of building a new factory."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "流",
+                    "りゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ascending air current; updraft "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. upward trend; rise in popularity, influence, etc. "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

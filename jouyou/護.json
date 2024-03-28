@@ -1,0 +1,1839 @@
+{
+    "kanji": "護",
+    "grade": 5,
+    "jlpt": 1,
+    "meanings": [
+        "safeguard",
+        "protect"
+    ],
+    "kun": [
+        "まも.る"
+    ],
+    "on": [
+        "ゴ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.23853211009174313,
+            0.12954128440366972,
+            "c",
+            0.022477064220183487,
+            0.011926605504587157,
+            0.05798165137614679,
+            0.049082568807339445,
+            0.06357798165137614,
+            0.06770642201834862
+        ],
+        [
+            "M",
+            0.11577981651376146,
+            0.2920183486238532,
+            "c",
+            0.01036697247706422,
+            0.002752293577981651,
+            0.02532110091743119,
+            0.003119266055045872,
+            0.037614678899082564,
+            0.0021100917431192663,
+            "c",
+            0.06220183486238532,
+            -0.005137614678899083,
+            0.13788990825688072,
+            -0.016605504587155963,
+            0.21174311926605502,
+            -0.028623853211009177,
+            "c",
+            0.01073394495412844,
+            -0.0017431192660550458,
+            0.02706422018348624,
+            -0.0012844036697247708,
+            0.03247706422018349,
+            -0.0001834862385321101
+        ],
+        [
+            "M",
+            0.15990825688073393,
+            0.4088073394495413,
+            "c",
+            0.010550458715596329,
+            0.003027522935779817,
+            0.02330275229357798,
+            0.0012844036697247708,
+            0.03394495412844037,
+            -0.00009174311926605505,
+            "c",
+            0.030917431192660553,
+            -0.0039449541284403665,
+            0.08935779816513761,
+            -0.014770642201834864,
+            0.1273394495412844,
+            -0.020825688073394497,
+            "c",
+            0.011467889908256881,
+            -0.001834862385321101,
+            0.02522935779816514,
+            -0.004495412844036697,
+            0.036788990825688074,
+            -0.0025688073394495416
+        ],
+        [
+            "M",
+            0.1610091743119266,
+            0.5213761467889908,
+            "c",
+            0.010825688073394495,
+            0.0033027522935779813,
+            0.02532110091743119,
+            0.0014678899082568807,
+            0.03642201834862385,
+            0.0001834862385321101,
+            "c",
+            0.035871559633027524,
+            -0.004220183486238533,
+            0.0944954128440367,
+            -0.012018348623853212,
+            0.12715596330275228,
+            -0.015321100917431192,
+            "c",
+            0.011743119266055046,
+            -0.0011926605504587156,
+            0.024587155963302753,
+            -0.004036697247706422,
+            0.036238532110091745,
+            -0.001926605504587156
+        ],
+        [
+            "M",
+            0.17339449541284402,
+            0.6519266055045871,
+            "c",
+            0.007339449541284404,
+            0.006513761467889908,
+            0.00908256880733945,
+            0.016972477064220184,
+            0.01128440366972477,
+            0.02587155963302752,
+            "c",
+            0.006605504587155963,
+            0.026972477064220183,
+            0.014678899082568808,
+            0.06697247706422019,
+            0.02165137614678899,
+            0.10321100917431193,
+            "c",
+            0.0022935779816513763,
+            0.011743119266055046,
+            0.004403669724770642,
+            0.02311926605504587,
+            0.006422018348623853,
+            0.033486238532110094
+        ],
+        [
+            "M",
+            0.1896330275229358,
+            0.6588073394495413,
+            "c",
+            0.06825688073394495,
+            -0.013119266055045872,
+            0.10688073394495413,
+            -0.020825688073394497,
+            0.1544954128440367,
+            -0.027798165137614676,
+            "c",
+            0.0263302752293578,
+            -0.003853211009174312,
+            0.034770642201834866,
+            0.002660550458715596,
+            0.02926605504587156,
+            0.028623853211009177,
+            "c",
+            -0.005963302752293578,
+            0.028073394495412844,
+            -0.012201834862385321,
+            0.05467889908256881,
+            -0.024495412844036696,
+            0.10174311926605505
+        ],
+        [
+            "M",
+            0.21752293577981652,
+            0.7879816513761468,
+            "c",
+            0.03715596330275229,
+            -0.003577981651376147,
+            0.07348623853211009,
+            -0.00944954128440367,
+            0.11944954128440366,
+            -0.015412844036697248,
+            "c",
+            0.0081651376146789,
+            -0.0011009174311926604,
+            0.01669724770642202,
+            -0.0021100917431192663,
+            0.025596330275229357,
+            -0.0032110091743119264
+        ],
+        [
+            "M",
+            0.43577981651376146,
+            0.18146788990825688,
+            "c",
+            0.022935779816513763,
+            0.004311926605504587,
+            0.03972477064220183,
+            0.0025688073394495416,
+            0.058440366972477065,
+            0.0008256880733944953,
+            "c",
+            0.08211009174311926,
+            -0.0077981651376146785,
+            0.21779816513761466,
+            -0.020825688073394497,
+            0.30275229357798167,
+            -0.023669724770642202,
+            "c",
+            0.017339449541284403,
+            -0.0005504587155963302,
+            0.034678899082568805,
+            -0.0033944954128440367,
+            0.05165137614678899,
+            0.0007339449541284404
+        ],
+        [
+            "M",
+            0.546605504587156,
+            0.08779816513761468,
+            "c",
+            0.008440366972477065,
+            0.008440366972477065,
+            0.013669724770642202,
+            0.02018348623853211,
+            0.014587155963302753,
+            0.02651376146788991,
+            "c",
+            0.008623853211009174,
+            0.058807339449541286,
+            0.013669724770642202,
+            0.11256880733944953,
+            0.016146788990825688,
+            0.13394495412844037
+        ],
+        [
+            "M",
+            0.7495412844036697,
+            0.08431192660550459,
+            "c",
+            0.005045871559633028,
+            0.008623853211009174,
+            0.006972477064220183,
+            0.020458715596330276,
+            0.004678899082568807,
+            0.030091743119266053,
+            "c",
+            -0.013211009174311925,
+            0.056330275229357796,
+            -0.014587155963302753,
+            0.07027522935779816,
+            -0.026788990825688072,
+            0.12146788990825688
+        ],
+        [
+            "M",
+            0.5309174311926605,
+            0.2786238532110092,
+            "c",
+            0.0012844036697247708,
+            0.008440366972477065,
+            -0.0003669724770642202,
+            0.019541284403669725,
+            -0.004495412844036697,
+            0.02669724770642202,
+            "c",
+            -0.02614678899082569,
+            0.046055045871559626,
+            -0.05926605504587156,
+            0.08513761467889908,
+            -0.1191743119266055,
+            0.14128440366972478
+        ],
+        [
+            "M",
+            0.4975229357798165,
+            0.3622935779816514,
+            "c",
+            0.005321100917431192,
+            0.005321100917431192,
+            0.006880733944954129,
+            0.013853211009174311,
+            0.006880733944954129,
+            0.024128440366972478,
+            "c",
+            0,
+            0.050733944954128446,
+            -0.00009174311926605505,
+            0.12853211009174312,
+            -0.0001834862385321101,
+            0.17779816513761468,
+            "c",
+            0,
+            0.017431192660550456,
+            0,
+            0.031192660550458714,
+            0,
+            0.0389908256880734
+        ],
+        [
+            "M",
+            0.6704587155963303,
+            0.2545871559633027,
+            "c",
+            0.0003669724770642202,
+            0.0033027522935779813,
+            -0.00009174311926605505,
+            0.0076146788990825685,
+            -0.0011926605504587156,
+            0.010458715596330274,
+            "c",
+            -0.007064220183486239,
+            0.01798165137614679,
+            -0.013761467889908258,
+            0.02724770642201835,
+            -0.029908256880733942,
+            0.049174311926605506
+        ],
+        [
+            "M",
+            0.5108256880733945,
+            0.3432110091743119,
+            "c",
+            0.048348623853211,
+            -0.004036697247706422,
+            0.2006422018348624,
+            -0.02073394495412844,
+            0.27715596330275233,
+            -0.02908256880733945,
+            "c",
+            0.021100917431192658,
+            -0.0022935779816513763,
+            0.03642201834862385,
+            -0.004036697247706422,
+            0.042201834862385317,
+            -0.0045871559633027525
+        ],
+        [
+            "M",
+            0.6408256880733945,
+            0.34357798165137615,
+            "c",
+            0.006055045871559634,
+            0.006055045871559634,
+            0.009908256880733945,
+            0.017614678899082567,
+            0.009908256880733945,
+            0.03165137614678899,
+            "c",
+            0,
+            0.05376146788990826,
+            -0.0003669724770642202,
+            0.09495412844036696,
+            -0.0003669724770642202,
+            0.19036697247706422
+        ],
+        [
+            "M",
+            0.5172477064220183,
+            0.42458715596330276,
+            "c",
+            0.04642201834862385,
+            -0.0033944954128440367,
+            0.1728440366972477,
+            -0.0163302752293578,
+            0.2375229357798165,
+            -0.02256880733944954,
+            "c",
+            0.016422018348623852,
+            -0.001559633027522936,
+            0.02834862385321101,
+            -0.002752293577981651,
+            0.03339449541284404,
+            -0.0032110091743119264
+        ],
+        [
+            "M",
+            0.5158715596330274,
+            0.4981651376146789,
+            "c",
+            0.048256880733944955,
+            -0.0028440366972477065,
+            0.17110091743119266,
+            -0.014587155963302753,
+            0.2398165137614679,
+            -0.020458715596330276,
+            "c",
+            0.01853211009174312,
+            -0.001559633027522936,
+            0.032293577981651375,
+            -0.002752293577981651,
+            0.03834862385321101,
+            -0.0032110091743119264
+        ],
+        [
+            "M",
+            0.516605504587156,
+            0.5814678899082569,
+            "c",
+            0.04807339449541285,
+            -0.004036697247706422,
+            0.19064220183486238,
+            -0.015321100917431192,
+            0.266697247706422,
+            -0.02146788990825688,
+            "c",
+            0.02146788990825688,
+            -0.0017431192660550458,
+            0.03715596330275229,
+            -0.003027522935779817,
+            0.04293577981651376,
+            -0.003669724770642202
+        ],
+        [
+            "M",
+            0.501743119266055,
+            0.6563302752293578,
+            "c",
+            0.012018348623853212,
+            0.004220183486238533,
+            0.023394495412844035,
+            0.0033944954128440367,
+            0.04623853211009174,
+            0.0008256880733944953,
+            "c",
+            0.022935779816513763,
+            -0.0025688073394495416,
+            0.15871559633027524,
+            -0.02981651376146789,
+            0.1744954128440367,
+            -0.03238532110091743,
+            "c",
+            0.02642201834862385,
+            -0.004403669724770642,
+            0.037706422018348625,
+            0.01908256880733945,
+            0.022752293577981652,
+            0.036238532110091745,
+            "C",
+            0.6536697247706422,
+            0.7660550458715596,
+            0.5344036697247706,
+            0.8475229357798165,
+            0.3944954128440367,
+            0.8944954128440367
+        ],
+        [
+            "M",
+            0.49110091743119266,
+            0.7102752293577982,
+            "c",
+            0.06504587155963303,
+            0.0016513761467889907,
+            0.18743119266055044,
+            0.09816513761467889,
+            0.2963302752293578,
+            0.14844036697247706,
+            "c",
+            0.023394495412844035,
+            0.010825688073394495,
+            0.0481651376146789,
+            0.021743119266055048,
+            0.07385321100917432,
+            0.025412844036697246
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "守",
+                    "まも"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to protect; to guard; to defend あなたは、自分の家族を守らなければならない。You have to protect your family."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to keep (i.e. a promise); to abide (by the rules); to observe; to obey; to follow いったん約束したのであれば、守らなければならない。Once you have made a promise, you must keep it."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "護る 【まもる】、戍る 【まもる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "戍る: Irregular kanji usage."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to protect; to guard; to defend あなたは、自分の家族を守らなければならない。You have to protect your family."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to keep (i.e. a promise); to abide (by the rules); to observe; to obey; to follow いったん約束したのであれば、守らなければならない。Once you have made a promise, you must keep it."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "護る 【まもる】、戍る 【まもる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "戍る: Irregular kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "家族",
+                            "かぞく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "守ら",
+                            "まも"
+                        ],
+                        [
+                            "なければならない",
+                            null
+                        ]
+                    ],
+                    "translation": "You have to protect your family."
+                },
+                {
+                    "sentence": [
+                        [
+                            "いったん",
+                            null
+                        ],
+                        [
+                            "約束",
+                            "やくそく"
+                        ],
+                        [
+                            "した",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "であれば",
+                            null
+                        ],
+                        [
+                            "守ら",
+                            "まも"
+                        ],
+                        [
+                            "なければならない",
+                            null
+                        ]
+                    ],
+                    "translation": "Once you have made a promise, you must keep it."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    null
+                ],
+                [
+                    "謨",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gum; rubber Usually written using kana alone, From Dutch; Flemish “gom”タイヤはゴムと路面の摩擦によってすり減る。Tires wear down because of friction between the rubber and the road surface."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. eraser Abbreviation, Usually written using kana alone, See also 消しゴム"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. condom Colloquial, Usually written using kana alone"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "護謨: Ateji (phonetic) reading, Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. gum; rubber Usually written using kana alone, From Dutch; Flemish “gom”タイヤはゴムと路面の摩擦によってすり減る。Tires wear down because of friction between the rubber and the road surface."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. eraser Abbreviation, Usually written using kana alone, See also 消しゴム"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. condom Colloquial, Usually written using kana alone"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "護謨: Ateji (phonetic) reading, Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "タイヤ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ゴム",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "路面",
+                            "ろめん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "摩擦",
+                            "まさつ"
+                        ],
+                        [
+                            "によって",
+                            null
+                        ],
+                        [
+                            "すり減る",
+                            "すりへ"
+                        ]
+                    ],
+                    "translation": "Tires wear down because of friction between the rubber and the road surface."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "衛",
+                    "えい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. guard; convoy; escort "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. guard; convoy; escort "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ゴ",
+                    null
+                ],
+                [
+                    "ミ",
+                    null
+                ],
+                [
+                    "箱",
+                    "ごみばこ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. trash can; garbage can; rubbish bin; dustbin "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Waste container A waste container is a container for temporarily storing ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ごみ箱 【ごみばこ】、護美箱 【ごみばこ】、塵箱 【ごみばこ】、芥箱 【ごみばこ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "護美箱: Ateji (phonetic) reading, Rarely-used kanji form. 塵箱: Rarely-used kanji form. 芥箱: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. trash can; garbage can; rubbish bin; dustbin "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Waste container A waste container is a container for temporarily storing ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ごみ箱 【ごみばこ】、護美箱 【ごみばこ】、塵箱 【ごみばこ】、芥箱 【ごみばこ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "護美箱: Ateji (phonetic) reading, Rarely-used kanji form. 塵箱: Rarely-used kanji form. 芥箱: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "守",
+                    "まも"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. protection; defense; defence "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. providence "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. amulet; charm; talisman Abbreviation, See also 守り札, See also 守り袋"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "護り 【まもり】、守 【まもり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "守: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. protection; defense; defence "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. providence "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. amulet; charm; talisman Abbreviation, See also 守り札, See also 守り袋"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "護り 【まもり】、守 【まもり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "守: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "身",
+                    "しん"
+                ],
+                [
+                    "術",
+                    "じゅつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. art of self-defense (defence) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Self-defense Self-defense or private defense is a countermeasure that ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "教",
+                    "きょう"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. apologetics Christianity"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "国",
+                    "こく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. defense of one's country; defence of one's country "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "岸",
+                    "がん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. river dike "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "送",
+                    "そう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. escort (e.g. under guard); convoy "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "憲",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. protecting the constitution "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "持",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. defend and maintain; support; protection "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Goji "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "身",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. self-protection; self-defence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "衛",
+                    "えい"
+                ],
+                [
+                    "駆",
+                    "く"
+                ],
+                [
+                    "逐",
+                    "ちく"
+                ],
+                [
+                    "艦",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. destroyer escort "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Destroyer escort A destroyer escort (DE) is the classification for a small... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "送",
+                    "そう"
+                ],
+                [
+                    "車",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. police van; paddy wagon; prisoner transport vehicle "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Prisoner transport vehicle A prisoner transport vehicle is a specially designed or r... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "送",
+                    "そう"
+                ],
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "団",
+                    "だん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. convoy (of ships) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Convoy A convoy is a group of vehicles, typically motor vehicles... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "官",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tribune (of ancient Rome) Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tribune Tribune was a title shared by elected officials in the Ro... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. defence of Buddhist doctrines; god who defends Buddhist doctrines Buddhism"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. defence of the constitution "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. religious power to dispel demons and diseases "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Dharmapala of Nalanda Dharmapāla (護法, 530-561 CE. ) A Brahmin Buddhist scholar,... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "善",
+                    "ぜん"
+                ],
+                [
+                    "神",
+                    "じん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. benevolent deities who protect the dharma Buddhism"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Dharmapala In Vajrayana Buddhism, a dharmapāla is a type of wrathful... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "摩",
+                    "ま"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. homa; Buddhist rite of burning wooden sticks to ask a deity for blessings Buddhism"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Homa (ritual) Homa (also known as homam or havan) is a Sanskrit word wh... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "護",
+                "ご"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Go "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "護",
+                "まもる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Mamoru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "護",
+                "もり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Mori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "保",
+                    "ほ"
+                ],
+                [
+                    "護",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. protection; safeguard; guardianship; custody; patronage その子はおじの保護を受けている。He is in custody of his uncle."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. preservation; conservation 人類が環境を保護しなければ環境から人類は締め出されるだろう。If mankind doesn't take care of the environment, the environment may eliminate mankind."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Protection "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "子",
+                            "こ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "おじ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "保護",
+                            "ほご"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "受けている",
+                            "うけ"
+                        ]
+                    ],
+                    "translation": "He is in custody of his uncle."
+                },
+                {
+                    "sentence": [
+                        [
+                            "人類",
+                            "じんるい"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "環境",
+                            "かんきょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "保護",
+                            "ほご"
+                        ],
+                        [
+                            "し",
+                            null
+                        ],
+                        [
+                            "なければ",
+                            null
+                        ],
+                        [
+                            "環境",
+                            "かんきょう"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "人類",
+                            "じんるい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "締め出される",
+                            "しめだ"
+                        ],
+                        [
+                            "だろう",
+                            null
+                        ]
+                    ],
+                    "translation": "If mankind doesn't take care of the environment, the environment may eliminate mankind."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "看",
+                    "かん"
+                ],
+                [
+                    "護",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. nursing; (army) nurse "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Nursing Nursing is a profession within the healthcare sector focu... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "介",
+                    "かい"
+                ],
+                [
+                    "護",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. nursing; care; caregiving; caring "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Elderly care Elderly care, or simply eldercare (also known in parts of... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "看",
+                    "かん"
+                ],
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "師",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (hospital) nurse; registered nurse; RN "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "弁",
+                    "べん"
+                ],
+                [
+                    "護",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. defense; defence; pleading; advocacy "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "辯護 【べんご】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "辯護: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "弁",
+                    "べん"
+                ],
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "士",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lawyer; attorney "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Lawyer A lawyer, according to Black's Law Dictionary, is \"a pers... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "介",
+                    "かい"
+                ],
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "保",
+                    "ほ"
+                ],
+                [
+                    "険",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. nursing insurance "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Long-term care insurance Long-term care insurance (LTC or LTCI), an insurance prod... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "保",
+                    "ほ"
+                ],
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "貿",
+                    "ぼう"
+                ],
+                [
+                    "易",
+                    "えき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. protective trade "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Protectionism Protectionism is the economic policy of restraining trade... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "看",
+                    "かん"
+                ],
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "婦",
+                    "ふ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (female) nurse See also 看護師, now deprecated"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "擁",
+                    "よう"
+                ],
+                [
+                    "護",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. protection; defence; support; safeguarding; championship; vindication 子供の権利擁護に関して我々は委任されている。We are entrusted with the protection of children's rights."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "子供",
+                            "こども"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "権利",
+                            "けんり"
+                        ],
+                        [
+                            "擁護",
+                            "ようご"
+                        ],
+                        [
+                            "に関して",
+                            "にかん"
+                        ],
+                        [
+                            "我々",
+                            "われわれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "委任",
+                            "いにん"
+                        ],
+                        [
+                            "されている",
+                            null
+                        ]
+                    ],
+                    "translation": "We are entrusted with the protection of children's rights."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "弁",
+                    "べん"
+                ],
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "人",
+                    "にん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. counsel; defender; advocate "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "保",
+                    "ほ"
+                ],
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. guardian; protector; patron; parent "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "援",
+                    "えん"
+                ],
+                [
+                    "護",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. support; help; backing Only applies to 援護彼を援護するのが義務だ。It is incumbent on us to support him."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. covering (from enemy attack); protection "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掩護 【えんご】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "掩護: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "援護",
+                            "えんご"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "義務",
+                            "ぎむ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "It is incumbent on us to support him."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "環",
+                    "かん"
+                ],
+                [
+                    "境",
+                    "きょう"
+                ],
+                [
+                    "保",
+                    "ほ"
+                ],
+                [
+                    "護",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. environmental protection "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "権",
+                    "けん"
+                ],
+                [
+                    "擁",
+                    "よう"
+                ],
+                [
+                    "護",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. protection of human rights "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

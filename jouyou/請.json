@@ -1,0 +1,1637 @@
+{
+    "kanji": "請",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "solicit",
+        "invite",
+        "ask"
+    ],
+    "kun": [
+        "こ.う",
+        "う.ける"
+    ],
+    "on": [
+        "セイ",
+        "シン",
+        "ショウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.23669724770642203,
+            0.13990825688073394,
+            "c",
+            0.02146788990825688,
+            0.01293577981651376,
+            0.055412844036697245,
+            0.05321100917431192,
+            0.060825688073394495,
+            0.07339449541284404
+        ],
+        [
+            "M",
+            0.12495412844036696,
+            0.3080733944954128,
+            "c",
+            0.017431192660550456,
+            0.005688073394495413,
+            0.03844036697247707,
+            0.0047706422018348625,
+            0.056330275229357796,
+            0.0022935779816513763,
+            "c",
+            0.08018348623853211,
+            -0.011009174311926604,
+            0.1371559633027523,
+            -0.019908256880733943,
+            0.1908256880733945,
+            -0.03110091743119266,
+            "c",
+            0.010642201834862385,
+            -0.002201834862385321,
+            0.024770642201834864,
+            -0.0012844036697247708,
+            0.03018348623853211,
+            -0.0001834862385321101
+        ],
+        [
+            "M",
+            0.18055045871559633,
+            0.4294495412844037,
+            "c",
+            0.011926605504587157,
+            0.0033944954128440367,
+            0.02743119266055046,
+            0.0017431192660550458,
+            0.03954128440366972,
+            0,
+            "c",
+            0.0389908256880734,
+            -0.0057798165137614675,
+            0.07724770642201835,
+            -0.013486238532110091,
+            0.11357798165137616,
+            -0.01889908256880734,
+            "c",
+            0.009816513761467891,
+            -0.0014678899082568807,
+            0.02128440366972477,
+            -0.004036697247706422,
+            0.03110091743119266,
+            -0.0022935779816513763
+        ],
+        [
+            "M",
+            0.18623853211009175,
+            0.5420183486238532,
+            "c",
+            0.009541284403669725,
+            0.0029357798165137615,
+            0.025137614678899085,
+            0.001926605504587156,
+            0.035229357798165134,
+            0.0007339449541284404,
+            "c",
+            0.03889908256880734,
+            -0.0045871559633027525,
+            0.07889908256880733,
+            -0.013027522935779816,
+            0.11587155963302753,
+            -0.01798165137614679,
+            "c",
+            0.00944954128440367,
+            -0.0012844036697247708,
+            0.020917431192660547,
+            -0.0037614678899082566,
+            0.030458715596330274,
+            -0.0021100917431192663
+        ],
+        [
+            "M",
+            0.17669724770642203,
+            0.6558715596330275,
+            "c",
+            0.007247706422018349,
+            0.007155963302752294,
+            0.008899082568807339,
+            0.018256880733944953,
+            0.01073394495412844,
+            0.027522935779816515,
+            "c",
+            0.005871559633027523,
+            0.028440366972477066,
+            0.011926605504587157,
+            0.07119266055045871,
+            0.016972477064220184,
+            0.11018348623853211,
+            "c",
+            0.001926605504587156,
+            0.014678899082568808,
+            0.0039449541284403665,
+            0.028715596330275227,
+            0.006055045871559634,
+            0.04137614678899083
+        ],
+        [
+            "M",
+            0.19275229357798165,
+            0.6658715596330275,
+            "c",
+            0.04706422018348624,
+            -0.006146788990825688,
+            0.09009174311926606,
+            -0.014954128440366971,
+            0.13412844036697247,
+            -0.022477064220183487,
+            "c",
+            0.033211009174311926,
+            -0.005688073394495413,
+            0.05165137614678899,
+            -0.005045871559633028,
+            0.04458715596330275,
+            0.03339449541284404,
+            "c",
+            -0.005321100917431192,
+            0.028899082568807338,
+            -0.00944954128440367,
+            0.05963302752293578,
+            -0.02073394495412844,
+            0.10761467889908258
+        ],
+        [
+            "M",
+            0.22220183486238532,
+            0.8128440366972477,
+            "c",
+            0.035596330275229356,
+            -0.0033027522935779813,
+            0.06862385321100918,
+            -0.008807339449541284,
+            0.11348623853211008,
+            -0.014036697247706422,
+            "c",
+            0.008532110091743119,
+            -0.0010091743119266055,
+            0.017431192660550456,
+            -0.002018348623853211,
+            0.02669724770642202,
+            -0.0029357798165137615
+        ],
+        [
+            "M",
+            0.47394495412844034,
+            0.21,
+            "c",
+            0.015779816513761466,
+            0.0033027522935779813,
+            0.03458715596330275,
+            0.0025688073394495416,
+            0.05027522935779817,
+            0.0009174311926605505,
+            "c",
+            0.05917431192660551,
+            -0.006146788990825688,
+            0.17073394495412844,
+            -0.02284403669724771,
+            0.23403669724770643,
+            -0.02834862385321101,
+            "c",
+            0.015963302752293577,
+            -0.0013761467889908255,
+            0.02706422018348624,
+            -0.001834862385321101,
+            0.04293577981651376,
+            -0.00045871559633027525
+        ],
+        [
+            "M",
+            0.6193577981651377,
+            0.11357798165137616,
+            "c",
+            0.007981651376146788,
+            0.007981651376146788,
+            0.011834862385321101,
+            0.018256880733944953,
+            0.011834862385321101,
+            0.032018348623853214,
+            "c",
+            0,
+            0.028715596330275227,
+            -0.0003669724770642202,
+            0.17091743119266053,
+            -0.0003669724770642202,
+            0.23972477064220182
+        ],
+        [
+            "M",
+            0.4846788990825688,
+            0.2991743119266055,
+            "c",
+            0.018807339449541282,
+            0.003577981651376147,
+            0.035688073394495416,
+            0.002477064220183486,
+            0.052110091743119265,
+            0.00009174311926605505,
+            "c",
+            0.06990825688073395,
+            -0.010275229357798166,
+            0.14211009174311925,
+            -0.017155963302752295,
+            0.20293577981651378,
+            -0.021743119266055048,
+            "c",
+            0.01688073394495413,
+            -0.0012844036697247708,
+            0.03165137614678899,
+            -0.0011926605504587156,
+            0.04844036697247707,
+            -0.00009174311926605505
+        ],
+        [
+            "M",
+            0.4186238532110092,
+            0.40816513761467893,
+            "c",
+            0.02706422018348624,
+            0.006330275229357797,
+            0.057798165137614675,
+            0.0022935779816513763,
+            0.08495412844036697,
+            -0.0009174311926605505,
+            "c",
+            0.08559633027522937,
+            -0.010183486238532111,
+            0.21788990825688073,
+            -0.02330275229357798,
+            0.30036697247706423,
+            -0.027981651376146787,
+            "c",
+            0.033211009174311926,
+            -0.001926605504587156,
+            0.06651376146788991,
+            -0.003027522935779817,
+            0.08825688073394494,
+            0.0028440366972477065
+        ],
+        [
+            "M",
+            0.5051376146788991,
+            0.4779816513761468,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.01,
+            0.01862385321100917,
+            0.01,
+            0.027981651376146787,
+            "c",
+            0,
+            0.041926605504587156,
+            -0.00009174311926605505,
+            0.1973394495412844,
+            -0.0001834862385321101,
+            0.326697247706422,
+            "c",
+            0,
+            0.02192660550458716,
+            0,
+            0.043119266055045874,
+            0,
+            0.06293577981651377
+        ],
+        [
+            "M",
+            0.5199082568807339,
+            0.48944954128440366,
+            "c",
+            0.06055045871559633,
+            -0.0077981651376146785,
+            0.17541284403669727,
+            -0.024128440366972478,
+            0.21394495412844036,
+            -0.029174311926605506,
+            "c",
+            0.02669724770642202,
+            -0.0034862385321100917,
+            0.04036697247706422,
+            0.008807339449541284,
+            0.04036697247706422,
+            0.03605504587155964,
+            "c",
+            0,
+            0.028899082568807338,
+            -0.0001834862385321101,
+            0.24559633027522934,
+            -0.0001834862385321101,
+            0.3465137614678899,
+            "c",
+            0,
+            0.08954128440366972,
+            -0.05018348623853211,
+            0.014770642201834864,
+            -0.05688073394495413,
+            0.008532110091743119
+        ],
+        [
+            "M",
+            0.525045871559633,
+            0.5896330275229358,
+            "c",
+            0.06669724770642202,
+            -0.007064220183486239,
+            0.16642201834862386,
+            -0.015137614678899082,
+            0.2375229357798165,
+            -0.02018348623853211
+        ],
+        [
+            "M",
+            0.5255045871559633,
+            0.699908256880734,
+            "c",
+            0.0708256880733945,
+            -0.006055045871559634,
+            0.17522935779816515,
+            -0.015229357798165137,
+            0.238348623853211,
+            -0.017431192660550456
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "請",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. request; invitation Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. privilege in criminal law given to nobles of the fifth rank or above (ritsuryō system) Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to receive; to get ６５歳以上の人たちは政府から年金を受けている。People 65 and above get a pension from the government."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to catch (e.g. a ball) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to be struck by (wind, waves, sunlight, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to sustain (damage); to incur (a loss); to suffer (an injury); to feel (influence) 立ち退きの予告を受けた。We received an eviction notice."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to undergo (e.g. surgery); to take (a test); to accept (a challenge) 喜んでお申し出をお受けします。We gladly accept your offer."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to be given (e.g. life, talent) esp. 受ける, 享ける"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "7. to find funny; to find humorous; to be amused (by) Colloquial, Usually written using kana alone, esp. ウケる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to follow; to succeed; to be descended from esp. 受ける, 享ける"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "9. to face (south, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "10. to be modified by Linguistics, esp. 受ける, 承ける"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "11. to obtain (a pawned item, etc.) by paying a fee See also 請け出す, esp. 請ける; now primarily used in compound words"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "12. to be well-received; to become popular; to go down well Usually written using kana alone, esp. ウケる, うける冗談が受けたよ。My joke went over very well."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請ける 【うける】、承ける 【うける】、享ける 【うける】、ウケる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to receive; to get ６５歳以上の人たちは政府から年金を受けている。People 65 and above get a pension from the government."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to catch (e.g. a ball) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to be struck by (wind, waves, sunlight, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to sustain (damage); to incur (a loss); to suffer (an injury); to feel (influence) 立ち退きの予告を受けた。We received an eviction notice."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to undergo (e.g. surgery); to take (a test); to accept (a challenge) 喜んでお申し出をお受けします。We gladly accept your offer."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to be given (e.g. life, talent) esp. 受ける, 享ける"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "7. to find funny; to find humorous; to be amused (by) Colloquial, Usually written using kana alone, esp. ウケる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to follow; to succeed; to be descended from esp. 受ける, 享ける"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "9. to face (south, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "10. to be modified by Linguistics, esp. 受ける, 承ける"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "11. to obtain (a pawned item, etc.) by paying a fee See also 請け出す, esp. 請ける; now primarily used in compound words"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "12. to be well-received; to become popular; to go down well Usually written using kana alone, esp. ウケる, うける冗談が受けたよ。My joke went over very well."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請ける 【うける】、承ける 【うける】、享ける 【うける】、ウケる"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "歳",
+                            "さい"
+                        ],
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "人たち",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "政府",
+                            "せいふ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "年金",
+                            "ねんきん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "受けている",
+                            "うけ"
+                        ]
+                    ],
+                    "translation": "People 65 and above get a pension from the government."
+                },
+                {
+                    "sentence": [
+                        [
+                            "立ち退き",
+                            "たちの"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "予告",
+                            "よこく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "受けた",
+                            "う"
+                        ]
+                    ],
+                    "translation": "We received an eviction notice."
+                },
+                {
+                    "sentence": [
+                        [
+                            "喜んで",
+                            "よろこ"
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "申し出",
+                            "もうしで"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "お受け",
+                            "う"
+                        ],
+                        [
+                            "します",
+                            null
+                        ]
+                    ],
+                    "translation": "We gladly accept your offer."
+                },
+                {
+                    "sentence": [
+                        [
+                            "冗談",
+                            "じょうだん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "受けた",
+                            "う"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "My joke went over very well."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to receive; to get; to accept この贈り物は受け取れません。I cannot accept this gift."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to take (someone's words or behaviour); to interpret; to understand 彼女は私の言葉を侮辱と受け取ったようだ。She seems to have taken my remark as an insult."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受取る 【うけとる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to receive; to get; to accept この贈り物は受け取れません。I cannot accept this gift."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to take (someone's words or behaviour); to interpret; to understand 彼女は私の言葉を侮辱と受け取ったようだ。She seems to have taken my remark as an insult."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受取る 【うけとる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "贈り物",
+                            "おくりもの"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "受け取れません",
+                            "うけと"
+                        ]
+                    ],
+                    "translation": "I cannot accept this gift."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "言葉",
+                            "ことば"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "侮辱",
+                            "ぶじょく"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "受け取った",
+                            "うけと"
+                        ],
+                        [
+                            "ようだ",
+                            null
+                        ]
+                    ],
+                    "translation": "She seems to have taken my remark as an insult."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "招",
+                    "しょう"
+                ],
+                [
+                    "待",
+                    "たい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. invitation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "招待 【しょうだい】、請待 【しょうたい】、請待 【しょうだい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "しょうだい: Out-dated or obsolete kana usage. 請待: Rarely-used kanji form. しょうだい: Out-dated or obsolete kana usage. 請待: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. invitation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "招待 【しょうだい】、請待 【しょうたい】、請待 【しょうだい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "しょうだい: Out-dated or obsolete kana usage. 請待: Rarely-used kanji form. しょうだい: Out-dated or obsolete kana usage. 請待: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "せい"
+                ],
+                [
+                    "求",
+                    "きゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. claim; demand; charge; application; request; billing (for a service) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. claim; demand; charge; application; request; billing (for a service) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "うけ"
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. receiving; receipt "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受け取り 【うけとり】、受取 【うけとり】、受け取 【うけとり】、請け取り 【うけとり】、請取り 【うけとり】、請取 【うけとり】、請け取 【うけとり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. receiving; receipt "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受け取り 【うけとり】、受取 【うけとり】、受け取 【うけとり】、請け取り 【うけとり】、請取り 【うけとり】、請取 【うけとり】、請け取 【うけとり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "乞",
+                    "こ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending (special class), Transitive verb",
+                    "meaning": "1. to beg; to ask; to request; to invite "
+                },
+                {
+                    "type": "Godan verb with 'u' ending (special class), Transitive verb",
+                    "meaning": "2. to pray; to wish "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請う 【こう】"
+                },
+                {
+                    "type": "Godan verb with 'u' ending (special class), Transitive verb",
+                    "meaning": "1. to beg; to ask; to request; to invite "
+                },
+                {
+                    "type": "Godan verb with 'u' ending (special class), Transitive verb",
+                    "meaning": "2. to pray; to wish "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請う 【こう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "せい"
+                ],
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. petition "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Petition A petition is a request to do something, most commonly ad... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. petition "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Petition A petition is a request to do something, most commonly ad... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "負",
+                    "お"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to contract; to undertake 彼はこのすべての仕事をただで請け負った。He has taken all this work for nothing."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to take over; to take responsibility for "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請負う 【うけおう】"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to contract; to undertake 彼はこのすべての仕事をただで請け負った。He has taken all this work for nothing."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to take over; to take responsibility for "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請負う 【うけおう】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "すべての",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "ただ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "請け負った",
+                            "うけお"
+                        ]
+                    ],
+                    "translation": "He has taken all this work for nothing."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "せい"
+                ],
+                [
+                    "求",
+                    "きゅう"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bill; account; invoice "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. information request form "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bill; account; invoice "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. information request form "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to undertake; to take on (task) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to assure; to guarantee; to vouch (for); to promise "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受け合う 【うけあう】、請合う 【うけあう】、受合う 【うけあう】"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to undertake; to take on (task) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to assure; to guarantee; to vouch (for); to promise "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受け合う 【うけあう】、請合う 【うけあう】、受合う 【うけあう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "せい"
+                ],
+                [
+                    "求",
+                    "きゅう"
+                ],
+                [
+                    "額",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. amount billed or claimed "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. amount billed or claimed "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. assurance; guarantee See also 請け合う"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受け合い 【うけあい】、請合い 【うけあい】、受合い 【うけあい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. assurance; guarantee See also 請け合う"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受け合い 【うけあい】、請合い 【うけあい】、受合い 【うけあい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "売",
+                    "う"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. retailing "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. repeating (someone else's words, opinion, etc.); parroting; echoing; telling at second hand それは受け売りだろう？You are telling it second hand, aren't you?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受売り 【うけうり】、請け売り 【うけうり】、請売り 【うけうり】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. retailing "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. repeating (someone else's words, opinion, etc.); parroting; echoing; telling at second hand それは受け売りだろう？You are telling it second hand, aren't you?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受売り 【うけうり】、請け売り 【うけうり】、請売り 【うけうり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "受け売り",
+                            "うけう"
+                        ],
+                        [
+                            "だろう",
+                            null
+                        ]
+                    ],
+                    "translation": "You are telling it second hand, aren't you?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "せい"
+                ],
+                [
+                    "願",
+                    "がん"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (written) petition "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (written) petition "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "うけ"
+                ],
+                [
+                    "負",
+                    "おい"
+                ],
+                [
+                    "業",
+                    "ぎょう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. independent contractor "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. independent contractor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "せい"
+                ],
+                [
+                    "託",
+                    "たく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. solicitation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. popularity; favour; favor; reception "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. defense; defence; reputation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. agreement "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. receiver of technique (e.g. in martial arts) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. bottom (submissive partner of a homosexual relationship) Usually written using kana alone, Slang, See also ねこ, See also 攻め, See also タチ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請け 【うけ】、承け 【うけ】、ウケ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "せい"
+                ],
+                [
+                    "求",
+                    "きゅう"
+                ],
+                [
+                    "権",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. claim rights "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "うけ"
+                ],
+                [
+                    "負",
+                    "おい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. contract (for work); contracting; undertaking "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請け負い 【うけおい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "請け負い: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "請",
+                "うけ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Uke "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Ukegamine "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "請",
+                "みち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Michi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "申",
+                    "しん"
+                ],
+                [
+                    "請",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. application; request; petition "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "要",
+                    "よう"
+                ],
+                [
+                    "請",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. appeal; call for something; request; claim; demand "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. axiom "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "強",
+                    "ねだ"
+                ],
+                [
+                    "請",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to beg; to pester; to plead; to coax; to hound; to importune Usually written using kana alone彼は父にねだってとうとう新車を買ってもらった。He finally talked his father into buying a new car."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "父",
+                            "ちち"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ねだって",
+                            null
+                        ],
+                        [
+                            "とうとう",
+                            null
+                        ],
+                        [
+                            "新車",
+                            "しんしゃ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "買って",
+                            "か"
+                        ],
+                        [
+                            "もらった",
+                            null
+                        ]
+                    ],
+                    "translation": "He finally talked his father into buying a new car."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "な"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "ね",
+                    null
+                ],
+                [
+                    "だ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. asking for the moon; pining for what one doesn't have; thinking the grass is greener on the other side of the fence; asking for too much; asking for the impossible Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "無い物ねだり 【ないものねだり】、ない物ねだり 【ないものねだり】、無いもの強請り 【ないものねだり】、無い物強請り 【ないものねだり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "申",
+                    "しん"
+                ],
+                [
+                    "請",
+                    "せい"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. written application "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

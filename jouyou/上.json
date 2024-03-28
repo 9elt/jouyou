@@ -1,0 +1,3876 @@
+{
+    "kanji": "上",
+    "grade": 1,
+    "jlpt": 5,
+    "meanings": [
+        "above",
+        "up"
+    ],
+    "kun": [
+        "うえ",
+        "-うえ",
+        "うわ-",
+        "かみ",
+        "あ.げる",
+        "-あ.げる",
+        "あ.がる",
+        "-あ.がる",
+        "あ.がり",
+        "-あ.がり",
+        "のぼ.る",
+        "のぼ.り",
+        "のぼ.せる",
+        "のぼ.す",
+        "たてまつ.る"
+    ],
+    "on": [
+        "ジョウ",
+        "ショウ",
+        "シャン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.47990825688073396,
+            0.1456880733944954,
+            "c",
+            0.010550458715596329,
+            0.010550458715596329,
+            0.018440366972477064,
+            0.028623853211009177,
+            0.018440366972477064,
+            0.04697247706422018,
+            "c",
+            0,
+            0.007522935779816513,
+            -0.002018348623853211,
+            0.5836697247706422,
+            -0.0022935779816513763,
+            0.5929357798165137
+        ],
+        [
+            "M",
+            0.5321100917431193,
+            0.4105504587155963,
+            "c",
+            0.06422018348623854,
+            -0.005688073394495413,
+            0.13073394495412843,
+            -0.022935779816513763,
+            0.1628440366972477,
+            -0.027522935779816515,
+            "c",
+            0.012660550458715595,
+            -0.001834862385321101,
+            0.03211009174311927,
+            -0.0034862385321100917,
+            0.04357798165137615,
+            0
+        ],
+        [
+            "M",
+            0.12275229357798166,
+            0.809908256880734,
+            "c",
+            0.03302752293577982,
+            0.010550458715596329,
+            0.06834862385321101,
+            0.005688073394495413,
+            0.10211009174311927,
+            0.003119266055045872,
+            "c",
+            0.14889908256880735,
+            -0.01128440366972477,
+            0.3776146788990825,
+            -0.024403669724770642,
+            0.5526605504587156,
+            -0.026788990825688072,
+            "c",
+            0.033486238532110094,
+            -0.00045871559633027525,
+            0.06853211009174312,
+            -0.0029357798165137615,
+            0.10091743119266056,
+            0.007522935779816513
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "上",
+                    "うえ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. above; over; up 飛行機は山の上を飛んだ。The plane flew over the mountain."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. top; summit; upper part; head (e.g. of a staircase) 本棚の上に手が届きますか。Can you reach to the top of the bookshelf?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. surface; on (top of) 机の上に本があります。There is a book on the desk."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "4. the above (in a piece of writing); earlier part "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "5. superior; better; higher (position, rank, etc.); upper (class) 彼のスキーの腕は私よりはるかに上だ。He is far above me in skiing."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "6. elder; older; senior 彼は私の兄よりも年が上に見えます。He looks older than my brother."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. with respect to ...; in terms of; as far as ... is concerned; when (e.g. drunk) as ...上で(は) or ...上の彼は仕事の上では私の先輩だ。He has more experience on the job than I."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. besides ...; in addition to ...; on top of ...; as well as ... as ...上(に)寒かったうえに、風も強かった。It was cold, and, in addition, it was windy."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. after ...; upon ...; on ...; with (e.g. full awareness); as a result of ... as ...上(で)彼らは合意の上で敏速な行動をとった。They acted immediately by agreement."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. since ...; now that ...; because ... as ...上は"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "11. honorable; venerable; dear Honorific or respectful (sonkeigo) language, See also 父上, after a person of higher status"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "12. emperor; sovereign; shogun; daimyo Archaic"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "1. from the standpoint of; from the viewpoint of; with respect to; in terms of; as a matter of; in view of; so far as ... is concerned 彼は経済上の理由で計画を断念した。He gave up the plan for economic reasons."
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. on; above; on top of; aboard (a ship or vehicle) 地図上の青い線は川に相当する。The blue lines on the map correspond to rivers."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. the best; top; first class; first grade "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. first volume (of a two or three-volume set); first book See also 下, See also 中"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "5. with my compliments written on a gift's wrapping paper"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. upper reaches (of a river); upper stream Antonym: 下 しも"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. top; upper part; upper half (of the body) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. long ago "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. beginning; first "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. person of high rank (e.g. the emperor) Honorific or respectful (sonkeigo) language, See also 御上"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. government; imperial court "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. imperial capital (i.e. Kyoto); capital region (i.e. Kansai); region (or direction of) the imperial palace See also 上方 かみがた"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. head (of a table) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. wife; mistress (of a restaurant) Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Noun, Prefix",
+                    "meaning": "1. upper; upward; outer; surface; top "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Uwa "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. above; over; up 飛行機は山の上を飛んだ。The plane flew over the mountain."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. top; summit; upper part; head (e.g. of a staircase) 本棚の上に手が届きますか。Can you reach to the top of the bookshelf?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. surface; on (top of) 机の上に本があります。There is a book on the desk."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "4. the above (in a piece of writing); earlier part "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "5. superior; better; higher (position, rank, etc.); upper (class) 彼のスキーの腕は私よりはるかに上だ。He is far above me in skiing."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "6. elder; older; senior 彼は私の兄よりも年が上に見えます。He looks older than my brother."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. with respect to ...; in terms of; as far as ... is concerned; when (e.g. drunk) as ...上で(は) or ...上の彼は仕事の上では私の先輩だ。He has more experience on the job than I."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. besides ...; in addition to ...; on top of ...; as well as ... as ...上(に)寒かったうえに、風も強かった。It was cold, and, in addition, it was windy."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. after ...; upon ...; on ...; with (e.g. full awareness); as a result of ... as ...上(で)彼らは合意の上で敏速な行動をとった。They acted immediately by agreement."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. since ...; now that ...; because ... as ...上は"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "11. honorable; venerable; dear Honorific or respectful (sonkeigo) language, See also 父上, after a person of higher status"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "12. emperor; sovereign; shogun; daimyo Archaic"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "飛行機",
+                            "ひこうき"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "山",
+                            "やま"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "上",
+                            "うえ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "飛んだ",
+                            "と"
+                        ]
+                    ],
+                    "translation": "The plane flew over the mountain."
+                },
+                {
+                    "sentence": [
+                        [
+                            "本棚",
+                            "ほんだな"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "上",
+                            "うえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "手が届きます",
+                            "てがとど"
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Can you reach to the top of the bookshelf?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "机",
+                            "つくえ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "上",
+                            "うえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あります",
+                            null
+                        ]
+                    ],
+                    "translation": "There is a book on the desk."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "スキー",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "腕",
+                            "うで"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "より",
+                            null
+                        ],
+                        [
+                            "はるかに",
+                            null
+                        ],
+                        [
+                            "上",
+                            "うえ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "He is far above me in skiing."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "兄",
+                            "あに"
+                        ],
+                        [
+                            "よりも",
+                            null
+                        ],
+                        [
+                            "年",
+                            "ねん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "上",
+                            "うえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "見えます",
+                            "み"
+                        ]
+                    ],
+                    "translation": "He looks older than my brother."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "仕事の",
+                            "しごと"
+                        ],
+                        [
+                            "上",
+                            "うえ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "先輩",
+                            "せんぱい"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "He has more experience on the job than I."
+                },
+                {
+                    "sentence": [
+                        [
+                            "寒かった",
+                            "さむ"
+                        ],
+                        [
+                            "うえ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "風",
+                            "かぜ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "強かった",
+                            "つよ"
+                        ]
+                    ],
+                    "translation": "It was cold, and, in addition, it was windy."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼ら",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "合意",
+                            "ごうい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "上",
+                            "うえ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "敏速な",
+                            "びんそく"
+                        ],
+                        [
+                            "行動",
+                            "こうどう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "とった",
+                            null
+                        ]
+                    ],
+                    "translation": "They acted immediately by agreement."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to raise; to elevate See also 手を挙げる質問があれば右手を挙げて下さい。If you have a question, please raise your right hand."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to do up (one's hair) See also 髪を上げる髪も上げたほうが私は好きだ。I also prefer it with the hair worn up."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to fly (a kite, etc.); to launch (fireworks, etc.); to surface (a submarine, etc.) 花火が四方八方であげられた。The fireworks were set off on all sides."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to land (a boat) 彼らはその船を岸にあげた。They drew the boat on the beach."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to deep-fry Only applies to 揚げるこの鶏肉はよく揚げられている。This chicken is fried well."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to show someone (into a room) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to give Polite (teineigo) language, Usually written using kana alone, Only applies to 上げるあなたは時には妹さんにおこづかいをあげますか。Do you sometimes give your sister money?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to send someone (away) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "9. to enrol (one's child in school); to enroll "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "10. to increase (price, quality, status, etc.); to develop (talent, skill); to improve その店は値段を全部上げた。The store raised all the prices."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "11. to make (a loud sound); to raise (one's voice) See also 声を上げる彼は悲鳴をあげて逃げて行った。He cried out and ran away."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "12. to earn (something desirable) 彼は立派な成績を上げた。He got wonderful results."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "13. to praise "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "14. to give (an example, etc.); to cite usu. 挙げる記者：例を１つあげてくださいますか。Reporter: Can you give me an example?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "15. to summon up (all of one's energy, etc.) usu. 挙げる全力をあげてたたかえ。Fight with all your might."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "16. to arrest Only applies to 挙げる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "17. to nominate Only applies to 挙げる私は考えられる候補者としてポールの名を挙げた。I put Paul's name forward as a possible candidate."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "18. to summon (for geishas, etc.) Usually written using kana alone, Only applies to 揚げる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "19. to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.) Only applies to 上げる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "20. to bear (a child) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "21. to conduct (a ceremony, esp. a wedding) usu. 挙げる私は先月結婚式を挙げました。I held a wedding ceremony last month."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "22. (of the tide) to come in "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb, Transitive verb",
+                    "meaning": "23. to vomit "
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "24. to do for (the sake of someone else) Usually written using kana alone, Polite (teineigo) language, after the -te form of a verb解き方を教えてあげるよ。I will show you how to solve it."
+                },
+                {
+                    "type": "Suffix, Ichidan verb",
+                    "meaning": "25. to complete ... See also 作り上げる, after the -masu stem of a verb"
+                },
+                {
+                    "type": "Suffix, Ichidan verb",
+                    "meaning": "26. to humbly do ... Humble (kenjougo) language, See also 申し上げる, after the -masu stem of a humble verb to increase the level of humility"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "27. Deep frying Deep frying is a cooking method in which food is submerge... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "挙げる 【あげる】、揚げる 【あげる】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to raise; to elevate See also 手を挙げる質問があれば右手を挙げて下さい。If you have a question, please raise your right hand."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to do up (one's hair) See also 髪を上げる髪も上げたほうが私は好きだ。I also prefer it with the hair worn up."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to fly (a kite, etc.); to launch (fireworks, etc.); to surface (a submarine, etc.) 花火が四方八方であげられた。The fireworks were set off on all sides."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to land (a boat) 彼らはその船を岸にあげた。They drew the boat on the beach."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to deep-fry Only applies to 揚げるこの鶏肉はよく揚げられている。This chicken is fried well."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to show someone (into a room) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to give Polite (teineigo) language, Usually written using kana alone, Only applies to 上げるあなたは時には妹さんにおこづかいをあげますか。Do you sometimes give your sister money?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to send someone (away) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "9. to enrol (one's child in school); to enroll "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "10. to increase (price, quality, status, etc.); to develop (talent, skill); to improve その店は値段を全部上げた。The store raised all the prices."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "11. to make (a loud sound); to raise (one's voice) See also 声を上げる彼は悲鳴をあげて逃げて行った。He cried out and ran away."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "12. to earn (something desirable) 彼は立派な成績を上げた。He got wonderful results."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "13. to praise "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "14. to give (an example, etc.); to cite usu. 挙げる記者：例を１つあげてくださいますか。Reporter: Can you give me an example?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "15. to summon up (all of one's energy, etc.) usu. 挙げる全力をあげてたたかえ。Fight with all your might."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "16. to arrest Only applies to 挙げる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "17. to nominate Only applies to 挙げる私は考えられる候補者としてポールの名を挙げた。I put Paul's name forward as a possible candidate."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "18. to summon (for geishas, etc.) Usually written using kana alone, Only applies to 揚げる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "19. to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.) Only applies to 上げる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "20. to bear (a child) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "21. to conduct (a ceremony, esp. a wedding) usu. 挙げる私は先月結婚式を挙げました。I held a wedding ceremony last month."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "22. (of the tide) to come in "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb, Transitive verb",
+                    "meaning": "23. to vomit "
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "24. to do for (the sake of someone else) Usually written using kana alone, Polite (teineigo) language, after the -te form of a verb解き方を教えてあげるよ。I will show you how to solve it."
+                },
+                {
+                    "type": "Suffix, Ichidan verb",
+                    "meaning": "25. to complete ... See also 作り上げる, after the -masu stem of a verb"
+                },
+                {
+                    "type": "Suffix, Ichidan verb",
+                    "meaning": "26. to humbly do ... Humble (kenjougo) language, See also 申し上げる, after the -masu stem of a humble verb to increase the level of humility"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "27. Deep frying Deep frying is a cooking method in which food is submerge... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "挙げる 【あげる】、揚げる 【あげる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "質問",
+                            "しつもん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あれば",
+                            null
+                        ],
+                        [
+                            "右手",
+                            "みぎて"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "挙げて",
+                            "あ"
+                        ],
+                        [
+                            "下さい",
+                            "くだ"
+                        ]
+                    ],
+                    "translation": "If you have a question, please raise your right hand."
+                },
+                {
+                    "sentence": [
+                        [
+                            "髪",
+                            "かみ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "上げた",
+                            "あ"
+                        ],
+                        [
+                            "ほう",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "好き",
+                            "す"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "I also prefer it with the hair worn up."
+                },
+                {
+                    "sentence": [
+                        [
+                            "花火",
+                            "はなび"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "四方八方",
+                            "しほうはっぽう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "あげられた",
+                            null
+                        ]
+                    ],
+                    "translation": "The fireworks were set off on all sides."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼ら",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "船",
+                            "ふね"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "岸",
+                            "きし"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "あげた",
+                            null
+                        ]
+                    ],
+                    "translation": "They drew the boat on the beach."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "鶏肉",
+                            "とりにく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "よく",
+                            null
+                        ],
+                        [
+                            "揚げられている",
+                            "あげ"
+                        ]
+                    ],
+                    "translation": "This chicken is fried well."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "時には",
+                            "とき"
+                        ],
+                        [
+                            "妹さん",
+                            "いもうと"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "こづかい",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "あげます",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Do you sometimes give your sister money?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "店",
+                            "みせ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "値段",
+                            "ねだん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "全部",
+                            "ぜんぶ"
+                        ],
+                        [
+                            "上げた",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "The store raised all the prices."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "悲鳴",
+                            "ひめい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "あげて",
+                            null
+                        ],
+                        [
+                            "逃げて",
+                            "に"
+                        ],
+                        [
+                            "行った",
+                            "い"
+                        ]
+                    ],
+                    "translation": "He cried out and ran away."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "立派な",
+                            "りっぱ"
+                        ],
+                        [
+                            "成績",
+                            "せいせき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "上げた",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "He got wonderful results."
+                },
+                {
+                    "sentence": [
+                        [
+                            "記者",
+                            "きしゃ"
+                        ],
+                        [
+                            "例",
+                            "れい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "１つ",
+                            "ひと"
+                        ],
+                        [
+                            "あげて",
+                            null
+                        ],
+                        [
+                            "くださいます",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Reporter: Can you give me an example?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "全力",
+                            "ぜんりょく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "あげて",
+                            null
+                        ],
+                        [
+                            "たたかえ",
+                            null
+                        ]
+                    ],
+                    "translation": "Fight with all your might."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "考えられる",
+                            "かんがえ"
+                        ],
+                        [
+                            "候補者",
+                            "こうほしゃ"
+                        ],
+                        [
+                            "として",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "名",
+                            "な"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "挙げた",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "I put Paul's name forward as a possible candidate."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "先月",
+                            "せんげつ"
+                        ],
+                        [
+                            "結婚式",
+                            "けっこんしき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "挙げました",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "I held a wedding ceremony last month."
+                },
+                {
+                    "sentence": [
+                        [
+                            "解き方",
+                            "ときかた"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "教えて",
+                            "おし"
+                        ],
+                        [
+                            "あげる",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "I will show you how to solve it."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "手",
+                    "ず"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. skillful; skilled; proficient; good (at); adept; clever Antonym: 下手 へたあなたは上手にバスケットボールができますか。Do you play basketball well?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. flattery "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上手 【じょうて】、上手 【じょうしゅ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "じょうて: Out-dated or obsolete kana usage. じょうしゅ: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. skillful; skilled; proficient; good (at); adept; clever Antonym: 下手 へたあなたは上手にバスケットボールができますか。Do you play basketball well?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. flattery "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上手 【じょうて】、上手 【じょうしゅ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "じょうて: Out-dated or obsolete kana usage. じょうしゅ: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "上手に",
+                            "じょうず"
+                        ],
+                        [
+                            "バスケットボール",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "できます",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Do you play basketball well?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "のぼ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to ascend; to go up; to climb Only applies to 上る, Only applies to 登るあなたは、上れませんよ。You cannot climb!"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to ascend (as a natural process, e.g. the Sun); to rise Only applies to 上る, Only applies to 昇るそのとき太陽がのぼるところだった。The sun was coming up then."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to go to (the capital) Only applies to 上る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to be promoted Only applies to 昇る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to add up to Only applies to 上る損失は１００万ドル以上にのぼる。The loss adds up to more than one million dollars."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to advance (in price) Only applies to 上る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to swim up (a river); to sail up Only applies to 上る彼らは川を舟をこいで上った。They rowed up the river."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to come up (on the agenda) Only applies to 上る議題に上っている項目の議論を続けましょう。Let's proceed with the items on the agenda."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登る 【のぼる】、昇る 【のぼる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to ascend; to go up; to climb Only applies to 上る, Only applies to 登るあなたは、上れませんよ。You cannot climb!"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to ascend (as a natural process, e.g. the Sun); to rise Only applies to 上る, Only applies to 昇るそのとき太陽がのぼるところだった。The sun was coming up then."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to go to (the capital) Only applies to 上る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to be promoted Only applies to 昇る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to add up to Only applies to 上る損失は１００万ドル以上にのぼる。The loss adds up to more than one million dollars."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to advance (in price) Only applies to 上る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to swim up (a river); to sail up Only applies to 上る彼らは川を舟をこいで上った。They rowed up the river."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to come up (on the agenda) Only applies to 上る議題に上っている項目の議論を続けましょう。Let's proceed with the items on the agenda."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登る 【のぼる】、昇る 【のぼる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "上れません",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "You cannot climb!"
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "とき",
+                            null
+                        ],
+                        [
+                            "太陽",
+                            "たいよう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "のぼる",
+                            null
+                        ],
+                        [
+                            "ところ",
+                            null
+                        ],
+                        [
+                            "だった",
+                            null
+                        ]
+                    ],
+                    "translation": "The sun was coming up then."
+                },
+                {
+                    "sentence": [
+                        [
+                            "損失",
+                            "そんしつ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "万",
+                            "まん"
+                        ],
+                        [
+                            "ドル",
+                            null
+                        ],
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "のぼる",
+                            null
+                        ]
+                    ],
+                    "translation": "The loss adds up to more than one million dollars."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼ら",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "川",
+                            "かわ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "舟",
+                            "ふね"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "こいで",
+                            null
+                        ],
+                        [
+                            "上った",
+                            null
+                        ]
+                    ],
+                    "translation": "They rowed up the river."
+                },
+                {
+                    "sentence": [
+                        [
+                            "議題",
+                            "ぎだい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "上っている",
+                            null
+                        ],
+                        [
+                            "項目",
+                            "こうもく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "議論",
+                            "ぎろん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "続けましょう",
+                            "つづ"
+                        ]
+                    ],
+                    "translation": "Let's proceed with the items on the agenda."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "うわ"
+                ],
+                [
+                    "着",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coat; jacket; outerwear "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. top; upper-body garment "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上衣 【うわぎ】、表着 【うわぎ】、上衣 【じょうい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "表着: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. coat; jacket; outerwear "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. top; upper-body garment "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上衣 【うわぎ】、表着 【うわぎ】、上衣 【じょうい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "表着: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to rise; to go up; to come up; to ascend; to be raised Antonym: 下がる３月１日から鉄道運賃が１割あがると発表された。It has been announced that railway fares will be raised by 10 percent starting on the first of March."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to enter (esp. from outdoors); to come in; to go in "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to enter (a school); to advance to the next grade "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to get out (of water); to come ashore 軽くひと泳ぎした僕は、水から上がってプールサイドに腰を下ろす。After a light swim, I came up from the water and sat down on the poolside."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to increase also written as 騰る in ref. to price来月タクシー料金があがります。Taxi fares will go up next month."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to improve; to make progress "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to be promoted; to advance "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to be made (of profit, etc.) ここからあがる所得は無税である。The income from this source is tax-free."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "9. to occur (esp. of a favourable result) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "10. to be adequate (to cover expenses, etc.) often as 〜で上がる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "11. to be finished; to be done; to be over 「要さんって、何時にあがれます？」「終わりまでだから八時までかかるわ」\"Kaname, when can you leave?\" \"It's till closing so it takes till eight.\""
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "12. to stop (of rain); to lift 「雨がすぐあがるでしょうか」「あがらないと思うよ」\"Will it stop raining soon?\" \"I'm afraid not.\""
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "13. to stop (working properly); to cut out; to give out; to die 翌日、またバッテリーが上がってる。The next day the battery was flat again."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "14. to win (in a card game, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "15. to be arrested Only applies to 挙がる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "16. to turn up (of evidence, etc.) Only applies to 挙がる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "17. to be deep fried Only applies to 揚がる恵一、天ぷら揚がったから、皿持って来い。Keiichi, the tempura's done, so bring a plate."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "18. to be spoken loudly 政府が今国会への改正案提出の見送り方針を固めたことを歓迎する一方、小泉首相が提出断念を明言していない点を警戒する声も上がった。While welcoming the firming up of the present government policy to abandon the proposal of the reform bill to the Diet, at the same time some are worried that Prime Minister Koizumi won't clearly state the bill's withdrawal."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "19. to get nervous; to get stage fright esp. アガる私は演説をすると決まってあがる。I never make a speech without being nervous."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "20. to be offered (to the gods, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "21. to go; to visit Humble (kenjougo) language明日それをいただきに上がります。I will call for it tomorrow."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "22. to eat; to drink Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "23. to be listed (as a candidate) esp. 挙がる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "24. to serve (in one's master's home) "
+                },
+                {
+                    "type": "Suffix, Godan verb with 'ru' ending",
+                    "meaning": "25. to be complete; to finish See also 出来上がる, after the -masu stem of a verb"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "26. above; north of as ～上ル; in the Kyoto address system"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "揚がる 【あがる】、挙がる 【あがる】、上る 【あがる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "上る: Irregular okurigana usage."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to rise; to go up; to come up; to ascend; to be raised Antonym: 下がる３月１日から鉄道運賃が１割あがると発表された。It has been announced that railway fares will be raised by 10 percent starting on the first of March."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to enter (esp. from outdoors); to come in; to go in "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to enter (a school); to advance to the next grade "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to get out (of water); to come ashore 軽くひと泳ぎした僕は、水から上がってプールサイドに腰を下ろす。After a light swim, I came up from the water and sat down on the poolside."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to increase also written as 騰る in ref. to price来月タクシー料金があがります。Taxi fares will go up next month."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to improve; to make progress "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to be promoted; to advance "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to be made (of profit, etc.) ここからあがる所得は無税である。The income from this source is tax-free."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "9. to occur (esp. of a favourable result) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "10. to be adequate (to cover expenses, etc.) often as 〜で上がる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "11. to be finished; to be done; to be over 「要さんって、何時にあがれます？」「終わりまでだから八時までかかるわ」\"Kaname, when can you leave?\" \"It's till closing so it takes till eight.\""
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "12. to stop (of rain); to lift 「雨がすぐあがるでしょうか」「あがらないと思うよ」\"Will it stop raining soon?\" \"I'm afraid not.\""
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "13. to stop (working properly); to cut out; to give out; to die 翌日、またバッテリーが上がってる。The next day the battery was flat again."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "14. to win (in a card game, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "15. to be arrested Only applies to 挙がる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "16. to turn up (of evidence, etc.) Only applies to 挙がる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "17. to be deep fried Only applies to 揚がる恵一、天ぷら揚がったから、皿持って来い。Keiichi, the tempura's done, so bring a plate."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "18. to be spoken loudly 政府が今国会への改正案提出の見送り方針を固めたことを歓迎する一方、小泉首相が提出断念を明言していない点を警戒する声も上がった。While welcoming the firming up of the present government policy to abandon the proposal of the reform bill to the Diet, at the same time some are worried that Prime Minister Koizumi won't clearly state the bill's withdrawal."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "19. to get nervous; to get stage fright esp. アガる私は演説をすると決まってあがる。I never make a speech without being nervous."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "20. to be offered (to the gods, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "21. to go; to visit Humble (kenjougo) language明日それをいただきに上がります。I will call for it tomorrow."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "22. to eat; to drink Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "23. to be listed (as a candidate) esp. 挙がる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "24. to serve (in one's master's home) "
+                },
+                {
+                    "type": "Suffix, Godan verb with 'ru' ending",
+                    "meaning": "25. to be complete; to finish See also 出来上がる, after the -masu stem of a verb"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "26. above; north of as ～上ル; in the Kyoto address system"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "揚がる 【あがる】、挙がる 【あがる】、上る 【あがる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "上る: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "３月",
+                            null
+                        ],
+                        [
+                            "１日",
+                            null
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "鉄道",
+                            "てつどう"
+                        ],
+                        [
+                            "運賃",
+                            "うんちん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "１割",
+                            null
+                        ],
+                        [
+                            "あがる",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "発表",
+                            "はっぴょう"
+                        ],
+                        [
+                            "された",
+                            null
+                        ]
+                    ],
+                    "translation": "It has been announced that railway fares will be raised by 10 percent starting on the first of March."
+                },
+                {
+                    "sentence": [
+                        [
+                            "軽く",
+                            "かる"
+                        ],
+                        [
+                            "ひと泳ぎ",
+                            "ひとおよ"
+                        ],
+                        [
+                            "した",
+                            null
+                        ],
+                        [
+                            "僕",
+                            "ぼく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "水",
+                            "みず"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "上がって",
+                            "あ"
+                        ],
+                        [
+                            "プールサイド",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "腰を下ろす",
+                            null
+                        ]
+                    ],
+                    "translation": "After a light swim, I came up from the water and sat down on the poolside."
+                },
+                {
+                    "sentence": [
+                        [
+                            "来月",
+                            "らいげつ"
+                        ],
+                        [
+                            "タクシー",
+                            null
+                        ],
+                        [
+                            "料金",
+                            "りょうきん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あがります",
+                            null
+                        ]
+                    ],
+                    "translation": "Taxi fares will go up next month."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "あがる",
+                            null
+                        ],
+                        [
+                            "所得",
+                            "しょとく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "無税",
+                            "むぜい"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "The income from this source is tax-free."
+                },
+                {
+                    "sentence": [
+                        [
+                            "さん",
+                            null
+                        ],
+                        [
+                            "って",
+                            null
+                        ],
+                        [
+                            "何時",
+                            "なんじ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "あがれます",
+                            null
+                        ],
+                        [
+                            "終わり",
+                            "お"
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "八",
+                            "はち"
+                        ],
+                        [
+                            "時",
+                            "じ"
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "かかる",
+                            null
+                        ],
+                        [
+                            "わ",
+                            null
+                        ]
+                    ],
+                    "translation": "\"Kaname, when can you leave?\" \"It's till closing so it takes till eight.\""
+                },
+                {
+                    "sentence": [
+                        [
+                            "雨",
+                            "あめ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "すぐ",
+                            null
+                        ],
+                        [
+                            "あがる",
+                            null
+                        ],
+                        [
+                            "でしょうか",
+                            null
+                        ],
+                        [
+                            "あがらない",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "思う",
+                            "おも"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "\"Will it stop raining soon?\" \"I'm afraid not.\""
+                },
+                {
+                    "sentence": [
+                        [
+                            "翌日",
+                            "よくじつ"
+                        ],
+                        [
+                            "また",
+                            null
+                        ],
+                        [
+                            "バッテリー",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "上がってる",
+                            "あが"
+                        ]
+                    ],
+                    "translation": "The next day the battery was flat again."
+                },
+                {
+                    "sentence": [
+                        [
+                            "天ぷら",
+                            null
+                        ],
+                        [
+                            "揚がった",
+                            "あ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "皿",
+                            "さら"
+                        ],
+                        [
+                            "持って",
+                            "も"
+                        ],
+                        [
+                            "来い",
+                            "こ"
+                        ]
+                    ],
+                    "translation": "Keiichi, the tempura's done, so bring a plate."
+                },
+                {
+                    "sentence": [
+                        [
+                            "政府",
+                            "せいふ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "今",
+                            "いま"
+                        ],
+                        [
+                            "国会",
+                            "こっかい"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "改正案",
+                            "かいせいあん"
+                        ],
+                        [
+                            "提出",
+                            "ていしゅつ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "見送り",
+                            "みおく"
+                        ],
+                        [
+                            "方針",
+                            "ほうしん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "固めた",
+                            "かた"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "歓迎",
+                            "かんげい"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "一方",
+                            "いっぽう"
+                        ],
+                        [
+                            "首相",
+                            "しゅしょう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "提出",
+                            "ていしゅつ"
+                        ],
+                        [
+                            "断念",
+                            "だんねん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "明言",
+                            "めいげん"
+                        ],
+                        [
+                            "していない",
+                            null
+                        ],
+                        [
+                            "点",
+                            "てん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "警戒",
+                            "けいかい"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "声",
+                            "こえ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "上がった",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "While welcoming the firming up of the present government policy to abandon the proposal of the reform bill to the Diet, at the same time some are worried that Prime Minister Koizumi won't clearly state the bill's withdrawal."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "演説",
+                            "えんぜつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "決まって",
+                            "き"
+                        ],
+                        [
+                            "あがる",
+                            null
+                        ]
+                    ],
+                    "translation": "I never make a speech without being nervous."
+                },
+                {
+                    "sentence": [
+                        [
+                            "明日",
+                            "あした"
+                        ],
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "いただき",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "上がります",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "I will call for it tomorrow."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "京",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. going (up) to the capital; going to Tokyo "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. going (up) to the capital; going to Tokyo "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "のぼ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ascent; climbing; ascending (path); climb 道はここからゆるやかな上りだ。The road ascends gently here."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. up-train; train heading toward the starting point of its route Only applies to 上り, See also 上り列車"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. upbound (esp. toward Tokyo) "
+                },
+                {
+                    "type": "Noun, Noun, used as a prefix",
+                    "meaning": "4. upstream; uphill Only applies to 上り, See also 上り勾配 のぼりこうばい"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "5. Nobori "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登り 【のぼり】、昇り 【のぼり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ascent; climbing; ascending (path); climb 道はここからゆるやかな上りだ。The road ascends gently here."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. up-train; train heading toward the starting point of its route Only applies to 上り, See also 上り列車"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. upbound (esp. toward Tokyo) "
+                },
+                {
+                    "type": "Noun, Noun, used as a prefix",
+                    "meaning": "4. upstream; uphill Only applies to 上り, See also 上り勾配 のぼりこうばい"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "5. Nobori "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登り 【のぼり】、昇り 【のぼり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "道",
+                            "みち"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "ゆるやかな",
+                            null
+                        ],
+                        [
+                            "上り",
+                            "のぼ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "The road ascends gently here."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "達",
+                    "たつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. improvement (e.g. in skill, ability); advance; progress "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. communication of opinions of the general populace to those of high rank See also 上通, Antonym: 下達"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. improvement (e.g. in skill, ability); advance; progress "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. communication of opinions of the general populace to those of high rank See also 上通, Antonym: 下達"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "等",
+                    "とう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. (that's) just fine!; bring it on! "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. (that's) just fine!; bring it on! "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "どうして",
+                            null
+                        ],
+                        [
+                            "こんな",
+                            null
+                        ],
+                        [
+                            "上等",
+                            "じょうとう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ぶどう酒",
+                            "ぶどうしゅ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "今まで",
+                            "いま"
+                        ],
+                        [
+                            "取って置いた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Why have you kept such an excellent wine back till now?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "うま"
+                ],
+                [
+                    "手",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. skillful; skilful; skilled; good; expert; clever (expression, trick, etc.); apt; appropriate Usually written using kana alone, esp. 上手い, 巧い彼女はテニスは上手いが、水泳は下手だ。She's very good at tennis, but she's not much of a swimmer."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. delicious; tasty; good; nice Usually written using kana alone, esp. 旨い, 美味い, 甘いあそこの食べ物はうまいし値段も安いが、地の利が悪いのが難点だね。That place's food is great, and their prices are good, but the fly in the ointment is their terrible location."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. good (deal, idea, etc.); profitable; promising; lucky; fortunate; successful; satisfactory; splendid Usually written using kana alone, esp. 旨いそれはあまりにもうますぎる話だ。That's too good a story to be true."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "美味い 【うまい】、旨い 【うまい】、巧い 【うまい】、甘い 【うまい】、美い 【うまい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "美い: Rarely-used kanji form."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. skillful; skilful; skilled; good; expert; clever (expression, trick, etc.); apt; appropriate Usually written using kana alone, esp. 上手い, 巧い彼女はテニスは上手いが、水泳は下手だ。She's very good at tennis, but she's not much of a swimmer."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. delicious; tasty; good; nice Usually written using kana alone, esp. 旨い, 美味い, 甘いあそこの食べ物はうまいし値段も安いが、地の利が悪いのが難点だね。That place's food is great, and their prices are good, but the fly in the ointment is their terrible location."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. good (deal, idea, etc.); profitable; promising; lucky; fortunate; successful; satisfactory; splendid Usually written using kana alone, esp. 旨いそれはあまりにもうますぎる話だ。That's too good a story to be true."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "美味い 【うまい】、旨い 【うまい】、巧い 【うまい】、甘い 【うまい】、美い 【うまい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "美い: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "テニス",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "上手い",
+                            "うま"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "水泳",
+                            "すいえい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "下手",
+                            "へた"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "She's very good at tennis, but she's not much of a swimmer."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あそこ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "食べ物",
+                            "たべもの"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "うまい",
+                            null
+                        ],
+                        [
+                            "し",
+                            null
+                        ],
+                        [
+                            "値段",
+                            "ねだん"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "安い",
+                            "やす"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "地の利",
+                            "ちのり"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "悪い",
+                            "わる"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "難点",
+                            "なんてん"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "That place's food is great, and their prices are good, but the fly in the ointment is their terrible location."
+                },
+                {
+                    "sentence": [
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "あまりにも",
+                            null
+                        ],
+                        [
+                            "うま",
+                            null
+                        ],
+                        [
+                            "すぎる",
+                            null
+                        ],
+                        [
+                            "話",
+                            "はなし"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "That's too good a story to be true."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "司",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (one's) superior; (one's) boss; the higher-ups See also 部下, See also 目上"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Joushi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "下",
+                    "げ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. top and bottom; high and low; above and below; upper and lower ends; up and down "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. going up and down; rising and falling; fluctuating "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. going and coming back "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. upper and lower classes; ruler and ruled; the government and the people "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. first and second volumes "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. top and bottom; two-piece (outfit) Clothing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "級",
+                    "きゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. upper level; upper grade; high rank; advanced level; senior level; upper class "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "旬",
+                    "じゅん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. first third of a month; first ten days of a month See also 中旬, See also 下旬"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "昇",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. rising; ascending; climbing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "演",
+                    "えん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. performance (of a play, opera, etc.); staging; presentation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "上",
+                "うえ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Ue "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Uesaki "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Uezaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "以",
+                    "い"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "1. not less than ...; ... and over; ... and above; ... and upwards; ... or more Antonym: 以下６歳以上の子供は学校に通わなければならない。Children of six and above should attend school."
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. beyond (e.g. one's expectations); above; more than; further than 必要以上にお金を使わないようにしなさい。Try not to spend more money than is necessary."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. the above; the above-mentioned; the aforementioned; the foregoing 以上のように、実にシンプルな誰でも出来るノウハウで十分な利益と顧客は確保できるのです！As shown above, it is possible to obtain ample profit and customers with truly simple know-how that anyone can do!"
+                },
+                {
+                    "type": "Noun, Conjunction",
+                    "meaning": "4. since ...; seeing that ...; now that ...; once ... after a verb公僕も人間であること、また、人間である以上過ちを犯す可能性があることを、彼は認識している。He realizes that public officials are human, and that as human beings they are capable of misjudgement."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "5. that's all; that is the end; the end 以上ですか？Is that all?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "已上 【いじょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "已上: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "歳",
+                            "さい"
+                        ],
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "子供",
+                            "こども"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "学校",
+                            "がっこう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "通わ",
+                            "かよ"
+                        ],
+                        [
+                            "なければならない",
+                            null
+                        ]
+                    ],
+                    "translation": "Children of six and above should attend school."
+                },
+                {
+                    "sentence": [
+                        [
+                            "必要",
+                            "ひつよう"
+                        ],
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "金を使わない",
+                            null
+                        ],
+                        [
+                            "ようにし",
+                            null
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "Try not to spend more money than is necessary."
+                },
+                {
+                    "sentence": [
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "のように",
+                            null
+                        ],
+                        [
+                            "実に",
+                            "じつ"
+                        ],
+                        [
+                            "シンプルな",
+                            null
+                        ],
+                        [
+                            "誰でも",
+                            "だれ"
+                        ],
+                        [
+                            "出来る",
+                            "でき"
+                        ],
+                        [
+                            "ノウハウ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "十分な",
+                            "じゅうぶん"
+                        ],
+                        [
+                            "利益",
+                            "りえき"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "顧客",
+                            "こきゃく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "確保",
+                            "かくほ"
+                        ],
+                        [
+                            "できる",
+                            null
+                        ],
+                        [
+                            "のです",
+                            null
+                        ]
+                    ],
+                    "translation": "As shown above, it is possible to obtain ample profit and customers with truly simple know-how that anyone can do!"
+                },
+                {
+                    "sentence": [
+                        [
+                            "公僕",
+                            "こうぼく"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "人間",
+                            "にんげん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "また",
+                            null
+                        ],
+                        [
+                            "人間",
+                            "にんげん"
+                        ],
+                        [
+                            "である",
+                            null
+                        ],
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "過ち",
+                            "あやま"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "犯す",
+                            "おか"
+                        ],
+                        [
+                            "可能性",
+                            "かのうせい"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "認識",
+                            "にんしき"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "He realizes that public officials are human, and that as human beings they are capable of misjudgement."
+                },
+                {
+                    "sentence": [
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "ですか",
+                            null
+                        ]
+                    ],
+                    "translation": "Is that all?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "申",
+                    "もう"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to say; to tell; to state; to express; to offer; to extend (greetings, congratulations, etc.) Humble (kenjougo) languageお礼の申し上げようもありません。I can never thank you enough."
+                },
+                {
+                    "type": "Ichidan verb, Auxiliary verb",
+                    "meaning": "2. to do Humble (kenjougo) language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "申上げる 【もうしあげる】、申しあげる 【もうしあげる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "お礼",
+                            "おれい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "申し上げよう",
+                            "もうしあ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "ありません",
+                            null
+                        ]
+                    ],
+                    "translation": "I can never thank you enough."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "屋",
+                    "おく"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rooftop See also 屋上庭園 おくじょうていえん"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "召",
+                    "め"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to eat; to drink Honorific or respectful (sonkeigo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to lift up; to hold up; to raise 彼はトロフィーを高々と差し上げた。He held the trophy up high."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to give; to present; to offer Humble (kenjougo) language飲み物を差し上げましょうか。May I offer you a drink?"
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "3. to do (for someone) Humble (kenjougo) language, after -te form of verb; more respectful than 〜して上げる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差上げる 【さしあげる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "トロフィー",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "高々と",
+                            "たかだか"
+                        ],
+                        [
+                            "差し上げた",
+                            "さしあ"
+                        ]
+                    ],
+                    "translation": "He held the trophy up high."
+                },
+                {
+                    "sentence": [
+                        [
+                            "飲み物",
+                            "のみもの"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "差し上げ",
+                            "さしあ"
+                        ],
+                        [
+                            "ましょうか",
+                            null
+                        ]
+                    ],
+                    "translation": "May I offer you a drink?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "頂",
+                    "ちょう"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. top; summit; peak "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "立",
+                    "た"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to stand up; to get up "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to rise "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to recover "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to take action; to start "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to make the initial charge Sumo"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to start up; to boot up Computing"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "立上がる 【たちあがる】、起ち上がる 【たちあがる】、立ちあがる 【たちあがる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to pick up 彼女はガラスの花瓶を取り上げた。She picked up one of the glass vases."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to adopt (a proposal); to take up (a topic); to accept; to listen to sometimes written as 採り上げるこのブログは情報インフラを中心としたトピックを取り上げています。This blog covers topics that centre on information infrastructure."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to take issue with; to make a problem of; to bring up (as a point of criticism) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to report (news); to cover; to feature 全新聞がその事件を大きく取り上げた。All the papers featured the case."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to take away; to confiscate; to deprive (someone) of; to revoke; to disqualify; to cancel 向こう見ずな運転の為彼は免許を取り上げられた。He had his license taken away because of reckless driving."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to deliver (a baby) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to collect (taxes) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ガラス",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "花瓶",
+                            "かびん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り上げた",
+                            "とりあ"
+                        ]
+                    ],
+                    "translation": "She picked up one of the glass vases."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "ブログ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "情報インフラ",
+                            "じょうほう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "中心",
+                            "ちゅうしん"
+                        ],
+                        [
+                            "とした",
+                            null
+                        ],
+                        [
+                            "トピック",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り上げています",
+                            "とりあ"
+                        ]
+                    ],
+                    "translation": "This blog covers topics that centre on information infrastructure."
+                },
+                {
+                    "sentence": [
+                        [
+                            "全",
+                            "ぜん"
+                        ],
+                        [
+                            "新聞",
+                            "しんぶん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "事件",
+                            "じけん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "大きく",
+                            "おお"
+                        ],
+                        [
+                            "取り上げた",
+                            "とりあ"
+                        ]
+                    ],
+                    "translation": "All the papers featured the case."
+                },
+                {
+                    "sentence": [
+                        [
+                            "向こう見ずな",
+                            "むこうみ"
+                        ],
+                        [
+                            "運転",
+                            "うんてん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "為",
+                            "ため"
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "免許",
+                            "めんきょ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り上げられた",
+                            "とりあ"
+                        ]
+                    ],
+                    "translation": "He had his license taken away because of reckless driving."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "持",
+                    "も"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to elevate; to raise; to lift up "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to flatter; to extol; to praise to the sky "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "持上げる 【もちあげる】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

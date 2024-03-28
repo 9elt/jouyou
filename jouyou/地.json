@@ -1,0 +1,1842 @@
+{
+    "kanji": "地",
+    "grade": 2,
+    "jlpt": 4,
+    "meanings": [
+        "ground",
+        "earth"
+    ],
+    "kun": [
+        "チ",
+        "ジ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.10550458715596331,
+            0.4541284403669725,
+            "c",
+            0.015688073394495412,
+            0.006330275229357797,
+            0.03220183486238532,
+            0.005137614678899083,
+            0.04807339449541285,
+            0.001834862385321101,
+            "c",
+            0.0528440366972477,
+            -0.011009174311926604,
+            0.12266055045871559,
+            -0.027155963302752294,
+            0.18027522935779816,
+            -0.043119266055045874,
+            "c",
+            0.014678899082568808,
+            -0.004036697247706422,
+            0.028256880733944955,
+            -0.0045871559633027525,
+            0.03779816513761468,
+            -0.0022935779816513763
+        ],
+        [
+            "M",
+            0.23275229357798166,
+            0.2408256880733945,
+            "c",
+            0.01,
+            0.0045871559633027525,
+            0.015963302752293577,
+            0.020642201834862386,
+            0.01798165137614679,
+            0.02981651376146789,
+            "c",
+            0.0016513761467889907,
+            0.007522935779816513,
+            -0.0016513761467889907,
+            0.39816513761467887,
+            -0.002018348623853211,
+            0.40825688073394495
+        ],
+        [
+            "M",
+            0.10091743119266056,
+            0.7524770642201835,
+            "c",
+            0.011467889908256881,
+            0.01128440366972477,
+            0.030825688073394496,
+            0.012110091743119267,
+            0.05504587155963303,
+            -0.0033944954128440367,
+            "c",
+            0.014311926605504588,
+            -0.009174311926605505,
+            0.13871559633027522,
+            -0.08587155963302752,
+            0.19954128440366972,
+            -0.12981651376146788
+        ],
+        [
+            "M",
+            0.3761467889908257,
+            0.4867889908256881,
+            "c",
+            0.01944954128440367,
+            0.006330275229357797,
+            0.04477064220183486,
+            0.006330275229357797,
+            0.06770642201834862,
+            -0.0003669724770642202,
+            "c",
+            0.10403669724770642,
+            -0.030642201834862385,
+            0.2703669724770642,
+            -0.08834862385321102,
+            0.3405504587155963,
+            -0.11247706422018348,
+            "c",
+            0.03220183486238532,
+            -0.01110091743119266,
+            0.0481651376146789,
+            0.006880733944954129,
+            0.0436697247706422,
+            0.03311926605504587,
+            "c",
+            -0.008532110091743119,
+            0.04954128440366973,
+            -0.030642201834862385,
+            0.10871559633027522,
+            -0.048256880733944955,
+            0.14577981651376148,
+            "c",
+            -0.022935779816513763,
+            0.0481651376146789,
+            -0.051559633027522936,
+            0.02522935779816514,
+            -0.07110091743119266,
+            0
+        ],
+        [
+            "M",
+            0.6077981651376146,
+            0.1651376146788991,
+            "c",
+            0.01091743119266055,
+            0.01091743119266055,
+            0.01834862385321101,
+            0.02642201834862385,
+            0.01834862385321101,
+            0.04128440366972477,
+            "c",
+            0,
+            0.0779816513761468,
+            0.0006422018348623854,
+            0.27275229357798164,
+            -0.0011009174311926604,
+            0.3967889908256881,
+            "c",
+            -0.0003669724770642202,
+            0.02669724770642202,
+            -0.0008256880733944953,
+            0.04256880733944954,
+            -0.0011926605504587156,
+            0.052752293577981654
+        ],
+        [
+            "M",
+            0.45403669724770646,
+            0.3451376146788991,
+            "c",
+            0.011559633027522935,
+            0.011559633027522935,
+            0.01853211009174312,
+            0.028715596330275227,
+            0.01853211009174312,
+            0.04449541284403669,
+            "c",
+            0,
+            0.07862385321100918,
+            -0.0034862385321100917,
+            0.19064220183486238,
+            -0.0034862385321100917,
+            0.2571559633027523,
+            "c",
+            0,
+            0.15137614678899083,
+            0.007981651376146788,
+            0.1743119266055046,
+            0.20522935779816515,
+            0.1743119266055046,
+            "c",
+            0.1834862385321101,
+            0,
+            0.18935779816513762,
+            -0.016055045871559634,
+            0.18935779816513762,
+            -0.11990825688073395
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. earth; ground; land; soil "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. place どっちが最終的な安息の地となるんだろう。Which one will be our final resting place?"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. territory これらの国々はヨーロッパ文明発祥の地である。European civilization had its birth in these lands."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "4. bottom (of a package, book, etc.) See also 天地無用"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "5. earth (one of the five elements) See also 五大, See also 土 ど"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ground; land; earth; soil 雨降って地固まる。Adversity strengthens the foundations."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. the region in question; the local area "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. skin "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. texture; fabric; material; weave 彼女のドレスは青い地に白の水玉模様がある。Her dress has white spots on a blue background."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. base; background "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. one's true nature "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. narrative (i.e. descriptive part of a story) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. real life; actuality "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. captured territory Go (game)"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. noh chorus See also 地謡"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "11. accompaniment music (in Japanese dance) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "12. basic phrase (in Japanese music; usu. repetitive) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "13. base part (of multiple shamisens) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "どっち",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "最終的な",
+                            "さいしゅうてき"
+                        ],
+                        [
+                            "安息",
+                            "あんそく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "地",
+                            "ち"
+                        ],
+                        [
+                            "となる",
+                            null
+                        ],
+                        [
+                            "ん",
+                            null
+                        ],
+                        [
+                            "だろう",
+                            null
+                        ]
+                    ],
+                    "translation": "Which one will be our final resting place?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "これらの",
+                            null
+                        ],
+                        [
+                            "国々",
+                            "くにぐに"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ヨーロッパ",
+                            null
+                        ],
+                        [
+                            "文明",
+                            "ぶんめい"
+                        ],
+                        [
+                            "発祥",
+                            "はっしょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "地",
+                            "ち"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "European civilization had its birth in these lands."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "土",
+                    "つち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. earth; soil; dirt; clay; mud "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. the earth (historically, esp. as opposed to the heavens); the ground; the land "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. low-quality torinoko-gami (containing mud) See also 鳥の子紙"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō) See also 陰陽道, also written as 犯土, 椎, 槌"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "地 【つち】、地 【つし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "図",
+                    "ず"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. map; atlas; chart; plan "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Map A map is a visual representation of an area—a symbolic de... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. map; atlas; chart; plan "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Map A map is a visual representation of an area—a symbolic de... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "下",
+                    "か"
+                ],
+                [
+                    "鉄",
+                    "てつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. subway; metro; underground (railway) Abbreviation, See also 地下鉄道"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Rapid transit A rapid transit, underground, subway, elevated railway, m... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. subway; metro; underground (railway) Abbreviation, See also 地下鉄道"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Rapid transit A rapid transit, underground, subway, elevated railway, m... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "じ"
+                ],
+                [
+                    "震",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. earthquake "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Earthquake An earthquake (also known as a quake, tremor or temblor) ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "地震 【ない】、地震 【なえ】、地震 【じぶるい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ない: Out-dated or obsolete kana usage. なえ: Out-dated or obsolete kana usage. じぶるい: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. earthquake "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Earthquake An earthquake (also known as a quake, tremor or temblor) ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "地震 【ない】、地震 【なえ】、地震 【じぶるい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ない: Out-dated or obsolete kana usage. なえ: Out-dated or obsolete kana usage. じぶるい: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "球",
+                    "きゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Earth; the globe "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Earth Earth (or the Earth) is the third planet from the Sun, an... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Earth; the globe "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Earth Earth (or the Earth) is the third planet from the Sun, an... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. area; region; district; locality "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Region This article is about the geographic sense of the term. F... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. area; region; district; locality "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Region This article is about the geographic sense of the term. F... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "下",
+                    "か"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. underground; below the ground Antonym: 地上そして汚水を流すために地下に下水道を持っていた。The house has pipes under the ground to carry dirty water away."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. world of the dead; the grave "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. underground (activities, movement, etc.); secret; illegal; in hiding 彼は地下活動の疑いをかけられた。He was suspected of underground action."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Subterranea (geography) Subterranea refers to underground structures, both natura... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. underground; below the ground Antonym: 地上そして汚水を流すために地下に下水道を持っていた。The house has pipes under the ground to carry dirty water away."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. world of the dead; the grave "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. underground (activities, movement, etc.); secret; illegal; in hiding 彼は地下活動の疑いをかけられた。He was suspected of underground action."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Subterranea (geography) Subterranea refers to underground structures, both natura... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "そして",
+                            null
+                        ],
+                        [
+                            "汚水",
+                            "おすい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "流す",
+                            "なが"
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "地下",
+                            "ちか"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "下水道",
+                            "げすいどう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "持っていた",
+                            "も"
+                        ]
+                    ],
+                    "translation": "The house has pipes under the ground to carry dirty water away."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "地下",
+                            "ちか"
+                        ],
+                        [
+                            "活動",
+                            "かつどう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "疑いをかけられた",
+                            "うたが"
+                        ]
+                    ],
+                    "translation": "He was suspected of underground action."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "平",
+                    "へい"
+                ],
+                [
+                    "線",
+                    "せん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. horizon (related to land) See also 水平線"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Horizon The horizon (or skyline) is the apparent line that separa... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. horizon (related to land) See also 水平線"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Horizon The horizon (or skyline) is the apparent line that separa... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "じ"
+                ],
+                [
+                    "獄",
+                    "ごく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hell realm; Naraka Buddhism"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Hell Christianity魔王は言った。「俺が負けるわっきゃねーべ。審判は皆地獄にいるのだ」。\"How can I lose?\" answered Satan. \"All the umpires are down here in Hell.\""
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. hell; misery; nightmare; inferno そこはこの世の地獄となった。The place became a hell on earth."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. place where a volcano or hot springs constantly spew smoke or steam "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "5. Jigoku "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "6. Hell In many religious traditions, hell is a place of sufferin... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. hell realm; Naraka Buddhism"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Hell Christianity魔王は言った。「俺が負けるわっきゃねーべ。審判は皆地獄にいるのだ」。\"How can I lose?\" answered Satan. \"All the umpires are down here in Hell.\""
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. hell; misery; nightmare; inferno そこはこの世の地獄となった。The place became a hell on earth."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. place where a volcano or hot springs constantly spew smoke or steam "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "5. Jigoku "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "6. Hell In many religious traditions, hell is a place of sufferin... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "魔王",
+                            "まおう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "言った",
+                            "い"
+                        ],
+                        [
+                            "俺",
+                            "おれ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "負ける",
+                            "ま"
+                        ],
+                        [
+                            "わっきゃねー",
+                            null
+                        ],
+                        [
+                            "べ",
+                            null
+                        ],
+                        [
+                            "審判",
+                            "しんぱん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "皆",
+                            "みんな"
+                        ],
+                        [
+                            "地獄",
+                            "じごく"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "いる",
+                            null
+                        ],
+                        [
+                            "のだ",
+                            null
+                        ]
+                    ],
+                    "translation": "\"How can I lose?\" answered Satan. \"All the umpires are down here in Hell.\""
+                },
+                {
+                    "sentence": [
+                        [
+                            "そこ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "この世の",
+                            "このよ"
+                        ],
+                        [
+                            "地獄",
+                            "じごく"
+                        ],
+                        [
+                            "となった",
+                            null
+                        ]
+                    ],
+                    "translation": "The place became a hell on earth."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "理",
+                    "り"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. geography "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. geography "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "形",
+                    "けい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. terrain; geographical features; topography "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Landform A landform in the earth sciences and geology sub-fields, ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "地形 【じぎょう】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. terrain; geographical features; topography "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Landform A landform in the earth sciences and geology sub-fields, ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "地形 【じぎょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "じ"
+                ],
+                [
+                    "主",
+                    "ぬし"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. landowner; landlord; landlady "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Landlord A landlord is the owner of a house, apartment, condominiu... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. landowner; landlord; landlady "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Landlord A landlord is the owner of a house, apartment, condominiu... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "方",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. district; region; area; locality 彼は今年の夏、東北地方を旅行した。He traveled through the Tohoku district this summer."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. the country; countryside; the provinces; rural area See also 中央その地方は大規模に開発されるだろう。It seems the rural area will be developed on a large scale."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. civilian society Obsolete term, Imperial Japanese Army jargon"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "4. Jikata "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. district; region; area; locality 彼は今年の夏、東北地方を旅行した。He traveled through the Tohoku district this summer."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. the country; countryside; the provinces; rural area See also 中央その地方は大規模に開発されるだろう。It seems the rural area will be developed on a large scale."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. civilian society Obsolete term, Imperial Japanese Army jargon"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "4. Jikata "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "今年",
+                            "ことし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "夏",
+                            "なつ"
+                        ],
+                        [
+                            "東北",
+                            "とうほく"
+                        ],
+                        [
+                            "地方",
+                            "ちほう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "旅行",
+                            "りょこう"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "He traveled through the Tohoku district this summer."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "地方",
+                            "ちほう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "大規模に",
+                            "だいきぼ"
+                        ],
+                        [
+                            "開発",
+                            "かいはつ"
+                        ],
+                        [
+                            "される",
+                            null
+                        ],
+                        [
+                            "だろう",
+                            null
+                        ]
+                    ],
+                    "translation": "It seems the rural area will be developed on a large scale."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (social) position; status; standing 高級車は地位の象徴である。An expensive car is a status symbol."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. position (in a company, organization, etc.); post; rank 彼は会社で高い地位にあります。He holds a high position at the company."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (social) position; status; standing 高級車は地位の象徴である。An expensive car is a status symbol."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. position (in a company, organization, etc.); post; rank 彼は会社で高い地位にあります。He holds a high position at the company."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "高級車",
+                            "こうきゅうしゃ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "地位",
+                            "ちい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "象徴",
+                            "しょうちょう"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "An expensive car is a status symbol."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "会社",
+                            "かいしゃ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "高い",
+                            "たか"
+                        ],
+                        [
+                            "地位",
+                            "ちい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "あります",
+                            null
+                        ]
+                    ],
+                    "translation": "He holds a high position at the company."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "区",
+                    "く"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. district; section; sector "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. district; section; sector "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "点",
+                    "てん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spot; point; place; position "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "帯",
+                    "たい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. zone; area; belt; region "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "じ"
+                ],
+                [
+                    "味",
+                    "み"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. plain; simple; subdued; sober Antonym: 派手僕的にはもっと地味ってか渋い服が欲しいんですけどね。For my tastes, I'd prefer plainer, or rather, more tasteful clothing."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. reserved (behaviour, attitude, etc.); modest; quiet; unobtrusive 彼女は地味な色を好む。She favors quiet colors."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. quite; a (little) bit Colloquial, as 地味に"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "僕",
+                            "ぼく"
+                        ],
+                        [
+                            "的に",
+                            "てき"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "もっと",
+                            null
+                        ],
+                        [
+                            "地味",
+                            "じみ"
+                        ],
+                        [
+                            "ってか",
+                            null
+                        ],
+                        [
+                            "渋い",
+                            "しぶ"
+                        ],
+                        [
+                            "服",
+                            "ふく"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "欲しい",
+                            "ほ"
+                        ],
+                        [
+                            "んです",
+                            null
+                        ],
+                        [
+                            "けど",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "For my tastes, I'd prefer plainer, or rather, more tasteful clothing."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "地味な",
+                            "じみ"
+                        ],
+                        [
+                            "色",
+                            "いろ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "好む",
+                            "この"
+                        ]
+                    ],
+                    "translation": "She favors quiet colors."
+                }
+            ]
+        },
+        {
+            "word": [
+                "地",
+                "こおち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Koochi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "地",
+                "しょうち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Shouchi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "地",
+                "ち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Chi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "置",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. place; position; location 彼の事務所は町の中心部に位置している。His office is located in the center of the town."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. position; standing; status; situation その位置に誰を選ぶか考えがありますか。Do you have any idea who we should single out for the position?"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Position (vector) In geometry, a \"position\", \"location\", or \"radius vector\"... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "位地 【いち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "位地: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "事務所",
+                            "じむしょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "町",
+                            "まち"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "中心部",
+                            "ちゅうしんぶ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "位置",
+                            "いち"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "His office is located in the center of the town."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "位置",
+                            "いち"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "誰",
+                            "だれ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "選ぶ",
+                            "えら"
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "考え",
+                            "かんが"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あります",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Do you have any idea who we should single out for the position?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "遊",
+                    "ゆう"
+                ],
+                [
+                    "園",
+                    "えん"
+                ],
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. amusement park "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Yuuenchi "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Amusement park Amusement and theme parks are terms for a group of entert... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "植",
+                    "しょく"
+                ],
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. colony 数年後、ヨーロッパ人たちは沿岸の植民地に住み着いた。Years later, Europeans established colonies in the coastal areas."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (Japanese) settlement (in Brazil) Brazilianその習慣を彼は植民地時代から始まると推定している。He dates the custom from the colonial days."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Colony In politics and history, a colony is a territory under th... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "殖民地 【しょくみんち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "殖民地: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "数年",
+                            "すうねん"
+                        ],
+                        [
+                            "後",
+                            "あと"
+                        ],
+                        [
+                            "ヨーロッパ",
+                            null
+                        ],
+                        [
+                            "人たち",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "沿岸",
+                            "えんがん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "植民地",
+                            "しょくみんち"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "住み着いた",
+                            "すみつ"
+                        ]
+                    ],
+                    "translation": "Years later, Europeans established colonies in the coastal areas."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "習慣",
+                            "しゅうかん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "植民地",
+                            "しょくみんち"
+                        ],
+                        [
+                            "時代",
+                            "じだい"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "始まる",
+                            "はじ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "推定",
+                            "すいてい"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "He dates the custom from the colonial days."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "墓",
+                    "ぼ"
+                ],
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cemetery; graveyard "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cemetery A cemetery is a spatially defined area where the remains ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "墓地 【はかち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "農",
+                    "のう"
+                ],
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. agricultural land; farmland "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Arable land In geography and agriculture, arable land is land that ca... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "土",
+                    "と"
+                ],
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. plot of land; lot; soil "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. locality; region; place "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "土地 【どおじ】、土地 【どじ】、土地 【どち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "どおじ: Out-dated or obsolete kana usage. どじ: Out-dated or obsolete kana usage. どち: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "市営墓地",
+                "しえいぼち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Shiei Cemetery "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

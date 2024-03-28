@@ -1,0 +1,1635 @@
+{
+    "kanji": "食",
+    "grade": 2,
+    "jlpt": 5,
+    "meanings": [
+        "eat",
+        "food"
+    ],
+    "kun": [
+        "く.う",
+        "く.らう",
+        "た.べる",
+        "は.む"
+    ],
+    "on": [
+        "ショク",
+        "ジキ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.48394495412844035,
+            0.0963302752293578,
+            "c",
+            0.0010091743119266055,
+            0.008990825688073394,
+            -0.0017431192660550458,
+            0.024495412844036696,
+            -0.008899082568807339,
+            0.03605504587155964,
+            "C",
+            0.41284403669724773,
+            0.2324770642201835,
+            0.29128440366972475,
+            0.37788990825688074,
+            0.12844036697247707,
+            0.4724770642201835
+        ],
+        [
+            "M",
+            0.48394495412844035,
+            0.14908256880733944,
+            "c",
+            0.046697247706422015,
+            0.04403669724770642,
+            0.23587155963302753,
+            0.17990825688073395,
+            0.30917431192660555,
+            0.22844036697247705,
+            "c",
+            0.024587155963302753,
+            0.0163302752293578,
+            0.04926605504587156,
+            0.025596330275229357,
+            0.07844036697247707,
+            0.030733944954128442
+        ],
+        [
+            "M",
+            0.4793577981651376,
+            0.268348623853211,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.013761467889908258,
+            0.020642201834862386,
+            0.013761467889908258,
+            0.03211009174311927,
+            "c",
+            0,
+            0.01834862385321101,
+            0,
+            0.027522935779816515,
+            0,
+            0.05045871559633028
+        ],
+        [
+            "M",
+            0.3486238532110092,
+            0.3669724770642202,
+            "c",
+            0.0076146788990825685,
+            0.004311926605504587,
+            0.020091743119266054,
+            0.009174311926605505,
+            0.03541284403669725,
+            0.0076146788990825685,
+            "c",
+            0.08614678899082569,
+            -0.008807339449541284,
+            0.20137614678899082,
+            -0.02532110091743119,
+            0.21330275229357798,
+            -0.026055045871559632,
+            "c",
+            0.015321100917431192,
+            -0.0009174311926605505,
+            0.028807339449541284,
+            0.008073394495412844,
+            0.02853211009174312,
+            0.023211009174311924,
+            "C",
+            0.6256880733944954,
+            0.38348623853211006,
+            0.6146788990825688,
+            0.48853211009174313,
+            0.6086238532110092,
+            0.5724770642201835,
+            "c",
+            -0.0006422018348623854,
+            0.008623853211009174,
+            -0.0011926605504587156,
+            0.012477064220183487,
+            -0.0011926605504587156,
+            0.018256880733944953
+        ],
+        [
+            "M",
+            0.3745871559633027,
+            0.4745871559633027,
+            "C",
+            0.4334862385321101,
+            0.4701834862385321,
+            0.5458715596330275,
+            0.45871559633027525,
+            0.6055045871559633,
+            0.45642201834862384
+        ],
+        [
+            "M",
+            0.37330275229357796,
+            0.5862385321100917,
+            "c",
+            0.06458715596330275,
+            -0.0047706422018348625,
+            0.1518348623853211,
+            -0.014862385321100919,
+            0.22568807339449543,
+            -0.01871559633027523
+        ],
+        [
+            "M",
+            0.35091743119266056,
+            0.36926605504587157,
+            "c",
+            0.010275229357798166,
+            0.010275229357798166,
+            0.013761467889908258,
+            0.024036697247706424,
+            0.013761467889908258,
+            0.03669724770642202,
+            "c",
+            0,
+            0.08366972477064219,
+            0,
+            0.40018348623853206,
+            0,
+            0.4334862385321101,
+            "c",
+            0,
+            0.03669724770642202,
+            0.009174311926605505,
+            0.04477064220183486,
+            0.03779816513761468,
+            0.02642201834862385,
+            "c",
+            0.02688073394495413,
+            -0.017155963302752295,
+            0.06192660550458716,
+            -0.0481651376146789,
+            0.0998165137614679,
+            -0.07688073394495414
+        ],
+        [
+            "M",
+            0.6788990825688074,
+            0.5871559633027523,
+            "c",
+            0.0022935779816513763,
+            0.011467889908256881,
+            0.0008256880733944953,
+            0.023577981651376145,
+            -0.006880733944954129,
+            0.03211009174311927,
+            "c",
+            -0.03211009174311927,
+            0.035596330275229356,
+            -0.04128440366972477,
+            0.04477064220183486,
+            -0.06651376146788991,
+            0.06880733944954129
+        ],
+        [
+            "M",
+            0.4724770642201835,
+            0.6513761467889908,
+            "C",
+            0.5114678899082569,
+            0.6513761467889908,
+            0.7064220183486238,
+            0.8256880733944955,
+            0.7431192660550459,
+            0.8509174311926605,
+            "c",
+            0.02284403669724771,
+            0.015688073394495412,
+            0.04238532110091743,
+            0.024036697247706424,
+            0.06880733944954129,
+            0.03211009174311927
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. food; foodstuff "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. eating; appetite Only applies to しょく"
+                },
+                {
+                    "type": "Noun, Counter",
+                    "meaning": "3. meal; portion Only applies to しょくあのレストランは毎日二千食準備している。That restaurant prepares two thousand meals every day."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "食 【じき】、食 【し】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "じき: Out-dated or obsolete kana usage. し: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. eclipse (solar, lunar, etc.); occultation Astronomy"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "蝕 【しょく】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あの",
+                            null
+                        ],
+                        [
+                            "レストラン",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "毎日",
+                            "まいにち"
+                        ],
+                        [
+                            "二",
+                            "に"
+                        ],
+                        [
+                            "千",
+                            "せん"
+                        ],
+                        [
+                            "食",
+                            "しょく"
+                        ],
+                        [
+                            "準備",
+                            "じゅんび"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "That restaurant prepares two thousand meals every day."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "堂",
+                    "どう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dining room; dining hall; cafeteria; canteen; messroom 私達の家は食堂を含めて７部屋あります。Our house has seven rooms including the dining room."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. restaurant; eatery; snack bar; diner 私は角を曲がって、開店早々の食堂を見つけた。I turned the corner and caught sight of a newly opened restaurant."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Dining room A dining room is a room for consuming food. In modern tim... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. dining room; dining hall; cafeteria; canteen; messroom 私達の家は食堂を含めて７部屋あります。Our house has seven rooms including the dining room."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. restaurant; eatery; snack bar; diner 私は角を曲がって、開店早々の食堂を見つけた。I turned the corner and caught sight of a newly opened restaurant."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Dining room A dining room is a room for consuming food. In modern tim... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私達",
+                            "わたし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "家",
+                            "いえ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "食堂",
+                            "しょくどう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "含めて",
+                            "ふく"
+                        ],
+                        [
+                            "部屋",
+                            "へや"
+                        ],
+                        [
+                            "あります",
+                            null
+                        ]
+                    ],
+                    "translation": "Our house has seven rooms including the dining room."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "角",
+                            "かど"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "曲がって",
+                            "ま"
+                        ],
+                        [
+                            "開店",
+                            "かいてん"
+                        ],
+                        [
+                            "早々",
+                            "そうそう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "食堂",
+                            "しょくどう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "見つけた",
+                            "み"
+                        ]
+                    ],
+                    "translation": "I turned the corner and caught sight of a newly opened restaurant."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. meal; dinner あなたのロボットは食事の支度、掃除、皿洗いその他の家事ができるでしょう。Your robot will prepare meals, clean, wash dishes, and perform other household tasks."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. diet 彼女はやせるために食事を制限した。She went on a reducing diet."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Meal For the coarsely ground flour, see flour. Part of a serie... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. meal; dinner あなたのロボットは食事の支度、掃除、皿洗いその他の家事ができるでしょう。Your robot will prepare meals, clean, wash dishes, and perform other household tasks."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. diet 彼女はやせるために食事を制限した。She went on a reducing diet."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Meal For the coarsely ground flour, see flour. Part of a serie... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ロボット",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "食事",
+                            "しょくじ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "支度",
+                            "したく"
+                        ],
+                        [
+                            "掃除",
+                            "そうじ"
+                        ],
+                        [
+                            "皿洗い",
+                            "さらあら"
+                        ],
+                        [
+                            "その他",
+                            "そのほか"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "家事",
+                            "かじ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "できる",
+                            null
+                        ],
+                        [
+                            "でしょう",
+                            null
+                        ]
+                    ],
+                    "translation": "Your robot will prepare meals, clean, wash dishes, and perform other household tasks."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "やせる",
+                            null
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "食事",
+                            "しょくじ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "制限",
+                            "せいげん"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "She went on a reducing diet."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "欲",
+                    "よく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. appetite (for food) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Appetite Appetite is the desire to eat food, felt as hunger. Appet... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "食慾 【しょくよく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "食慾: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. appetite (for food) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Appetite Appetite is the desire to eat food, felt as hunger. Appet... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "食慾 【しょくよく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "食慾: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "品",
+                    "ひん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. food; food products; foodstuffs "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Food Food is any substance consumed to provide nutritional sup... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. food; food products; foodstuffs "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Food Food is any substance consumed to provide nutritional sup... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "た"
+                ],
+                [
+                    "べ",
+                    null
+                ],
+                [
+                    "物",
+                    "もの"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. food "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "食べもの 【たべもの】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. food "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "食べもの 【たべもの】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "た"
+                ],
+                [
+                    "べ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to eat もっと果物を食べるべきです。You should eat more fruit."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to live on (e.g. a salary); to live off; to subsist on 僕は脚本家で食べていく決心をした。I am determined to make a living as a playwright."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喰べる 【たべる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "喰べる: Irregular kanji usage."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to eat もっと果物を食べるべきです。You should eat more fruit."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to live on (e.g. a salary); to live off; to subsist on 僕は脚本家で食べていく決心をした。I am determined to make a living as a playwright."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喰べる 【たべる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "喰べる: Irregular kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "もっと",
+                            null
+                        ],
+                        [
+                            "果物",
+                            "くだもの"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "食べる",
+                            "た"
+                        ],
+                        [
+                            "べき",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "You should eat more fruit."
+                },
+                {
+                    "sentence": [
+                        [
+                            "僕",
+                            "ぼく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "脚本家",
+                            "きゃくほんか"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "食べて",
+                            "た"
+                        ],
+                        [
+                            "いく",
+                            null
+                        ],
+                        [
+                            "決心",
+                            "けっしん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "I am determined to make a living as a playwright."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "料",
+                    "りょう"
+                ],
+                [
+                    "品",
+                    "ひん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. foodstuff; groceries "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. foodstuff; groceries "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "料",
+                    "りょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. food "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. food "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "物",
+                    "もつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. food; foodstuff "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. food; foodstuff "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "卓",
+                    "たく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. dining table "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. dining table "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "糧",
+                    "りょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. food (esp. staple food such as rice or wheat); provisions; rations; food supply "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. food (esp. staple food such as rice or wheat); provisions; rations; food supply "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "く"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to eat Male term or languageお腹を空かせたその男は、食物をむさぼり食った。The starving man devoured the food."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to live; to make a living; to survive "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "3. to bite; to sting (as insects do) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "4. to tease; to torment; to taunt; to make light of; to make fun of "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "5. to encroach on; to eat into; to consume "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "6. to defeat a superior; to threaten a position "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "7. to consume time and-or resources この事業は金を食う。This job eats money."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "8. to receive something (usu. an unfavourable event) Colloquial主人に大目玉を食った。The boss bawled me out."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "9. to have sexual relations with a woman, esp. for the first time Male term or language, Vulgar expression or word"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喰う 【くう】、啖う 【くう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "啖う: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to eat Male term or languageお腹を空かせたその男は、食物をむさぼり食った。The starving man devoured the food."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to live; to make a living; to survive "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "3. to bite; to sting (as insects do) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "4. to tease; to torment; to taunt; to make light of; to make fun of "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "5. to encroach on; to eat into; to consume "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "6. to defeat a superior; to threaten a position "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "7. to consume time and-or resources この事業は金を食う。This job eats money."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "8. to receive something (usu. an unfavourable event) Colloquial主人に大目玉を食った。The boss bawled me out."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "9. to have sexual relations with a woman, esp. for the first time Male term or language, Vulgar expression or word"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喰う 【くう】、啖う 【くう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "啖う: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "お腹を空かせた",
+                            "おなかをす"
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "男",
+                            "おとこ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "食物",
+                            "しょくもつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "むさぼり",
+                            null
+                        ],
+                        [
+                            "食った",
+                            "く"
+                        ]
+                    ],
+                    "translation": "The starving man devoured the food."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "事業",
+                            "じぎょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "金",
+                            "かね"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "食う",
+                            "く"
+                        ]
+                    ],
+                    "translation": "This job eats money."
+                },
+                {
+                    "sentence": [
+                        [
+                            "主人",
+                            "しゅじん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "大目玉",
+                            "おおめだま"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "食った",
+                            "く"
+                        ]
+                    ],
+                    "translation": "The boss bawled me out."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょっき"
+                ],
+                [
+                    "器",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tableware "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. tableware "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "塩",
+                    "えん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. table salt "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. table salt "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "く"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "違",
+                    "ちが"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to not match well (e.g. at the seams); to not mesh properly (of gears) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "2. to differ (e.g. of opinions); to clash; to be in conflict (e.g. with the facts); to run counter (to); to be inconsistent (with); to be contradictory 私たちの意見が食い違うのはこの点です。It is on this point that our opinions differ."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "食違う 【くいちがう】"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to not match well (e.g. at the seams); to not mesh properly (of gears) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "2. to differ (e.g. of opinions); to clash; to be in conflict (e.g. with the facts); to run counter (to); to be inconsistent (with); to be contradictory 私たちの意見が食い違うのはこの点です。It is on this point that our opinions differ."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "食違う 【くいちがう】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私たち",
+                            "わたし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "意見",
+                            "いけん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "食い違う",
+                            "くいちが"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "点",
+                            "てん"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "It is on this point that our opinions differ."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "毒",
+                    "どく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. food poisoning "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Foodborne illness ıFood safety 150pxTerms Foodborne illness Hazard Analysis... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "材",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. foodstuff; ingredient 来る途中、お店に寄って食材を買って来たんです。備えあれば憂いなし、です。On the way we dropped in at the shops and bought foodstuffs. They say well prepared means no worries."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ingredient An ingredient is a substance that forms part of a mixture... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "来る",
+                            "きた"
+                        ],
+                        [
+                            "途中",
+                            "とちゅう"
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "店",
+                            "みせ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "寄って",
+                            "よ"
+                        ],
+                        [
+                            "食材",
+                            "しょくざい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "買って",
+                            "か"
+                        ],
+                        [
+                            "来た",
+                            "き"
+                        ],
+                        [
+                            "んです",
+                            null
+                        ],
+                        [
+                            "備えあれば憂いなし",
+                            "そなえあればうれ"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "On the way we dropped in at the shops and bought foodstuffs. They say well prepared means no worries."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "1. to adhere to; to stick to; to cling to Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "2. to keep close to; to go along with Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "3. to get involved with; to be thick with; to become intimate Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "食っ付く 【くっつく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "食と緑博覧会",
+                "しょくとみどりはくらんかい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Shokutomidorihakurankai "
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "1. National Food Processors Association; NFPA "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Shokuhindanchi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch; midday meal 彼は今昼食を取っているところです。He is having lunch now."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. food served at a tea party (tea ceremony) usu. 中食"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Lunch Luncheon, commonly abbreviated to lunch, is a middle of t... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼食 【ちゅうじき】、中食 【ちゅうじき】、昼食 【ひるげ】、昼餉 【ひるげ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "今",
+                            "いま"
+                        ],
+                        [
+                            "昼食",
+                            "ちゅうしょく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取っている",
+                            "と"
+                        ],
+                        [
+                            "ところ",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "He is having lunch now."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "主",
+                    "しゅ"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. staple food "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Staple food A staple food is one that is eaten regularly and in such ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "給",
+                    "きゅう"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. provision of lunch (e.g. at office, school, etc.); providing a meal; lunch service See also 学校給食 がっこうきゅうしょく"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. School meal A school meal is a meal, typically lunch, that is served ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. set meal; special (of the day) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Table d'hôte Table d'hôte is a French loan phrase that literally means... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "衣",
+                    "い"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "住",
+                    "じゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. food, clothing and shelter; necessities of life "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

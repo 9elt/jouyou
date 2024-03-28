@@ -1,0 +1,1657 @@
+{
+    "kanji": "集",
+    "grade": 3,
+    "jlpt": 4,
+    "meanings": [
+        "gather",
+        "meet",
+        "congregate",
+        "swarm",
+        "flock"
+    ],
+    "kun": [
+        "あつ.まる",
+        "あつ.める",
+        "つど.う"
+    ],
+    "on": [
+        "シュウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.3497247706422018,
+            0.09174311926605505,
+            "c",
+            0.001559633027522936,
+            0.011926605504587157,
+            -0.00045871559633027525,
+            0.027614678899082565,
+            -0.005596330275229358,
+            0.03779816513761468,
+            "c",
+            -0.0326605504587156,
+            0.06522935779816515,
+            -0.07412844036697248,
+            0.12045871559633028,
+            -0.14899082568807337,
+            0.19990825688073394
+        ],
+        [
+            "M",
+            0.29834862385321104,
+            0.22550458715596328,
+            "c",
+            0.006972477064220183,
+            0.006972477064220183,
+            0.011467889908256881,
+            0.015321100917431192,
+            0.011467889908256881,
+            0.027981651376146787,
+            "c",
+            0,
+            0.059816513761467884,
+            0.0011926605504587156,
+            0.18807339449541285,
+            0.0017431192660550458,
+            0.26376146788990823,
+            "c",
+            0.0001834862385321101,
+            0.021743119266055048,
+            0.0002752293577981651,
+            0.039174311926605504,
+            0.0002752293577981651,
+            0.04935779816513761
+        ],
+        [
+            "M",
+            0.5370642201834862,
+            0.08027522935779817,
+            "c",
+            0.0006422018348623854,
+            0.008899082568807339,
+            -0.0006422018348623854,
+            0.017431192660550456,
+            -0.0032110091743119264,
+            0.02587155963302752,
+            "c",
+            -0.010458715596330274,
+            0.034128440366972476,
+            -0.023944954128440367,
+            0.06174311926605505,
+            -0.04743119266055046,
+            0.10412844036697247
+        ],
+        [
+            "M",
+            0.3156880733944954,
+            0.23311926605504588,
+            "c",
+            0.059908256880733944,
+            -0.005321100917431192,
+            0.2713761467889908,
+            -0.02688073394495413,
+            0.37376146788990827,
+            -0.036146788990825685,
+            "c",
+            0.025596330275229357,
+            -0.0022935779816513763,
+            0.04376146788990825,
+            -0.004036697247706422,
+            0.05018348623853211,
+            -0.0047706422018348625
+        ],
+        [
+            "M",
+            0.48385321100917433,
+            0.23082568807339449,
+            "c",
+            0.011926605504587157,
+            0.011926605504587157,
+            0.013394495412844036,
+            0.027155963302752294,
+            0.013394495412844036,
+            0.040458715596330276,
+            "c",
+            0,
+            0.04559633027522936,
+            0.0005504587155963302,
+            0.16220183486238532,
+            0.0005504587155963302,
+            0.23458715596330276
+        ],
+        [
+            "M",
+            0.31981651376146786,
+            0.3311009174311927,
+            "c",
+            0.05559633027522935,
+            -0.004311926605504587,
+            0.2413761467889908,
+            -0.019357798165137614,
+            0.3327522935779817,
+            -0.02706422018348624,
+            "c",
+            0.024770642201834864,
+            -0.0021100917431192663,
+            0.04256880733944954,
+            -0.003577981651376147,
+            0.049082568807339445,
+            -0.004220183486238533
+        ],
+        [
+            "M",
+            0.32045871559633027,
+            0.4281651376146789,
+            "c",
+            0.061467889908256884,
+            -0.003853211009174312,
+            0.25532110091743115,
+            -0.020275229357798165,
+            0.34238532110091746,
+            -0.02724770642201835,
+            "c",
+            0.018440366972477064,
+            -0.0014678899082568807,
+            0.031743119266055046,
+            -0.0025688073394495416,
+            0.0373394495412844,
+            -0.003027522935779817
+        ],
+        [
+            "M",
+            0.32174311926605503,
+            0.5280733944954129,
+            "c",
+            0.06045871559633027,
+            -0.005321100917431192,
+            0.29844036697247706,
+            -0.022110091743119266,
+            0.40440366972477065,
+            -0.030275229357798163,
+            "c",
+            0.025137614678899085,
+            -0.001926605504587156,
+            0.042844036697247706,
+            -0.0033944954128440367,
+            0.04899082568807339,
+            -0.004036697247706422
+        ],
+        [
+            "M",
+            0.13073394495412843,
+            0.6559633027522935,
+            "c",
+            0.02981651376146789,
+            0.005688073394495413,
+            0.06944954128440367,
+            0.004220183486238533,
+            0.09990825688073394,
+            0.0014678899082568807,
+            "C",
+            0.40018348623853206,
+            0.6422018348623854,
+            0.6146788990825688,
+            0.6261467889908257,
+            0.7831192660550459,
+            0.619816513761468,
+            "c",
+            0.0263302752293578,
+            -0.0010091743119266055,
+            0.05788990825688073,
+            -0.0003669724770642202,
+            0.08385321100917431,
+            0.004036697247706422
+        ],
+        [
+            "M",
+            0.48623853211009177,
+            0.5344036697247706,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.013761467889908258,
+            0.0218348623853211,
+            0.013761467889908258,
+            0.03211009174311927,
+            "c",
+            0,
+            0.0076146788990825685,
+            0,
+            0.2026605504587156,
+            0,
+            0.30963302752293576,
+            "c",
+            0,
+            0.0255045871559633,
+            0,
+            0.03743119266055046,
+            0,
+            0.05045871559633028
+        ],
+        [
+            "M",
+            0.4724770642201835,
+            0.6482568807339449,
+            "c",
+            0,
+            0.007706422018348624,
+            -0.005504587155963302,
+            0.017706422018348624,
+            -0.011467889908256881,
+            0.024587155963302753,
+            "c",
+            -0.06577981651376147,
+            0.07587155963302752,
+            -0.19798165137614676,
+            0.16972477064220184,
+            -0.3073394495412844,
+            0.2101834862385321
+        ],
+        [
+            "M",
+            0.518348623853211,
+            0.6536697247706422,
+            "c",
+            0.0510091743119266,
+            0.04385321100917432,
+            0.16807339449541284,
+            0.12568807339449542,
+            0.2506422018348624,
+            0.1726605504587156,
+            "c",
+            0.025596330275229357,
+            0.014495412844036697,
+            0.04981651376146789,
+            0.03,
+            0.0773394495412844,
+            0.03715596330275229
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "1. collection; compilation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "団",
+                    "だん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. group; mass "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Shuudan "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Crowd This article refers to the general phenomenon of crowds. ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. group; mass "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Shuudan "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Crowd This article refers to the general phenomenon of crowds. ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "合",
+                    "ごう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. meeting up; gathering; assembly 隊長は部下に直ちに集合するように命令した。The captain ordered his men to gather at once."
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. set Mathematics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Set (mathematics) A set is a collection of well defined and distinct object... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. meeting up; gathering; assembly 隊長は部下に直ちに集合するように命令した。The captain ordered his men to gather at once."
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. set Mathematics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Set (mathematics) A set is a collection of well defined and distinct object... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "隊長",
+                            "たいちょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "部下",
+                            "ぶか"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "直ちに",
+                            "ただ"
+                        ],
+                        [
+                            "集合",
+                            "しゅうごう"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "ように",
+                            null
+                        ],
+                        [
+                            "命令",
+                            "めいれい"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "The captain ordered his men to gather at once."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "あつ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to collect; to assemble; to gather "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to collect; to assemble; to gather "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "あつ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to gather; to collect; to assemble "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "集る 【あつまる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "集る: Irregular okurigana usage."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to gather; to collect; to assemble "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "集る 【あつまる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "集る: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "中",
+                    "ちゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. concentration (on a task); focusing one's attention 私は読書に集中していた。I was concentrating on reading."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. concentration (of population, buildings, power, etc.); centralization; convergence; focus (of a debate, questions, etc.) 彼の仕事の大半が都市部に集中している。The bulk of his work is in the urban area."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. within a collection of works "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. concentration (on a task); focusing one's attention 私は読書に集中していた。I was concentrating on reading."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. concentration (of population, buildings, power, etc.); centralization; convergence; focus (of a debate, questions, etc.) 彼の仕事の大半が都市部に集中している。The bulk of his work is in the urban area."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. within a collection of works "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "読書",
+                            "どくしょ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "集中",
+                            "しゅうちゅう"
+                        ],
+                        [
+                            "していた",
+                            null
+                        ]
+                    ],
+                    "translation": "I was concentrating on reading."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "仕事の",
+                            "しごと"
+                        ],
+                        [
+                            "大半",
+                            "たいはん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "都市部",
+                            "としぶ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "集中",
+                            "しゅうちゅう"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "The bulk of his work is in the urban area."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "あつ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gathering; meeting; assembly; collection; attendance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "集り 【あつまり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "集り: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. gathering; meeting; assembly; collection; attendance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "集り 【あつまり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "集り: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. meeting; assembly; gathering; congregation; convention; rally "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. meeting; assembly; gathering; congregation; convention; rally "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "計",
+                    "けい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. totalization; totalisation; aggregation; tally (e.g. of votes); adding up; summing up "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. totalization; totalisation; aggregation; tally (e.g. of votes); adding up; summing up "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (powers of) concentration; ability to concentrate "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Alertness Alertness is the state of paying close and continuous att... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (powers of) concentration; ability to concentrate "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Alertness Alertness is the state of paying close and continuous att... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "積",
+                    "せき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. accumulation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "収",
+                    "しゅう"
+                ],
+                [
+                    "録",
+                    "ろく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recording (in a book, the minutes, etc.); printing; including 完成した本のコピーを１部送っていただくという条件で、私どものソフトウエアを収録することを許可します。You have our permission to include our software on condition that you send us a copy of the final product."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. recording (audio or video) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "完成",
+                            "かんせい"
+                        ],
+                        [
+                            "した",
+                            null
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "コピー",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "部",
+                            "ぶ"
+                        ],
+                        [
+                            "送って",
+                            "おく"
+                        ],
+                        [
+                            "いただく",
+                            null
+                        ],
+                        [
+                            "という",
+                            null
+                        ],
+                        [
+                            "条件",
+                            "じょうけん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "私ども",
+                            "わたくし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ソフトウエア",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "収録",
+                            "しゅうろく"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "許可",
+                            "きょか"
+                        ],
+                        [
+                            "します",
+                            null
+                        ]
+                    ],
+                    "translation": "You have our permission to include our software on condition that you send us a copy of the final product."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "約",
+                    "やく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. putting together (e.g. opinions); gathering; collecting; aggregating; summarizing; integrating 資本集約産業は必ずしも知識集約産業ではない。Capital-intensive industries are not necessarily knowledge-intensive industries."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "資本集約",
+                            "しほんしゅうやく"
+                        ],
+                        [
+                            "産業",
+                            "さんぎょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "必ずしも",
+                            "かなら"
+                        ],
+                        [
+                            "知識",
+                            "ちしき"
+                        ],
+                        [
+                            "集約",
+                            "しゅうやく"
+                        ],
+                        [
+                            "産業",
+                            "さんぎょう"
+                        ],
+                        [
+                            "ではない",
+                            null
+                        ]
+                    ],
+                    "translation": "Capital-intensive industries are not necessarily knowledge-intensive industries."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "たか"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to gather; to crowd round; to swarm; to flock Usually written using kana alone捨てられたアイスのまわりにアリがウヨウヨたかっていた。The area around the melting ice cream was crawling with ants."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to sponge (off someone); to scrounge; to pester (someone for something); to bum; to cadge Usually written using kana alone彼は働かないで親類にたかることばかり考えている。He doesn't work, but only thinks of sponging off his relatives."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to extort; to take (money) through intimidation Usually written using kana alone"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "捨てられた",
+                            "す"
+                        ],
+                        [
+                            "アイス",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "まわり",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "アリ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ウヨウヨ",
+                            null
+                        ],
+                        [
+                            "たかっていた",
+                            null
+                        ]
+                    ],
+                    "translation": "The area around the melting ice cream was crawling with ants."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "働かないで",
+                            "はたら"
+                        ],
+                        [
+                            "親類",
+                            "しんるい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "たかる",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "ばかり",
+                            null
+                        ],
+                        [
+                            "考えている",
+                            "かんがえ"
+                        ]
+                    ],
+                    "translation": "He doesn't work, but only thinks of sponging off his relatives."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "結",
+                    "けつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. massing (of troops); gathering "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "つど"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to meet; to assemble; to congregate "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "金",
+                    "きん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. money collection "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "あつ"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suffix",
+                    "meaning": "1. collecting; assembling 彼女はアシスタントたちに証拠集めに取り掛かってもらった。She put her assistants to work assembling evidence."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "アシスタント",
+                            null
+                        ],
+                        [
+                            "たち",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "証拠",
+                            "しょうこ"
+                        ],
+                        [
+                            "集め",
+                            "あつ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "取り掛かって",
+                            "とりか"
+                        ],
+                        [
+                            "もらった",
+                            null
+                        ]
+                    ],
+                    "translation": "She put her assistants to work assembling evidence."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "団",
+                    "だん"
+                ],
+                [
+                    "登",
+                    "とう"
+                ],
+                [
+                    "校",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. going to school in groups "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "落",
+                    "らく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. settlement; village; community; town "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (bacterial) colony Biology, Only applies to しゅうらく"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Human settlement A settlement is a general term used in archaeology, geogr... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "聚落 【しゅうらく】、聚落 【じゅらく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "集",
+                "あい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Ai "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Atsumari "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Atsumaru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "編",
+                    "へん"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. editing; compilation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Editing Editing is the process of selecting and preparing written... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "編修 【へんしゅう】、編輯 【へんしゅう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "編修: Rarely-used kanji form. 編輯: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "全",
+                    "ぜん"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. complete works; complete collection; complete series "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "募",
+                    "ぼ"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recruitment; invitation; selection; advertisement; taking applications "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. raising (funds, donations, etc.); collection; subscription; solicitation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. flotation (of shares, loans, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "収",
+                    "しゅう"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. collecting; accumulating; gathering 情報を収集しなければならない。We have to gather information."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. collection (of art, stamps, insects, etc.) 私の趣味は外国切手を収集することです。My hobby is collecting foreign stamps."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. garbage collection; waste collection Only applies to 収集私たちのゴミは週３回収集されます。Our garbage is collected three times a week."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "蒐集 【しゅうしゅう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "蒐集: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "情報",
+                            "じょうほう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "収集",
+                            "しゅうしゅう"
+                        ],
+                        [
+                            "し",
+                            null
+                        ],
+                        [
+                            "なければならない",
+                            null
+                        ]
+                    ],
+                    "translation": "We have to gather information."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "趣味",
+                            "しゅみ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "外国",
+                            "がいこく"
+                        ],
+                        [
+                            "切手",
+                            "きって"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "収集",
+                            "しゅうしゅう"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "My hobby is collecting foreign stamps."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私たち",
+                            "わたし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ゴミ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "週",
+                            "しゅう"
+                        ],
+                        [
+                            "回",
+                            "かい"
+                        ],
+                        [
+                            "収集",
+                            "しゅうしゅう"
+                        ],
+                        [
+                            "されます",
+                            null
+                        ]
+                    ],
+                    "translation": "Our garbage is collected three times a week."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "密",
+                    "みっ"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. crowding together; clustering together; close formation; swarm "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "特",
+                    "とく"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. feature (e.g. newspaper); special edition; report "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "特輯 【とくしゅう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "採",
+                    "さい"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. collecting; gathering "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "群",
+                    "ぐん"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. crowd; community; group; herd; gathering; assembly See also 群衆"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "群聚 【ぐんしゅう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "群聚: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "編",
+                    "へん"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. editor (in publishing, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Contributing editor A contributing editor is a magazine job title that varies... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "結",
+                    "けっ"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. concentration (of efforts, forces, etc.); gathering together; regimentation; marshalling; mobilization "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Buddhist councils Lists and numbering of Buddhist councils vary between and... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "召",
+                    "しょう"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. convening; calling together (e.g. parliament); call-up (for military service) "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

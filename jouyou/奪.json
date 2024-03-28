@@ -1,0 +1,1038 @@
+{
+    "kanji": "奪",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "rob",
+        "take by force",
+        "snatch away",
+        "dispossess",
+        "plunder",
+        "usurp"
+    ],
+    "kun": [
+        "うば.う"
+    ],
+    "on": [
+        "ダツ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1961467889908257,
+            0.18944954128440367,
+            "c",
+            0.027339449541284404,
+            0.007706422018348624,
+            0.052752293577981654,
+            0.006788990825688073,
+            0.08036697247706422,
+            0.0023853211009174312,
+            "c",
+            0.11,
+            -0.017522935779816513,
+            0.2671559633027523,
+            -0.0381651376146789,
+            0.3829357798165138,
+            -0.04715596330275229,
+            "c",
+            0.02834862385321101,
+            -0.002201834862385321,
+            0.05669724770642202,
+            -0.0021100917431192663,
+            0.08477064220183486,
+            0.004220183486238533
+        ],
+        [
+            "M",
+            0.4557798165137615,
+            0.08256880733944955,
+            "c",
+            0.0029357798165137615,
+            0.010275229357798166,
+            0.0013761467889908255,
+            0.019541284403669725,
+            -0.004036697247706422,
+            0.029541284403669727,
+            "C",
+            0.38183486238532105,
+            0.2420183486238532,
+            0.3038532110091743,
+            0.3521100917431193,
+            0.13302752293577982,
+            0.463302752293578
+        ],
+        [
+            "M",
+            0.4954128440366973,
+            0.16972477064220184,
+            "c",
+            0.05403669724770642,
+            0.03871559633027523,
+            0.16110091743119265,
+            0.12330275229357798,
+            0.24091743119266057,
+            0.17587155963302753,
+            "c",
+            0.024220183486238535,
+            0.015963302752293577,
+            0.05724770642201835,
+            0.036238532110091745,
+            0.09623853211009174,
+            0.05348623853211009
+        ],
+        [
+            "M",
+            0.3963302752293578,
+            0.3072477064220184,
+            "c",
+            0.0013761467889908255,
+            0.008256880733944955,
+            -0.0003669724770642202,
+            0.019174311926605504,
+            -0.0047706422018348625,
+            0.02651376146788991,
+            "c",
+            -0.027889908256880733,
+            0.04688073394495413,
+            -0.06330275229357799,
+            0.0871559633027523,
+            -0.12724770642201835,
+            0.14587155963302753
+        ],
+        [
+            "M",
+            0.3511009174311927,
+            0.40733944954128437,
+            "c",
+            0.006697247706422018,
+            0.006697247706422018,
+            0.006238532110091744,
+            0.014311926605504588,
+            0.006238532110091744,
+            0.023853211009174313,
+            "c",
+            0,
+            0.06311926605504586,
+            0.0002752293577981651,
+            0.10440366972477065,
+            0.0002752293577981651,
+            0.1651376146788991,
+            "c",
+            0,
+            0.025412844036697246,
+            -0.0005504587155963302,
+            0.0453211009174312,
+            0.0001834862385321101,
+            0.053302752293577976
+        ],
+        [
+            "M",
+            0.5280733944954129,
+            0.3019266055045871,
+            "c",
+            0.00045871559633027525,
+            0.004220183486238533,
+            -0.00009174311926605505,
+            0.009724770642201836,
+            -0.001559633027522936,
+            0.013486238532110091,
+            "c",
+            -0.006513761467889908,
+            0.01724770642201835,
+            -0.014220183486238533,
+            0.031743119266055046,
+            -0.02587155963302752,
+            0.049724770642201835
+        ],
+        [
+            "M",
+            0.3671559633027523,
+            0.40522935779816516,
+            "c",
+            0.04330275229357798,
+            -0.006146788990825688,
+            0.1748623853211009,
+            -0.023027522935779813,
+            0.24403669724770644,
+            -0.032018348623853214,
+            "c",
+            0.01908256880733945,
+            -0.002477064220183486,
+            0.032844036697247704,
+            -0.004311926605504587,
+            0.037981651376146786,
+            -0.005137614678899083
+        ],
+        [
+            "M",
+            0.4972477064220184,
+            0.4063302752293578,
+            "c",
+            0.0057798165137614675,
+            0.0057798165137614675,
+            0.00944954128440367,
+            0.012293577981651376,
+            0.00944954128440367,
+            0.021192660550458715,
+            "c",
+            0,
+            0.03275229357798165,
+            -0.0009174311926605505,
+            0.13412844036697247,
+            -0.0009174311926605505,
+            0.1643119266055046
+        ],
+        [
+            "M",
+            0.3699082568807339,
+            0.4715596330275229,
+            "c",
+            0.04,
+            -0.004862385321100918,
+            0.15889908256880733,
+            -0.018073394495412842,
+            0.22036697247706422,
+            -0.025137614678899085,
+            "c",
+            0.017614678899082567,
+            -0.002018348623853211,
+            0.03055045871559633,
+            -0.003577981651376147,
+            0.0355045871559633,
+            -0.004311926605504587
+        ],
+        [
+            "M",
+            0.36816513761467895,
+            0.5428440366972477,
+            "c",
+            0.041100917431192666,
+            -0.004403669724770642,
+            0.1573394495412844,
+            -0.01926605504587156,
+            0.2222935779816514,
+            -0.025137614678899085,
+            "c",
+            0.020091743119266054,
+            -0.001834862385321101,
+            0.03486238532110091,
+            -0.0032110091743119264,
+            0.04036697247706422,
+            -0.003853211009174312
+        ],
+        [
+            "M",
+            0.36587155963302753,
+            0.6139449541284404,
+            "c",
+            0.04422018348623853,
+            -0.005688073394495413,
+            0.208348623853211,
+            -0.02192660550458716,
+            0.2853211009174312,
+            -0.030091743119266053,
+            "c",
+            0.019724770642201832,
+            -0.0021100917431192663,
+            0.03376146788990826,
+            -0.003669724770642202,
+            0.038623853211009175,
+            -0.004403669724770642
+        ],
+        [
+            "M",
+            0.16174311926605503,
+            0.7147706422018348,
+            "c",
+            0.033211009174311926,
+            0.008899082568807339,
+            0.06669724770642202,
+            0.005137614678899083,
+            0.09504587155963302,
+            0.0013761467889908255,
+            "c",
+            0.15211009174311926,
+            -0.020458715596330276,
+            0.36146788990825685,
+            -0.038073394495412846,
+            0.5208256880733946,
+            -0.04559633027522936,
+            "c",
+            0.02926605504587156,
+            -0.0013761467889908255,
+            0.06302752293577982,
+            0.0003669724770642202,
+            0.08596330275229357,
+            0.006972477064220183
+        ],
+        [
+            "M",
+            0.6088073394495412,
+            0.6314678899082569,
+            "c",
+            0.006513761467889908,
+            0.006513761467889908,
+            0.010275229357798166,
+            0.017614678899082567,
+            0.010275229357798166,
+            0.03036697247706422,
+            "c",
+            0,
+            0.1291743119266055,
+            -0.0009174311926605505,
+            0.1863302752293578,
+            -0.0009174311926605505,
+            0.21770642201834864,
+            "c",
+            0,
+            0.07614678899082569,
+            -0.0436697247706422,
+            0.017064220183486238,
+            -0.05752293577981651,
+            0.007339449541284404
+        ],
+        [
+            "M",
+            0.3505504587155963,
+            0.764862385321101,
+            "c",
+            0.03155963302752293,
+            0.013761467889908258,
+            0.08155963302752293,
+            0.056605504587155964,
+            0.08944954128440367,
+            0.0779816513761468
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "奪",
+                    "うば"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of; to deprive of; to usurp "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to absorb (one's attention); to fascinate; to captivate; to charm; to dazzle as 心を〜, 目を〜, etc."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of; to deprive of; to usurp "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to absorb (one's attention); to fascinate; to captivate; to charm; to dazzle as 心を〜, 目を〜, etc."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "だっ"
+                ],
+                [
+                    "取",
+                    "しゅ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. usurpation; taking back; dispossession "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. usurpation; taking back; dispossession "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "うば"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to plunder; to grab; to snatch "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "奪いとる 【うばいとる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to plunder; to grab; to snatch "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "奪いとる 【うばいとる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "うば"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to scramble for; to struggle for; to contend for; to fight for "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to scramble for; to struggle for; to contend for; to fight for "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "だっ"
+                ],
+                [
+                    "回",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recovery; rescue; recapture "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recovery; rescue; recapture "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "だっ"
+                ],
+                [
+                    "還",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recapture; retaking; recovery; taking back "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recapture; retaking; recovery; taking back "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "だつ"
+                ],
+                [
+                    "三",
+                    "さん"
+                ],
+                [
+                    "振",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. striking a batter out "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. striking a batter out "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "うば"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. scramble (for) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. scramble (for) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "うば"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "去",
+                    "さ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending",
+                    "meaning": "1. to take away; to carry off "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending",
+                    "meaning": "1. to take away; to carry off "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "だっ"
+                ],
+                [
+                    "格",
+                    "かく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. ablative Grammar"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ablative case In linguistics, ablative case is a name given to cases in... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. ablative Grammar"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ablative case In linguistics, ablative case is a name given to cases in... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "だつ"
+                ],
+                [
+                    "三",
+                    "さん"
+                ],
+                [
+                    "振",
+                    "しん"
+                ],
+                [
+                    "王",
+                    "おう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (season's) record holder in (for) the most strike-outs "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "うば"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "返",
+                    "かえ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending",
+                    "meaning": "1. to take back; to recapture "
+                },
+                {
+                    "type": "Godan verb with 'su' ending",
+                    "meaning": "1. to take back; to recapture "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    "だつ"
+                ],
+                [
+                    "掠",
+                    "りゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. pillage; plunder "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "奪略 【だつりゃく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    null
+                ],
+                [
+                    "衣",
+                    null
+                ],
+                [
+                    "婆",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Datsue-ba is an old woman who sits at the edge of the Sanzu River i... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "奪",
+                    null
+                ],
+                [
+                    "還",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "D",
+                    null
+                ],
+                [
+                    "A",
+                    null
+                ],
+                [
+                    "K",
+                    null
+                ],
+                [
+                    "K",
+                    null
+                ],
+                [
+                    "A",
+                    null
+                ],
+                [
+                    "N",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "-",
+                    null
+                ],
+                [
+                    "ア",
+                    null
+                ],
+                [
+                    "ル",
+                    null
+                ],
+                [
+                    "カ",
+                    null
+                ],
+                [
+                    "ト",
+                    null
+                ],
+                [
+                    "ラ",
+                    null
+                ],
+                [
+                    "ズ",
+                    null
+                ],
+                [
+                    "-",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Half Past Dead Half Past Dead (aka \"Dead-Thirty\") is a 2002 action movie... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "略",
+                    "りゃく"
+                ],
+                [
+                    "奪",
+                    "だつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. pillage; plunder; looting; robbery "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掠奪 【りゃくだつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "強",
+                    "ごう"
+                ],
+                [
+                    "奪",
+                    "だつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. robbery; pillage; seizure; hijacking; plunder; extortion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "生",
+                    "せい"
+                ],
+                [
+                    "殺",
+                    "さつ"
+                ],
+                [
+                    "与",
+                    "よ"
+                ],
+                [
+                    "奪",
+                    "だつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (having) life-and-death power (over) Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "剥",
+                    "はく"
+                ],
+                [
+                    "奪",
+                    "だつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. stripping (of rights, office, etc.); deprivation; forfeit; revocation; divestiture "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "剝奪 【はくだつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "争",
+                    "そう"
+                ],
+                [
+                    "奪",
+                    "だつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. struggle (for); scramble; contest "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "収",
+                    "しゅう"
+                ],
+                [
+                    "奪",
+                    "だつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. plundering; exploitation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "心",
+                    "こころ"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "奪",
+                    "うば"
+                ],
+                [
+                    "わ",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to be captivated by ...; to be fascinated with ... "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "簒",
+                    "さん"
+                ],
+                [
+                    "奪",
+                    "だつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. usurpation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "横",
+                    "おう"
+                ],
+                [
+                    "奪",
+                    "だつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. misappropriation; embezzlement "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,952 @@
+{
+    "kanji": "勲",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "meritorious deed",
+        "merit"
+    ],
+    "kun": [
+        "いさお"
+    ],
+    "on": [
+        "クン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.4522018348623853,
+            0.12055045871559633,
+            "c",
+            0,
+            0.011376146788990826,
+            -0.013211009174311925,
+            0.02,
+            -0.01889908256880734,
+            0.02330275229357798,
+            "c",
+            -0.03495412844036697,
+            0.01981651376146789,
+            -0.11,
+            0.047981651376146794,
+            -0.22761467889908255,
+            0.0753211009174312
+        ],
+        [
+            "M",
+            0.1373394495412844,
+            0.2778899082568807,
+            "c",
+            0.022293577981651377,
+            0.002752293577981651,
+            0.0436697247706422,
+            0.0013761467889908255,
+            0.06577981651376147,
+            -0.0016513761467889907,
+            "c",
+            0.07330275229357798,
+            -0.010091743119266056,
+            0.17220183486238533,
+            -0.019724770642201832,
+            0.24311926605504589,
+            -0.026972477064220183,
+            "c",
+            0.023669724770642202,
+            -0.0023853211009174312,
+            0.04651376146788991,
+            -0.005504587155963302,
+            0.07009174311926605,
+            -0.0008256880733944953
+        ],
+        [
+            "M",
+            0.18614678899082568,
+            0.35642201834862386,
+            "c",
+            0.006238532110091744,
+            0.006238532110091744,
+            0.010550458715596329,
+            0.014954128440366971,
+            0.012110091743119267,
+            0.023027522935779813,
+            "c",
+            0.009357798165137614,
+            0.05064220183486238,
+            0.013669724770642202,
+            0.07889908256880733,
+            0.020642201834862386,
+            0.12238532110091743,
+            "c",
+            0.0023853211009174312,
+            0.014678899082568808,
+            0.004311926605504587,
+            0.028899082568807338,
+            0.0057798165137614675,
+            0.04155963302752294
+        ],
+        [
+            "M",
+            0.20366972477064219,
+            0.368440366972477,
+            "c",
+            0.09366972477064221,
+            -0.017064220183486238,
+            0.17596330275229358,
+            -0.02908256880733945,
+            0.24935779816513762,
+            -0.037614678899082564,
+            "c",
+            0.032293577981651375,
+            -0.0037614678899082566,
+            0.0528440366972477,
+            0.0011926605504587156,
+            0.04688073394495413,
+            0.03954128440366972,
+            "c",
+            -0.0039449541284403665,
+            0.025137614678899085,
+            -0.010275229357798166,
+            0.06055045871559633,
+            -0.01724770642201835,
+            0.09807339449541284,
+            "c",
+            -0.002477064220183486,
+            0.013394495412844036,
+            -0.005045871559633028,
+            0.026788990825688072,
+            -0.0074311926605504595,
+            0.03935779816513762
+        ],
+        [
+            "M",
+            0.21779816513761466,
+            0.4389908256880734,
+            "c",
+            0.02596330275229358,
+            -0.0037614678899082566,
+            0.2271559633027523,
+            -0.02963302752293578,
+            0.26348623853211006,
+            -0.02963302752293578
+        ],
+        [
+            "M",
+            0.23256880733944957,
+            0.521559633027523,
+            "c",
+            0.08467889908256881,
+            -0.014862385321100919,
+            0.15678899082568806,
+            -0.023211009174311924,
+            0.23596330275229357,
+            -0.030917431192660553
+        ],
+        [
+            "M",
+            0.3401834862385321,
+            0.2053211009174312,
+            "c",
+            0.005871559633027523,
+            0.005871559633027523,
+            0.00944954128440367,
+            0.016055045871559634,
+            0.00944954128440367,
+            0.027706422018348623,
+            "c",
+            0,
+            0.006605504587155963,
+            -0.0011009174311926604,
+            0.3688990825688073,
+            -0.0011009174311926604,
+            0.42871559633027523
+        ],
+        [
+            "M",
+            0.20706422018348625,
+            0.6102752293577981,
+            "c",
+            0.014036697247706422,
+            0.004862385321100918,
+            0.035871559633027524,
+            0.0016513761467889907,
+            0.050091743119266056,
+            -0.0007339449541284404,
+            "c",
+            0.07091743119266056,
+            -0.012110091743119267,
+            0.13165137614678898,
+            -0.026972477064220183,
+            0.17412844036697248,
+            -0.03504587155963303,
+            "c",
+            0.00944954128440367,
+            -0.001834862385321101,
+            0.024036697247706424,
+            -0.0032110091743119264,
+            0.028807339449541284,
+            -0.0022935779816513763
+        ],
+        [
+            "M",
+            0.17155963302752292,
+            0.708256880733945,
+            "c",
+            0.007339449541284404,
+            0.008532110091743119,
+            0.01669724770642202,
+            0.013853211009174311,
+            0.03541284403669725,
+            0.0081651376146789,
+            "c",
+            0.09577981651376147,
+            -0.02944954128440367,
+            0.1301834862385321,
+            -0.03972477064220183,
+            0.2509174311926606,
+            -0.07715596330275229
+        ],
+        [
+            "M",
+            0.5685321100917431,
+            0.3185321100917431,
+            "c",
+            0.01862385321100917,
+            0.004862385321100918,
+            0.041100917431192666,
+            0.0074311926605504595,
+            0.05752293577981651,
+            0.004311926605504587,
+            "c",
+            0.06293577981651377,
+            -0.012018348623853212,
+            0.1461467889908257,
+            -0.029357798165137616,
+            0.18926605504587155,
+            -0.03660550458715597,
+            "c",
+            0.04513761467889908,
+            -0.0076146788990825685,
+            0.05055045871559633,
+            0.013853211009174311,
+            0.04477064220183486,
+            0.05440366972477064,
+            "c",
+            -0.011926605504587157,
+            0.08321100917431193,
+            -0.05614678899082569,
+            0.25,
+            -0.0971559633027523,
+            0.31697247706422016,
+            "c",
+            -0.034678899082568805,
+            0.056605504587155964,
+            -0.04954128440366973,
+            0.024770642201834864,
+            -0.06477064220183486,
+            -0.00045871559633027525
+        ],
+        [
+            "M",
+            0.7077064220183487,
+            0.1391743119266055,
+            "c",
+            0.007889908256880733,
+            0.01110091743119266,
+            0.0076146788990825685,
+            0.021009174311926605,
+            0.0047706422018348625,
+            0.03889908256880734,
+            "c",
+            -0.021009174311926605,
+            0.13165137614678898,
+            -0.054220183486238534,
+            0.34266055045871563,
+            -0.18614678899082568,
+            0.48623853211009177
+        ],
+        [
+            "M",
+            0.21275229357798167,
+            0.7679816513761467,
+            "c",
+            0,
+            0.04752293577981651,
+            -0.03596330275229358,
+            0.11761467889908257,
+            -0.0453211009174312,
+            0.13110091743119265
+        ],
+        [
+            "M",
+            0.3717431192660551,
+            0.7575229357798164,
+            "c",
+            0.022477064220183487,
+            0.024036697247706424,
+            0.04385321100917432,
+            0.09027522935779816,
+            0.04944954128440367,
+            0.1277981651376147
+        ],
+        [
+            "M",
+            0.5611926605504587,
+            0.7565137614678898,
+            "c",
+            0.020825688073394497,
+            0.02348623853211009,
+            0.05376146788990826,
+            0.09678899082568808,
+            0.058990825688073394,
+            0.13339449541284404
+        ],
+        [
+            "M",
+            0.7511926605504586,
+            0.7557798165137615,
+            "c",
+            0.03293577981651376,
+            0.023211009174311924,
+            0.08513761467889908,
+            0.09559633027522936,
+            0.09339449541284403,
+            0.13174311926605503
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "勲",
+                    "くん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. merit (esp. order of merit) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. distinguished service; meritorious service "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "功 【いさお】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. merit (esp. order of merit) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "章",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. decoration; order; medal "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Order (honour) An order or order of merit is a visible honour, awarded b... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. decoration; order; medal "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Order (honour) An order or order of merit is a visible honour, awarded b... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "記",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. commendation accompanying the award of a decoration See also 勲章"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. commendation accompanying the award of a decoration See also 勲章"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "等",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (an) order of merit; medals for merit See also 位階勲等"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. order (first, second, etc. of a medal or decoration); class number (first, second, etc.) See also 勲章"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Japanese honors system The Japanese honors system originated in the 1870s, short... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (an) order of merit; medals for merit See also 位階勲等"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. order (first, second, etc. of a medal or decoration); class number (first, second, etc.) See also 勲章"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Japanese honors system The Japanese honors system originated in the 1870s, short... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. order of merit "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. order of merit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "功",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. merits; distinguished services "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. merits; distinguished services "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "等",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. order of the 1st class "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "勲１等 【くんいっとう】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. order of the 1st class "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "勲１等 【くんいっとう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "爵",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. peerage and order of merit "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. peerage and order of merit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "勲",
+                "いさお"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Isao "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Isamu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "勲",
+                "かおる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Kaoru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "文",
+                    "ぶん"
+                ],
+                [
+                    "化",
+                    "か"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "章",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Order of Culture (Japan); Order of Cultural Merit (South Korea) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Order of Culture The Order of Culture is a Japanese order, established on ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叙",
+                    "じょ"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. conferring of decorations "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "殊",
+                    "しゅ"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. distinguished services; meritorious deeds "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "金",
+                    "きん"
+                ],
+                [
+                    "鵄",
+                    "し"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "章",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. The Order of the Golden Kite (Japanese military award) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Order of the Golden Kite The Order of the Golden Kite was an order of the Empire o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "じゅ"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. reception of a decoration; reception of an order (of merit) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "武",
+                    "ぶ"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. feats of arms; military exploits; distinguished military service "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "武勳 【ぶくん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "武勳: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "菊",
+                    "きっかしょうくびかざり"
+                ],
+                [
+                    "花",
+                    null
+                ],
+                [
+                    "章",
+                    null
+                ],
+                [
+                    "頸",
+                    null
+                ],
+                [
+                    "飾",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Collar of the Supreme Order of the Chrysanthemum "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "大勲位菊花章頚飾 【だいくんいきっかしょうくびかざり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偉",
+                    "い"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. great achievement "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叙",
+                    "じょ"
+                ],
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "叙",
+                    "じょ"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conferment of Court ranks and decorations Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. supreme order (i.e. of the chrysanthemum); highest possible order of merit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "鉄",
+                    "てつ"
+                ],
+                [
+                    "十",
+                    "じゅう"
+                ],
+                [
+                    "字",
+                    "じ"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "章",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Iron Cross "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "勲",
+                    "くん"
+                ],
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "菊",
+                    "きく"
+                ],
+                [
+                    "花",
+                    "か"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "綬",
+                    "じゅ"
+                ],
+                [
+                    "章",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Grand Cordon of the Supreme Order of the Chrysanthemum "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

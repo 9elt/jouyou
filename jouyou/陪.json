@@ -1,0 +1,958 @@
+{
+    "kanji": "陪",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "obeisance",
+        "follow",
+        "accompany",
+        "attend on"
+    ],
+    "kun": [
+        "バイ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.1598165137614679,
+            0.1988073394495413,
+            "c",
+            0.014128440366972478,
+            0.006788990825688073,
+            0.02944954128440367,
+            0.005137614678899083,
+            0.04357798165137615,
+            0.0023853211009174312,
+            "c",
+            0.04899082568807339,
+            -0.00963302752293578,
+            0.07990825688073395,
+            -0.01651376146788991,
+            0.11926605504587157,
+            -0.02532110091743119,
+            "c",
+            0.02834862385321101,
+            -0.006330275229357797,
+            0.04018348623853211,
+            0.013211009174311925,
+            0.02908256880733945,
+            0.03513761467889908,
+            "c",
+            -0.016788990825688074,
+            0.033211009174311926,
+            -0.056972477064220185,
+            0.10321100917431193,
+            -0.07871559633027524,
+            0.14220183486238533
+        ],
+        [
+            "M",
+            0.27293577981651373,
+            0.3532110091743119,
+            "c",
+            0.13302752293577982,
+            0.10321100917431193,
+            0.0906422018348624,
+            0.3291743119266055,
+            -0.003119266055045872,
+            0.2410091743119266
+        ],
+        [
+            "M",
+            0.17082568807339452,
+            0.20871559633027523,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.01110091743119266,
+            0.01834862385321101,
+            0.01110091743119266,
+            0.034403669724770644,
+            "c",
+            0,
+            0.035229357798165134,
+            0.0001834862385321101,
+            0.40183486238532107,
+            0.0002752293577981651,
+            0.5561467889908257,
+            "c",
+            0,
+            0.039174311926605504,
+            0,
+            0.06467889908256881,
+            0,
+            0.06770642201834862
+        ],
+        [
+            "M",
+            0.6257798165137614,
+            0.14678899082568808,
+            "c",
+            0.009541284403669725,
+            0.00926605504587156,
+            0.014403669724770642,
+            0.021743119266055048,
+            0.014403669724770642,
+            0.031376146788990825,
+            "c",
+            0,
+            0.02192660550458716,
+            0,
+            0.035871559633027524,
+            0,
+            0.09541284403669725
+        ],
+        [
+            "M",
+            0.4701834862385321,
+            0.29128440366972475,
+            "c",
+            0.017431192660550456,
+            0.004862385321100918,
+            0.036146788990825685,
+            0.006146788990825688,
+            0.05385321100917431,
+            0.004036697247706422,
+            "c",
+            0.08027522935779817,
+            -0.009724770642201836,
+            0.17321100917431193,
+            -0.022293577981651377,
+            0.2665137614678899,
+            -0.03055045871559633,
+            "c",
+            0.017706422018348624,
+            -0.001559633027522936,
+            0.028440366972477066,
+            -0.0009174311926605505,
+            0.0373394495412844,
+            0.0006422018348623854
+        ],
+        [
+            "M",
+            0.5172477064220183,
+            0.3577981651376147,
+            "c",
+            0.0363302752293578,
+            0.04036697247706422,
+            0.0528440366972477,
+            0.081651376146789,
+            0.05614678899082569,
+            0.10825688073394496
+        ],
+        [
+            "M",
+            0.7565137614678898,
+            0.31431192660550455,
+            "c",
+            0.0037614678899082566,
+            0.00908256880733945,
+            0.0034862385321100917,
+            0.015779816513761466,
+            0.0003669724770642202,
+            0.024036697247706424,
+            "c",
+            -0.01724770642201835,
+            0.04577981651376147,
+            -0.04128440366972477,
+            0.09972477064220182,
+            -0.06422018348623854,
+            0.13440366972477064
+        ],
+        [
+            "M",
+            0.4197247706422018,
+            0.5253211009174312,
+            "c",
+            0.024954128440366975,
+            0.006605504587155963,
+            0.04954128440366973,
+            0.0028440366972477065,
+            0.0746788990825688,
+            0,
+            "c",
+            0.10385321100917431,
+            -0.012110091743119267,
+            0.20009174311926603,
+            -0.02853211009174312,
+            0.3405504587155963,
+            -0.03596330275229358,
+            "c",
+            0.024036697247706424,
+            -0.0012844036697247708,
+            0.04715596330275229,
+            0.0008256880733944953,
+            0.0710091743119266,
+            0.0045871559633027525
+        ],
+        [
+            "M",
+            0.5,
+            0.6386238532110091,
+            "c",
+            0.0077981651376146785,
+            0.006146788990825688,
+            0.012201834862385321,
+            0.014220183486238533,
+            0.013211009174311925,
+            0.024128440366972478,
+            "c",
+            0.006330275229357797,
+            0.04027522935779816,
+            0.01165137614678899,
+            0.08779816513761468,
+            0.01688073394495413,
+            0.1398165137614679,
+            "c",
+            0.001559633027522936,
+            0.015779816513761466,
+            0.003027522935779817,
+            0.031376146788990825,
+            0.004495412844036697,
+            0.04614678899082569
+        ],
+        [
+            "M",
+            0.5229357798165137,
+            0.6531192660550459,
+            "c",
+            0.06577981651376147,
+            -0.00944954128440367,
+            0.17963302752293575,
+            -0.02532110091743119,
+            0.23862385321100918,
+            -0.03256880733944954,
+            "c",
+            0.0389908256880734,
+            -0.0047706422018348625,
+            0.05201834862385321,
+            0.002477064220183486,
+            0.04256880733944954,
+            0.0426605504587156,
+            "c",
+            -0.00944954128440367,
+            0.04018348623853211,
+            -0.02348623853211009,
+            0.09137614678899084,
+            -0.034678899082568805,
+            0.13559633027522935
+        ],
+        [
+            "M",
+            0.543211009174312,
+            0.8298165137614679,
+            "c",
+            0.04339449541284404,
+            -0.004311926605504587,
+            0.12944954128440367,
+            -0.012110091743119267,
+            0.21128440366972479,
+            -0.017155963302752295,
+            "c",
+            0.013669724770642202,
+            -0.0008256880733944953,
+            0.02706422018348624,
+            -0.001559633027522936,
+            0.03990825688073394,
+            -0.0021100917431192663
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "審",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. jury "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. jury "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "審",
+                    "しん"
+                ],
+                [
+                    "員",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. juror; juryman "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. juror; juryman "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "審",
+                    "しん"
+                ],
+                [
+                    "制",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. jury system "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jury A jury is a sworn body of people convened to render an im... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. jury system "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jury A jury is a sworn body of people convened to render an im... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. dining with one's superior; dining with one's superiors "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. dining with one's superior; dining with one's superiors "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "観",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. viewing something in the company of one's superior "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. viewing something in the company of one's superior "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "都",
+                    "と"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. secondary capital city (of historical China) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. secondary capital city (of historical China) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "乗",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. riding in the same carriage (car) (with a superior); attending on (one's superior) in the same carriage "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. riding in the same carriage (car) (with a superior); attending on (one's superior) in the same carriage "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "餐",
+                    "さん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Lord's Supper (in Protestantism) See also 聖体拝領"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Lord's Supper (in Protestantism) See also 聖体拝領"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "侍",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. retainer; attending on the nobility "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. retainer; attending on the nobility "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "審",
+                    "しん"
+                ],
+                [
+                    "裁",
+                    "さい"
+                ],
+                [
+                    "判",
+                    "ばん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. trial by jury; jury trial "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. trial by jury; jury trial "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "席",
+                    "せき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. sitting with one's superior; in attendance "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. sitting with one's superior; in attendance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "従",
+                    "じゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. waiting upon; attending on; accompanying "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陪従 【べいじゅう】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. waiting upon; attending on; accompanying "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陪従 【べいじゅう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "膳",
+                    "ぜん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. serving food (to a nobleman); nobleman's server Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陪膳 【はいぜん】"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. serving food (to a nobleman); nobleman's server Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陪膳 【はいぜん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "審",
+                    "しん"
+                ],
+                [
+                    "制",
+                    "せい"
+                ],
+                [
+                    "度",
+                    "ど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. jury system "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. jury system "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "臣",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rear vassal; daimyo's retainer Historical term"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. rear vassal; daimyo's retainer Historical term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ほいとう"
+                ],
+                [
+                    "堂",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. being served food outside the meditation hall (at a Zen temple) Archaic, Only applies to ほいとう"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. serving food; food served Archaic, Only applies to ほいとう"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. begging; beggar Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陪堂 【ほいと】、乞児 【ほいと】、乞食 【ほいと】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. being served food outside the meditation hall (at a Zen temple) Archaic, Only applies to ほいとう"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. serving food; food served Archaic, Only applies to ほいとう"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. begging; beggar Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陪堂 【ほいと】、乞児 【ほいと】、乞食 【ほいと】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "塚",
+                    "ちょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. subsidiary burial mound (Kofun period); satellite burial mound Archeology"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陪塚 【ばいづか】、陪冢 【ばいちょう】、陪冢 【ばいづか】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. subsidiary burial mound (Kofun period); satellite burial mound Archeology"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陪塚 【ばいづか】、陪冢 【ばいちょう】、陪冢 【ばいづか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    null
+                ],
+                [
+                    "臣",
+                    null
+                ],
+                [
+                    "化",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Mediatisation Mediatisation is the loss of imperial immediacy. Broadly ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    null
+                ],
+                [
+                    "審",
+                    null
+                ],
+                [
+                    "員",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "映",
+                    null
+                ],
+                [
+                    "画",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. The Juror The Juror is a 1996 American romantic thriller film based... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陪",
+                    null
+                ],
+                [
+                    "審",
+                    null
+                ],
+                [
+                    "員",
+                    null
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "選",
+                    null
+                ],
+                [
+                    "任",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Jury selection Jury selection are many methods used to choose the people... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "審",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grand jury See also 小陪審"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Grand jury A grand jury is a type of jury that determines whether a ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "反",
+                    "へんばい"
+                ],
+                [
+                    "閇",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ceremony performed by a sorcerer to protect a noble setting out on a trip See also 禹歩"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. dance steps inspired by this ceremony "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "返閉 【へんばい】、反陪 【へんばい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "小",
+                    "しょう"
+                ],
+                [
+                    "陪",
+                    "ばい"
+                ],
+                [
+                    "審",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. petty jury; petit jury See also 大陪審"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,942 @@
+{
+    "kanji": "抄",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "extract",
+        "selection",
+        "summary",
+        "copy",
+        "spread thin"
+    ],
+    "kun": [
+        "ショウ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.13302752293577982,
+            0.32036697247706425,
+            "c",
+            0.023944954128440367,
+            0.0028440366972477065,
+            0.042477064220183484,
+            0.003577981651376147,
+            0.06788990825688074,
+            -0.0001834862385321101,
+            "c",
+            0.04660550458715596,
+            -0.006880733944954129,
+            0.11577981651376146,
+            -0.021376146788990826,
+            0.17513761467889907,
+            -0.029541284403669727,
+            "c",
+            0.009816513761467891,
+            -0.0013761467889908255,
+            0.02192660550458716,
+            -0.003853211009174312,
+            0.03376146788990826,
+            -0.003853211009174312
+        ],
+        [
+            "M",
+            0.2891743119266055,
+            0.11238532110091744,
+            "c",
+            0.00963302752293578,
+            0.00963302752293578,
+            0.013853211009174311,
+            0.024036697247706424,
+            0.013853211009174311,
+            0.04376146788990825,
+            "c",
+            0,
+            0.13972477064220185,
+            -0.00009174311926605505,
+            0.5386238532110091,
+            -0.00009174311926605505,
+            0.6435779816513763,
+            "c",
+            0,
+            0.11770642201834862,
+            -0.060275229357798166,
+            0.039266055045871565,
+            -0.07357798165137615,
+            0.02522935779816514
+        ],
+        [
+            "M",
+            0.1398165137614679,
+            0.6262385321100918,
+            "c",
+            0.01110091743119266,
+            0.00926605504587156,
+            0.02532110091743119,
+            0.007522935779816513,
+            0.036788990825688074,
+            -0.0023853211009174312,
+            "c",
+            0.06651376146788991,
+            -0.05733944954128441,
+            0.0779816513761468,
+            -0.06651376146788991,
+            0.17660550458715596,
+            -0.15440366972477063
+        ],
+        [
+            "M",
+            0.6166055045871559,
+            0.10091743119266056,
+            "c",
+            0.007064220183486239,
+            0.007064220183486239,
+            0.011559633027522935,
+            0.01834862385321101,
+            0.011559633027522935,
+            0.032844036697247704,
+            "c",
+            0,
+            0.0928440366972477,
+            -0.00009174311926605505,
+            0.3871559633027523,
+            -0.00009174311926605505,
+            0.4188073394495413,
+            "c",
+            0,
+            0.08963302752293578,
+            -0.050091743119266056,
+            0.01871559633027523,
+            -0.06385321100917431,
+            0.01073394495412844
+        ],
+        [
+            "M",
+            0.5335779816513762,
+            0.324954128440367,
+            "c",
+            0.0009174311926605505,
+            0.011467889908256881,
+            -0.0021100917431192663,
+            0.020642201834862386,
+            -0.007339449541284404,
+            0.03055045871559633,
+            "c",
+            -0.031192660550458714,
+            0.05963302752293578,
+            -0.08559633027522937,
+            0.14623853211009175,
+            -0.15541284403669725,
+            0.2103669724770642
+        ],
+        [
+            "M",
+            0.7270642201834863,
+            0.31422018348623854,
+            "c",
+            0.06724770642201836,
+            0.022110091743119266,
+            0.15752293577981652,
+            0.07880733944954128,
+            0.1743119266055046,
+            0.11321100917431193
+        ],
+        [
+            "M",
+            0.7923853211009175,
+            0.4411009174311926,
+            "c",
+            0.0011009174311926604,
+            0.01165137614678899,
+            -0.0007339449541284404,
+            0.028073394495412844,
+            -0.006972477064220183,
+            0.04449541284403669,
+            "c",
+            -0.05724770642201835,
+            0.1508256880733945,
+            -0.22825688073394496,
+            0.34724770642201835,
+            -0.4138532110091743,
+            0.43871559633027524
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "抄",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. excerpt; extract "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. annotation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. shō (unit of volume, approx. 1.8 ml) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. banknote; paper money Archaic, Only applies to 鈔"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "鈔 【しょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掬",
+                    "すく"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to scoop; to ladle out Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄う 【すくう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "抄う: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to scoop; to ladle out Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄う 【すくう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "抄う: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抄",
+                    "しょう"
+                ],
+                [
+                    "本",
+                    "ほん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. excerpt; abridgment; abridgement; book of selections "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "鈔本 【しょうほん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "鈔本: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. excerpt; abridgment; abridgement; book of selections "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "鈔本 【しょうほん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "鈔本: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抄",
+                    "しょう"
+                ],
+                [
+                    "録",
+                    "ろく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. quotation; abstract; selection; summary "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. regional pickle of Kyoto made from turnip-like vegetable "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. quotation; abstract; selection; summary "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掬",
+                    "すく"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. scooping See also 金魚掬い きんぎょすくい"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄い 【すくい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. scooping See also 金魚掬い きんぎょすくい"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄い 【すくい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漉",
+                    "す"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. papermaking "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄き 【すき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抄",
+                    "しょう"
+                ],
+                [
+                    "物",
+                    "もの"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Muromachi-period texts or annotations of texts used in Zen lectures "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. extracting from or excerpting (a classic) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄物 【しょうもつ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Muromachi-period texts or annotations of texts used in Zen lectures "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. extracting from or excerpting (a classic) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄物 【しょうもつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抄",
+                    "しょう"
+                ],
+                [
+                    "紙",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. papermaking; paper-making; paper making "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. papermaking; paper-making; paper making "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漉",
+                    "す"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "返",
+                    "かえ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to remake (paper) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄き返す 【すきかえす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to remake (paper) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄き返す 【すきかえす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抄",
+                    "しょう"
+                ],
+                [
+                    "訳",
+                    "やく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. abridged translation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. abridged translation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抄",
+                    "しょう"
+                ],
+                [
+                    "読",
+                    "どく"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. journal club; gathering to read and discuss papers, articles, books, etc. See also 輪講"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漉",
+                    "す"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to make something (e.g. paper) from wet, pulpy material by spreading it thin and drying it "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄く 【すく】"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to make something (e.g. paper) from wet, pulpy material by spreading it thin and drying it "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抄く 【すく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抄",
+                    "しょう"
+                ],
+                [
+                    "造",
+                    "ぞう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. sheet forming; papermaking "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抄",
+                    "しょう"
+                ],
+                [
+                    "出",
+                    "しゅつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. taking excerpts; extraction "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. taking excerpts; extraction "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抄",
+                    "しょう"
+                ],
+                [
+                    "録",
+                    "ろく"
+                ],
+                [
+                    "ペ",
+                    null
+                ],
+                [
+                    "ー",
+                    null
+                ],
+                [
+                    "ジ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. abstract page Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "抄",
+                "かつたか"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsutaka "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsunori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "抄",
+                "しょう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Shou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "戸",
+                    "こ"
+                ],
+                [
+                    "籍",
+                    "せき"
+                ],
+                [
+                    "抄",
+                    "しょう"
+                ],
+                [
+                    "本",
+                    "ほん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. official copy of part of family register "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "類",
+                    "るい"
+                ],
+                [
+                    "聚",
+                    "じゅう"
+                ],
+                [
+                    "名",
+                    "みょう"
+                ],
+                [
+                    "義",
+                    "ぎ"
+                ],
+                [
+                    "抄",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Ruijū Myōgishō (Japanese-Chinese character dictionary from the late Heian Period) Work of art, literature, music, etc. name"
+                },
+                {
+                    "type": "Product",
+                    "meaning": "2. Ruiju Myogisho (Japanese-Chinese character dictionary from the late Heian Period) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Ruiju Myōgishō The Ruiju myōgishō, alternatively misread as Ruijū myōgis... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "類聚名義抄 【るいじゅみょうぎしょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "名",
+                    "みょう"
+                ],
+                [
+                    "義",
+                    "ぎ"
+                ],
+                [
+                    "抄",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Myōgishō (abbr. of Ruijū Myōgishō, a Japanese-Chinese character dictionary from the late Heian Period) Work of art, literature, music, etc. name"
+                },
+                {
+                    "type": "Product",
+                    "meaning": "2. Myogisho (abbr. of Ruiju Myogisho, a Japanese-Chinese character dictionary from the late Heian Period) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "十",
+                    "じっ"
+                ],
+                [
+                    "訓",
+                    "きん"
+                ],
+                [
+                    "抄",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. A Miscellany of Ten Maxims (Kamakura period collection of writing) Work of art, literature, music, etc. name"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "抄",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. anthology "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "史",
+                    "し"
+                ],
+                [
+                    "記",
+                    "き"
+                ],
+                [
+                    "抄",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. commentary on Shiki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "厚",
+                    "こう"
+                ],
+                [
+                    "顔",
+                    "がん"
+                ],
+                [
+                    "抄",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kogansho (1691 commentary on the songs of the Kojiki and Nihon Shoki; by Keichu) Work of art, literature, music, etc. name"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "和",
+                    "わ"
+                ],
+                [
+                    "名",
+                    "みょう"
+                ],
+                [
+                    "抄",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Wamyōruijushō (famous Heian-period Japanese dictionary) Abbreviation, See also 倭名類聚鈔 わみょうるいじゅしょう"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "倭名鈔 【わみょうしょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "手",
+                    "しゅ"
+                ],
+                [
+                    "抄",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. excerption; manual copying; excerpt "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "試",
+                    "し"
+                ],
+                [
+                    "抄",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. test-making a paper Rare term"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

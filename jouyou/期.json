@@ -1,0 +1,1676 @@
+{
+    "kanji": "期",
+    "grade": 3,
+    "jlpt": 3,
+    "meanings": [
+        "period",
+        "time",
+        "date",
+        "term"
+    ],
+    "kun": [
+        "キ",
+        "ゴ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.14642201834862387,
+            0.2987155963302752,
+            "c",
+            0.02330275229357798,
+            0.0028440366972477065,
+            0.04018348623853211,
+            0.0008256880733944953,
+            0.05770642201834862,
+            -0.002018348623853211,
+            "c",
+            0.08146788990825689,
+            -0.013394495412844036,
+            0.17541284403669727,
+            -0.028623853211009177,
+            0.2618348623853211,
+            -0.03853211009174312,
+            "c",
+            0.018807339449541282,
+            -0.0021100917431192663,
+            0.03752293577981651,
+            -0.003577981651376147,
+            0.05587155963302752,
+            -0.0007339449541284404
+        ],
+        [
+            "M",
+            0.24311926605504589,
+            0.1651376146788991,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.013394495412844036,
+            0.0218348623853211,
+            0.013394495412844036,
+            0.03458715596330275,
+            "c",
+            0,
+            0.01889908256880734,
+            0.0009174311926605505,
+            0.3689908256880734,
+            0.0009174311926605505,
+            0.44486238532110095
+        ],
+        [
+            "M",
+            0.4105504587155963,
+            0.11467889908256881,
+            "c",
+            0.011467889908256881,
+            0.011467889908256881,
+            0.014954128440366971,
+            0.02522935779816514,
+            0.014954128440366971,
+            0.03954128440366972,
+            "c",
+            0,
+            0.008715596330275228,
+            -0.0013761467889908255,
+            0.39165137614678897,
+            -0.0013761467889908255,
+            0.46623853211009175
+        ],
+        [
+            "M",
+            0.26743119266055043,
+            0.405137614678899,
+            "c",
+            0.024678899082568807,
+            -0.002201834862385321,
+            0.12211009174311926,
+            -0.017064220183486238,
+            0.1453211009174312,
+            -0.019174311926605504
+        ],
+        [
+            "M",
+            0.266697247706422,
+            0.5169724770642202,
+            "c",
+            0.03715596330275229,
+            -0.006697247706422018,
+            0.09908256880733946,
+            -0.014678899082568808,
+            0.1444954128440367,
+            -0.019174311926605504
+        ],
+        [
+            "M",
+            0.11238532110091744,
+            0.6636697247706422,
+            "c",
+            0.0218348623853211,
+            0.006055045871559634,
+            0.048715596330275224,
+            0.004403669724770642,
+            0.07110091743119266,
+            0.0007339449541284404,
+            "c",
+            0.08596330275229357,
+            -0.014128440366972478,
+            0.20642201834862386,
+            -0.03018348623853211,
+            0.301651376146789,
+            -0.04137614678899083,
+            "c",
+            0.021559633027522937,
+            -0.002477064220183486,
+            0.04577981651376147,
+            -0.004954128440366972,
+            0.06990825688073395,
+            0.00009174311926605505
+        ],
+        [
+            "M",
+            0.26623853211009174,
+            0.7200000000000001,
+            "c",
+            0.0012844036697247708,
+            0.01073394495412844,
+            -0.0010091743119266055,
+            0.02018348623853211,
+            -0.006880733944954129,
+            0.028165137614678898,
+            "c",
+            -0.02165137614678899,
+            0.03293577981651376,
+            -0.061834862385321106,
+            0.07917431192660551,
+            -0.11522935779816514,
+            0.1208256880733945
+        ],
+        [
+            "M",
+            0.3994495412844037,
+            0.7090825688073396,
+            "c",
+            0.03220183486238532,
+            0.019724770642201832,
+            0.08321100917431193,
+            0.0811926605504587,
+            0.09128440366972476,
+            0.1118348623853211
+        ],
+        [
+            "M",
+            0.6157798165137615,
+            0.2020183486238532,
+            "c",
+            0.00908256880733945,
+            0.00908256880733945,
+            0.015229357798165137,
+            0.021743119266055048,
+            0.015412844036697248,
+            0.030458715596330274,
+            "C",
+            0.6376146788990825,
+            0.6146788990825688,
+            0.6123853211009175,
+            0.7247706422018348,
+            0.5206422018348624,
+            0.8394495412844036
+        ],
+        [
+            "M",
+            0.6396330275229357,
+            0.21522935779816516,
+            "c",
+            0.016972477064220184,
+            -0.0021100917431192663,
+            0.16128440366972477,
+            -0.02568807339449541,
+            0.17412844036697248,
+            -0.02724770642201835,
+            "c",
+            0.027981651376146787,
+            -0.0033944954128440367,
+            0.03981651376146789,
+            0.01036697247706422,
+            0.03981651376146789,
+            0.03642201834862385,
+            "c",
+            0,
+            0.01275229357798165,
+            -0.001926605504587156,
+            0.4271559633027523,
+            -0.001926605504587156,
+            0.601834862385321,
+            "c",
+            0,
+            0.07275229357798164,
+            -0.047706422018348627,
+            0.024587155963302753,
+            -0.07339449541284404,
+            0.0011009174311926604
+        ],
+        [
+            "M",
+            0.6419266055045871,
+            0.3881651376146789,
+            "c",
+            0.06220183486238532,
+            -0.008623853211009174,
+            0.13330275229357796,
+            -0.01889908256880734,
+            0.19935779816513763,
+            -0.025045871559633028
+        ],
+        [
+            "M",
+            0.6346788990825689,
+            0.5563302752293579,
+            "c",
+            0.048807339449541284,
+            -0.004678899082568807,
+            0.14853211009174314,
+            -0.013853211009174311,
+            0.20605504587155965,
+            -0.016422018348623852
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. period; time 経済は景気後退期に入った。The economy has entered a recession."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. opportunity; chance; occasion "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. age Geology"
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "4. term (e.g. in office) "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "5. session (e.g. of parliament) "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "6. stage (e.g. of a disease) "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "7. season (e.g. of a TV series) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. time; moment; limit "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. time of death; last moment "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. midnight in red-light districts during the Edo period Archaic"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. period; time 経済は景気後退期に入った。The economy has entered a recession."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. opportunity; chance; occasion "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. age Geology"
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "4. term (e.g. in office) "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "5. session (e.g. of parliament) "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "6. stage (e.g. of a disease) "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "7. season (e.g. of a TV series) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "経済",
+                            "けいざい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "景気後退",
+                            "けいきこうたい"
+                        ],
+                        [
+                            "期",
+                            "き"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "入った",
+                            "はい"
+                        ]
+                    ],
+                    "translation": "The economy has entered a recession."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "待",
+                    "たい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. expectation; anticipation; hope "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. promising; rising; up-and-coming "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Expectation (epistemic) In the case of uncertainty, expectation is what is consid... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. expectation; anticipation; hope "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. promising; rising; up-and-coming "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Expectation (epistemic) In the case of uncertainty, expectation is what is consid... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "間",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. period; term; interval "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. period; term; interval "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. term; period; time frame "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. time limit; deadline; cutoff (date) See also 期限切れすべてのレポートは期限を守って提出されなければならない。All essays must be handed in on time."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. term; period; time frame "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. time limit; deadline; cutoff (date) See also 期限切れすべてのレポートは期限を守って提出されなければならない。All essays must be handed in on time."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "すべての",
+                            null
+                        ],
+                        [
+                            "レポート",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "期限",
+                            "きげん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "守って",
+                            "まも"
+                        ],
+                        [
+                            "提出",
+                            "ていしゅつ"
+                        ],
+                        [
+                            "され",
+                            null
+                        ],
+                        [
+                            "なければならない",
+                            null
+                        ]
+                    ],
+                    "translation": "All essays must be handed in on time."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "末",
+                    "まつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. end of term "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. end of term "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "日",
+                    "じつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fixed date; appointed date; set date "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. deadline; due date "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "期日 【きにち】、期日 【ごじつ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ごじつ: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. fixed date; appointed date; set date "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. deadline; due date "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "期日 【きにち】、期日 【ごじつ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ごじつ: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "末",
+                    "まつ"
+                ],
+                [
+                    "試",
+                    "し"
+                ],
+                [
+                    "験",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. final exam; term-end examination; end-of-term examination "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "待",
+                    "たい"
+                ],
+                [
+                    "通",
+                    "どお"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. as hoped for; as expected "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "期待どおり 【きたいどおり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "切",
+                    "ぎ"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. expiration of a term; becoming overdue "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "待",
+                    "たい"
+                ],
+                [
+                    "薄",
+                    "うす"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. not to be depended on; of little hope だから今は降参ね。他にもまだ調べてはみるけど・・・期待薄だと思う。Therefore I'm giving up for now. I'll still try to check out other possibilities but ... I think hopes are slim."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "だから",
+                            null
+                        ],
+                        [
+                            "今",
+                            "いま"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "降参",
+                            "こうさん"
+                        ],
+                        [
+                            "ね",
+                            null
+                        ],
+                        [
+                            "他に",
+                            null
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "まだ",
+                            null
+                        ],
+                        [
+                            "調べて",
+                            "しら"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "みる",
+                            null
+                        ],
+                        [
+                            "けど",
+                            null
+                        ],
+                        [
+                            "期待薄",
+                            "きたいうす"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "思う",
+                            "おも"
+                        ]
+                    ],
+                    "translation": "Therefore I'm giving up for now. I'll still try to check out other possibilities but ... I think hopes are slim."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "待",
+                    "たい"
+                ],
+                [
+                    "は",
+                    null
+                ],
+                [
+                    "ず",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. disappointment; let-down "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "期待外れ 【きたいはずれ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "待",
+                    "たい"
+                ],
+                [
+                    "感",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sense of anticipation; feeling of expectation; feeling of hope "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "間",
+                    "かん"
+                ],
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "定",
+                    "てい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. limited time "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. limited-time offer "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Su verb - precursor to the modern suru, Intransitive verb",
+                    "meaning": "1. to fix (a time, date, etc.); to set "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Su verb - precursor to the modern suru, Intransitive verb",
+                    "meaning": "2. to expect; to hope for; to look forward to; to foresee; to anticipate "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Su verb - precursor to the modern suru, Intransitive verb",
+                    "meaning": "3. to resolve (to do); to decide upon; to prepare for; to promise; to pledge "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "成",
+                    "せい"
+                ],
+                [
+                    "同",
+                    "どう"
+                ],
+                [
+                    "盟",
+                    "めい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. association formed to carry out an objective "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "待",
+                    "たい"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to hang one's hopes on; to expect from "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "期待を掛ける 【きたいをかける】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "待",
+                    "たい"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "1. to live up to (one's) expectations "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "期待に適う 【きたいにかなう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "待",
+                    "たい"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "沿",
+                    "そ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "1. to live up to (one's) expectations; to meet expectations "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "期待にそう 【きたいにそう】、期待に添う 【きたいにそう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "待",
+                    "たい"
+                ],
+                [
+                    "値",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. expected value; expectation value; expectation Mathematics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Expected value In probability theory, the expected value (or expectation... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "期",
+                "き"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Ki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "期上",
+                "このうえ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Konoue "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "期雄",
+                "ときお"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Tokio "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "学",
+                    "がっき"
+                ],
+                [
+                    "期",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. school term; semester "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Academic term An academic term' or term is a division of an academic ye... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "延",
+                    "えん"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. postponement; deferment; adjournment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "時",
+                    "じ"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. time; season; period; phase; stage １年のこの時期は天候がよく変わる。The weather changes very often at this time of year."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "１年",
+                            "いちねん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "時期",
+                            "じき"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "天候",
+                            "てんこう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "よく",
+                            null
+                        ],
+                        [
+                            "変わる",
+                            "か"
+                        ]
+                    ],
+                    "translation": "The weather changes very often at this time of year."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "予",
+                    "よ"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. expectation; anticipation; forecast "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "長",
+                    "ちょう"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. long-term Antonym: 短期 たんき"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fixed period; fixed term "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. regular; periodic; periodical 今年も、アマチュア音楽家の定期演奏会が頻繁に開催される。This year too there are many regular concerts for amateur musicians being held."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. fixed-term commuter pass Abbreviation, See also 定期乗車券汽車の中で眠っている間に、財布と定期を盗まれてしまった。I had my purse and commuter ticket stolen while I was sleeping in the train."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. fixed-term deposit Abbreviation, See also 定期預金"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. futures contracts Abbreviation, See also 定期取引"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "今年",
+                            "ことし"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "アマチュア",
+                            null
+                        ],
+                        [
+                            "音楽家",
+                            "おんがくか"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "定期",
+                            "ていき"
+                        ],
+                        [
+                            "演奏会",
+                            "えんそうかい"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "頻繁に",
+                            "ひんぱん"
+                        ],
+                        [
+                            "開催",
+                            "かいさい"
+                        ],
+                        [
+                            "される",
+                            null
+                        ]
+                    ],
+                    "translation": "This year too there are many regular concerts for amateur musicians being held."
+                },
+                {
+                    "sentence": [
+                        [
+                            "汽車",
+                            "きしゃ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "中",
+                            "なか"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "眠っている",
+                            "ねむ"
+                        ],
+                        [
+                            "間",
+                            "あいだ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "財布",
+                            "さいふ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "定期",
+                            "ていき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "盗まれて",
+                            "ぬす"
+                        ],
+                        [
+                            "しまった",
+                            null
+                        ]
+                    ],
+                    "translation": "I had my purse and commuter ticket stolen while I was sleeping in the train."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "短",
+                    "たん"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. short-term Antonym: 長期 ちょうき"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "券",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. commuter pass; season ticket Abbreviation, See also 定期乗車券"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "末",
+                    "まっ"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. last years; closing years; last days; closing days; end; last stage; final stages; terminal stage (of a disease) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "雨",
+                    "う"
+                ],
+                [
+                    "季",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rainy season See also 乾季"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Wet season The monsoon season or rainy season, is the time of year, ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "雨期 【うき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "し"
+                ],
+                [
+                    "春",
+                    "しゅん"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. puberty; adolescence "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Puberty Puberty is the process of physical changes by which a chi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "同",
+                    "どう"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. same period; corresponding period 同期の人間の売上があがってきたから、俺もウカウカしてられないな。When one of my coworkers starts racking up good sales figures I can't let down my guard."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. same year (of graduation, entering a company, etc.); contemporary; classmate "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "3. synchronization; synchronism "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Synchronization Synchronization is timekeeping which requires the coordin... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "同期",
+                            "どうき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "人間",
+                            "にんげん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "売上",
+                            "うりあ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あがって",
+                            null
+                        ],
+                        [
+                            "きた",
+                            null
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "俺",
+                            "おれ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "ウカウカ",
+                            null
+                        ],
+                        [
+                            "してられない",
+                            null
+                        ],
+                        [
+                            "な",
+                            null
+                        ]
+                    ],
+                    "translation": "When one of my coworkers starts racking up good sales figures I can't let down my guard."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "乾",
+                    "かん"
+                ],
+                [
+                    "季",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dry season See also 雨期"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Dry season The dry season is a yearly period of low rainfall in the ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "乾期 【かんき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "賞",
+                    "しょう"
+                ],
+                [
+                    "味",
+                    "み"
+                ],
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. best-before date (on food); use-by date; expiry date; expiration date "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shelf life Shelf life is the length of time that foods, beverages, p... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

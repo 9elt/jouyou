@@ -1,0 +1,862 @@
+{
+    "kanji": "廊",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "corridor",
+        "hall",
+        "tower"
+    ],
+    "kun": [
+        "ロウ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.48908256880733947,
+            0.08146788990825689,
+            "c",
+            0.00944954128440367,
+            0.00944954128440367,
+            0.011559633027522935,
+            0.018256880733944953,
+            0.011559633027522935,
+            0.031192660550458714,
+            "c",
+            0,
+            0.015688073394495412,
+            -0.0006422018348623854,
+            0.050091743119266056,
+            -0.0006422018348623854,
+            0.0753211009174312
+        ],
+        [
+            "M",
+            0.18238532110091743,
+            0.21541284403669725,
+            "c",
+            0.02963302752293578,
+            0.010550458715596329,
+            0.06577981651376147,
+            0.005137614678899083,
+            0.09623853211009174,
+            0.002201834862385321,
+            "c",
+            0.13999999999999999,
+            -0.013486238532110091,
+            0.3202752293577981,
+            -0.02926605504587156,
+            0.4565137614678899,
+            -0.03752293577981651,
+            "c",
+            0.02926605504587156,
+            -0.0017431192660550458,
+            0.05834862385321101,
+            -0.0021100917431192663,
+            0.0871559633027523,
+            0.004036697247706422
+        ],
+        [
+            "M",
+            0.2132110091743119,
+            0.22706422018348624,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.010642201834862385,
+            0.022935779816513763,
+            0.010642201834862385,
+            0.03788990825688073,
+            "c",
+            0,
+            0.12385321100917432,
+            -0.024403669724770642,
+            0.41733944954128444,
+            -0.13623853211009174,
+            0.565045871559633
+        ],
+        [
+            "M",
+            0.3951376146788991,
+            0.26155963302752294,
+            "c",
+            0.008256880733944955,
+            0.008256880733944955,
+            0.00963302752293578,
+            0.017064220183486238,
+            0.00963302752293578,
+            0.030733944954128442,
+            "c",
+            0,
+            0.008715596330275228,
+            -0.0007339449541284404,
+            0.02853211009174312,
+            -0.0007339449541284404,
+            0.04990825688073395
+        ],
+        [
+            "M",
+            0.29027522935779815,
+            0.3550458715596331,
+            "c",
+            0.010183486238532111,
+            0.007339449541284404,
+            0.026972477064220183,
+            0.007247706422018349,
+            0.04706422018348624,
+            0.004495412844036697,
+            "c",
+            0.050366972477064224,
+            -0.006788990825688073,
+            0.14027522935779815,
+            -0.015963302752293577,
+            0.14926605504587157,
+            -0.017155963302752295,
+            "c",
+            0.021376146788990826,
+            -0.0029357798165137615,
+            0.02669724770642202,
+            0.010825688073394495,
+            0.02587155963302752,
+            0.024495412844036696,
+            "c",
+            -0.002752293577981651,
+            0.04559633027522936,
+            -0.006972477064220183,
+            0.1143119266055046,
+            -0.012201834862385321,
+            0.1701834862385321,
+            "c",
+            -0.0013761467889908255,
+            0.015045871559633026,
+            -0.0029357798165137615,
+            0.02908256880733945,
+            -0.004495412844036697,
+            0.04155963302752294
+        ],
+        [
+            "M",
+            0.316605504587156,
+            0.4638532110091743,
+            "c",
+            0.035321100917431195,
+            -0.003669724770642202,
+            0.1289908256880734,
+            -0.017522935779816513,
+            0.18256880733944952,
+            -0.020091743119266054
+        ],
+        [
+            "M",
+            0.31577981651376147,
+            0.5700000000000001,
+            "c",
+            0.038256880733944953,
+            -0.0039449541284403665,
+            0.09825688073394497,
+            -0.012660550458715595,
+            0.17119266055045873,
+            -0.019908256880733943
+        ],
+        [
+            "M",
+            0.2971559633027523,
+            0.3642201834862386,
+            "c",
+            0.0081651376146789,
+            0.0081651376146789,
+            0.00963302752293578,
+            0.018807339449541282,
+            0.00963302752293578,
+            0.030091743119266053,
+            "c",
+            0,
+            0.0076146788990825685,
+            -0.0005504587155963302,
+            0.2867889908256881,
+            -0.0006422018348623854,
+            0.3751376146788991,
+            "c",
+            0,
+            0.02651376146788991,
+            0.009724770642201836,
+            0.02926605504587156,
+            0.032018348623853214,
+            0.015321100917431192,
+            "c",
+            0.03788990825688073,
+            -0.023577981651376145,
+            0.10073394495412845,
+            -0.07027522935779816,
+            0.14174311926605504,
+            -0.0955045871559633
+        ],
+        [
+            "M",
+            0.4512844036697248,
+            0.6311009174311927,
+            "c",
+            0.027522935779816515,
+            0.024495412844036696,
+            0.07073394495412844,
+            0.08981651376146788,
+            0.0865137614678899,
+            0.14155963302752295
+        ],
+        [
+            "M",
+            0.5785321100917431,
+            0.32449541284403666,
+            "c",
+            0.014036697247706422,
+            0.0025688073394495416,
+            0.027706422018348623,
+            0.005596330275229358,
+            0.04201834862385321,
+            0.003119266055045872,
+            "c",
+            0.06522935779816515,
+            -0.01110091743119266,
+            0.11798165137614679,
+            -0.020275229357798165,
+            0.1555045871559633,
+            -0.02944954128440367,
+            "c",
+            0.03238532110091743,
+            -0.007981651376146788,
+            0.044311926605504585,
+            0.01688073394495413,
+            0.032018348623853214,
+            0.04036697247706422,
+            "C",
+            0.7900917431192661,
+            0.3726605504587156,
+            0.7706422018348624,
+            0.41284403669724773,
+            0.7385321100917431,
+            0.46366972477064217
+        ],
+        [
+            "M",
+            0.7400917431192661,
+            0.4684403669724771,
+            "C",
+            0.8967889908256881,
+            0.6032110091743119,
+            0.8623853211009175,
+            0.8371559633027523,
+            0.7571559633027523,
+            0.7564220183486239
+        ],
+        [
+            "M",
+            0.6063302752293578,
+            0.33440366972477065,
+            "c",
+            0.008440366972477065,
+            0.008440366972477065,
+            0.010550458715596329,
+            0.018807339449541282,
+            0.010550458715596329,
+            0.031926605504587154,
+            "c",
+            0,
+            0.006513761467889908,
+            -0.0008256880733944953,
+            0.3377981651376147,
+            -0.0008256880733944953,
+            0.4868807339449541,
+            "c",
+            0,
+            0.03238532110091743,
+            -0.0001834862385321101,
+            0.052752293577981654,
+            -0.0001834862385321101,
+            0.07110091743119266
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. corridor; passage; hall "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. corridor; passage; hall "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "廊",
+                    "ろう"
+                ],
+                [
+                    "下",
+                    "か"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. corridor; hallway; passageway "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. corridor; hallway; passageway "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "廊",
+                    null
+                ],
+                [
+                    "坊",
+                    null
+                ],
+                [
+                    "市",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Langfang Langfang, Hebei province, China, is a prefecture-level ci... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "廊",
+                    null
+                ],
+                [
+                    "坊",
+                    null
+                ],
+                [
+                    "事",
+                    null
+                ],
+                [
+                    "件",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Langfang Incident The Langfang Incident (廊坊事件) was a military incident of t... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "廊下沢",
+                "ろうかざわ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Roukazawa "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Roubou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "画",
+                    "が"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. art gallery (esp. artworks for sale); picture gallery See also ギャラリー"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "回",
+                    "かい"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. corridor; gallery; hallway; cloister (i.e. covered walk typically circling a building or garden, esp. in a palace or place of worship) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cloister A cloister (from Latin claustrum, \"enclosure\") is a recta... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "廻廊 【かいろう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ],
+                [
+                    "下",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. roofed corridor connecting two buildings; connecting passageway "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. skyway; skybridge; skywalk "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "身",
+                    "しん"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. nave (of a church) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Nave In Romanesque and Gothic Christian abbey, cathedral basil... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柱",
+                    "ちゅう"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pillared corridor "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Stoa Stoa in Ancient Greek architecture; covered walkways or p... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翼",
+                    "よく"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. transept "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Transept For the periodical go to The Transept. A transept (with 2... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "にっぽんがろうきょうかい"
+                ],
+                [
+                    "本",
+                    null
+                ],
+                [
+                    "画",
+                    null
+                ],
+                [
+                    "廊",
+                    null
+                ],
+                [
+                    "協",
+                    null
+                ],
+                [
+                    "会",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japan Gallery Association; JGA Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Japan Gallery Association; JGA "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "なか"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ],
+                [
+                    "下",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. central corridor; middle corridor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "門",
+                    "もん"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. corridor connecting an annex to a pond-side building (in traditional palatial-style architecture) See also 中門, See also 寝殿造り"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "門",
+                    "もん"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. corridor connecting an annex to a pond-side building (in traditional palatial-style architecture) See also 中門, See also 寝殿造り"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "回",
+                    "かい"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ],
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "帯",
+                    "たい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. corridor (belt of land) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "前",
+                    "ぜん"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. porch; portico; colonnaded entranceway; ante-hall "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "側",
+                    "そく"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. aisle (of a church) See also 身廊"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "開",
+                    "かい"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ],
+                [
+                    "時",
+                    "じ"
+                ],
+                [
+                    "間",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. opening hours of a gallery "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "歩",
+                    "ほ"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. corridor; gallery; platform; passageway "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "山",
+                    "さん"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. small buildings at the sides of a Zen temple gate (containing stairs to the upper storey) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. being present in a gallery (esp. of an artist at their own exhibition) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "道",
+                    "どう"
+                ],
+                [
+                    "回",
+                    "かい"
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. humanitarian corridor "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

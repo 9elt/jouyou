@@ -1,0 +1,1189 @@
+{
+    "kanji": "悔",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "repent",
+        "regret"
+    ],
+    "kun": [
+        "く.いる",
+        "く.やむ",
+        "くや.しい"
+    ],
+    "on": [
+        "カイ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.16743119266055045,
+            0.3623853211009174,
+            "c",
+            0,
+            0.06064220183486239,
+            -0.02724770642201835,
+            0.15009174311926604,
+            -0.034403669724770644,
+            0.16743119266055045
+        ],
+        [
+            "M",
+            0.29834862385321104,
+            0.3470642201834862,
+            "c",
+            0.02284403669724771,
+            0.013211009174311925,
+            0.05889908256880734,
+            0.05412844036697248,
+            0.06458715596330275,
+            0.07458715596330276
+        ],
+        [
+            "M",
+            0.24880733944954128,
+            0.14220183486238533,
+            "c",
+            0.009724770642201836,
+            0.009724770642201836,
+            0.013394495412844036,
+            0.027522935779816515,
+            0.013394495412844036,
+            0.04357798165137615,
+            "c",
+            0,
+            0.06348623853211009,
+            0.0001834862385321101,
+            0.4648623853211009,
+            0.0002752293577981651,
+            0.6273394495412844,
+            "c",
+            0,
+            0.03128440366972477,
+            0,
+            0.0536697247706422,
+            0,
+            0.06311926605504586
+        ],
+        [
+            "M",
+            0.5540366972477064,
+            0.13073394495412843,
+            "c",
+            0.0006422018348623854,
+            0.009816513761467891,
+            -0.0007339449541284404,
+            0.020825688073394497,
+            -0.0045871559633027525,
+            0.03018348623853211,
+            "C",
+            0.5240366972477064,
+            0.2236697247706422,
+            0.4759633027522936,
+            0.3165137614678899,
+            0.41284403669724773,
+            0.3853211009174312
+        ],
+        [
+            "M",
+            0.5236697247706422,
+            0.27458715596330274,
+            "c",
+            0.00834862385321101,
+            0.0016513761467889907,
+            0.0326605504587156,
+            0.0002752293577981651,
+            0.0408256880733945,
+            -0.0006422018348623854,
+            "c",
+            0.04275229357798165,
+            -0.005045871559633028,
+            0.15816513761467887,
+            -0.023211009174311924,
+            0.22348623853211008,
+            -0.03422018348623853,
+            "c",
+            0.01724770642201835,
+            -0.0029357798165137615,
+            0.030275229357798163,
+            -0.0033027522935779813,
+            0.047339449541284405,
+            -0.0012844036697247708
+        ],
+        [
+            "M",
+            0.5129357798165137,
+            0.3801834862385321,
+            "c",
+            0.004311926605504587,
+            0.015412844036697248,
+            0.002477064220183486,
+            0.02660550458715596,
+            -0.003119266055045872,
+            0.04458715596330275,
+            "C",
+            0.481651376146789,
+            0.5137614678899083,
+            0.4610091743119266,
+            0.5779816513761468,
+            0.4197247706422018,
+            0.6642201834862386,
+            "c",
+            -0.012110091743119267,
+            0.02522935779816514,
+            -0.0017431192660550458,
+            0.0344954128440367,
+            0.014587155963302753,
+            0.03605504587155964,
+            "C",
+            0.536697247706422,
+            0.7099082568807339,
+            0.5963302752293578,
+            0.7178899082568807,
+            0.6980733944954128,
+            0.745045871559633,
+            "c",
+            0.04963302752293578,
+            0.013211009174311925,
+            0.09807339449541284,
+            0.035871559633027524,
+            0.14697247706422017,
+            0.06394495412844037
+        ],
+        [
+            "M",
+            0.5236697247706422,
+            0.403394495412844,
+            "c",
+            0.05201834862385321,
+            -0.006605504587155963,
+            0.17697247706422017,
+            -0.023761467889908256,
+            0.2230275229357798,
+            -0.030275229357798163,
+            "c",
+            0.03036697247706422,
+            -0.004220183486238533,
+            0.050366972477064224,
+            0.011467889908256881,
+            0.04761467889908257,
+            0.035688073394495416,
+            "C",
+            0.7798165137614679,
+            0.5389908256880734,
+            0.7427522935779816,
+            0.7150458715596331,
+            0.7048623853211009,
+            0.8145871559633028,
+            "c",
+            -0.02743119266055046,
+            0.07192660550458715,
+            -0.04623853211009174,
+            0.07275229357798164,
+            -0.0811926605504587,
+            0.03486238532110091
+        ],
+        [
+            "M",
+            0.6468807339449542,
+            0.41706422018348627,
+            "c",
+            0.004495412844036697,
+            0.01073394495412844,
+            0.003669724770642202,
+            0.021009174311926605,
+            0.0008256880733944953,
+            0.03055045871559633,
+            "c",
+            -0.02963302752293578,
+            0.09834862385321101,
+            -0.049082568807339445,
+            0.1544954128440367,
+            -0.081651376146789,
+            0.25238532110091744
+        ],
+        [
+            "M",
+            0.3461467889908257,
+            0.5677064220183486,
+            "c",
+            0.020825688073394497,
+            0.0045871559633027525,
+            0.04614678899082569,
+            0.004311926605504587,
+            0.0644954128440367,
+            0.002752293577981651,
+            "c",
+            0.10889908256880733,
+            -0.00963302752293578,
+            0.30036697247706423,
+            -0.02568807339449541,
+            0.44256880733944953,
+            -0.029908256880733942,
+            "c",
+            0.019357798165137614,
+            -0.0005504587155963302,
+            0.041100917431192666,
+            0.0006422018348623854,
+            0.059908256880733944,
+            0.006146788990825688
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "悔",
+                    "くや"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. frustrated (over a failure, humiliation or injustice); annoyed; chagrined; (bitterly) disappointed; bitter; vexed; frustrating; annoying; regrettable "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "口惜しい 【くやしい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "口惜しい: Rarely-used kanji form."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. frustrated (over a failure, humiliation or injustice); annoyed; chagrined; (bitterly) disappointed; bitter; vexed; frustrating; annoying; regrettable "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "口惜しい 【くやしい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "口惜しい: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "く"
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to mourn; to lament あの方があんなに若くして亡くなったことは悔やまれます。It is regrettable that she should have died so young."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to be sorry; to regret; to repent よーし！覚えてろ。後で悔やむなよ。All right! You will be sorry for this."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔む 【くやむ】"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to mourn; to lament あの方があんなに若くして亡くなったことは悔やまれます。It is regrettable that she should have died so young."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to be sorry; to regret; to repent よーし！覚えてろ。後で悔やむなよ。All right! You will be sorry for this."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔む 【くやむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あの方",
+                            "あのかた"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あんなに",
+                            null
+                        ],
+                        [
+                            "若くして",
+                            "わか"
+                        ],
+                        [
+                            "亡くなった",
+                            "な"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "悔やまれます",
+                            "く"
+                        ]
+                    ],
+                    "translation": "It is regrettable that she should have died so young."
+                },
+                {
+                    "sentence": [
+                        [
+                            "よーし",
+                            null
+                        ],
+                        [
+                            "覚えてろ",
+                            "おぼ"
+                        ],
+                        [
+                            "後",
+                            "あと"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "悔やむ",
+                            "く"
+                        ],
+                        [
+                            "な",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "All right! You will be sorry for this."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "く"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. regret; repentance "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. regret; repentance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "く"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to regret "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to regret "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "かい"
+                ],
+                [
+                    "恨",
+                    "こん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. regret; remorse; repentance; contrition "
+                },
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. regret; remorse; repentance; contrition "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "くや"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to seem bitter (over); to appear vexed; to be resentful; to appear to regret "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to seem bitter (over); to appear vexed; to be resentful; to appear to regret "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "くや"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "泣",
+                    "な"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. crying from vexation; tears of regret "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔泣 【くやしなき】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. crying from vexation; tears of regret "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔泣 【くやしなき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "くや"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "涙",
+                    "なみだ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tears of regret; bitter tears; vexation; chagrin "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔やし涙 【くやしなみだ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. tears of regret; bitter tears; vexation; chagrin "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔やし涙 【くやしなみだ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "く"
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. condolence; condolences "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔み 【くやみ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. condolence; condolences "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔み 【くやみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "かい"
+                ],
+                [
+                    "心",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. contrition Rare term, See also 痛悔"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "くや"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "紛",
+                    "まぎ"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. spite; frustration; vexation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔しまぎれ 【くやしまぎれ】"
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. spite; frustration; vexation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔しまぎれ 【くやしまぎれ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "改",
+                    "かい"
+                ],
+                [
+                    "悛",
+                    "しゅん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. repentance; contrition "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔悛 【かいしゅん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "くや"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "さ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chagrin; bitterness; frustration; vexation; mortification; regret "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. chagrin; bitterness; frustration; vexation; mortification; regret "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "く"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "改",
+                    "あらた"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. repentance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔改め 【くいあらため】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. repentance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔改め 【くいあらため】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "く"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. no regrets; without regrets "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔い無し 【くいなし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "かい"
+                ],
+                [
+                    "悟",
+                    "ご"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. remorse; repentance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "く"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "改",
+                    "あらた"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to repent; to be penitent "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔改める 【くいあらためる】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to repent; to be penitent "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔改める 【くいあらためる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "くや"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "坊",
+                    "ぼう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spiteful person "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "かい"
+                ],
+                [
+                    "悛",
+                    "しゅん"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "秘",
+                    "ひ"
+                ],
+                [
+                    "跡",
+                    "せき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. sacrament of penance and reconciliation Obsolete term, See also ゆるしの秘跡"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悔",
+                    "く"
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "状",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. letter of condolence; condolence message "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔み状 【くやみじょう】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. letter of condolence; condolence message "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "悔み状 【くやみじょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "後",
+                    "こう"
+                ],
+                [
+                    "悔",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. regret; repentance; remorse "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "悔",
+                    "く"
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "申",
+                    "もう"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. my condolences; my deepest sympathy 心からお悔やみ申し上げます。Please accept my sincerest condolences."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "心から",
+                            "こころ"
+                        ],
+                        [
+                            "お悔やみ申し上げます",
+                            "おくやみもうしあ"
+                        ]
+                    ],
+                    "translation": "Please accept my sincerest condolences."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "相",
+                    "あい"
+                ],
+                [
+                    "悔",
+                    "くや"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. mutual mourning (during which one does not make condolence calls or offer to help others also in mourning) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "相悔やみ 【あいくやみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "悔",
+                    "く"
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. condolences Polite (teineigo) language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "お悔み 【おくやみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いち"
+                ],
+                [
+                    "億",
+                    "おく"
+                ],
+                [
+                    "総",
+                    "そう"
+                ],
+                [
+                    "懺",
+                    "ざん"
+                ],
+                [
+                    "悔",
+                    "げ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. national confession of Japanese war guilt (1945) Historical term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "悔",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. contrition; extreme regret "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. contrition (in Catholicism) Christianity"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

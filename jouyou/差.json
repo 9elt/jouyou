@@ -1,0 +1,2194 @@
+{
+    "kanji": "差",
+    "grade": 4,
+    "jlpt": 3,
+    "meanings": [
+        "distinction",
+        "difference",
+        "variation",
+        "discrepancy",
+        "margin",
+        "balance"
+    ],
+    "kun": [
+        "さ.す",
+        "さ.し"
+    ],
+    "on": [
+        "サ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.3321100917431193,
+            0.13376146788990825,
+            "c",
+            0.03055045871559633,
+            0.01798165137614679,
+            0.07889908256880733,
+            0.07403669724770642,
+            0.0865137614678899,
+            0.1020183486238532
+        ],
+        [
+            "M",
+            0.6404587155963303,
+            0.10798165137614678,
+            "c",
+            0.0002752293577981651,
+            0.0039449541284403665,
+            0.0005504587155963302,
+            0.010183486238532111,
+            -0.0005504587155963302,
+            0.015963302752293577,
+            "c",
+            -0.0057798165137614675,
+            0.02853211009174312,
+            -0.034770642201834866,
+            0.08587155963302752,
+            -0.07623853211009175,
+            0.1301834862385321
+        ],
+        [
+            "M",
+            0.283302752293578,
+            0.3044036697247706,
+            "c",
+            0.021743119266055048,
+            0.0029357798165137615,
+            0.04596330275229358,
+            0.0021100917431192663,
+            0.06412844036697248,
+            0.0003669724770642202,
+            "c",
+            0.07577981651376146,
+            -0.006972477064220183,
+            0.21559633027522937,
+            -0.024954128440366975,
+            0.30513761467889905,
+            -0.03036697247706422,
+            "c",
+            0.019174311926605504,
+            -0.0011926605504587156,
+            0.03954128440366972,
+            -0.0001834862385321101,
+            0.058440366972477065,
+            0.0045871559633027525
+        ],
+        [
+            "M",
+            0.49376146788990827,
+            0.3044036697247706,
+            "c",
+            0.008623853211009174,
+            0.008623853211009174,
+            0.013211009174311925,
+            0.020458715596330276,
+            0.013211009174311925,
+            0.028899082568807338,
+            "c",
+            0,
+            0.03376146788990826,
+            0.0002752293577981651,
+            0.11403669724770642,
+            0.0002752293577981651,
+            0.16908256880733943
+        ],
+        [
+            "M",
+            0.3012844036697248,
+            0.4148623853211009,
+            "c",
+            0.01981651376146789,
+            0.004862385321100918,
+            0.04211009174311926,
+            0.003119266055045872,
+            0.06,
+            0.0005504587155963302,
+            "c",
+            0.08027522935779817,
+            -0.01165137614678899,
+            0.1926605504587156,
+            -0.024587155963302753,
+            0.26376146788990823,
+            -0.03238532110091743,
+            "c",
+            0.017889908256880735,
+            -0.002018348623853211,
+            0.036238532110091745,
+            -0.002752293577981651,
+            0.05385321100917431,
+            0.0017431192660550458
+        ],
+        [
+            "M",
+            0.17871559633027523,
+            0.5263302752293578,
+            "c",
+            0.033486238532110094,
+            0.006880733944954129,
+            0.060183486238532105,
+            0.006880733944954129,
+            0.0875229357798165,
+            0.003853211009174312,
+            "c",
+            0.11688073394495413,
+            -0.013027522935779816,
+            0.3531192660550459,
+            -0.03018348623853211,
+            0.4803669724770642,
+            -0.03605504587155964,
+            "c",
+            0.027981651376146787,
+            -0.0012844036697247708,
+            0.05577981651376147,
+            -0.0010091743119266055,
+            0.08330275229357799,
+            0.005045871559633028
+        ],
+        [
+            "M",
+            0.37119266055045874,
+            0.5506422018348625,
+            "c",
+            0.001559633027522936,
+            0.008990825688073394,
+            0.0010091743119266055,
+            0.020366972477064222,
+            -0.003853211009174312,
+            0.03018348623853211,
+            "C",
+            0.3351376146788991,
+            0.6462385321100917,
+            0.26605504587155965,
+            0.7614678899082569,
+            0.12495412844036696,
+            0.8612844036697247
+        ],
+        [
+            "M",
+            0.40623853211009175,
+            0.6567889908256881,
+            "c",
+            0.020366972477064222,
+            0.004954128440366972,
+            0.03954128440366972,
+            0.0032110091743119264,
+            0.056972477064220185,
+            0.0008256880733944953,
+            "c",
+            0.0481651376146789,
+            -0.006422018348623853,
+            0.15229357798165138,
+            -0.020091743119266054,
+            0.20871559633027523,
+            -0.024954128440366975,
+            "c",
+            0.016055045871559634,
+            -0.0013761467889908255,
+            0.031743119266055046,
+            -0.002660550458715596,
+            0.04743119266055046,
+            0.002201834862385321
+        ],
+        [
+            "M",
+            0.5461467889908257,
+            0.6700917431192661,
+            "c",
+            0.008256880733944955,
+            0.008256880733944955,
+            0.012201834862385321,
+            0.020275229357798165,
+            0.012201834862385321,
+            0.033211009174311926,
+            "c",
+            0,
+            0.056055045871559635,
+            0.0003669724770642202,
+            0.09137614678899084,
+            0.0003669724770642202,
+            0.15284403669724772
+        ],
+        [
+            "M",
+            0.30275229357798167,
+            0.8744954128440366,
+            "c",
+            0.02642201834862385,
+            0.00963302752293578,
+            0.05,
+            0.010183486238532111,
+            0.0808256880733945,
+            0.006697247706422018,
+            "c",
+            0.1143119266055046,
+            -0.012844036697247705,
+            0.2598165137614679,
+            -0.022110091743119266,
+            0.36816513761467895,
+            -0.026238532110091743,
+            "c",
+            0.02642201834862385,
+            -0.0010091743119266055,
+            0.05467889908256881,
+            -0.0005504587155963302,
+            0.07972477064220183,
+            0.00963302752293578
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. difference; variation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. difference Mathematics"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. difference; variation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. difference Mathematics"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. between (e.g. two people); face to face "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. hindrance; impediment "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. arrhythmic section of recitative Noh, Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. playing with only 2 players Hanafuda, Mahjong"
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "5. prefix used for stress or emphasis "
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "6. counter for traditional dance songs "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "指し 【さし】、差 【さし】、指 【さし】、サシ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "別",
+                    "べつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. distinction; differentiation; discrimination "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. discrimination (against people) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Discrimination Discrimination is the prejudicial treatment of an individ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差別 【しゃべつ】、差別 【しゃべち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "しゃべつ: Out-dated or obsolete kana usage. しゃべち: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. distinction; differentiation; discrimination "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. discrimination (against people) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Discrimination Discrimination is the prejudicial treatment of an individ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差別 【しゃべつ】、差別 【しゃべち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "しゃべつ: Out-dated or obsolete kana usage. しゃべち: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to shine See also 射す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "2. to be visible "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "3. to be tinged with ほお紅や口紅を差すだけで表情や笑顔がどんどん変わってくるんです。Expressions and smiles change like that just from applying rouge and lipstick."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "4. to rise (of water levels); to flow in "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "5. to be felt (i.e. as an emotion); to come over one See also 気が差す, See also 魔が差す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "6. to hold up (an umbrella, etc.); to put up; to raise 彼は雨の中を傘もささずに歩きつづけた。He went on walking in the rain without an umbrella."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "7. to extend one's arm straight ahead (in dance) See also 指す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "8. to insert; to put in See also 挿す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "9. to wear (a sword) in one's belt; to wear at one's side; to carry under one's arm See also 挿す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "10. to insert one's arm under an opponent's arm Sumo"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "11. to pole (a boat) See also 刺す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "12. to pour; to add (liquid); to serve (drinks) See also 注す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "13. to put on (lipstick, etc.); to apply; to colour; to dye See also 点す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "14. to light (a fire); to burn See also 点す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "15. to shut; to close; to lock; to fasten See also 鎖す"
+                },
+                {
+                    "type": "Suffix, Godan verb with 'su' ending",
+                    "meaning": "16. to stop in the midst of; to leave undone See also 止す, after the -masu stem of a verb"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to shine See also 射す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "2. to be visible "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "3. to be tinged with ほお紅や口紅を差すだけで表情や笑顔がどんどん変わってくるんです。Expressions and smiles change like that just from applying rouge and lipstick."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "4. to rise (of water levels); to flow in "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "5. to be felt (i.e. as an emotion); to come over one See also 気が差す, See also 魔が差す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "6. to hold up (an umbrella, etc.); to put up; to raise 彼は雨の中を傘もささずに歩きつづけた。He went on walking in the rain without an umbrella."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "7. to extend one's arm straight ahead (in dance) See also 指す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "8. to insert; to put in See also 挿す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "9. to wear (a sword) in one's belt; to wear at one's side; to carry under one's arm See also 挿す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "10. to insert one's arm under an opponent's arm Sumo"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "11. to pole (a boat) See also 刺す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "12. to pour; to add (liquid); to serve (drinks) See also 注す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "13. to put on (lipstick, etc.); to apply; to colour; to dye See also 点す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "14. to light (a fire); to burn See also 点す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "15. to shut; to close; to lock; to fasten See also 鎖す"
+                },
+                {
+                    "type": "Suffix, Godan verb with 'su' ending",
+                    "meaning": "16. to stop in the midst of; to leave undone See also 止す, after the -masu stem of a verb"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ほお紅",
+                            null
+                        ],
+                        [
+                            "や",
+                            null
+                        ],
+                        [
+                            "口紅",
+                            "くちべに"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "差す",
+                            "さ"
+                        ],
+                        [
+                            "だけ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "表情",
+                            "ひょうじょう"
+                        ],
+                        [
+                            "や",
+                            null
+                        ],
+                        [
+                            "笑顔",
+                            "えがお"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "どんどん",
+                            null
+                        ],
+                        [
+                            "変わって",
+                            "か"
+                        ],
+                        [
+                            "くる",
+                            null
+                        ],
+                        [
+                            "んです",
+                            null
+                        ]
+                    ],
+                    "translation": "Expressions and smiles change like that just from applying rouge and lipstick."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "雨",
+                            "あめ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "中",
+                            "なか"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "傘",
+                            "かさ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "ささず",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "歩き",
+                            "ある"
+                        ],
+                        [
+                            "つづけた",
+                            null
+                        ]
+                    ],
+                    "translation": "He went on walking in the rain without an umbrella."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "異",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. difference; disparity; gap "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Difference (philosophy) Difference is a key concept of continental philosophy, de... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差違 【さい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. difference; disparity; gap "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Difference (philosophy) Difference is a key concept of continental philosophy, de... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差違 【さい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to lift up; to hold up; to raise 彼はトロフィーを高々と差し上げた。He held the trophy up high."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to give; to present; to offer Humble (kenjougo) language飲み物を差し上げましょうか。May I offer you a drink?"
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "3. to do (for someone) Humble (kenjougo) language, after -te form of verb; more respectful than 〜して上げる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差上げる 【さしあげる】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to lift up; to hold up; to raise 彼はトロフィーを高々と差し上げた。He held the trophy up high."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to give; to present; to offer Humble (kenjougo) language飲み物を差し上げましょうか。May I offer you a drink?"
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "3. to do (for someone) Humble (kenjougo) language, after -te form of verb; more respectful than 〜して上げる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差上げる 【さしあげる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "トロフィー",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "高々と",
+                            "たかだか"
+                        ],
+                        [
+                            "差し上げた",
+                            "さしあ"
+                        ]
+                    ],
+                    "translation": "He held the trophy up high."
+                },
+                {
+                    "sentence": [
+                        [
+                            "飲み物",
+                            "のみもの"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "差し上げ",
+                            "さしあ"
+                        ],
+                        [
+                            "ましょうか",
+                            null
+                        ]
+                    ],
+                    "translation": "May I offer you a drink?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "支",
+                    "つか"
+                ],
+                [
+                    "え",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hindrance; impediment "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差支え 【さしつかえ】、差閊 【さしつかえ】、差閊え 【さしつかえ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "差閊: Irregular kanji usage. 差閊え: Irregular kanji usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. hindrance; impediment "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差支え 【さしつかえ】、差閊 【さしつかえ】、差閊え 【さしつかえ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "差閊: Irregular kanji usage. 差閊え: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "額",
+                    "がく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. balance; difference (in price, cost); margin "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. balance; difference (in price, cost); margin "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to present; to submit; to tender; to hold out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差出す 【さしだす】、さし出す 【さしだす】、差しだす 【さしだす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to present; to submit; to tender; to hold out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差出す 【さしだす】、さし出す 【さしだす】、差しだす 【さしだす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "掛",
+                    "か"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to come near (to); to approach 私達が峠にさしかかる頃に雨になった。It began to rain as we came near the pass."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be on the verge of; to be about to reach (a stage, period, etc.); to approach (e.g. a climax) 交渉はとても微妙な段階にさしかかっている。The negotiations are at a very delicate stage."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to overhang; to hang over "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差しかかる 【さしかかる】、差し掛る 【さしかかる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to come near (to); to approach 私達が峠にさしかかる頃に雨になった。It began to rain as we came near the pass."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be on the verge of; to be about to reach (a stage, period, etc.); to approach (e.g. a climax) 交渉はとても微妙な段階にさしかかっている。The negotiations are at a very delicate stage."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to overhang; to hang over "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差しかかる 【さしかかる】、差し掛る 【さしかかる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私達",
+                            "わたし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "峠",
+                            "とうげ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "さしかかる",
+                            null
+                        ],
+                        [
+                            "頃",
+                            "ころ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "雨",
+                            "あめ"
+                        ],
+                        [
+                            "になった",
+                            null
+                        ]
+                    ],
+                    "translation": "It began to rain as we came near the pass."
+                },
+                {
+                    "sentence": [
+                        [
+                            "交渉",
+                            "こうしょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "とても",
+                            null
+                        ],
+                        [
+                            "微妙な",
+                            "びみょう"
+                        ],
+                        [
+                            "段階",
+                            "だんかい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "さしかかっている",
+                            null
+                        ]
+                    ],
+                    "translation": "The negotiations are at a very delicate stage."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さし"
+                ],
+                [
+                    "出",
+                    "だし"
+                ],
+                [
+                    "人",
+                    "にん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sender (e.g. of mail) Antonym: 受取人"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差し出し人 【さしだしにん】、差出し人 【さしだしにん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "引",
+                    "ひ"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to deduct; to take away; to dock; to discount "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "2. to make allowances (for something); to bear (something) in mind "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "3. to ebb and flow "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差引く 【さしひく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "当",
+                    "あ"
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. for the time being; at present Usually written using kana alone, See also 差し当たって"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. hindrance Archaic, See also 差し障り"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差当り 【さしあたり】、さし当たり 【さしあたり】、差しあたり 【さしあたり】、差当たり 【さしあたり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "伸",
+                    "の"
+                ],
+                [
+                    "べ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to hold out; to extend (e.g. one's hands); to stretch; to reach out for "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to thrust (javelin) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to offer (e.g. aid, help, etc.) See also 手を差し伸べる私が出来る限りの援助を彼に差しのべるつもりです。I'll offer him what help I can."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差し延べる 【さしのべる】、差伸べる 【さしのべる】、差延べる 【さしのべる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "出来る限り",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "援助",
+                            "えんじょ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "差しのべる",
+                            "さ"
+                        ],
+                        [
+                            "つもり",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "I'll offer him what help I can."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to insert; to put in; to thrust in; to plug in See also 挿し込む さしこむしかもなお、石の大きいブロックが非常にぴったりと合わさっているので、ブロックの間にナイフの先を差し込むことができない。And yet the large blocks of stone are fitted together so closely that you cannot put in the point of a knife between them."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to have a griping pain "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "3. to flow in; to shine in See also 射し込むこんもりと茂った木々の葉を通して日光が差し込んだ。The sunshine penetrated the thick leaves of the trees."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差込む 【さしこむ】、差しこむ 【さしこむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "しかも",
+                            null
+                        ],
+                        [
+                            "なお",
+                            null
+                        ],
+                        [
+                            "石",
+                            "いし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "大きい",
+                            "おお"
+                        ],
+                        [
+                            "ブロック",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "非常に",
+                            "ひじょう"
+                        ],
+                        [
+                            "ぴったりと",
+                            null
+                        ],
+                        [
+                            "合わさっている",
+                            "あわさ"
+                        ],
+                        [
+                            "ので",
+                            null
+                        ],
+                        [
+                            "ブロック",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "間",
+                            "あいだ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ナイフ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "先",
+                            "さき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "差し込む",
+                            "さしこ"
+                        ],
+                        [
+                            "ことができない",
+                            null
+                        ]
+                    ],
+                    "translation": "And yet the large blocks of stone are fitted together so closely that you cannot put in the point of a knife between them."
+                },
+                {
+                    "sentence": [
+                        [
+                            "こんもり",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "茂った",
+                            "しげ"
+                        ],
+                        [
+                            "木々",
+                            "きぎ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "葉",
+                            "は"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "通して",
+                            "とお"
+                        ],
+                        [
+                            "日光",
+                            "にっこう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "差し込んだ",
+                            "さしこ"
+                        ]
+                    ],
+                    "translation": "The sunshine penetrated the thick leaves of the trees."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "迫",
+                    "せま"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be imminent; to be impending; to be pressing; to be urgent "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "引",
+                    "ひ"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. deduction; subtraction; balance "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. ebb and flow; rise and fall "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差引き 【さしひき】、差引 【さしひき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "差引: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "支",
+                    "つか"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to interfere (with); to hinder; to be hindered (from doing); to become impeded; to have difficulty; to suffer inconvenience "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差支える 【さしつかえる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "挟",
+                    "はさ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to insert "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to interrupt; to slip in a word 「ええ、そうね」とスーザンが言葉をさしはさむ。「私が電話したのは・・・」\"Ah, that's true,\" Susan puts in, \"I just wanted to call to ...\""
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "3. to harbor (e.g. doubts); to harbour; to entertain (e.g. a theory) それで疑いをさしはさむ余地はなくなる。That leaves no room for doubt."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "挟む 【さしはさむ】、差し挾む 【さしはさむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ええ",
+                            null
+                        ],
+                        [
+                            "そうね",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "言葉",
+                            "ことば"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "さしはさむ",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "電話",
+                            "でんわ"
+                        ],
+                        [
+                            "した",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ]
+                    ],
+                    "translation": "\"Ah, that's true,\" Susan puts in, \"I just wanted to call to ...\""
+                },
+                {
+                    "sentence": [
+                        [
+                            "それで",
+                            null
+                        ],
+                        [
+                            "疑い",
+                            "うたが"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "さしはさむ",
+                            null
+                        ],
+                        [
+                            "余地",
+                            "よち"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "なくなる",
+                            null
+                        ]
+                    ],
+                    "translation": "That leaves no room for doubt."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "支",
+                    "つか"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. (having) no objection; allowable See also 差し支える"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "差支え無い 【さしつかえない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "差ケ久保",
+                "さしがくぼ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Sashigakubo "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Sashigakubo "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Sakubo "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "交",
+                    "こう"
+                ],
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "点",
+                    "てん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. crossing; intersection "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Intersection (road) An intersection is a road junction where two or more road... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "交叉点 【こうさてん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "交叉点: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "人",
+                    "ひと"
+                ],
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "指",
+                    "ゆび"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. index finger; forefinger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. second toe "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Index finger The index finger, (also referred to as forefinger, pointe... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "人差指 【ひとさしゆび】、人指し指 【ひとさしゆび】、人さし指 【ひとさしゆび】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "ひ"
+                ],
+                [
+                    "差",
+                    "ざ"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sunlight; rays of the Sun "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "陽射し 【ひざし】、日射し 【ひざし】、陽差し 【ひざし】、日ざし 【ひざし】、陽ざし 【ひざし】、日差 【ひざし】、陽射 【ひざし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "物",
+                    "もの"
+                ],
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ruler; measure "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "物差 【ものさし】、物指し 【ものさし】、物指 【ものさし】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "物指し: Rarely-used kanji form. 物指: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "目",
+                    "め"
+                ],
+                [
+                    "指",
+                    "ざ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to aim at (for, to do, to become); to try for; to have an eye on 教育はテストに合格することを目指すべきでない。Education shouldn't be aimed at passing a test."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to go toward; to head for アメリカ人はみんな、成功の機会のある北部を目指している。Americans are all heading north to the land of opportunity."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "目差す 【めざす】、目ざす 【めざす】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "教育",
+                            "きょういく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "テスト",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "合格",
+                            "ごうかく"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "目指す",
+                            "めざ"
+                        ],
+                        [
+                            "べき",
+                            null
+                        ],
+                        [
+                            "でない",
+                            null
+                        ]
+                    ],
+                    "translation": "Education shouldn't be aimed at passing a test."
+                },
+                {
+                    "sentence": [
+                        [
+                            "アメリカ人",
+                            "アメリカじん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "みんな",
+                            null
+                        ],
+                        [
+                            "成功",
+                            "せいこう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "機会",
+                            "きかい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "北部",
+                            "ほくぶ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "目指している",
+                            "めざ"
+                        ]
+                    ],
+                    "translation": "Americans are all heading north to the land of opportunity."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "交",
+                    "こう"
+                ],
+                [
+                    "差",
+                    "さ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. crossing; intersection ２本の道が十文字に交差している。The two roads cut across the street from us."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. (genetic) crossing over Biology"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "交叉 【こうさ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "道",
+                            "みち"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "十文字",
+                            "じゅうもんじ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "交差",
+                            "こうさ"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "The two roads cut across the street from us."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "時",
+                    "じ"
+                ],
+                [
+                    "差",
+                    "さ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. time difference "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "誤",
+                    "ご"
+                ],
+                [
+                    "差",
+                    "さ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. measurement error; calculation error "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "格",
+                    "かく"
+                ],
+                [
+                    "差",
+                    "さ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. qualitative difference; disparity; gap "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "指",
+                    "ゆび"
+                ],
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to point at "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "指さす 【ゆびさす】、指指す 【ゆびさす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "指指す: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偏",
+                    "へん"
+                ],
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "値",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. deviation value (usu. scaled to mean of 50, standard deviation of 10, and often used for academic grades); deviation; T-score; standard score "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Standard score In statistics, a standard score indicates by how many sta... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

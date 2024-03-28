@@ -1,0 +1,968 @@
+{
+    "kanji": "紺",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "dark blue",
+        "navy"
+    ],
+    "kun": [
+        "コン"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.2741284403669725,
+            0.13,
+            "c",
+            0.003119266055045872,
+            0.012293577981651376,
+            0.0014678899082568807,
+            0.025045871559633028,
+            -0.006146788990825688,
+            0.03715596330275229,
+            "c",
+            -0.03972477064220183,
+            0.06330275229357799,
+            -0.05862385321100917,
+            0.09467889908256881,
+            -0.10596330275229358,
+            0.15339449541284403,
+            "c",
+            -0.010550458715596329,
+            0.013119266055045872,
+            -0.00944954128440367,
+            0.02688073394495413,
+            0.0022935779816513763,
+            0.030733944954128442,
+            "c",
+            0.033486238532110094,
+            0.011009174311926604,
+            0.05623853211009174,
+            0.019357798165137614,
+            0.08458715596330275,
+            0.041834862385321095
+        ],
+        [
+            "M",
+            0.37889908256880733,
+            0.2310091743119266,
+            "c",
+            0.001834862385321101,
+            0.009816513761467891,
+            -0.00045871559633027525,
+            0.022477064220183487,
+            -0.006880733944954129,
+            0.030642201834862385,
+            "c",
+            -0.06651376146788991,
+            0.08513761467889908,
+            -0.15128440366972476,
+            0.18055045871559633,
+            -0.22458715596330275,
+            0.2563302752293578,
+            "c",
+            -0.016788990825688074,
+            0.017339449541284403,
+            -0.007522935779816513,
+            0.03018348623853211,
+            0.012844036697247705,
+            0.026055045871559632,
+            "c",
+            0.04724770642201835,
+            -0.009541284403669725,
+            0.15706422018348626,
+            -0.04119266055045872,
+            0.21596330275229356,
+            -0.05532110091743119
+        ],
+        [
+            "M",
+            0.35440366972477066,
+            0.43467889908256885,
+            "c",
+            0.022293577981651377,
+            0.020366972477064222,
+            0.05752293577981651,
+            0.08385321100917431,
+            0.06302752293577982,
+            0.11559633027522935
+        ],
+        [
+            "M",
+            0.2696330275229358,
+            0.5492660550458716,
+            "c",
+            0.006880733944954129,
+            0.006880733944954129,
+            0.008990825688073394,
+            0.01724770642201835,
+            0.008990825688073394,
+            0.035229357798165134,
+            "c",
+            0,
+            0.05256880733944955,
+            -0.00045871559633027525,
+            0.1714678899082569,
+            -0.0008256880733944953,
+            0.24348623853211007,
+            "c",
+            -0.0001834862385321101,
+            0.03376146788990826,
+            -0.0002752293577981651,
+            0.05770642201834862,
+            -0.0002752293577981651,
+            0.06073394495412844
+        ],
+        [
+            "M",
+            0.18678899082568806,
+            0.6362385321100917,
+            "c",
+            0.0012844036697247708,
+            0.008623853211009174,
+            0.0012844036697247708,
+            0.018990825688073393,
+            -0.003577981651376147,
+            0.0318348623853211,
+            "c",
+            -0.01688073394495413,
+            0.04412844036697247,
+            -0.05302752293577982,
+            0.1201834862385321,
+            -0.07541284403669725,
+            0.15477064220183487
+        ],
+        [
+            "M",
+            0.3548623853211009,
+            0.6219266055045872,
+            "c",
+            0.0263302752293578,
+            0.036238532110091745,
+            0.04660550458715596,
+            0.12027522935779816,
+            0.0526605504587156,
+            0.1531192660550459
+        ],
+        [
+            "M",
+            0.4207339449541284,
+            0.3579816513761468,
+            "c",
+            0.02284403669724771,
+            0.008073394495412844,
+            0.04899082568807339,
+            0.0039449541284403665,
+            0.07238532110091743,
+            0.0017431192660550458,
+            "c",
+            0.08587155963302752,
+            -0.007981651376146788,
+            0.2194495412844037,
+            -0.0218348623853211,
+            0.3429357798165138,
+            -0.03110091743119266,
+            "c",
+            0.022110091743119266,
+            -0.0016513761467889907,
+            0.042477064220183484,
+            -0.002201834862385321,
+            0.06431192660550458,
+            0.002477064220183486
+        ],
+        [
+            "M",
+            0.5313761467889908,
+            0.18229357798165138,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.013119266055045872,
+            0.0218348623853211,
+            0.013119266055045872,
+            0.0336697247706422,
+            "c",
+            0,
+            0.006238532110091744,
+            -0.0006422018348623854,
+            0.41577981651376145,
+            -0.0008256880733944953,
+            0.5822018348623853,
+            "c",
+            -0.00009174311926605505,
+            0.03853211009174312,
+            -0.00009174311926605505,
+            0.06385321100917431,
+            -0.00009174311926605505,
+            0.06770642201834862
+        ],
+        [
+            "M",
+            0.7602752293577982,
+            0.1536697247706422,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.010825688073394495,
+            0.01944954128440367,
+            0.010825688073394495,
+            0.02908256880733945,
+            "c",
+            0,
+            0.006055045871559634,
+            0.00045871559633027525,
+            0.433394495412844,
+            0.0003669724770642202,
+            0.6039449541284404,
+            "c",
+            0,
+            0.041009174311926605,
+            0,
+            0.0671559633027523,
+            -0.00009174311926605505,
+            0.0689908256880734
+        ],
+        [
+            "M",
+            0.5505504587155963,
+            0.5765137614678899,
+            "c",
+            0.05724770642201835,
+            -0.005412844036697248,
+            0.17192660550458713,
+            -0.015688073394495412,
+            0.2108256880733945,
+            -0.017706422018348624
+        ],
+        [
+            "M",
+            0.5528440366972477,
+            0.8316513761467891,
+            "c",
+            0.0653211009174312,
+            -0.004862385321100918,
+            0.15440366972477063,
+            -0.015688073394495412,
+            0.20853211009174313,
+            -0.017889908256880735
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. navy blue; deep blue "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. navy blue; deep blue "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こうや"
+                ],
+                [
+                    "屋",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dyer "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kouya "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "紺屋 【こんや】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. dyer "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kouya "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "紺屋 【こんや】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "碧",
+                    "ぺき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. deep blue; azure "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. deep blue; azure "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "青",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Prussian blue; deep blue; dark blue; ultramarine "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Prussian blue Prussian blue is a dark blue pigment with the idealized f... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Prussian blue; deep blue; dark blue; ultramarine "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Prussian blue Prussian blue is a dark blue pigment with the idealized f... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "かんじゅ"
+                ],
+                [
+                    "珠",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dark blue gem allowing one to recall memories when stroked with one's hand (allegedly possessed by Zhang Yue) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. dark blue gem allowing one to recall memories when stroked with one's hand (allegedly possessed by Zhang Yue) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "青",
+                    "じょう"
+                ],
+                [
+                    "鬼",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. navy blue demon residing in hell Rare term, See also 青鬼"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. navy blue demon residing in hell Rare term, See also 青鬼"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "青",
+                    "じょう"
+                ],
+                [
+                    "色",
+                    "いろ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Prussian blue; deep blue; dark blue; ultramarine See also 紺青"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Prussian blue; deep blue; dark blue; ultramarine See also 紺青"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    null
+                ],
+                [
+                    "四",
+                    null
+                ],
+                [
+                    "郎",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. consul Obsolete term, From French"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "紺四郎: Ateji (phonetic) reading."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. consul Obsolete term, From French"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "紺四郎: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "地",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dark blue ground "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. dark blue cloth "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. dark blue ground "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. dark blue cloth "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "絣",
+                    "がすり"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dark blue cloth with white splash patterns "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "紺飛白 【こんがすり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. dark blue cloth with white splash patterns "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "紺飛白 【こんがすり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "綬",
+                    "じゅ"
+                ],
+                [
+                    "褒",
+                    "ほう"
+                ],
+                [
+                    "章",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Medal with Dark Blue Ribbon "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Medal with Dark Blue Ribbon "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "色",
+                    "いろ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. deep blue; navy blue "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. deep blue; navy blue "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "ハ",
+                    null
+                ],
+                [
+                    "イ",
+                    null
+                ],
+                [
+                    "ソ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. navy-blue knee socks Abbreviation, Slang"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. navy-blue knee socks Abbreviation, Slang"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こうやのしろばかま"
+                ],
+                [
+                    "屋",
+                    null
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "白",
+                    null
+                ],
+                [
+                    "袴",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. the shoemaker's children go barefoot; the dyer wears white; specialists often fail to apply their skills to themselves "
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. the shoemaker's children go barefoot; the dyer wears white; specialists often fail to apply their skills to themselves "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "ソ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. navy-blue socks Abbreviation, Slang"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. navy-blue socks Abbreviation, Slang"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "ソ",
+                    null
+                ],
+                [
+                    "ク",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. navy-blue socks Abbreviation, Slang, See also 紺ソ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. navy-blue socks Abbreviation, Slang, See also 紺ソ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    null
+                ],
+                [
+                    "野",
+                    null
+                ],
+                [
+                    "秀",
+                    null
+                ],
+                [
+                    "樹",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Hideki Konno was born May 13, 1965 in Chiba, Japan and graduated from ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    null
+                ],
+                [
+                    "碧",
+                    null
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "艦",
+                    null
+                ],
+                [
+                    "隊",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Konpeki no Kantai is a Japanese alternate-history original video animation ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紺",
+                    null
+                ],
+                [
+                    "野",
+                    null
+                ],
+                [
+                    "あ",
+                    null
+                ],
+                [
+                    "さ",
+                    null
+                ],
+                [
+                    "美",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Asami Konno , born May 7, 1987, is a Japanese pop singer, best known ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "紺",
+                "こん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name, Family or surname",
+                    "meaning": "1. Kon "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Konsaki "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kokoko "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "濃",
+                    "のう"
+                ],
+                [
+                    "紺",
+                    "こん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. dark blue "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紫",
+                    "し"
+                ],
+                [
+                    "紺",
+                    "こん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dark purple; bluish purple "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "紫",
+                    "し"
+                ],
+                [
+                    "紺",
+                    "こん"
+                ],
+                [
+                    "野",
+                    "の"
+                ],
+                [
+                    "牡",
+                    "ぼ"
+                ],
+                [
+                    "丹",
+                    "たん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. princess-flower (Tibouchina urvilleana) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tibouchina Tibouchina is a genus of about 350 species of neotropical... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "シコンノボタン"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "茄",
+                    "なすこん"
+                ],
+                [
+                    "子",
+                    null
+                ],
+                [
+                    "紺",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dusky purple; dark purple; eggplant color "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

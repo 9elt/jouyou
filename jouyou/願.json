@@ -1,0 +1,1826 @@
+{
+    "kanji": "願",
+    "grade": 4,
+    "jlpt": 3,
+    "meanings": [
+        "petition",
+        "request",
+        "vow",
+        "wish",
+        "hope"
+    ],
+    "kun": [
+        "ねが.う",
+        "-ねがい"
+    ],
+    "on": [
+        "ガン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.16678899082568807,
+            0.19522935779816514,
+            "c",
+            0.015504587155963302,
+            0.003119266055045872,
+            0.034770642201834866,
+            0.0016513761467889907,
+            0.04660550458715596,
+            0.0003669724770642202,
+            "c",
+            0.06678899082568808,
+            -0.006972477064220183,
+            0.16477064220183488,
+            -0.016422018348623852,
+            0.22926605504587155,
+            -0.019908256880733943,
+            "c",
+            0.016972477064220184,
+            -0.0009174311926605505,
+            0.0355045871559633,
+            -0.0025688073394495416,
+            0.052752293577981654,
+            0.0011926605504587156
+        ],
+        [
+            "M",
+            0.18229357798165138,
+            0.20330275229357797,
+            "c",
+            0.006146788990825688,
+            0.006146788990825688,
+            0.008715596330275228,
+            0.015779816513761466,
+            0.008623853211009174,
+            0.024770642201834864,
+            "c",
+            -0.0016513761467889907,
+            0.1836697247706422,
+            -0.02,
+            0.3946788990825688,
+            -0.09477064220183486,
+            0.5205504587155964
+        ],
+        [
+            "M",
+            0.35660550458715595,
+            0.2121100917431193,
+            "c",
+            0.002477064220183486,
+            0.004128440366972477,
+            0.003027522935779817,
+            0.00944954128440367,
+            0.0025688073394495416,
+            0.013211009174311925,
+            "c",
+            -0.002018348623853211,
+            0.019724770642201832,
+            -0.014678899082568808,
+            0.06642201834862385,
+            -0.034128440366972476,
+            0.1
+        ],
+        [
+            "M",
+            0.24559633027522934,
+            0.3422018348623853,
+            "c",
+            0.007706422018348624,
+            0.007706422018348624,
+            0.012844036697247705,
+            0.01798165137614679,
+            0.013761467889908258,
+            0.025137614678899085,
+            "c",
+            0.0016513761467889907,
+            0.01275229357798165,
+            0.014403669724770642,
+            0.10816513761467889,
+            0.020458715596330276,
+            0.1624770642201835,
+            "c",
+            0.0013761467889908255,
+            0.012477064220183487,
+            0.002477064220183486,
+            0.022752293577981652,
+            0.0029357798165137615,
+            0.02944954128440367
+        ],
+        [
+            "M",
+            0.26724770642201834,
+            0.3553211009174312,
+            "c",
+            0.019357798165137614,
+            -0.0028440366972477065,
+            0.17660550458715596,
+            -0.02614678899082569,
+            0.19440366972477066,
+            -0.027798165137614676,
+            "c",
+            0.021100917431192658,
+            -0.001926605504587156,
+            0.02926605504587156,
+            0.01073394495412844,
+            0.02743119266055046,
+            0.03697247706422019,
+            "c",
+            -0.002477064220183486,
+            0.03577981651376147,
+            -0.006238532110091744,
+            0.08587155963302752,
+            -0.016055045871559634,
+            0.1481651376146789,
+            "c",
+            -0.001559633027522936,
+            0.009908256880733945,
+            -0.0033027522935779813,
+            0.020091743119266054,
+            -0.005137614678899083,
+            0.030642201834862385
+        ],
+        [
+            "M",
+            0.2806422018348624,
+            0.4470642201834862,
+            "c",
+            0.026238532110091743,
+            -0.002660550458715596,
+            0.16174311926605503,
+            -0.01724770642201835,
+            0.19137614678899081,
+            -0.020275229357798165
+        ],
+        [
+            "M",
+            0.29275229357798166,
+            0.5441284403669725,
+            "c",
+            0.06045871559633027,
+            -0.0074311926605504595,
+            0.12577981651376147,
+            -0.013119266055045872,
+            0.16954128440366972,
+            -0.017064220183486238
+        ],
+        [
+            "M",
+            0.35477064220183485,
+            0.5598165137614679,
+            "c",
+            0.007706422018348624,
+            0.007706422018348624,
+            0.011743119266055046,
+            0.01798165137614679,
+            0.012110091743119267,
+            0.0326605504587156,
+            "c",
+            0.0014678899082568807,
+            0.062018348623853206,
+            -0.0009174311926605505,
+            0.22587155963302752,
+            -0.0009174311926605505,
+            0.2469724770642202,
+            "c",
+            0,
+            0.06412844036697248,
+            -0.044862385321100914,
+            -0.00009174311926605505,
+            -0.056330275229357796,
+            -0.013394495412844036
+        ],
+        [
+            "M",
+            0.25146788990825686,
+            0.6392660550458716,
+            "c",
+            0.0021100917431192663,
+            0.008807339449541284,
+            0.0012844036697247708,
+            0.015779816513761466,
+            -0.00045871559633027525,
+            0.020825688073394497,
+            "c",
+            -0.011743119266055046,
+            0.03357798165137615,
+            -0.0453211009174312,
+            0.09834862385321101,
+            -0.09623853211009174,
+            0.15605504587155966
+        ],
+        [
+            "M",
+            0.4465137614678899,
+            0.6356880733944955,
+            "c",
+            0.020550458715596333,
+            0.02238532110091743,
+            0.05082568807339449,
+            0.09220183486238533,
+            0.055963302752293574,
+            0.12697247706422018
+        ],
+        [
+            "M",
+            0.5436697247706422,
+            0.17256880733944954,
+            "c",
+            0.02284403669724771,
+            0.0028440366972477065,
+            0.041834862385321095,
+            0.0016513761467889907,
+            0.062018348623853206,
+            -0.0001834862385321101,
+            "c",
+            0.08192660550458715,
+            -0.007522935779816513,
+            0.14862385321100915,
+            -0.019357798165137614,
+            0.22119266055045872,
+            -0.022752293577981652,
+            "c",
+            0.019174311926605504,
+            -0.0009174311926605505,
+            0.0373394495412844,
+            -0.0011926605504587156,
+            0.05614678899082569,
+            0.0033944954128440367
+        ],
+        [
+            "M",
+            0.690091743119266,
+            0.1923853211009174,
+            "c",
+            0.00045871559633027525,
+            0.005963302752293578,
+            0.0003669724770642202,
+            0.011926605504587157,
+            -0.0016513761467889907,
+            0.017522935779816513,
+            "c",
+            -0.00963302752293578,
+            0.02743119266055046,
+            -0.023394495412844035,
+            0.05834862385321101,
+            -0.04293577981651376,
+            0.09137614678899084
+        ],
+        [
+            "M",
+            0.5689908256880735,
+            0.3172477064220183,
+            "c",
+            0.006972477064220183,
+            0.006972477064220183,
+            0.010275229357798166,
+            0.01908256880733945,
+            0.010275229357798166,
+            0.03165137614678899,
+            "c",
+            0,
+            0.010275229357798166,
+            -0.0003669724770642202,
+            0.2410091743119266,
+            -0.00045871559633027525,
+            0.3277064220183486,
+            "c",
+            0,
+            0.019174311926605504,
+            0,
+            0.03128440366972477,
+            0,
+            0.03247706422018349
+        ],
+        [
+            "M",
+            0.5863302752293578,
+            0.3281651376146789,
+            "c",
+            0.021100917431192658,
+            -0.0005504587155963302,
+            0.16733944954128438,
+            -0.0218348623853211,
+            0.21522935779816516,
+            -0.027706422018348623,
+            "c",
+            0.029357798165137616,
+            -0.003577981651376147,
+            0.04385321100917432,
+            0.011743119266055046,
+            0.04238532110091743,
+            0.04018348623853211,
+            "c",
+            -0.002018348623853211,
+            0.04027522935779816,
+            -0.0017431192660550458,
+            0.20229357798165137,
+            -0.0016513761467889907,
+            0.323302752293578,
+            "c",
+            0,
+            0.012385321100917432,
+            0,
+            0.024403669724770642,
+            0,
+            0.03577981651376147
+        ],
+        [
+            "M",
+            0.5904587155963302,
+            0.4473394495412844,
+            "c",
+            0.06889908256880733,
+            -0.005871559633027523,
+            0.18908256880733945,
+            -0.02018348623853211,
+            0.23990825688073394,
+            -0.02146788990825688
+        ],
+        [
+            "M",
+            0.5877981651376146,
+            0.5651376146788991,
+            "c",
+            0.08073394495412844,
+            -0.005504587155963302,
+            0.17788990825688075,
+            -0.0181651376146789,
+            0.24275229357798167,
+            -0.019908256880733943
+        ],
+        [
+            "M",
+            0.5939449541284403,
+            0.6921100917431192,
+            "c",
+            0.08036697247706422,
+            -0.0074311926605504595,
+            0.16862385321100917,
+            -0.016605504587155963,
+            0.24045871559633028,
+            -0.019357798165137614
+        ],
+        [
+            "M",
+            0.6396330275229357,
+            0.7466055045871559,
+            "c",
+            0.003577981651376147,
+            0.012018348623853212,
+            0.0001834862385321101,
+            0.019908256880733943,
+            -0.006880733944954129,
+            0.02834862385321101,
+            "C",
+            0.6113761467889909,
+            0.8001834862385321,
+            0.5565137614678899,
+            0.8468807339449541,
+            0.5137614678899083,
+            0.8761467889908257
+        ],
+        [
+            "M",
+            0.7706422018348624,
+            0.7477064220183486,
+            "c",
+            0.046697247706422015,
+            0.03302752293577982,
+            0.10183486238532109,
+            0.09165137614678899,
+            0.11458715596330275,
+            0.11944954128440366
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. desire; wish; hope 私の願いはパリで絵の勉強をすることです。My wish is to study painting in Paris."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. request; entreaty; plea; appeal 市長は私達の願いを聞き入れてくれた。The mayor granted our request."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. prayer 私の願いはかなえられた。My prayers were answered."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "4. (written) application oft. 願 when used as a suffix"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "願 【ねがい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "願: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. desire; wish; hope 私の願いはパリで絵の勉強をすることです。My wish is to study painting in Paris."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. request; entreaty; plea; appeal 市長は私達の願いを聞き入れてくれた。The mayor granted our request."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. prayer 私の願いはかなえられた。My prayers were answered."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "4. (written) application oft. 願 when used as a suffix"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "願 【ねがい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "願: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "願い",
+                            "ねが"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "パリ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "絵",
+                            "え"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "勉強",
+                            "べんきょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "My wish is to study painting in Paris."
+                },
+                {
+                    "sentence": [
+                        [
+                            "市長",
+                            "しちょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私達",
+                            "わたし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "願い",
+                            "ねが"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "聞き入れて",
+                            "ききい"
+                        ],
+                        [
+                            "くれた",
+                            null
+                        ]
+                    ],
+                    "translation": "The mayor granted our request."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "願い",
+                            "ねが"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "かなえられた",
+                            null
+                        ]
+                    ],
+                    "translation": "My prayers were answered."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. prayer; wish; vow "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to desire; to wish; to hope 私達は平和を願う。We long for peace."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to beg; to request; to implore; to pray 彼は私の許しを願った。He asked my pardon."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Auxiliary verb",
+                    "meaning": "3. to have something done for oneself 足元に御用心願います。Do watch your step."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to desire; to wish; to hope 私達は平和を願う。We long for peace."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to beg; to request; to implore; to pray 彼は私の許しを願った。He asked my pardon."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Auxiliary verb",
+                    "meaning": "3. to have something done for oneself 足元に御用心願います。Do watch your step."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私達",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "平和",
+                            "へいわ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "願う",
+                            "ねが"
+                        ]
+                    ],
+                    "translation": "We long for peace."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "許し",
+                            "ゆる"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "願った",
+                            "ねが"
+                        ]
+                    ],
+                    "translation": "He asked my pardon."
+                },
+                {
+                    "sentence": [
+                        [
+                            "足元",
+                            "あしもと"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "御",
+                            "ご"
+                        ],
+                        [
+                            "用心",
+                            "ようじん"
+                        ],
+                        [
+                            "願います",
+                            "ねが"
+                        ]
+                    ],
+                    "translation": "Do watch your step."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "がん"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (written) application; written request; petition "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. written prayer for a shrine or Buddhist temple See also 願文"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (written) application; written request; petition "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. written prayer for a shrine or Buddhist temple See also 願文"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "がん"
+                ],
+                [
+                    "望",
+                    "ぼう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. desire; wish; aspiration "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "願望 【がんもう】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. desire; wish; aspiration "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "願望 【がんもう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "出",
+                    "で"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to ask for; to apply for; to make an application for; to file a request for; to submit (e.g. one's resignation) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to ask for; to apply for; to make an application for; to file a request for; to submit (e.g. one's resignation) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "下",
+                    "さ"
+                ],
+                [
+                    "げ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cancellation; withdrawal "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. asking to be excused; begging off; not taking; refusing お前らの憐れみなんぞ願い下げだ。I don't want your pity."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. cancellation; withdrawal "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. asking to be excused; begging off; not taking; refusing お前らの憐れみなんぞ願い下げだ。I don't want your pity."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "お前",
+                            "おまえ"
+                        ],
+                        [
+                            "ら",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "憐れみ",
+                            "あわ"
+                        ],
+                        [
+                            "なんぞ",
+                            null
+                        ],
+                        [
+                            "願い下げ",
+                            "ねがいさ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "I don't want your pity."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "事",
+                    "ごと"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wish; dream; prayer; one's desire "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "願いごと 【ねがいごと】、願事 【ねがいごと】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. wish; dream; prayer; one's desire "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "願いごと 【ねがいごと】、願事 【ねがいごと】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "わ",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "は",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. I pray; I wish the は is pronounced わ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "希わくは 【ねがわくは】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "出",
+                    "で"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. application; petition "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "がん"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to make a wish (to a god); to pray (for the fulfilment of a wish) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "願を掛ける 【がんをかける】、願を懸ける 【がんをかける】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "主",
+                    "ぬし"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. applicant; person who prays "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. best one could ask for; just what one wants; welcome (news); heaven-sent "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "願っても無い 【ねがってもない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "わ",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "ば",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. I pray; I wish See also 願わくは"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "希わくば 【ねがわくば】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "わ",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. desirable "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "がん"
+                ],
+                [
+                    "人",
+                    "にん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. petitioner "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. person who prays "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. beggar-priest Abbreviation, See also 願人坊主"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "がん"
+                ],
+                [
+                    "主",
+                    "しゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. temple petitioner "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (written) application; written request; petition See also 願書"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. written prayer for a shrine or Buddhist temple See also 願文"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "がん"
+                ],
+                [
+                    "人",
+                    "にん"
+                ],
+                [
+                    "坊",
+                    "ぼう"
+                ],
+                [
+                    "主",
+                    "ず"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. priest who was also a street performer and performed prayers and other religious duties for the sake of other people "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "願",
+                    "がん"
+                ],
+                [
+                    "掛",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. making a prayer (to a god or Buddha) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "願かけ 【がんかけ】、願掛 【がんかけ】、願掛け 【がんがけ】、願掛 【がんがけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "願",
+                "ねがい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name, Place",
+                    "meaning": "1. Negai "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Negau "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "願",
+                "のぞみ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Nozomi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. please Humble (kenjougo) language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "御願いします 【おねがいします】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "請",
+                    "せい"
+                ],
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. petition "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Petition A petition is a request to do something, most commonly ad... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "志",
+                    "し"
+                ],
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. aspiration; volunteering; desire; application "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "念",
+                    "ねん"
+                ],
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. one's heart's desire; one's dearest wish "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悲",
+                    "ひ"
+                ],
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's dearest wish "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Buddha's vow to save humanity Buddhism"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "出",
+                    "しゅつ"
+                ],
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. application; filing an application "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. please See also お願いします頼みたいことがあります。ちょっとお願いしてもよろしいでしょうか？I need a favor."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "御願い 【おねがい】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "さん",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "お願い",
+                            "おねが"
+                        ],
+                        [
+                            "したい",
+                            null
+                        ],
+                        [
+                            "のです",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ]
+                    ],
+                    "translation": "\"I'd like to talk to Mr Smith.\" \"This is Smith speaking.\""
+                },
+                {
+                    "sentence": [
+                        [
+                            "頼み",
+                            "たの"
+                        ],
+                        [
+                            "たい",
+                            null
+                        ],
+                        [
+                            "ことがあります",
+                            null
+                        ],
+                        [
+                            "ちょっと",
+                            null
+                        ],
+                        [
+                            "お願い",
+                            "おねが"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "よろしい",
+                            null
+                        ],
+                        [
+                            "でしょうか",
+                            null
+                        ]
+                    ],
+                    "translation": "I need a favor."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "懇",
+                    "こん"
+                ],
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. pleading; entreaty; supplication; petition "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘆",
+                    "たん"
+                ],
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. entreaty; appeal; petition "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "歎願 【たんがん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "歎願: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "願",
+                    "がん"
+                ],
+                [
+                    "主",
+                    "しゅ"
+                ],
+                [
+                    "義",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. first-to-file principle (in patent law); first-to-file system See also 先発明主義日本は先願主義を採用している。Japan follows the principle of first-to-file."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. First to file and first to invent First to file and first to invent are legal concepts that... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "日本",
+                            "にほん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "先願主義",
+                            "せんがんしゅぎ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "採用",
+                            "さいよう"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "Japan follows the principle of first-to-file."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "志",
+                    "し"
+                ],
+                [
+                    "願",
+                    "がん"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. applicant; candidate See also 出願者, See also 応募者"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "他",
+                    "た"
+                ],
+                [
+                    "力",
+                    "りき"
+                ],
+                [
+                    "本",
+                    "ほん"
+                ],
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. salvation by faith in Amitabha Buddhism, Yojijukugo (four character compound), See also 阿弥陀"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. relying on others; depending on others Yojijukugo (four character compound)他力本願じゃだめだよ。自分でなんとかしようという気持ちがなくちゃ。You shouldn't rely on others. It's important to want to help yourself."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "他力本願",
+                            "たりきほんがん"
+                        ],
+                        [
+                            "じゃ",
+                            null
+                        ],
+                        [
+                            "だめ",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ],
+                        [
+                            "自分で",
+                            "じぶん"
+                        ],
+                        [
+                            "なんとか",
+                            null
+                        ],
+                        [
+                            "しよう",
+                            null
+                        ],
+                        [
+                            "という",
+                            null
+                        ],
+                        [
+                            "気持ち",
+                            "きも"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "なくちゃ",
+                            null
+                        ]
+                    ],
+                    "translation": "You shouldn't rely on others. It's important to want to help yourself."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "哀",
+                    "あい"
+                ],
+                [
+                    "願",
+                    "がん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. supplication; appeal; entreaty; petition "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

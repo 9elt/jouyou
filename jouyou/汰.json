@@ -1,0 +1,794 @@
+{
+    "kanji": "汰",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "washing",
+        "sieving",
+        "filtering",
+        "weeding out",
+        "luxury"
+    ],
+    "kun": [
+        "おご.る",
+        "にご.る",
+        "よな.げる"
+    ],
+    "on": [
+        "タ",
+        "タイ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.20073394495412844,
+            0.17889908256880735,
+            "c",
+            0.035229357798165134,
+            0.013486238532110091,
+            0.09091743119266055,
+            0.0555045871559633,
+            0.09972477064220182,
+            0.07651376146788991
+        ],
+        [
+            "M",
+            0.12614678899082568,
+            0.3944954128440367,
+            "c",
+            0.03963302752293578,
+            0.012110091743119267,
+            0.10247706422018349,
+            0.04990825688073395,
+            0.11238532110091744,
+            0.06880733944954129
+        ],
+        [
+            "M",
+            0.13990825688073394,
+            0.8277981651376147,
+            "c",
+            0.017706422018348624,
+            0.005871559633027523,
+            0.028990825688073395,
+            0.0006422018348623854,
+            0.03853211009174312,
+            -0.013761467889908258,
+            "c",
+            0.027798165137614676,
+            -0.041926605504587156,
+            0.0555045871559633,
+            -0.09321100917431192,
+            0.08073394495412844,
+            -0.146697247706422
+        ],
+        [
+            "M",
+            0.3359633027522936,
+            0.40284403669724766,
+            "c",
+            0.028623853211009177,
+            0.008807339449541284,
+            0.05761467889908257,
+            0.008623853211009174,
+            0.08275229357798165,
+            0.005045871559633028,
+            "c",
+            0.10990825688073395,
+            -0.015779816513761466,
+            0.17862385321100915,
+            -0.020550458715596333,
+            0.3404587155963303,
+            -0.03339449541284404,
+            "c",
+            0.033211009174311926,
+            -0.002660550458715596,
+            0.050366972477064224,
+            -0.0025688073394495416,
+            0.08247706422018349,
+            0.005963302752293578
+        ],
+        [
+            "M",
+            0.5596330275229358,
+            0.14678899082568808,
+            "c",
+            0.009724770642201836,
+            0.009724770642201836,
+            0.011376146788990826,
+            0.02348623853211009,
+            0.011376146788990826,
+            0.04467889908256881,
+            "C",
+            0.5710091743119267,
+            0.5229357798165137,
+            0.47706422018348627,
+            0.7481651376146788,
+            0.2958715596330275,
+            0.8611009174311927
+        ],
+        [
+            "M",
+            0.5619266055045872,
+            0.40642201834862385,
+            "c",
+            0.05302752293577982,
+            0.08100917431192661,
+            0.1540366972477064,
+            0.24623853211009175,
+            0.2261467889908257,
+            0.34688073394495417,
+            "c",
+            0.024678899082568807,
+            0.0344954128440367,
+            0.047889908256880734,
+            0.06321100917431192,
+            0.08348623853211008,
+            0.09422018348623853
+        ],
+        [
+            "M",
+            0.5298165137614679,
+            0.7306422018348624,
+            "c",
+            0.03642201834862385,
+            0.0163302752293578,
+            0.0871559633027523,
+            0.06174311926605505,
+            0.10321100917431193,
+            0.09275229357798165
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "揺",
+                    "ゆ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to shake; to jolt; to rock (cradle); to swing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "淘る 【ゆる】、汰る 【ゆる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "淘る: Out-dated kanji or kanji usage. 汰る: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to shake; to jolt; to rock (cradle); to swing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "淘る 【ゆる】、汰る 【ゆる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "淘る: Out-dated kanji or kanji usage. 汰る: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "汰一郎",
+                "たいちろう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Male given name",
+                    "meaning": "1. Taichirou "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Takuji "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "汰木",
+                "ゆるき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Yuruki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ご",
+                    null
+                ],
+                [
+                    "無",
+                    "ぶ"
+                ],
+                [
+                    "沙",
+                    "さ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. not writing or contacting for a while; neglecting (failing) to write (call, visit, etc.); long silence See also 無沙汰"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "御無沙汰 【ごぶさた】、ご不沙汰 【ごぶさた】、御不沙汰 【ごぶさた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裁",
+                    "さい"
+                ],
+                [
+                    "判",
+                    "ばん"
+                ],
+                [
+                    "沙",
+                    "ざ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. matter for the court; (ending up as a) lawsuit; legal tussle; court fight "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "裁判ざた 【さいばんざた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "音",
+                    "おと"
+                ],
+                [
+                    "沙",
+                    "さ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. news (from someone); word; letter; tidings; contact usu. in neg. sentence as ～がない, etc."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "暴",
+                    "ぼう"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ],
+                [
+                    "沙",
+                    "ざ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (committing, resorting to) an act of violence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "手",
+                    "て"
+                ],
+                [
+                    "持",
+                    "も"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "無",
+                    "ぶ"
+                ],
+                [
+                    "沙",
+                    "さ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. having nothing to do; having time on one's hands (and not knowing what to do); being at a loose end; being bored "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "手持ちぶさた 【てもちぶさた】、手持無沙汰 【てもちぶさた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "おもて"
+                ],
+                [
+                    "沙",
+                    "ざ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. going public (with a matter); becoming public knowledge "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. recourse to litigation; taking (a matter) to court "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "表ざた 【おもてざた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "ぶ"
+                ],
+                [
+                    "沙",
+                    "さ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. not writing or contacting for a while; neglecting to write (call, visit, etc.); failing to write (call, visit, etc.); long silence "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "不沙汰 【ぶさた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "沙",
+                    "さ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. affair; state; incident; issue; matter "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. verdict; sentence "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "3. directions; orders; command; instructions "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "4. notice; information; communication; news; message; tidings; update "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "自",
+                    "し"
+                ],
+                [
+                    "然",
+                    "ぜん"
+                ],
+                [
+                    "淘",
+                    "とう"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. natural selection Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "淘",
+                    "とう"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. weeding out; elimination (e.g. of unneeded employees); culling; selection "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. selection Biology, See also 自然淘汰"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "狂",
+                    "きょう"
+                ],
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "沙",
+                    "さ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. crazy deed; unbelievable deed; the height of madness; act of sheer madness Colloquial"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "狂気のさた 【きょうきのさた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "性",
+                    "せい"
+                ],
+                [
+                    "淘",
+                    "とう"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sexual selection "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sexual selection Sexual selection, a concept introduced by Charles Darwin ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "刃",
+                    "にん"
+                ],
+                [
+                    "傷",
+                    "じょう"
+                ],
+                [
+                    "沙",
+                    "ざ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bloodshed "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "血",
+                    "けつ"
+                ],
+                [
+                    "縁",
+                    "えん"
+                ],
+                [
+                    "淘",
+                    "とう"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kin selection "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "社",
+                    "しゃ"
+                ],
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "淘",
+                    "とう"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. social selection See also 社会ダーウィニズム"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "流",
+                    "りゅう"
+                ],
+                [
+                    "血",
+                    "けつ"
+                ],
+                [
+                    "沙",
+                    "ざ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bloodshed; bloody event; bloody violence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "内",
+                    "うち"
+                ],
+                [
+                    "沙",
+                    "ざ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. secret government business "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "御",
+                    "ご"
+                ],
+                [
+                    "沙",
+                    "さ"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (imperial) words "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ご沙汰 【ごさた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "為",
+                    "い"
+                ],
+                [
+                    "淘",
+                    "とう"
+                ],
+                [
+                    "汰",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. artificial selection Biology, Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

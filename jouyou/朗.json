@@ -1,0 +1,847 @@
+{
+    "kanji": "朗",
+    "grade": 6,
+    "jlpt": 1,
+    "meanings": [
+        "melodious",
+        "clear",
+        "bright",
+        "serene",
+        "cheerful"
+    ],
+    "kun": [
+        "ほが.らか",
+        "あき.らか"
+    ],
+    "on": [
+        "ロウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.29899082568807345,
+            0.13302752293577982,
+            "c",
+            0.008807339449541284,
+            0.008807339449541284,
+            0.011743119266055046,
+            0.02522935779816514,
+            0.011743119266055046,
+            0.03697247706422019,
+            "c",
+            0,
+            0.0318348623853211,
+            0.00009174311926605505,
+            0.05165137614678899,
+            0.00009174311926605505,
+            0.08
+        ],
+        [
+            "M",
+            0.17440366972477064,
+            0.2659633027522936,
+            "c",
+            0.018256880733944953,
+            0.008073394495412844,
+            0.03155963302752293,
+            0.008532110091743119,
+            0.05724770642201835,
+            0.004954128440366972,
+            "c",
+            0.05045871559633028,
+            -0.006972477064220183,
+            0.13412844036697247,
+            -0.01669724770642202,
+            0.16990825688073394,
+            -0.020550458715596333,
+            "c",
+            0.02642201834862385,
+            -0.0028440366972477065,
+            0.03981651376146789,
+            0.003119266055045872,
+            0.03853211009174312,
+            0.0318348623853211,
+            "c",
+            -0.001926605504587156,
+            0.04321100917431193,
+            -0.008073394495412844,
+            0.12229357798165137,
+            -0.012568807339449543,
+            0.17871559633027523,
+            "c",
+            -0.0011926605504587156,
+            0.014678899082568808,
+            -0.002201834862385321,
+            0.027889908256880733,
+            -0.003027522935779817,
+            0.03844036697247707
+        ],
+        [
+            "M",
+            0.19844036697247705,
+            0.3855045871559633,
+            "c",
+            0.049174311926605506,
+            -0.005137614678899083,
+            0.15018348623853212,
+            -0.019724770642201832,
+            0.22761467889908255,
+            -0.024678899082568807
+        ],
+        [
+            "M",
+            0.19706422018348624,
+            0.5076146788990825,
+            "c",
+            0.06743119266055045,
+            -0.0081651376146789,
+            0.1355045871559633,
+            -0.015596330275229357,
+            0.21990825688073393,
+            -0.023211009174311924
+        ],
+        [
+            "M",
+            0.1789908256880734,
+            0.2705504587155963,
+            "c",
+            0.006880733944954129,
+            0.006880733944954129,
+            0.010183486238532111,
+            0.016146788990825688,
+            0.010183486238532111,
+            0.028715596330275227,
+            "c",
+            0,
+            0.03211009174311927,
+            0.0009174311926605505,
+            0.4140366972477064,
+            0.0009174311926605505,
+            0.4593577981651376,
+            "c",
+            0,
+            0.03954128440366972,
+            0.011743119266055046,
+            0.04642201834862385,
+            0.03779816513761468,
+            0.02706422018348624,
+            "c",
+            0.04504587155963303,
+            -0.033486238532110094,
+            0.11385321100917431,
+            -0.08155963302752293,
+            0.16889908256880734,
+            -0.12513761467889908
+        ],
+        [
+            "M",
+            0.3446788990825688,
+            0.5879816513761468,
+            "C",
+            0.39559633027522934,
+            0.6261467889908257,
+            0.43119266055045874,
+            0.6926605504587156,
+            0.4491743119266055,
+            0.7378899082568808
+        ],
+        [
+            "M",
+            0.5647706422018349,
+            0.1740366972477064,
+            "c",
+            0.009541284403669725,
+            0.009541284403669725,
+            0.013577981651376147,
+            0.026972477064220183,
+            0.013853211009174311,
+            0.036146788990825685,
+            "c",
+            0.010825688073394495,
+            0.3413761467889908,
+            -0.011009174311926604,
+            0.5363302752293578,
+            -0.09926605504587156,
+            0.6419266055045871
+        ],
+        [
+            "M",
+            0.5885321100917432,
+            0.19688073394495414,
+            "c",
+            0.01798165137614679,
+            -0.001559633027522936,
+            0.1710091743119266,
+            -0.024220183486238535,
+            0.1914678899082569,
+            -0.02743119266055046,
+            "s",
+            0.036788990825688074,
+            0.013761467889908258,
+            0.036788990825688074,
+            0.036788990825688074,
+            "s",
+            0.0003669724770642202,
+            0.4198165137614679,
+            0.0003669724770642202,
+            0.5905504587155964,
+            "c",
+            0,
+            0.11770642201834862,
+            -0.052752293577981654,
+            0.039174311926605504,
+            -0.07376146788990826,
+            0.018073394495412842
+        ],
+        [
+            "M",
+            0.593119266055046,
+            0.3723853211009175,
+            "C",
+            0.6697247706422018,
+            0.3646788990825688,
+            0.7304587155963304,
+            0.3577981651376147,
+            0.8040366972477064,
+            0.35229357798165134
+        ],
+        [
+            "M",
+            0.5838532110091743,
+            0.5477064220183486,
+            "c",
+            0.047889908256880734,
+            -0.004862385321100918,
+            0.1618348623853211,
+            -0.016146788990825688,
+            0.2171559633027523,
+            -0.01871559633027523
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "朗",
+                    "ほが"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. cheerful; merry; sunny; melodious "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. bright (sky, day, etc.); fine; clear "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. cheerful; merry; sunny; melodious "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. bright (sky, day, etc.); fine; clear "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "読",
+                    "どく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. reading aloud; recitation See also 音読"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. reading aloud; recitation See also 音読"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "報",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. good news; happy news; glad tidings "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. good news; happy news; glad tidings "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "詠",
+                    "えい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. recitation (of Japanese or Chinese poem) "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. recitation (of Japanese or Chinese poem) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "唱",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recitation; chant "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "朗誦 【ろうしょう】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recitation; chant "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "朗誦 【ろうしょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "読",
+                    "どく"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. recital; recitation; public reading "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. recital; recitation; public reading "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "々",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. clear; sonorous; full-sounding; resonant; bright "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "朗朗 【ろうろう】"
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. clear; sonorous; full-sounding; resonant; bright "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "朗朗 【ろうろう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "吟",
+                    "ぎん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recitation; singing "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. recitation; singing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "読",
+                    "どく"
+                ],
+                [
+                    "Ｃ",
+                    null
+                ],
+                [
+                    "Ｄ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. audiobook on a CD-ROM "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. audiobook on a CD-ROM "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朗",
+                    null
+                ],
+                [
+                    "読",
+                    null
+                ],
+                [
+                    "者",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. The Reader The Reader (Der Vorleser) is a novel by German law profes... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朗",
+                    null
+                ],
+                [
+                    "屏",
+                    null
+                ],
+                [
+                    "駅",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Long Ping Station Long Ping is an MTR West Rail Line station located in the... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "朗",
+                "あき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Aki "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Akira "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "朗",
+                "うらら"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Urara "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "明",
+                    "めい"
+                ],
+                [
+                    "朗",
+                    "ろう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. cheerful; bright "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. clear; clean; honest; fair "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "晴",
+                    "せい"
+                ],
+                [
+                    "朗",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. clear; fair; fine; serene "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "明",
+                    "めい"
+                ],
+                [
+                    "朗",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. gloominess; gloom "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. questionable; unfair; underhand この帳簿には不明朗な点がたくさんある。There are many questionable points in this ledger."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "帳簿",
+                            "ちょうぼ"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "不明朗な",
+                            "ふめいろう"
+                        ],
+                        [
+                            "点",
+                            "てん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "たくさん",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ]
+                    ],
+                    "translation": "There are many questionable points in this ledger."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "明",
+                    "めい"
+                ],
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "計",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. clear accounting; honest accounting (billing); transparent billing practices (in restaurant and bar charges, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "明",
+                    "めい"
+                ],
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "闊",
+                    "かっ"
+                ],
+                [
+                    "達",
+                    "たつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. upbeat and freehearted; cheerful and magnanimous Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "晃",
+                    "こう"
+                ],
+                [
+                    "朗",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. bright and brilliant "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "音",
+                    "おん"
+                ],
+                [
+                    "吐",
+                    "と"
+                ],
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "朗",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. in a clear voice Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "音吐朗々 【おんとろうろう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "融",
+                    "ゆう"
+                ],
+                [
+                    "朗",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. brightness; clearness "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "明",
+                    "めい"
+                ],
+                [
+                    "朗",
+                    "ろう"
+                ],
+                [
+                    "快",
+                    "かい"
+                ],
+                [
+                    "活",
+                    "かつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. cheerful and openhearted Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

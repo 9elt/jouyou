@@ -1,0 +1,3073 @@
+{
+    "kanji": "切",
+    "grade": 2,
+    "jlpt": 4,
+    "meanings": [
+        "cut",
+        "cutoff",
+        "be sharp"
+    ],
+    "kun": [
+        "き.る",
+        "-き.る",
+        "き.り",
+        "-き.り",
+        "-ぎ.り",
+        "き.れる",
+        "-き.れる",
+        "き.れ",
+        "-き.れ",
+        "-ぎ.れ"
+    ],
+    "on": [
+        "セツ",
+        "サイ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.10550458715596331,
+            0.4034862385321101,
+            "c",
+            0.00963302752293578,
+            0.002752293577981651,
+            0.027339449541284404,
+            0.003853211009174312,
+            0.036788990825688074,
+            0.002752293577981651,
+            "c",
+            0.0710091743119266,
+            -0.00834862385321101,
+            0.14211009174311925,
+            -0.03247706422018349,
+            0.2079816513761468,
+            -0.05082568807339449,
+            "c",
+            0.015229357798165137,
+            -0.004220183486238533,
+            0.03165137614678899,
+            -0.005963302752293578,
+            0.03963302752293578,
+            -0.0045871559633027525
+        ],
+        [
+            "M",
+            0.24541284403669725,
+            0.16743119266055045,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.015321100917431192,
+            0.023211009174311924,
+            0.015871559633027523,
+            0.04128440366972477,
+            "c",
+            0.001834862385321101,
+            0.06440366972477064,
+            -0.004403669724770642,
+            0.3164220183486239,
+            -0.004403669724770642,
+            0.3669724770642202,
+            "C",
+            0.25688073394495414,
+            0.6376146788990825,
+            0.26605504587155965,
+            0.6513761467889908,
+            0.3463302752293578,
+            0.6513761467889908,
+            "c",
+            0.05045871559633028,
+            0,
+            0.08027522935779817,
+            -0.008073394495412844,
+            0.10779816513761468,
+            -0.01834862385321101
+        ],
+        [
+            "M",
+            0.48394495412844035,
+            0.27293577981651373,
+            "c",
+            0.02192660550458716,
+            0.009357798165137614,
+            0.046055045871559626,
+            0.008623853211009174,
+            0.06862385321100918,
+            0.005229357798165137,
+            "C",
+            0.6490825688073395,
+            0.26376146788990823,
+            0.768348623853211,
+            0.24311926605504589,
+            0.8394495412844036,
+            0.22935779816513763,
+            "c",
+            0.0408256880733945,
+            -0.007889908256880733,
+            0.06073394495412844,
+            0.008073394495412844,
+            0.05733944954128441,
+            0.05045871559633028,
+            "C",
+            0.8869724770642202,
+            0.4012844036697248,
+            0.8440366972477065,
+            0.6697247706422018,
+            0.7844036697247706,
+            0.7889908256880734,
+            "c",
+            -0.047706422018348627,
+            0.09541284403669725,
+            -0.0906422018348624,
+            0.022935779816513763,
+            -0.11238532110091744,
+            0
+        ],
+        [
+            "M",
+            0.6261467889908257,
+            0.3359633027522936,
+            "c",
+            0.004128440366972477,
+            0.012201834862385321,
+            0.0032110091743119264,
+            0.028899082568807338,
+            0.0010091743119266055,
+            0.04504587155963303,
+            "c",
+            -0.019724770642201832,
+            0.14376146788990826,
+            -0.09174311926605505,
+            0.30110091743119266,
+            -0.23036697247706422,
+            0.421743119266055
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. end; finish; place to stop Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bound; limit; end Usually written using kana alone, See also 切りがない"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. delivery date (of a futures contract) Finance, Only applies to 限り, Only applies to 限"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. finale (of a noh song); end of an act (in jōruri or kabuki); final performance of the day (in vaudeville) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. trump card "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. king (court card; in mekuri karuta and unsun karuta) Card games"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "7. counter for slices (esp. thick slices); counter for cuts (of fish, meat, etc.) 彼はそこに行ったきり２度と帰ってこなかった。He went there, never to return."
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "8. only; just Usually written using kana alone, See also っきり, sometimes pronounced ぎり彼は３８歳なのに両親に頼りきりです。Though 38, he is still dependent on his parents."
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "9. (ever) since; after Usually written using kana alone, usu. in a negative sentence; sometimes pronounced ぎり"
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "10. continuously; remaining (in a particular state) Usually written using kana alone, sometimes pronounced ぎり"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "限り 【きり】、切 【きり】、限 【きり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "切: Irregular okurigana usage. 限: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. end; finish; place to stop Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bound; limit; end Usually written using kana alone, See also 切りがない"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. delivery date (of a futures contract) Finance, Only applies to 限り, Only applies to 限"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. finale (of a noh song); end of an act (in jōruri or kabuki); final performance of the day (in vaudeville) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. trump card "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. king (court card; in mekuri karuta and unsun karuta) Card games"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "7. counter for slices (esp. thick slices); counter for cuts (of fish, meat, etc.) 彼はそこに行ったきり２度と帰ってこなかった。He went there, never to return."
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "8. only; just Usually written using kana alone, See also っきり, sometimes pronounced ぎり彼は３８歳なのに両親に頼りきりです。Though 38, he is still dependent on his parents."
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "9. (ever) since; after Usually written using kana alone, usu. in a negative sentence; sometimes pronounced ぎり"
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "10. continuously; remaining (in a particular state) Usually written using kana alone, sometimes pronounced ぎり"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "限り 【きり】、切 【きり】、限 【きり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "切: Irregular okurigana usage. 限: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "そこ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "行った",
+                            "い"
+                        ],
+                        [
+                            "きり",
+                            null
+                        ],
+                        [
+                            "２度と",
+                            "にど"
+                        ],
+                        [
+                            "帰ってこなかった",
+                            "かえ"
+                        ]
+                    ],
+                    "translation": "He went there, never to return."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "歳な",
+                            "さい"
+                        ],
+                        [
+                            "のに",
+                            null
+                        ],
+                        [
+                            "両親",
+                            "りょうしん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "頼り",
+                            "たよ"
+                        ],
+                        [
+                            "きり",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "Though 38, he is still dependent on his parents."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. OFF (on switch) Abbreviation, See also 切る, also きり"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "きっ"
+                ],
+                [
+                    "符",
+                    "ぷ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ticket "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ticket "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ticket "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ticket "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "きっ"
+                ],
+                [
+                    "手",
+                    "て"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stamp (postage); merchandise certificate "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Postage stamp 1. Image 2. Perforations 3. Denomination 4. Country name]... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. stamp (postage); merchandise certificate "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Postage stamp 1. Image 2. Perforations 3. Denomination 4. Country name]... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to cut; to cut through; to perform (surgery) ２．大根は拍子木に切る。2. Cut the daikon into long sticks."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to sever (connections, ties) See also 縁を切る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to turn off (e.g. the light) エアコンを切ってもかまいませんか。Do you mind if I turn off the AC?"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "4. to terminate (e.g. a conversation); to hang up (the phone); to disconnect See also 電話を切る「スミスさんをお願いしたいのですが」「そのまま切らずにお待ちください」\"May I speak to Mr Smith?\" \"Will you hold the line?\""
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "5. to punch (a ticket); to tear off (a stub) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "6. to open (something sealed) いったん封を切るとそのテープは返品できません。Once you break the seal, you can't return the tape."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "7. to start 転職も引っ越しもして、心機一転、新たなスタートを切った。I quit my job and moved so I could start off with a clean slate."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "8. to set (a limit); to do (something) in less or within a certain time; to issue (cheques, vouchers, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "9. to reduce; to decrease; to discount See also 値切る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "10. to shake off (water, etc.); to let drip-dry; to let drain "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "11. to cross; to traverse "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "12. to criticize sharply "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "13. to act decisively; to do (something noticeable); to go first; to make (certain facial expressions, in kabuki) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "14. to turn (vehicle, steering wheel, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "15. to curl (a ball); to bend; to cut トランプをよく切ってください。Please shuffle the cards carefully."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "16. to shuffle (cards) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "17. to discard a tile Mahjong"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "18. to dismiss; to sack; to let go; to expel; to excommunicate ハリーはなんとかその川を泳ぎきった。Harry managed to swim across the river."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "19. to dig (a groove); to cut (a stencil, on a mimeograph) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "20. to trump See also 切り札"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "21. to cut (the connection between two groups) Go (game)"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "22. to start a fire (with wood-wood friction or by striking a metal against stone) also written as 鑽る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "23. to draw (a shape) in the air (with a sword, etc.) "
+                },
+                {
+                    "type": "Suffix, Godan verb with 'ru' ending",
+                    "meaning": "24. to do completely; to finish doing See also 使い切る, after the -masu stem of a verb"
+                },
+                {
+                    "type": "Suffix, Godan verb with 'ru' ending",
+                    "meaning": "25. to be completely ...; to be totally ...; to be terribly ... See also 疲れ切る, after the -masu stem of a verb"
+                },
+                {
+                    "type": "Suffix, Godan verb with 'ru' ending",
+                    "meaning": "26. to do clearly; to do decisively; to do firmly See also 言い切る, after the -masu stem of a verb"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to cut; to cut through; to perform (surgery) ２．大根は拍子木に切る。2. Cut the daikon into long sticks."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to sever (connections, ties) See also 縁を切る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to turn off (e.g. the light) エアコンを切ってもかまいませんか。Do you mind if I turn off the AC?"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "4. to terminate (e.g. a conversation); to hang up (the phone); to disconnect See also 電話を切る「スミスさんをお願いしたいのですが」「そのまま切らずにお待ちください」\"May I speak to Mr Smith?\" \"Will you hold the line?\""
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "5. to punch (a ticket); to tear off (a stub) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "6. to open (something sealed) いったん封を切るとそのテープは返品できません。Once you break the seal, you can't return the tape."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "7. to start 転職も引っ越しもして、心機一転、新たなスタートを切った。I quit my job and moved so I could start off with a clean slate."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "8. to set (a limit); to do (something) in less or within a certain time; to issue (cheques, vouchers, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "9. to reduce; to decrease; to discount See also 値切る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "10. to shake off (water, etc.); to let drip-dry; to let drain "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "11. to cross; to traverse "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "12. to criticize sharply "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "13. to act decisively; to do (something noticeable); to go first; to make (certain facial expressions, in kabuki) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "14. to turn (vehicle, steering wheel, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "15. to curl (a ball); to bend; to cut トランプをよく切ってください。Please shuffle the cards carefully."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "16. to shuffle (cards) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "17. to discard a tile Mahjong"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "18. to dismiss; to sack; to let go; to expel; to excommunicate ハリーはなんとかその川を泳ぎきった。Harry managed to swim across the river."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "19. to dig (a groove); to cut (a stencil, on a mimeograph) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "20. to trump See also 切り札"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "21. to cut (the connection between two groups) Go (game)"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "22. to start a fire (with wood-wood friction or by striking a metal against stone) also written as 鑽る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "23. to draw (a shape) in the air (with a sword, etc.) "
+                },
+                {
+                    "type": "Suffix, Godan verb with 'ru' ending",
+                    "meaning": "24. to do completely; to finish doing See also 使い切る, after the -masu stem of a verb"
+                },
+                {
+                    "type": "Suffix, Godan verb with 'ru' ending",
+                    "meaning": "25. to be completely ...; to be totally ...; to be terribly ... See also 疲れ切る, after the -masu stem of a verb"
+                },
+                {
+                    "type": "Suffix, Godan verb with 'ru' ending",
+                    "meaning": "26. to do clearly; to do decisively; to do firmly See also 言い切る, after the -masu stem of a verb"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "大根",
+                            "だいこん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "拍子木",
+                            "ひょうしぎ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "切る",
+                            "き"
+                        ]
+                    ],
+                    "translation": "2. Cut the daikon into long sticks."
+                },
+                {
+                    "sentence": [
+                        [
+                            "エアコン",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "切って",
+                            "き"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "かまいません",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Do you mind if I turn off the AC?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "さん",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "お願い",
+                            "おねが"
+                        ],
+                        [
+                            "したい",
+                            null
+                        ],
+                        [
+                            "のです",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "そのまま",
+                            null
+                        ],
+                        [
+                            "切らず",
+                            "き"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "お待ち",
+                            "ま"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "\"May I speak to Mr Smith?\" \"Will you hold the line?\""
+                },
+                {
+                    "sentence": [
+                        [
+                            "いったん",
+                            null
+                        ],
+                        [
+                            "封",
+                            "ふう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "切る",
+                            "き"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "テープ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "返品",
+                            "へんぴん"
+                        ],
+                        [
+                            "できません",
+                            null
+                        ]
+                    ],
+                    "translation": "Once you break the seal, you can't return the tape."
+                },
+                {
+                    "sentence": [
+                        [
+                            "転職",
+                            "てんしょく"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "引っ越し",
+                            "ひっこ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "心機一転",
+                            "しんきいってん"
+                        ],
+                        [
+                            "新たな",
+                            "あら"
+                        ],
+                        [
+                            "スタート",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "切った",
+                            "き"
+                        ]
+                    ],
+                    "translation": "I quit my job and moved so I could start off with a clean slate."
+                },
+                {
+                    "sentence": [
+                        [
+                            "トランプ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "よく",
+                            null
+                        ],
+                        [
+                            "切って",
+                            "き"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Please shuffle the cards carefully."
+                },
+                {
+                    "sentence": [
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "なんとか",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "川",
+                            "かわ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "泳ぎ",
+                            "およ"
+                        ],
+                        [
+                            "きった",
+                            null
+                        ]
+                    ],
+                    "translation": "Harry managed to swim across the river."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to break; to snap; to be cut; to split; to crack 二人の子供は綱が切れるまで引っ張りあった。The two children pulled at the rope until it broke."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be injured "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to wear out; to be worn out "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to break; to burst; to collapse "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to wear off; to stop working; to go dead "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "6. to expire (time limit, etc.); to run out; to become due "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "7. to run out (of stock, etc.); to be exhausted; to be used up; to be sold out; to be out of ガソリンが切れかかっている。We're running out of gas."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "8. to be broken off (e.g. of a relationship); to break up; to have severed ties; to be cut off; to be disconnected "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "9. to cut well; to be sharp このはさみは良く切れない。These scissors don't cut well."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "10. to be sharp-minded; to be keen; to be shrewd; to be quick-witted; to be able "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "11. to be short of; to drop under (a certain figure); to beat (e.g. a record time) １００メートル、１０秒切れる？Will they break the ten-second mark in the hundred-metre race?"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "12. to dry off "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "13. to curve; to veer "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "14. to shuffle (cards) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "15. to get angry; to snap; to blow one's top; to lose one's temper; to flip Colloquial, See also キレるあいつは、とうとう切れた。Finally, he lost his temper."
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "16. to be able to do completely Usually written using kana alone, after the -masu stem of a verbこの氷は薄すぎて君の体を支えきれないだろう。This ice is too thin to bear your weight."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to break; to snap; to be cut; to split; to crack 二人の子供は綱が切れるまで引っ張りあった。The two children pulled at the rope until it broke."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be injured "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to wear out; to be worn out "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to break; to burst; to collapse "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to wear off; to stop working; to go dead "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "6. to expire (time limit, etc.); to run out; to become due "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "7. to run out (of stock, etc.); to be exhausted; to be used up; to be sold out; to be out of ガソリンが切れかかっている。We're running out of gas."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "8. to be broken off (e.g. of a relationship); to break up; to have severed ties; to be cut off; to be disconnected "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "9. to cut well; to be sharp このはさみは良く切れない。These scissors don't cut well."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "10. to be sharp-minded; to be keen; to be shrewd; to be quick-witted; to be able "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "11. to be short of; to drop under (a certain figure); to beat (e.g. a record time) １００メートル、１０秒切れる？Will they break the ten-second mark in the hundred-metre race?"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "12. to dry off "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "13. to curve; to veer "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "14. to shuffle (cards) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "15. to get angry; to snap; to blow one's top; to lose one's temper; to flip Colloquial, See also キレるあいつは、とうとう切れた。Finally, he lost his temper."
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "16. to be able to do completely Usually written using kana alone, after the -masu stem of a verbこの氷は薄すぎて君の体を支えきれないだろう。This ice is too thin to bear your weight."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "二人",
+                            "ふたり"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "子供",
+                            "こども"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "綱",
+                            "つな"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "切れる",
+                            "き"
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "引っ張り",
+                            "ひっぱ"
+                        ],
+                        [
+                            "あった",
+                            null
+                        ]
+                    ],
+                    "translation": "The two children pulled at the rope until it broke."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ガソリン",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "切れかかっている",
+                            "きれ"
+                        ]
+                    ],
+                    "translation": "We're running out of gas."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "はさみ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "良く",
+                            "よ"
+                        ],
+                        [
+                            "切れない",
+                            "き"
+                        ]
+                    ],
+                    "translation": "These scissors don't cut well."
+                },
+                {
+                    "sentence": [
+                        [
+                            "メートル",
+                            null
+                        ],
+                        [
+                            "秒",
+                            "びょう"
+                        ],
+                        [
+                            "切れる",
+                            "き"
+                        ]
+                    ],
+                    "translation": "Will they break the ten-second mark in the hundred-metre race?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "あいつ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "とうとう",
+                            null
+                        ],
+                        [
+                            "切れた",
+                            "き"
+                        ]
+                    ],
+                    "translation": "Finally, he lost his temper."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "氷",
+                            "こおり"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "薄",
+                            "うす"
+                        ],
+                        [
+                            "すぎて",
+                            null
+                        ],
+                        [
+                            "君の",
+                            "きみ"
+                        ],
+                        [
+                            "体",
+                            "からだ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "支え",
+                            "ささ"
+                        ],
+                        [
+                            "きれない",
+                            null
+                        ],
+                        [
+                            "だろう",
+                            null
+                        ]
+                    ],
+                    "translation": "This ice is too thin to bear your weight."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. piece; slice; strip; scrap "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cloth also written as 布, 裂切れはずたずたに切り裂かれた。The cloth was torn to shreds."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. sharpness 昔のような身体の切れを取り戻したい。I wish I could get back the tone and nimbleness I once had."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. agility 肉は何切れにしましょうか。How many slices of meat would you like?"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "5. counter for scraps, pieces, etc. "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. piece; slice; strip; scrap "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cloth also written as 布, 裂切れはずたずたに切り裂かれた。The cloth was torn to shreds."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. sharpness 昔のような身体の切れを取り戻したい。I wish I could get back the tone and nimbleness I once had."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. agility 肉は何切れにしましょうか。How many slices of meat would you like?"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "5. counter for scraps, pieces, etc. "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "切れ",
+                            "き"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ずたずたに",
+                            null
+                        ],
+                        [
+                            "切り裂かれた",
+                            "きりさ"
+                        ]
+                    ],
+                    "translation": "The cloth was torn to shreds."
+                },
+                {
+                    "sentence": [
+                        [
+                            "昔の",
+                            "むかし"
+                        ],
+                        [
+                            "ような",
+                            null
+                        ],
+                        [
+                            "身体",
+                            "からだ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "切れ",
+                            "き"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り戻し",
+                            "とりもど"
+                        ],
+                        [
+                            "たい",
+                            null
+                        ]
+                    ],
+                    "translation": "I wish I could get back the tone and nimbleness I once had."
+                },
+                {
+                    "sentence": [
+                        [
+                            "肉",
+                            "にく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "何",
+                            "なに"
+                        ],
+                        [
+                            "切れ",
+                            "き"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "し",
+                            null
+                        ],
+                        [
+                            "ましょうか",
+                            null
+                        ]
+                    ],
+                    "translation": "How many slices of meat would you like?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "折",
+                    "せっ"
+                ],
+                [
+                    "角",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Noun",
+                    "meaning": "1. with trouble; at great pains Usually written using kana aloneせっかくの苦労もあだになった。All my pains went for nothing."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. rare; valuable; precious; long-awaited Usually written using kana aloneお前が大声出すから、せっかくのシャッターチャンスを逃しちゃったよ。You just made me miss the perfect shot when you hollered."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. kind; generous Usually written using kana aloneこういう事情ですから、残念ながら、せっかくのご招待をお受けいたしかねるのです。As such is the case, I am sorry I can't accept your kind invitation."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "4. specially; especially; expressly Usually written using kana aloneせっかく雨の中を会いに行ったのに彼女は留守だった。Though I went to see her all the way in the rain, she was out."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "切角 【せっかく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "切角: Ateji (phonetic) reading, Rarely-used kanji form."
+                },
+                {
+                    "type": "Adverb (fukushi), Noun",
+                    "meaning": "1. with trouble; at great pains Usually written using kana aloneせっかくの苦労もあだになった。All my pains went for nothing."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. rare; valuable; precious; long-awaited Usually written using kana aloneお前が大声出すから、せっかくのシャッターチャンスを逃しちゃったよ。You just made me miss the perfect shot when you hollered."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. kind; generous Usually written using kana aloneこういう事情ですから、残念ながら、せっかくのご招待をお受けいたしかねるのです。As such is the case, I am sorry I can't accept your kind invitation."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "4. specially; especially; expressly Usually written using kana aloneせっかく雨の中を会いに行ったのに彼女は留守だった。Though I went to see her all the way in the rain, she was out."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "切角 【せっかく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "切角: Ateji (phonetic) reading, Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "せっかく",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "苦労",
+                            "くろう"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "あだ",
+                            null
+                        ],
+                        [
+                            "になった",
+                            null
+                        ]
+                    ],
+                    "translation": "All my pains went for nothing."
+                },
+                {
+                    "sentence": [
+                        [
+                            "お前",
+                            "おまえ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "大声出す",
+                            "おおごえだ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "せっかく",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "シャッターチャンス",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "逃し",
+                            "のが"
+                        ],
+                        [
+                            "ちゃった",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "You just made me miss the perfect shot when you hollered."
+                },
+                {
+                    "sentence": [
+                        [
+                            "こういう",
+                            null
+                        ],
+                        [
+                            "事情",
+                            "じじょう"
+                        ],
+                        [
+                            "ですから",
+                            null
+                        ],
+                        [
+                            "残念ながら",
+                            "ざんねん"
+                        ],
+                        [
+                            "せっかく",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ご",
+                            null
+                        ],
+                        [
+                            "招待",
+                            "しょうたい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "受け",
+                            "う"
+                        ],
+                        [
+                            "いたし",
+                            null
+                        ],
+                        [
+                            "かねる",
+                            null
+                        ],
+                        [
+                            "のです",
+                            null
+                        ]
+                    ],
+                    "translation": "As such is the case, I am sorry I can't accept your kind invitation."
+                },
+                {
+                    "sentence": [
+                        [
+                            "せっかく",
+                            null
+                        ],
+                        [
+                            "雨",
+                            "あめ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "中",
+                            "なか"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "会い",
+                            "あ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "行った",
+                            "い"
+                        ],
+                        [
+                            "のに",
+                            null
+                        ],
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "留守",
+                            "るす"
+                        ],
+                        [
+                            "だった",
+                            null
+                        ]
+                    ],
+                    "translation": "Though I went to see her all the way in the rain, she was out."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "目",
+                    "め"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gap; break; rift "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. pause; interval; interruption "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. cut; incision; notch; score "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. end "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "せつ"
+                ],
+                [
+                    "実",
+                    "じつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. earnest; sincere; acute; keen; fervent "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. pressing; urgent; serious; severe 太っているのが私の切実な問題です。Being fat is a serious problem for me."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "3. pertinent; appropriate "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "太っている",
+                            "ふと"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "切実な",
+                            "せつじつ"
+                        ],
+                        [
+                            "問題",
+                            "もんだい"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "Being fat is a serious problem for me."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "札",
+                    "ふだ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. trump; trump card Card games"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. ace up one's sleeve; secret weapon "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Trump A trump is a playing card which is elevated above its nor... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "切札 【きりふだ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "せつ"
+                ],
+                [
+                    "望",
+                    "ぼう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. earnest desire; eager hope; longing; yearning; hankering "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to run out of; to be short of; to be out of stock 複写機の紙を切らしたよ。We've run out of paper for the photocopier."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to be out of (e.g. breath); to lose (one's patience, concentration, etc.) しびれを切らして借金の催促をした。He impatiently asked for repayment."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "複写機",
+                            "ふくしゃき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "紙",
+                            "かみ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "切らした",
+                            "き"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "We've run out of paper for the photocopier."
+                },
+                {
+                    "sentence": [
+                        [
+                            "しびれ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "切らして",
+                            "き"
+                        ],
+                        [
+                            "借金",
+                            "しゃっきん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "催促",
+                            "さいそく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "He impatiently asked for repayment."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "接",
+                    "せっ"
+                ],
+                [
+                    "点",
+                    "てん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. point of tangency; point of contact Mathematics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (electrical) contact あたりまえだが、人と人との接点は「ことば」である。その言葉によって、考えを共有し、議論している。It's obvious but the connection between people is \"words\". It is by those words that thoughts are shared and arguments carried out."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. point of contact (between); connection; point of agreement; common ground "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "切点 【せってん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "切点: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あたりまえ",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "接点",
+                            "せってん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ことば",
+                            null
+                        ],
+                        [
+                            "である",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "言葉",
+                            "ことば"
+                        ],
+                        [
+                            "によって",
+                            null
+                        ],
+                        [
+                            "考え",
+                            "かんが"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "共有",
+                            "きょうゆう"
+                        ],
+                        [
+                            "し",
+                            null
+                        ],
+                        [
+                            "議論",
+                            "ぎろん"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "It's obvious but the connection between people is \"words\". It is by those words that thoughts are shared and arguments carried out."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "抜",
+                    "ぬ"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. clipping (of newspaper article, etc.); cutting; scrap (for a scrapbook) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cut-out (picture, coloured paper, etc.) Abbreviation, See also 切り抜き絵, See also 切り抜き細工"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "切抜き 【きりぬき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "せつ"
+                ],
+                [
+                    "断",
+                    "だん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. cutting; severance; section; amputation; disconnection "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "截断 【せつだん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "截断: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "捨",
+                    "す"
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to cut off and throw away "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to abandon; to disregard; to discard; to throw to the wolves もう少しやさしく意見してあげたらどうなの。一刀両断のもと切り捨てられた彼の立場も考えてよ。Why don't you try expressing your opinion a little more gently? Think about how he feels getting told flatly that he's being cut loose."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to discard (numbers after a certain decimal place); to drop; to omit; to ignore; to round down "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to cut (someone) down; to slay "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "切捨てる 【きりすてる】、斬り捨てる 【きりすてる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "もう少し",
+                            "もうすこ"
+                        ],
+                        [
+                            "やさしく",
+                            null
+                        ],
+                        [
+                            "意見",
+                            "いけん"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "あげたら",
+                            null
+                        ],
+                        [
+                            "どう",
+                            null
+                        ],
+                        [
+                            "な",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "一刀両断",
+                            "いっとうりょうだん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "切り捨てられた",
+                            "きりす"
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "立場",
+                            "たちば"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "考えて",
+                            "かんが"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "Why don't you try expressing your opinion a little more gently? Think about how he feels getting told flatly that he's being cut loose."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. endless; boundless; innumerable Usually written using kana alone, See also 切りのない彼の野心にはきりがない。His ambition knows no bounds."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "2. endless; never-ending; going on forever Usually written using kana alone彼のぐちにはきりがない。There is no end to his complaining."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "切りが無い 【きりがない】、キリがない"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "野心",
+                            "やしん"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "きりがない",
+                            null
+                        ]
+                    ],
+                    "translation": "His ambition knows no bounds."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "ぐち",
+                            null
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "きりがない",
+                            null
+                        ]
+                    ],
+                    "translation": "There is no end to his complaining."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "掛",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chance; start; cue; excuse; motive; impetus; occasion Usually written using kana alone"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kikkake "
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "切っ掛け: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "倒",
+                    "たお"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to cut down; to chop down; to fell "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "斬り倒す 【きりたおす】、切倒す 【きりたおす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "切り子",
+                "きりこ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kiriko "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kirigakubotouge "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kirinohana "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "たい"
+                ],
+                [
+                    "切",
+                    "せつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. important; significant; serious; crucial 柔道では力より技のほうが大切である。In judo, technique is more important than strength."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. precious; valuable; dear; cherished; beloved 大切なものはここに置かないで下さい。Please don't leave valuable things here."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "3. careful See also 大切に, usu. adverbially as ～に私は古い本を大切に保存している。I keep old books with care."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "大切 【たいせち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "たいせち: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "柔道",
+                            "じゅうどう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "力",
+                            "ちから"
+                        ],
+                        [
+                            "より",
+                            null
+                        ],
+                        [
+                            "技",
+                            "わざ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ほう",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "大切",
+                            "たいせつ"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "In judo, technique is more important than strength."
+                },
+                {
+                    "sentence": [
+                        [
+                            "大切な",
+                            "たいせつ"
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "置かないで",
+                            "お"
+                        ],
+                        [
+                            "下さい",
+                            "くだ"
+                        ]
+                    ],
+                    "translation": "Please don't leave valuable things here."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "古い",
+                            "ふる"
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "大切",
+                            "たいせつ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "保存",
+                            "ほぞん"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "I keep old books with care."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "踏",
+                    "ふみ"
+                ],
+                [
+                    "切",
+                    "きり"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. railway crossing; railroad crossing; train crossing; level crossing 警報機が鳴っているときは絶対に踏切を渡らないでください。Don't cross the tracks when the alarm is ringing."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. starting line; scratch "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. determination "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. stepping over the edge of the ring Sumo"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Level crossing A level crossing (a primarily British term; usually calle... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "踏切り 【ふみきり】、踏み切り 【ふみきり】、踏み切 【ふみきり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "警報機",
+                            "けいほうき"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "鳴っている",
+                            "な"
+                        ],
+                        [
+                            "とき",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "絶対に",
+                            "ぜったい"
+                        ],
+                        [
+                            "踏切",
+                            "ふみきり"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "渡らないで",
+                            "わた"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Don't cross the tracks when the alarm is ringing."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "親",
+                    "しん"
+                ],
+                [
+                    "切",
+                    "せつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. kind; gentle; considerate; generous; friendly; nice "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "深切 【しんせつ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "深切: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "小",
+                    "こ"
+                ],
+                [
+                    "切",
+                    "ぎっ"
+                ],
+                [
+                    "手",
+                    "て"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cheque; check "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cheque A cheque (or check in American English) is a document/ins... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "裏",
+                    "うら"
+                ],
+                [
+                    "切",
+                    "ぎ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to betray; to turn traitor (to); to double-cross; to go back on; to be unfaithful (to) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to disappoint; to let down "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "適",
+                    "てき"
+                ],
+                [
+                    "切",
+                    "せつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. appropriate; suitable; fitting; apt; proper; right; pertinent; relevant "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "横",
+                    "よこ"
+                ],
+                [
+                    "切",
+                    "ぎ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to cross (e.g. road); to traverse "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "横ぎる 【よこぎる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "切",
+                    "さい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. all; everything; entirety; the whole "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. absolutely (not); (not) at all; (none) whatsoever; without exception with neg. verb"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "3. Issai "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "締",
+                    "し"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. deadline; closing; cut-off also written as 〆切（り）レポートの締め切りが間近に迫っているので、私はひどく忙しい。I am terribly busy because the report deadline is near."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. closing (a door, window, etc.) also written as 閉め切り"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. cofferdam "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "締切 【しめきり】、締切り 【しめきり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "レポート",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "締め切り",
+                            "しめき"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "間近に",
+                            "まぢか"
+                        ],
+                        [
+                            "迫っている",
+                            "せま"
+                        ],
+                        [
+                            "ので",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ひどく",
+                            null
+                        ],
+                        [
+                            "忙しい",
+                            "いそが"
+                        ]
+                    ],
+                    "translation": "I am terribly busy because the report deadline is near."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "締",
+                    "し"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to close up; to shut up (e.g. behind doors) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to cut off (e.g. because a deadline has expired); to close off (e.g. subscription list) usu. 締め切る"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "閉め切る 【しめきる】、〆切る 【しめきる】、閉切る 【しめきる】、締切る 【しめきる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "売",
+                    "う"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. sold-out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "売切れ 【うりきれ】、売切 【うりきれ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "売",
+                    "う"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to be sold out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "売切れる 【うりきれる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "区",
+                    "く"
+                ],
+                [
+                    "切",
+                    "ぎ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to divide; to separate; to partition; to demarcate; to delimit; to mark off グラウンドは白線で３つに区切られている。The playground is divided into three areas by white lines."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to punctuate; to mark off (with a comma); to insert pauses (between words or phrases when reading aloud); to space one's words "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "句切る 【くぎる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "句切る: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "グラウンド",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "白線",
+                            "はくせん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "３つ",
+                            "みっ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "区切られている",
+                            "くぎ"
+                        ]
+                    ],
+                    "translation": "The playground is divided into three areas by white lines."
+                }
+            ]
+        }
+    ]
+}

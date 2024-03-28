@@ -1,0 +1,1282 @@
+{
+    "kanji": "屈",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "yield",
+        "bend",
+        "flinch",
+        "submit"
+    ],
+    "kun": [
+        "かが.む",
+        "かが.める"
+    ],
+    "on": [
+        "クツ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.26504587155963305,
+            0.1559633027522936,
+            "c",
+            0.016238532110091745,
+            0.005229357798165137,
+            0.038623853211009175,
+            0.008073394495412844,
+            0.05577981651376147,
+            0.006422018348623853,
+            "c",
+            0.09431192660550458,
+            -0.008715596330275228,
+            0.3053211009174312,
+            -0.03165137614678899,
+            0.4002752293577982,
+            -0.04,
+            "c",
+            0.029908256880733942,
+            -0.002660550458715596,
+            0.04376146788990825,
+            0.016422018348623852,
+            0.036513761467889906,
+            0.04642201834862385,
+            "c",
+            -0.007889908256880733,
+            0.03247706422018349,
+            -0.011559633027522935,
+            0.04614678899082569,
+            -0.02284403669724771,
+            0.08990825688073395
+        ],
+        [
+            "M",
+            0.29944954128440365,
+            0.30412844036697245,
+            "C",
+            0.33761467889908253,
+            0.30275229357798167,
+            0.5808256880733945,
+            0.28009174311926605,
+            0.6972477064220184,
+            0.2710091743119266,
+            "c",
+            0.02587155963302752,
+            -0.002018348623853211,
+            0.045229357798165136,
+            -0.0033944954128440367,
+            0.05403669724770642,
+            -0.003669724770642202
+        ],
+        [
+            "M",
+            0.2798165137614679,
+            0.1651376146788991,
+            "c",
+            0.008623853211009174,
+            0.008623853211009174,
+            0.011467889908256881,
+            0.022935779816513763,
+            0.011467889908256881,
+            0.0389908256880734,
+            "c",
+            0,
+            0.17917431192660552,
+            -0.03669724770642202,
+            0.44724770642201833,
+            -0.19495412844036697,
+            0.5801834862385321
+        ],
+        [
+            "M",
+            0.5460550458715596,
+            0.37504587155963304,
+            "c",
+            0.011376146788990826,
+            0.011376146788990826,
+            0.014954128440366971,
+            0.02743119266055046,
+            0.014954128440366971,
+            0.04412844036697247,
+            "c",
+            0,
+            0.05788990825688073,
+            -0.0001834862385321101,
+            0.33908256880733945,
+            -0.0001834862385321101,
+            0.4294495412844037
+        ],
+        [
+            "M",
+            0.3669724770642202,
+            0.48155963302752297,
+            "c",
+            0.0057798165137614675,
+            0.0057798165137614675,
+            0.006880733944954129,
+            0.018440366972477064,
+            0.005596330275229358,
+            0.029357798165137616,
+            "c",
+            -0.005688073394495413,
+            0.04889908256880734,
+            -0.007889908256880733,
+            0.053302752293577976,
+            -0.01669724770642202,
+            0.11192660550458715,
+            "c",
+            -0.003027522935779817,
+            0.020458715596330276,
+            0.0033027522935779813,
+            0.023577981651376145,
+            0.02146788990825688,
+            0.0181651376146789,
+            "c",
+            0.09807339449541284,
+            -0.02926605504587156,
+            0.2808256880733945,
+            -0.05770642201834862,
+            0.37293577981651377,
+            -0.056330275229357796
+        ],
+        [
+            "M",
+            0.7722935779816514,
+            0.44146788990825686,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.009816513761467891,
+            0.02073394495412844,
+            0.006788990825688073,
+            0.03513761467889908,
+            "c",
+            -0.006697247706422018,
+            0.032293577981651375,
+            -0.009816513761467891,
+            0.044954128440366975,
+            -0.017614678899082567,
+            0.08311926605504588,
+            "c",
+            -0.0023853211009174312,
+            0.011834862385321101,
+            -0.005229357798165137,
+            0.0263302752293578,
+            -0.008807339449541284,
+            0.04504587155963303
+        ],
+        [
+            "M",
+            0.3446788990825688,
+            0.736697247706422,
+            "C",
+            0.3486238532110092,
+            0.7454128440366973,
+            0.3486238532110092,
+            0.7591743119266054,
+            0.3456880733944954,
+            0.7706422018348624,
+            "c",
+            -0.010458715596330274,
+            0.04137614678899083,
+            -0.013761467889908258,
+            0.061192660550458716,
+            -0.023577981651376145,
+            0.09495412844036696,
+            "c",
+            -0.007889908256880733,
+            0.026972477064220183,
+            0.0013761467889908255,
+            0.028165137614678898,
+            0.028807339449541284,
+            0.023211009174311924,
+            "c",
+            0.1410091743119266,
+            -0.02532110091743119,
+            0.3501834862385321,
+            -0.05128440366972477,
+            0.44027522935779817,
+            -0.04990825688073395
+        ],
+        [
+            "M",
+            0.796697247706422,
+            0.693302752293578,
+            "c",
+            0.008440366972477065,
+            0.008440366972477065,
+            0.010642201834862385,
+            0.018807339449541282,
+            0.010458715596330274,
+            0.030825688073394496,
+            "c",
+            -0.00045871559633027525,
+            0.04660550458715596,
+            -0.003669724770642202,
+            0.06871559633027523,
+            -0.006238532110091744,
+            0.09926605504587156,
+            "c",
+            -0.0013761467889908255,
+            0.016238532110091745,
+            -0.0028440366972477065,
+            0.03357798165137615,
+            -0.004128440366972477,
+            0.053577981651376144
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "屈",
+                    "くつ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. disgrace; humiliation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. disgrace; humiliation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "指",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. leading; foremost; preeminent; outstanding; one of the best "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. leading; foremost; preeminent; outstanding; one of the best "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "折",
+                    "せつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. bending; curving; twisting; turning; winding "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. warping (of feelings, logic, etc.); distortion; twisting "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. refraction "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "4. inflection Linguistics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Refraction Refraction is the change in direction of a wave due to a ... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. bending; curving; twisting; turning; winding "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. warping (of feelings, logic, etc.); distortion; twisting "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. refraction "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "4. inflection Linguistics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Refraction Refraction is the change in direction of a wave due to a ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suru verb - special class, Intransitive verb",
+                    "meaning": "1. to yield; to give in; to be daunted; to shrink "
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "2. to bend (knee, etc.) "
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "3. to subdue; to overpower "
+                },
+                {
+                    "type": "Suru verb - special class, Intransitive verb",
+                    "meaning": "4. to feel down Archaic"
+                },
+                {
+                    "type": "Suru verb - special class, Intransitive verb",
+                    "meaning": "1. to yield; to give in; to be daunted; to shrink "
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "2. to bend (knee, etc.) "
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "3. to subdue; to overpower "
+                },
+                {
+                    "type": "Suru verb - special class, Intransitive verb",
+                    "meaning": "4. to feel down Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "服",
+                    "ぷく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. yielding; submission; surrender; giving way; succumbing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "屈伏 【くっぷく】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. yielding; submission; surrender; giving way; succumbing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "屈伏 【くっぷく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "かが"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to stoop; to lean over; to bend forward Usually written using kana alone彼は靴をはくためにかがんだ。He stooped to put on his shoes."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to bend down; to crouch; to squat Usually written using kana alone彼はかがんでボールを拾った。He bent down and picked up the ball."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "屈む 【こごむ】、屈む 【くぐむ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "くぐむ: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to stoop; to lean over; to bend forward Usually written using kana alone彼は靴をはくためにかがんだ。He stooped to put on his shoes."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to bend down; to crouch; to squat Usually written using kana alone彼はかがんでボールを拾った。He bent down and picked up the ball."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "屈む 【こごむ】、屈む 【くぐむ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "くぐむ: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "靴",
+                            "くつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "く",
+                            null
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "かがんだ",
+                            null
+                        ]
+                    ],
+                    "translation": "He stooped to put on his shoes."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "かがんで",
+                            null
+                        ],
+                        [
+                            "ボール",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "拾った",
+                            "ひろ"
+                        ]
+                    ],
+                    "translation": "He bent down and picked up the ball."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to lean over; to lean in "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "屈み込む 【かがみこむ】、屈みこむ 【かがみこむ】"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to lean over; to lean in "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "屈み込む 【かがみこむ】、屈みこむ 【かがみこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "託",
+                    "たく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. worry; care; concern "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. ennui; boredom "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "屈托 【くったく】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. worry; care; concern "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. ennui; boredom "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "屈托 【くったく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "伸",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. bending and stretching; flexing and extending "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. bending and stretching; flexing and extending "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "強",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. robust; brawny; muscular; strong; sturdy "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "倔強 【くっきょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "倔強: Rarely-used kanji form."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. robust; brawny; muscular; strong; sturdy "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "倔強 【くっきょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "倔強: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tropism See also 傾性"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tropism A tropism (from Greek τροπή, trope, \"a turning\") is a bio... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くずり"
+                ],
+                [
+                    "狸",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wolverine (Gulo gulo); glutton; carcajou Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Wolverine The wolverine, pronounced /ˈwʊlvəriːn/, Gulo gulo (Gulo i... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "貂熊 【くずり】、クズリ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "折",
+                    "せつ"
+                ],
+                [
+                    "率",
+                    "りつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. refractive index "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Refractive index In optics the refractive index (or index of refraction) n... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "折",
+                    "せつ"
+                ],
+                [
+                    "語",
+                    "ご"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. inflected language; fusional language Linguistics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fusional language A fusional language (also called inflecting language) is ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "かが"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to stoop; to bend (e.g. one's knees) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "屈める 【こごめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くつ"
+                ],
+                [
+                    "従",
+                    "じゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. servile submission; subservience "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "伸",
+                    "しん"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. elasticity See also 屈伸"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "折",
+                    "せつ"
+                ],
+                [
+                    "形",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. inflected form Grammar"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "光",
+                    "こう"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phototropism "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "折",
+                    "せつ"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "則",
+                    "そく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. law of refraction Rare term, See also スネルの法則"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "屈",
+                "くつ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kutsu "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kutsugen "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Kutsuzan "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "退",
+                    "たい"
+                ],
+                [
+                    "屈",
+                    "くつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. tedious; boring; dull; uninteresting; tiresome; monotonous "
+                },
+                {
+                    "type": "Suru verb, Intransitive verb",
+                    "meaning": "2. to feel bored; to get bored (with); to get tired (of) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Boredom Boredom is an emotional state experienced when an individ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "理",
+                    "り"
+                ],
+                [
+                    "屈",
+                    "くつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. theory; reason; logic "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (unreasonable) argument; strained logic; excuse; pretext "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "理窟 【りくつ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "理窟: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窮",
+                    "きゅう"
+                ],
+                [
+                    "屈",
+                    "くつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. narrow; tight; cramped "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. formal; stiff; strict; ceremonious; rigid "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "3. constrained; uncomfortable "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "4. tight (e.g. finances) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "屈",
+                    "くつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)",
+                    "meaning": "1. persistence; fortitude; indomitability "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "卑",
+                    "ひ"
+                ],
+                [
+                    "屈",
+                    "くつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. servile; subservient; obsequious; slavish; self-abasing; grovelling; spineless "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偏",
+                    "へん"
+                ],
+                [
+                    "屈",
+                    "くつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. narrow-minded; obstinate; stubborn; perverse; unreasonable; warped; bigoted; eccentric "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "偏窟 【へんくつ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "偏窟: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屁",
+                    "へ"
+                ],
+                [
+                    "理",
+                    "り"
+                ],
+                [
+                    "屈",
+                    "くつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sophism; chop logic; far-fetched argument; quibble; cavil; argument for argument's sake "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "退",
+                    "たい"
+                ],
+                [
+                    "屈",
+                    "くつ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "ぎ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. killing time; staving off boredom "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "退屈凌ぎ 【たいくつしのぎ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "子",
+                    "し"
+                ],
+                [
+                    "宮",
+                    "きゅう"
+                ],
+                [
+                    "後",
+                    "こう"
+                ],
+                [
+                    "屈",
+                    "くつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. retroversion of the uterus; tipped uterus "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "身",
+                    "み"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to stoop; to bend over "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "身を屈める 【みをかがめる】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

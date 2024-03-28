@@ -1,0 +1,1480 @@
+{
+    "kanji": "句",
+    "grade": 5,
+    "jlpt": 1,
+    "meanings": [
+        "phrase",
+        "clause",
+        "sentence",
+        "passage",
+        "paragraph",
+        "counter for haiku"
+    ],
+    "kun": [
+        "ク"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.3623853211009174,
+            0.10321100917431193,
+            "c",
+            0.0005504587155963302,
+            0.008256880733944955,
+            -0.001559633027522936,
+            0.019633027522935782,
+            -0.0057798165137614675,
+            0.031009174311926603,
+            "C",
+            0.3302752293577982,
+            0.20642201834862386,
+            0.2511926605504587,
+            0.3405504587155963,
+            0.1444954128440367,
+            0.44385321100917435
+        ],
+        [
+            "M",
+            0.31880733944954126,
+            0.2775229357798165,
+            "c",
+            0.0263302752293578,
+            0.008256880733944955,
+            0.052477064220183486,
+            0.005504587155963302,
+            0.07917431192660551,
+            0.0012844036697247708,
+            "c",
+            0.08091743119266055,
+            -0.01275229357798165,
+            0.33,
+            -0.0555045871559633,
+            0.3703669724770642,
+            -0.06091743119266055,
+            "c",
+            0.04238532110091743,
+            -0.005688073394495413,
+            0.06174311926605505,
+            0.004495412844036697,
+            0.05963302752293578,
+            0.0481651376146789,
+            "c",
+            -0.0045871559633027525,
+            0.09403669724770643,
+            -0.04128440366972477,
+            0.4151376146788991,
+            -0.12844036697247707,
+            0.5940366972477065,
+            "c",
+            -0.021743119266055048,
+            0.04458715596330275,
+            -0.046330275229357794,
+            0.01724770642201835,
+            -0.07339449541284404,
+            -0.011467889908256881
+        ],
+        [
+            "M",
+            0.25,
+            0.4760550458715596,
+            "c",
+            0.008256880733944955,
+            0.006697247706422018,
+            0.015229357798165137,
+            0.017614678899082567,
+            0.01651376146788991,
+            0.028165137614678898,
+            "c",
+            0.010642201834862385,
+            0.03752293577981651,
+            0.02238532110091743,
+            0.10669724770642203,
+            0.031926605504587154,
+            0.1643119266055046,
+            "c",
+            0.0025688073394495416,
+            0.015688073394495412,
+            0.004862385321100918,
+            0.03018348623853211,
+            0.006605504587155963,
+            0.042477064220183484
+        ],
+        [
+            "M",
+            0.2741284403669725,
+            0.4926605504587156,
+            "c",
+            0.09000000000000001,
+            -0.015779816513761466,
+            0.1831192660550459,
+            -0.02981651376146789,
+            0.2408256880733945,
+            -0.0363302752293578,
+            "c",
+            0.04018348623853211,
+            -0.004495412844036697,
+            0.053944954128440366,
+            0.004678899082568807,
+            0.04697247706422018,
+            0.038256880733944953,
+            "c",
+            -0.00908256880733945,
+            0.044311926605504585,
+            -0.023944954128440367,
+            0.09110091743119265,
+            -0.03963302752293578,
+            0.15100917431192662
+        ],
+        [
+            "M",
+            0.311743119266055,
+            0.6796330275229358,
+            "c",
+            0.054587155963302755,
+            -0.005229357798165137,
+            0.12541284403669725,
+            -0.015504587155963302,
+            0.1996330275229358,
+            -0.024128440366972478,
+            "c",
+            0.01165137614678899,
+            -0.0013761467889908255,
+            0.02330275229357798,
+            -0.002660550458715596,
+            0.03504587155963303,
+            -0.0039449541284403665
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. section (i.e. of text); sentence; passage; paragraph 彼はその句の文字どおりの意味を説明した。He explained the literal meaning of the phrase."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. phrase Linguisticsこの句では前置詞を省略できる。You can omit the preposition in this phrase."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry) "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "4. haiku; first 17 morae of a renga, etc. "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "5. maxim; saying; idiom; expression "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "6. clause (e.g. in a database query language) Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "7. Phrase In everyday speech, a phrase may refer to any group of wo... Read more"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. section (i.e. of text); sentence; passage; paragraph 彼はその句の文字どおりの意味を説明した。He explained the literal meaning of the phrase."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. phrase Linguisticsこの句では前置詞を省略できる。You can omit the preposition in this phrase."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry) "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "4. haiku; first 17 morae of a renga, etc. "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "5. maxim; saying; idiom; expression "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "6. clause (e.g. in a database query language) Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "7. Phrase In everyday speech, a phrase may refer to any group of wo... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "句",
+                            "く"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "文字どおりの",
+                            "もじどお"
+                        ],
+                        [
+                            "意味",
+                            "いみ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "説明",
+                            "せつめい"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "He explained the literal meaning of the phrase."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "句",
+                            "く"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "前置詞",
+                            "ぜんちし"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "省略",
+                            "しょうりゃく"
+                        ],
+                        [
+                            "できる",
+                            null
+                        ]
+                    ],
+                    "translation": "You can omit the preposition in this phrase."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "区",
+                    "く"
+                ],
+                [
+                    "切",
+                    "ぎ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to divide; to separate; to partition; to demarcate; to delimit; to mark off グラウンドは白線で３つに区切られている。The playground is divided into three areas by white lines."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to punctuate; to mark off (with a comma); to insert pauses (between words or phrases when reading aloud); to space one's words "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "句切る 【くぎる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "句切る: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to divide; to separate; to partition; to demarcate; to delimit; to mark off グラウンドは白線で３つに区切られている。The playground is divided into three areas by white lines."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to punctuate; to mark off (with a comma); to insert pauses (between words or phrases when reading aloud); to space one's words "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "句切る 【くぎる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "句切る: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "グラウンド",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "白線",
+                            "はくせん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "３つ",
+                            "みっ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "区切られている",
+                            "くぎ"
+                        ]
+                    ],
+                    "translation": "The playground is divided into three areas by white lines."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "読",
+                    "とう"
+                ],
+                [
+                    "点",
+                    "てん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. punctuation mark "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. punctuation mark "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "区",
+                    "く"
+                ],
+                [
+                    "切",
+                    "ぎ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pause (in speech, writing, etc.); punctuation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. break; end; (place to) stop; pause; milestone (e.g. in a project) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "句切り 【くぎり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. pause (in speech, writing, etc.); punctuation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. break; end; (place to) stop; pause; milestone (e.g. in a project) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "句切り 【くぎり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "読",
+                    "とう"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. punctuation rules "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. collection of haiku poems "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gathering of haiku poets "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "作",
+                    "さく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. composing haiku poems "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "動",
+                    "どう"
+                ],
+                [
+                    "詞",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phrasal verb Linguistics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Phrasal verb A phrasal verb is a combination of a verb and a single-wo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "構",
+                    "こう"
+                ],
+                [
+                    "造",
+                    "ぞう"
+                ],
+                [
+                    "規",
+                    "き"
+                ],
+                [
+                    "則",
+                    "そく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phrase structure rule Linguistics"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conventions to be followed in composing Japanese poetry; phraseology; diction See also 句形"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. rules of grammar and syntax when reading kanbun in Japanese See also 句形"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "点",
+                    "てん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. period; full stop "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "構",
+                    "こう"
+                ],
+                [
+                    "造",
+                    "ぞう"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ],
+                [
+                    "法",
+                    "ぽう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phrase structure grammar; PSG Linguistics"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "例",
+                    "れい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phrase example; haiku example "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "節",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phrases and clauses "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "義",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. meaning of a phrase "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "々",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. every clause "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "句句 【くく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "碑",
+                    "ひ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. slab with a haiku cut on it "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "形",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poetry form (esp. haiku) See also 句法"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. grammatical structure in kanbun See also 句法"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "読",
+                    "とう"
+                ],
+                [
+                    "文",
+                    "もじ"
+                ],
+                [
+                    "字",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. punctuation character Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "句丈",
+                "くじょう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Kujou "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Kubutsu "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kuwa "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "俳",
+                    "はい"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. haiku; 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Haiku Haiku  listen (no separate plural form) is a very short f... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "文",
+                    "もん"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. complaint; grumbling; objection そんなことは君が文句を言う理由にはならないよ。That doesn't give you grounds for complaining."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. phrase; words; expression その文句は、人を侮辱するためのものだ。The phrase is meant to insult people."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "そんな",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "君",
+                            "きみ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "文句",
+                            "もんく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "言う",
+                            "い"
+                        ],
+                        [
+                            "理由",
+                            "りゆう"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "ならない",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "That doesn't give you grounds for complaining."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "文句",
+                            "もんく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "侮辱",
+                            "ぶじょく"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "ため",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "The phrase is meant to insult people."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "語",
+                    "ご"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. words and phrases; words "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "挙",
+                    "あげ"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Noun",
+                    "meaning": "1. after (a long process); at the end of esp. 〜したあげく or 〜のあげく"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. last line (of a renga) See also 発句"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "挙げ句 【あげく】、揚げ句 【あげく】、揚句 【あげく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "異",
+                    "い"
+                ],
+                [
+                    "口",
+                    "く"
+                ],
+                [
+                    "同",
+                    "どう"
+                ],
+                [
+                    "音",
+                    "おん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. (saying) with one voice; unanimously; in chorus; in unison; as one Yojijukugo (four character compound), usu. adverbially as 〜に"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "異口同音 【いこうどうおん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "文",
+                    "もん"
+                ],
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. undisputed; entirely; perfect See also 文句なく"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "文句無し 【もんくなし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "決",
+                    "き"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "文",
+                    "もん"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. set phrase; stock phrase; conventional expression; usual wording; cliché; clichéd line "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "決り文句 【きまりもんく】、きまり文句 【きまりもんく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "美",
+                    "び"
+                ],
+                [
+                    "辞",
+                    "じ"
+                ],
+                [
+                    "麗",
+                    "れい"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. flowery words; rhetorical flourishes Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "字",
+                    "じ"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wording; words and phrases; way of expression; token "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "名",
+                    "めい"
+                ],
+                [
+                    "詞",
+                    "し"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. noun phrase; NP Grammar"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いち"
+                ],
+                [
+                    "言",
+                    "ごん"
+                ],
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. every single word and phrase; word by word Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "端",
+                    "たん"
+                ],
+                [
+                    "午",
+                    "ご"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "節",
+                    "せっ"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. Boys' Day celebration (May 5) See also 端午"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "成",
+                    "せい"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. idiom; set phrase; idiomatic phrase "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. proverb; saying; quote; aphorism "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "慣",
+                    "かん"
+                ],
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "語",
+                    "ご"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. idiom; idiomatic phrase "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "節",
+                    "せっ"
+                ],
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "働",
+                    "ばたら"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. working on a day off (to make up for lost time, or to make an impression) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "文",
+                    "もん"
+                ],
+                [
+                    "句",
+                    "く"
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. undisputedly; perfectly See also 文句なしあのシロウト歌手は文句なくタレントショーで一位となった。The amateur singer won first in the talent show hands down."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あの",
+                            null
+                        ],
+                        [
+                            "シロウト",
+                            null
+                        ],
+                        [
+                            "歌手",
+                            "かしゅ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "文句なく",
+                            "もんく"
+                        ],
+                        [
+                            "タレント",
+                            null
+                        ],
+                        [
+                            "ショー",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "一位",
+                            "いちい"
+                        ],
+                        [
+                            "となった",
+                            null
+                        ]
+                    ],
+                    "translation": "The amateur singer won first in the talent show hands down."
+                }
+            ]
+        }
+    ]
+}

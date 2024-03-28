@@ -1,0 +1,1130 @@
+{
+    "kanji": "択",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "choose",
+        "select",
+        "elect",
+        "prefer"
+    ],
+    "kun": [
+        "えら.ぶ"
+    ],
+    "on": [
+        "タク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.11697247706422019,
+            0.35477064220183485,
+            "c",
+            0.01724770642201835,
+            0.006513761467889908,
+            0.03486238532110091,
+            0.006422018348623853,
+            0.05513761467889908,
+            0.003853211009174312,
+            "c",
+            0.04422018348623853,
+            -0.0057798165137614675,
+            0.11706422018348624,
+            -0.018073394495412842,
+            0.17880733944954127,
+            -0.025779816513761468,
+            "c",
+            0.012660550458715595,
+            -0.001559633027522936,
+            0.028623853211009177,
+            -0.002477064220183486,
+            0.040458715596330276,
+            -0.0001834862385321101
+        ],
+        [
+            "M",
+            0.27082568807339447,
+            0.13990825688073394,
+            "c",
+            0.010825688073394495,
+            0.010825688073394495,
+            0.013853211009174311,
+            0.02522935779816514,
+            0.013853211009174311,
+            0.046055045871559626,
+            "c",
+            0,
+            0.13972477064220185,
+            0.002201834862385321,
+            0.5019266055045871,
+            0.002201834862385321,
+            0.6068807339449542,
+            "c",
+            0,
+            0.13073394495412843,
+            -0.05798165137614679,
+            0.03238532110091743,
+            -0.07128440366972477,
+            0.01834862385321101
+        ],
+        [
+            "M",
+            0.11467889908256881,
+            0.6163302752293579,
+            "c",
+            0.01293577981651376,
+            0.01293577981651376,
+            0.024036697247706424,
+            0.009816513761467891,
+            0.0389908256880734,
+            0.0006422018348623854,
+            "c",
+            0.04706422018348624,
+            -0.028990825688073395,
+            0.08605504587155964,
+            -0.052752293577981654,
+            0.19724770642201836,
+            -0.12229357798165137
+        ],
+        [
+            "M",
+            0.46,
+            0.211651376146789,
+            "c",
+            0.010183486238532111,
+            0.006238532110091744,
+            0.019908256880733943,
+            0.01110091743119266,
+            0.03458715596330275,
+            0.009541284403669725,
+            "c",
+            0.08568807339449541,
+            -0.00908256880733945,
+            0.19669724770642202,
+            -0.022935779816513763,
+            0.22825688073394496,
+            -0.02724770642201835,
+            "c",
+            0.027155963302752294,
+            -0.003669724770642202,
+            0.042844036697247706,
+            0.015504587155963302,
+            0.038623853211009175,
+            0.036146788990825685,
+            "C",
+            0.7522935779816514,
+            0.27522935779816515,
+            0.7408256880733946,
+            0.3256880733944954,
+            0.7247706422018348,
+            0.4013761467889908
+        ],
+        [
+            "M",
+            0.481651376146789,
+            0.4380733944954128,
+            "c",
+            0.030825688073394496,
+            -0.001834862385321101,
+            0.14807339449541285,
+            -0.017522935779816513,
+            0.22018348623853212,
+            -0.0255045871559633,
+            "c",
+            0.020642201834862386,
+            -0.0022935779816513763,
+            0.03724770642201834,
+            -0.0016513761467889907,
+            0.04642201834862385,
+            -0.002201834862385321
+        ],
+        [
+            "M",
+            0.4724770642201835,
+            0.22128440366972477,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.011467889908256881,
+            0.01834862385321101,
+            0.011467889908256881,
+            0.03669724770642202,
+            "c",
+            0,
+            0.19761467889908257,
+            -0.0034862385321100917,
+            0.45871559633027525,
+            -0.14220183486238533,
+            0.6020183486238533
+        ],
+        [
+            "M",
+            0.5596330275229358,
+            0.43577981651376146,
+            "c",
+            0.05522935779816513,
+            0.11660550458715598,
+            0.14642201834862387,
+            0.2692660550458716,
+            0.21724770642201835,
+            0.35394495412844035,
+            "c",
+            0.023211009174311924,
+            0.027706422018348623,
+            0.0453211009174312,
+            0.050917431192660546,
+            0.06944954128440367,
+            0.07036697247706422
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Counter",
+                    "meaning": "1. counter for choices, options, etc. Colloquial"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "選",
+                    "えら"
+                ],
+                [
+                    "ぶ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "1. to choose; to select "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "撰ぶ 【えらぶ】、択ぶ 【えらぶ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "撰ぶ: Rarely-used kanji form. 択ぶ: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Transitive verb",
+                    "meaning": "1. to choose; to select "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "撰ぶ 【えらぶ】、択ぶ 【えらぶ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "撰ぶ: Rarely-used kanji form. 択ぶ: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "選",
+                    "よ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to choose; to select; to pick out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "択る 【よる】、撰る 【よる】、選る 【える】、撰る 【える】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to choose; to select; to pick out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "択る 【よる】、撰る 【よる】、選る 【える】、撰る 【える】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "択",
+                    "たく"
+                ],
+                [
+                    "一",
+                    "いつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. choosing one from among several; multiple choice "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. choosing one from among several; multiple choice "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "選",
+                    "えら"
+                ],
+                [
+                    "ば",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "者",
+                    "もの"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the chosen one; the chosen ones; the select few "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Chosen (Buffy the Vampire Slayer) \"Chosen\" is the series finale of the television series Bu... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "選ばれしもの 【えらばれしもの】、撰ばれし者 【えらばれしもの】、択ばれし者 【えらばれしもの】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. the chosen one; the chosen ones; the select few "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Chosen (Buffy the Vampire Slayer) \"Chosen\" is the series finale of the television series Bu... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "選ばれしもの 【えらばれしもの】、撰ばれし者 【えらばれしもの】、択ばれし者 【えらばれしもの】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "択",
+                    "たく"
+                ],
+                [
+                    "一",
+                    "いつ"
+                ],
+                [
+                    "問",
+                    "もん"
+                ],
+                [
+                    "題",
+                    "だい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. multiple-choice question "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "択",
+                    "たく"
+                ],
+                [
+                    "一",
+                    "いつ"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. alternative "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "択",
+                    "たく"
+                ],
+                [
+                    "伐",
+                    "ばつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. selection cutting (of trees); selective cutting "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "選",
+                    "よ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. selecting; choosing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "択り 【より】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "選",
+                    "えら"
+                ],
+                [
+                    "び",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "1. choosing; selecting; deciding (on) See also 嫁選び"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "択び 【えらび】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "択",
+                    null
+                ],
+                [
+                    "捉",
+                    null
+                ],
+                [
+                    "型",
+                    null
+                ],
+                [
+                    "海",
+                    null
+                ],
+                [
+                    "防",
+                    null
+                ],
+                [
+                    "艦",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Etorofu class escort ship The Etorofu class escort ships were a class of ships in t... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "択",
+                    null
+                ],
+                [
+                    "捉",
+                    null
+                ],
+                [
+                    "島",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Iturup Iturup is the largest island of the South Kuril Islands. ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "択",
+                    null
+                ],
+                [
+                    "捉",
+                    null
+                ],
+                [
+                    "水",
+                    null
+                ],
+                [
+                    "道",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Vries Strait Vries Strait or Miyabe Line is a strait between two main ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "択也",
+                "たくや"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Takuya "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Takushi "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Takumi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. choice; selection; option "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "選択 【せんだく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "せんだく: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "採",
+                    "さい"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. adoption; selection; choice "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ],
+                [
+                    "肢",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. choices; alternatives; options "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "二",
+                    "に"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ],
+                [
+                    "択",
+                    "たく"
+                ],
+                [
+                    "一",
+                    "いつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. choosing between two things; two choices Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ],
+                [
+                    "科",
+                    "か"
+                ],
+                [
+                    "目",
+                    "もく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. elective subject or course "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chooser; selector 乞食は選択者にはなれない。Beggars cannot be choosers."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "乞食",
+                            "こじき"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "選択者",
+                            "せんたくしゃ"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "なれない",
+                            null
+                        ]
+                    ],
+                    "translation": "Beggars cannot be choosers."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "二",
+                    "に"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ],
+                [
+                    "択",
+                    "たく"
+                ],
+                [
+                    "一",
+                    "いつ"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "迫",
+                    "せま"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to be faced with the choice between two alternatives; to be presented with two difficult choices 我々は抵抗か隷属かの二者択一を迫られている。We are faced with the alternatives of resistance or slavery."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "我々",
+                            "われわれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "抵抗",
+                            "ていこう"
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "隷属",
+                            "れいぞく"
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "二者択一を迫られている",
+                            "にしゃたくいつをせまられ"
+                        ]
+                    ],
+                    "translation": "We are faced with the alternatives of resistance or slavery."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "為",
+                    "い"
+                ],
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. artificial selection See also 人為淘汰"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Artificial selection Artificial selection describes intentional breeding for c... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "群",
+                    "ぐん"
+                ],
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. group selection Biology"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Group selection In evolutionary biology, group selection refers to the id... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "文",
+                    "ぶん"
+                ],
+                [
+                    "献",
+                    "けん"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. selection of documents Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "性",
+                    "せい"
+                ],
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sexual selection See also 性淘汰"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "可",
+                    "か"
+                ],
+                [
+                    "能",
+                    "のう"
+                ],
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. unavailable choice "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "多",
+                    "た"
+                ],
+                [
+                    "肢",
+                    "し"
+                ],
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. multiple-choice "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "団",
+                    "だん"
+                ],
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. group selection Biology, See also 群選択"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "雌",
+                    "し"
+                ],
+                [
+                    "雄",
+                    "ゆう"
+                ],
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sexual selection "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "負",
+                    "おい"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "択",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. negative selection; purifying selection "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

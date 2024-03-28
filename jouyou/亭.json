@@ -1,0 +1,828 @@
+{
+    "kanji": "亭",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "pavilion",
+        "restaurant",
+        "mansion",
+        "arbor",
+        "cottage",
+        "vaudeville",
+        "music hall",
+        "stage name"
+    ],
+    "kun": [
+        "テイ",
+        "チン"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.4843119266055046,
+            0.0881651376146789,
+            "c",
+            0.01036697247706422,
+            0.01036697247706422,
+            0.012293577981651376,
+            0.02128440366972477,
+            0.012293577981651376,
+            0.03,
+            "c",
+            0,
+            0.032018348623853214,
+            0.0008256880733944953,
+            0.0389908256880734,
+            0.0008256880733944953,
+            0.06706422018348623
+        ],
+        [
+            "M",
+            0.2018348623853211,
+            0.21862385321100916,
+            "c",
+            0.024036697247706424,
+            0.006146788990825688,
+            0.04844036697247707,
+            0.006605504587155963,
+            0.07458715596330276,
+            0.003669724770642202,
+            "c",
+            0.10211009174311927,
+            -0.01128440366972477,
+            0.3293577981651376,
+            -0.03513761467889908,
+            0.44495412844036697,
+            -0.04027522935779816,
+            "c",
+            0.024403669724770642,
+            -0.0011009174311926604,
+            0.046697247706422015,
+            -0.001834862385321101,
+            0.06990825688073395,
+            0.006880733944954129
+        ],
+        [
+            "M",
+            0.32697247706422017,
+            0.3063302752293578,
+            "c",
+            0.007522935779816513,
+            0.004678899082568807,
+            0.013944954128440367,
+            0.011467889908256881,
+            0.014587155963302753,
+            0.020550458715596333,
+            "c",
+            0.007522935779816513,
+            0.02311926605504587,
+            0.017889908256880735,
+            0.056422018348623856,
+            0.024495412844036696,
+            0.08623853211009175,
+            "c",
+            0.001926605504587156,
+            0.008715596330275228,
+            0.0037614678899082566,
+            0.017155963302752295,
+            0.005596330275229358,
+            0.024954128440366975
+        ],
+        [
+            "M",
+            0.34458715596330275,
+            0.3131192660550459,
+            "c",
+            0.059908256880733944,
+            -0.008073394495412844,
+            0.201651376146789,
+            -0.029357798165137616,
+            0.27238532110091745,
+            -0.03844036697247707,
+            "c",
+            0.033211009174311926,
+            -0.004220183486238533,
+            0.05137614678899082,
+            -0.002201834862385321,
+            0.04091743119266055,
+            0.03660550458715597,
+            "c",
+            -0.005321100917431192,
+            0.019633027522935782,
+            -0.011926605504587157,
+            0.037706422018348625,
+            -0.02330275229357798,
+            0.07357798165137615
+        ],
+        [
+            "M",
+            0.3758715596330275,
+            0.4191743119266055,
+            "c",
+            0.052752293577981654,
+            -0.007064220183486239,
+            0.1656880733944954,
+            -0.02128440366972477,
+            0.2365137614678899,
+            -0.029174311926605506,
+            "c",
+            0.015688073394495412,
+            -0.0017431192660550458,
+            0.029541284403669727,
+            -0.0032110091743119264,
+            0.04055045871559633,
+            -0.004128440366972477
+        ],
+        [
+            "M",
+            0.2044954128440367,
+            0.5109174311926605,
+            "c",
+            -0.0010091743119266055,
+            0.03495412844036697,
+            -0.02587155963302752,
+            0.1265137614678899,
+            -0.034770642201834866,
+            0.1473394495412844
+        ],
+        [
+            "M",
+            0.2130275229357798,
+            0.5298165137614679,
+            "C",
+            0.3119266055045872,
+            0.5229357798165137,
+            0.6190825688073395,
+            0.476697247706422,
+            0.781559633027523,
+            0.4724770642201835,
+            "c",
+            0.08770642201834863,
+            -0.0022935779816513763,
+            0.03724770642201834,
+            0.052752293577981654,
+            -0.006330275229357797,
+            0.0871559633027523
+        ],
+        [
+            "M",
+            0.2685321100917431,
+            0.649908256880734,
+            "c",
+            0.019724770642201832,
+            0.007706422018348624,
+            0.048807339449541284,
+            0.004220183486238533,
+            0.06908256880733946,
+            0.001926605504587156,
+            "c",
+            0.08688073394495413,
+            -0.009816513761467891,
+            0.22568807339449543,
+            -0.027706422018348623,
+            0.3230275229357798,
+            -0.034770642201834866,
+            "c",
+            0.023669724770642202,
+            -0.0017431192660550458,
+            0.04752293577981651,
+            -0.002201834862385321,
+            0.07091743119266056,
+            0.0033027522935779813
+        ],
+        [
+            "M",
+            0.5046788990825688,
+            0.6494495412844037,
+            "c",
+            0.0077981651376146785,
+            0.0077981651376146785,
+            0.009908256880733945,
+            0.01798165137614679,
+            0.009908256880733945,
+            0.03155963302752293,
+            "c",
+            0,
+            0.08935779816513761,
+            -0.0008256880733944953,
+            0.15899082568807338,
+            -0.0008256880733944953,
+            0.18935779816513762,
+            "c",
+            0,
+            0.0853211009174312,
+            -0.053944954128440366,
+            0.010275229357798166,
+            -0.06752293577981652,
+            -0.006880733944954129
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "亭",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. arbor; arbour; bower; pavilion "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. suffix forming the final part of the pseudonyms of some writers and performers Only applies to てい"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "3. suffix forming the final part of the name of a restaurant Only applies to てい"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Chinese pavilion . Chinese Pavilions are covered structures without surrou... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "亭 【ちん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. arbor; arbour; bower; pavilion "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. suffix forming the final part of the pseudonyms of some writers and performers Only applies to てい"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "3. suffix forming the final part of the name of a restaurant Only applies to てい"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Chinese pavilion . Chinese Pavilions are covered structures without surrou... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "亭 【ちん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "亭",
+                    "てい"
+                ],
+                [
+                    "主",
+                    "しゅ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. household head; master; host (e.g. of a tea gathering); innkeeper; owner (e.g. of a hotel) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. husband "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. household head; master; host (e.g. of a tea gathering); innkeeper; owner (e.g. of a hotel) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. husband "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "亭",
+                    "てい"
+                ],
+                [
+                    "々",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. lofty (tree) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "亭亭 【ていてい】"
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. lofty (tree) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "亭亭 【ていてい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "亭",
+                    "てい"
+                ],
+                [
+                    "主",
+                    "しゅ"
+                ],
+                [
+                    "関",
+                    "かん"
+                ],
+                [
+                    "白",
+                    "ぱく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. domineering husband; hectoring husband; husband who rules the roost Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. domineering husband; hectoring husband; husband who rules the roost Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "亭",
+                    "てい"
+                ],
+                [
+                    "午",
+                    "ご"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. noon "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. noon "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "亭",
+                    "てい"
+                ],
+                [
+                    "主",
+                    "しゅ"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "好",
+                    "す"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "赤",
+                    "あか"
+                ],
+                [
+                    "烏",
+                    "えぼし"
+                ],
+                [
+                    "帽",
+                    null
+                ],
+                [
+                    "子",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. even an eccentric head of family must be obeyed Proverb, See also 赤烏帽子"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. even an eccentric head of family must be obeyed Proverb, See also 赤烏帽子"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "亭",
+                    null
+                ],
+                [
+                    "湖",
+                    null
+                ],
+                [
+                    "区",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Tinghu District Tinghu District is a district of Jiangsu, China. It is un... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "亭",
+                    null
+                ],
+                [
+                    "子",
+                    null
+                ],
+                [
+                    "駅",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Jeongja Station Jeongja (formerly Baekgung Station) is a station on the B... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "亭",
+                "たかし"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Takashi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "亭",
+                "てい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tei "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Teiteishi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "料",
+                    "りょう"
+                ],
+                [
+                    "亭",
+                    "てい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ryotei; traditional Japanese restaurant (esp. a luxurious one) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ryōtei A ryōtei is a type of luxurious traditional Japanese rest... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "石",
+                    "せき"
+                ],
+                [
+                    "亭",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Sekitei (ryokan) Company name"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "旅",
+                    "りょ"
+                ],
+                [
+                    "亭",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hotel; inn "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "席",
+                    "せき"
+                ],
+                [
+                    "亭",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. entertainment hall (for rakugo, manzai, magic, music, etc.); vaudeville theater (theatre); music hall See also 寄席"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. vaudeville theater manager; music hall proprietor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勘",
+                    "かん"
+                ],
+                [
+                    "亭",
+                    "てい"
+                ],
+                [
+                    "流",
+                    "りゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kantei style of calligraphy "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "池",
+                    "ち"
+                ],
+                [
+                    "亭",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. arbor (arbour, bower) by a lake "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泉",
+                    "せん"
+                ],
+                [
+                    "亭",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. arbor facing a spring (arbour) See also 四阿"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "旗",
+                    "き"
+                ],
+                [
+                    "亭",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. restaurant; inn "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "若",
+                    "わか"
+                ],
+                [
+                    "竹",
+                    "たけ"
+                ],
+                [
+                    "亭",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the Wakatake Variety Theater "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "涼",
+                    "りょう"
+                ],
+                [
+                    "亭",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pavilion in a garden (used to keep cool); gazebo Archaic, See also 東屋"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "ぬ",
+                    null
+                ],
+                [
+                    "は",
+                    null
+                ],
+                [
+                    "亭",
+                    "てい"
+                ],
+                [
+                    "主",
+                    "しゅ"
+                ],
+                [
+                    "ば",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. the husband is always the last to know; everyone knows of the wife's infidelity but the cuckolded husband Idiomatic expression"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "知らぬは亭主許り也 【しらぬはていしゅばかりなり】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

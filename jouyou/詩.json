@@ -1,0 +1,1357 @@
+{
+    "kanji": "詩",
+    "grade": 3,
+    "jlpt": 1,
+    "meanings": [
+        "poem",
+        "poetry"
+    ],
+    "kun": [
+        "うた"
+    ],
+    "on": [
+        "シ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.23440366972477064,
+            0.11238532110091744,
+            "c",
+            0.027981651376146787,
+            0.015596330275229357,
+            0.07220183486238532,
+            0.06394495412844037,
+            0.07917431192660551,
+            0.0881651376146789
+        ],
+        [
+            "M",
+            0.1020183486238532,
+            0.2851376146788991,
+            "c",
+            0.015871559633027523,
+            0.005321100917431192,
+            0.03779816513761468,
+            0.0023853211009174312,
+            0.05403669724770642,
+            0.0011009174311926604,
+            "c",
+            0.07073394495412844,
+            -0.005229357798165137,
+            0.16541284403669726,
+            -0.02192660550458716,
+            0.2236697247706422,
+            -0.026788990825688072,
+            "c",
+            0.017155963302752295,
+            -0.0014678899082568807,
+            0.035229357798165134,
+            -0.002477064220183486,
+            0.05229357798165138,
+            0.0009174311926605505
+        ],
+        [
+            "M",
+            0.16678899082568807,
+            0.39660550458715593,
+            "c",
+            0.011192660550458715,
+            0.0032110091743119264,
+            0.02587155963302752,
+            0.0013761467889908255,
+            0.03743119266055046,
+            0.0007339449541284404,
+            "c",
+            0.03706422018348624,
+            -0.0021100917431192663,
+            0.08908256880733946,
+            -0.010642201834862385,
+            0.12642201834862385,
+            -0.01688073394495413,
+            "c",
+            0.012293577981651376,
+            -0.002018348623853211,
+            0.024128440366972478,
+            -0.0028440366972477065,
+            0.036513761467889906,
+            -0.0007339449541284404
+        ],
+        [
+            "M",
+            0.16788990825688074,
+            0.5153211009174312,
+            "c",
+            0.01330275229357798,
+            0.003027522935779817,
+            0.02706422018348624,
+            0.0012844036697247708,
+            0.03880733944954129,
+            0,
+            "c",
+            0.03128440366972477,
+            -0.0034862385321100917,
+            0.09944954128440367,
+            -0.013761467889908258,
+            0.1351376146788991,
+            -0.01926605504587156,
+            "c",
+            0.011559633027522935,
+            -0.0017431192660550458,
+            0.02568807339449541,
+            -0.0023853211009174312,
+            0.0373394495412844,
+            -0.0003669724770642202
+        ],
+        [
+            "M",
+            0.15834862385321102,
+            0.6319266055045871,
+            "c",
+            0.007889908256880733,
+            0.007889908256880733,
+            0.011467889908256881,
+            0.015963302752293577,
+            0.013394495412844036,
+            0.024311926605504585,
+            "c",
+            0.008807339449541284,
+            0.03779816513761468,
+            0.014220183486238533,
+            0.08605504587155964,
+            0.020275229357798165,
+            0.13605504587155964,
+            "c",
+            0.0012844036697247708,
+            0.010275229357798166,
+            0.0025688073394495416,
+            0.020642201834862386,
+            0.0039449541284403665,
+            0.031009174311926603
+        ],
+        [
+            "M",
+            0.178348623853211,
+            0.6502752293577981,
+            "c",
+            0.06972477064220182,
+            -0.012018348623853212,
+            0.11321100917431193,
+            -0.02073394495412844,
+            0.16908256880733943,
+            -0.028715596330275227,
+            "c",
+            0.02238532110091743,
+            -0.0032110091743119264,
+            0.03605504587155964,
+            0.0033944954128440367,
+            0.03036697247706422,
+            0.027339449541284404,
+            "c",
+            -0.008256880733944955,
+            0.034678899082568805,
+            -0.016146788990825688,
+            0.06275229357798165,
+            -0.031009174311926603,
+            0.12302752293577982
+        ],
+        [
+            "M",
+            0.20568807339449544,
+            0.7937614678899082,
+            "c",
+            0.041009174311926605,
+            -0.004220183486238533,
+            0.07623853211009175,
+            -0.008623853211009174,
+            0.1304587155963303,
+            -0.012385321100917432,
+            "c",
+            0.01091743119266055,
+            -0.0007339449541284404,
+            0.02256880733944954,
+            -0.0014678899082568807,
+            0.035229357798165134,
+            -0.002201834862385321
+        ],
+        [
+            "M",
+            0.5007339449541284,
+            0.25486238532110095,
+            "c",
+            0.017614678899082567,
+            0.0032110091743119264,
+            0.039266055045871565,
+            0.0029357798165137615,
+            0.056605504587155964,
+            0.0008256880733944953,
+            "c",
+            0.06110091743119266,
+            -0.007706422018348624,
+            0.18697247706422018,
+            -0.02128440366972477,
+            0.2408256880733945,
+            -0.024770642201834864,
+            "c",
+            0.015688073394495412,
+            -0.0010091743119266055,
+            0.0389908256880734,
+            -0.002660550458715596,
+            0.05577981651376147,
+            0.001559633027522936
+        ],
+        [
+            "M",
+            0.653211009174312,
+            0.09743119266055045,
+            "c",
+            0.00944954128440367,
+            0.00944954128440367,
+            0.014128440366972478,
+            0.02073394495412844,
+            0.014770642201834864,
+            0.034403669724770644,
+            "c",
+            0.0032110091743119264,
+            0.06651376146788991,
+            0.002477064220183486,
+            0.2328440366972477,
+            0.002477064220183486,
+            0.2555045871559633
+        ],
+        [
+            "M",
+            0.4369724770642202,
+            0.4091743119266055,
+            "c",
+            0.022935779816513763,
+            0.004862385321100918,
+            0.04449541284403669,
+            0.003577981651376147,
+            0.06522935779816515,
+            0.001834862385321101,
+            "c",
+            0.08385321100917431,
+            -0.007339449541284404,
+            0.24238532110091746,
+            -0.02724770642201835,
+            0.3292660550458716,
+            -0.03275229357798165,
+            "c",
+            0.021559633027522937,
+            -0.0013761467889908255,
+            0.04926605504587156,
+            -0.003119266055045872,
+            0.07339449541284404,
+            0.0022935779816513763
+        ],
+        [
+            "M",
+            0.4547706422018349,
+            0.5480733944954128,
+            "c",
+            0.022293577981651377,
+            0.005871559633027523,
+            0.05302752293577982,
+            0.003119266055045872,
+            0.07504587155963302,
+            0.00045871559633027525,
+            "c",
+            0.09862385321100918,
+            -0.011834862385321101,
+            0.20752293577981654,
+            -0.024495412844036696,
+            0.3118348623853211,
+            -0.03376146788990826,
+            "c",
+            0.020917431192660547,
+            -0.001834862385321101,
+            0.04128440366972477,
+            -0.0010091743119266055,
+            0.060825688073394495,
+            0.0012844036697247708
+        ],
+        [
+            "M",
+            0.7528440366972478,
+            0.4089908256880734,
+            "c",
+            0.010275229357798166,
+            0.010275229357798166,
+            0.015779816513761466,
+            0.025596330275229357,
+            0.015779816513761466,
+            0.041834862385321095,
+            "c",
+            0,
+            0.11036697247706422,
+            0.0014678899082568807,
+            0.3755045871559633,
+            0.0014678899082568807,
+            0.4130275229357798,
+            "c",
+            0,
+            0.07642201834862386,
+            -0.04577981651376147,
+            0.020366972477064222,
+            -0.06871559633027523,
+            -0.002660550458715596
+        ],
+        [
+            "M",
+            0.5493577981651376,
+            0.6261467889908257,
+            "c",
+            0.02651376146788991,
+            0.017431192660550456,
+            0.06844036697247706,
+            0.07155963302752294,
+            0.07504587155963302,
+            0.09862385321100918
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poem; poetry; verse "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Chinese poem See also 漢詩"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Poetry Poetry (from the Greek poiesis — ποίησις — with a broad m... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. poem; poetry; verse "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Chinese poem See also 漢詩"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Poetry Poetry (from the Greek poiesis — ποίησις — with a broad m... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "歌",
+                    "うた"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. song; singing Only applies to 歌, Only applies to 唄, esp. 唄 for folk songs and shamisen songsこの歌を聞くと私はいつも、学生時代を思い出す。Whenever I hear this song, I am reminded of my school days."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. classical Japanese poem (esp. tanka) Only applies to 歌, See also 短歌"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. modern poetry Only applies to 歌, Only applies to 詩"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Song In music, a song is a composition for voice or voices, pe... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "唄 【うた】、詩 【うた】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. song; singing Only applies to 歌, Only applies to 唄, esp. 唄 for folk songs and shamisen songsこの歌を聞くと私はいつも、学生時代を思い出す。Whenever I hear this song, I am reminded of my school days."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. classical Japanese poem (esp. tanka) Only applies to 歌, See also 短歌"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. modern poetry Only applies to 歌, Only applies to 詩"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Song In music, a song is a composition for voice or voices, pe... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "唄 【うた】、詩 【うた】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "歌",
+                            "うた"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "聞く",
+                            "き"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いつも",
+                            null
+                        ],
+                        [
+                            "学生時代",
+                            "がくせいじだい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "思い出す",
+                            "おもいだ"
+                        ]
+                    ],
+                    "translation": "Whenever I hear this song, I am reminded of my school days."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "人",
+                    "じん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poet "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Poet A poet is a person who writes poetry. A poet's work can b... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. poet "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Poet A poet is a person who writes poetry. A poet's work can b... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "集",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poetry anthology; collection of poems; collected poems "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. poetry anthology; collection of poems; collected poems "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "情",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poetic sentiment "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. poetic interest; poetic inspiration "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. poetic sentiment "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. poetic interest; poetic inspiration "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "歌",
+                    "いか"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese and Chinese poetry "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. poetry; poems "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詩哥 【しいか】、詩歌 【しか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詩哥: Irregular kanji usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese and Chinese poetry "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. poetry; poems "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詩哥 【しいか】、詩歌 【しか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詩哥: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. essay on poetry; theory of poetry "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ars Poetica Ars Poetica is a term meaning \"The Art of Poetry\" or \"On ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. essay on poetry; theory of poetry "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ars Poetica Ars Poetica is a term meaning \"The Art of Poetry\" or \"On ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. verse "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. poetic "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "作",
+                    "さく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. composition of a poem "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "碑",
+                    "ひ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. monument (stele, gravestone, etc.) engraved with a poem "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poetry and prose; literature; literary works "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "形",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. form of verse; verse form; poetic form "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詩型 【しけい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "経",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. The Classic of Poetry; The Book of Songs; The Book of Odes; Shijing; Shih Ching See also 五経"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Classic of Poetry The Classic of Poetry, translated variously as the Book o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "編",
+                    "へん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. book containing a collection of poems "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Psalms (book of the Bible) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Psalms The Book of Psalms, commonly referred to simply as Psalms... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詩篇 【しへん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "吟",
+                    "ぎん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reciting Chinese poems "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shigin Shigin (詩吟) is a form of Japanese poetry, which is usuall... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "体",
+                    "たい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poetic form; verse form "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "化",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. poetization "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "余",
+                    "よ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ci (form of Chinese poetry) See also 詞"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "友",
+                    "ゆう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's friend in poetry "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "詩",
+                "うた"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Uta "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "詩",
+                "ことば"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kotoba "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "詩",
+                "し"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Shi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漢",
+                    "かん"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Chinese poem; Chinese poetry "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Kanshi (poetry) is a Japanese term for Chinese poetry in general as well ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叙",
+                    "じょ"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. descriptive poetry; epic poem See also 叙情詩 じょじょうし"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Epic poetry An epic (from the Ancient Greek adjective ἐπικός, from ἔπ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "短",
+                    "たん"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. verselet "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叙",
+                    "じょ"
+                ],
+                [
+                    "情",
+                    "じょう"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lyric poetry; lyric poem; ode See also 叙事詩 じょじし"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Lyric poetry Lyric poet is a genre of poetry that expresses personal a... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抒情詩 【じょじょうし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "英",
+                    "えい"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. English poetry; English poem "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "名",
+                    "めい"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. excellent poem; fine poetry この数年間に彼は不朽の名詩を書いた。During these years he wrote immortal poems."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "数年間",
+                            "すうねんかん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "不朽の",
+                            "ふきゅう"
+                        ],
+                        [
+                            "名詩",
+                            "めいし"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "書いた",
+                            "か"
+                        ]
+                    ],
+                    "translation": "During these years he wrote immortal poems."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "現",
+                    "げん"
+                ],
+                [
+                    "代",
+                    "だい"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. modern poetry "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "交",
+                    "こう"
+                ],
+                [
+                    "響",
+                    "きょう"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. symphonic poem "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Symphonic poem A symphonic poem or tone poem is a piece of orchestral mu... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "狂",
+                    "きょう"
+                ],
+                [
+                    "詩",
+                    "し"
+                ],
+                [
+                    "曲",
+                    "きょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rhapsody Music, See also ラプソディー"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Rhapsody (music) A rhapsody in music is a one-movement work that is episod... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "散",
+                    "さん"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. prose poem "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Prose poetry Prose poetry is poetry written in prose instead of using ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "風",
+                    "ふう"
+                ],
+                [
+                    "物",
+                    "ぶつ"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. feature of the season; something characteristic of a particular season "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. poem about natural scenery or a particular season "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "風物誌 【ふうぶつし】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "風物誌: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "近",
+                    "きん"
+                ],
+                [
+                    "代",
+                    "だい"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. modern poetry; modern-style poetry "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "作",
+                    "さく"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. versification; verse making "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

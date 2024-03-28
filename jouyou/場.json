@@ -1,0 +1,1958 @@
+{
+    "kanji": "場",
+    "grade": 2,
+    "jlpt": 4,
+    "meanings": [
+        "location",
+        "place"
+    ],
+    "kun": [
+        "ば"
+    ],
+    "on": [
+        "ジョウ",
+        "チョウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1353211009174312,
+            0.37770642201834864,
+            "c",
+            0.012201834862385321,
+            0.0047706422018348625,
+            0.02522935779816514,
+            0.004036697247706422,
+            0.03788990825688073,
+            0.002660550458715596,
+            "c",
+            0.05302752293577982,
+            -0.005688073394495413,
+            0.10935779816513762,
+            -0.019633027522935782,
+            0.16174311926605503,
+            -0.02944954128440367,
+            "c",
+            0.014495412844036697,
+            -0.002752293577981651,
+            0.03055045871559633,
+            -0.0029357798165137615,
+            0.037981651376146786,
+            -0.0011926605504587156
+        ],
+        [
+            "M",
+            0.25504587155963304,
+            0.17770642201834863,
+            "c",
+            0.01073394495412844,
+            0.01073394495412844,
+            0.013944954128440367,
+            0.02311926605504587,
+            0.013944954128440367,
+            0.04027522935779816,
+            "c",
+            0,
+            0.0875229357798165,
+            -0.0006422018348623854,
+            0.33522935779816515,
+            -0.0006422018348623854,
+            0.35091743119266056
+        ],
+        [
+            "M",
+            0.12385321100917432,
+            0.6293577981651376,
+            "c",
+            0.016055045871559634,
+            0.012844036697247705,
+            0.028807339449541284,
+            0.012477064220183487,
+            0.05201834862385321,
+            -0.00045871559633027525,
+            "c",
+            0.013669724770642202,
+            -0.007706422018348624,
+            0.13761467889908258,
+            -0.06669724770642202,
+            0.1956880733944954,
+            -0.10357798165137613
+        ],
+        [
+            "M",
+            0.46788990825688076,
+            0.12385321100917432,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.012568807339449543,
+            0.014862385321100919,
+            0.014587155963302753,
+            0.029724770642201838,
+            "c",
+            0.006605504587155963,
+            0.048532110091743116,
+            0.009908256880733945,
+            0.09495412844036696,
+            0.020458715596330276,
+            0.17889908256880735,
+            "c",
+            0.0011926605504587156,
+            0.009174311926605505,
+            0.0023853211009174312,
+            0.018807339449541282,
+            0.0037614678899082566,
+            0.028899082568807338
+        ],
+        [
+            "M",
+            0.49110091743119266,
+            0.1369724770642202,
+            "c",
+            0.0571559633027523,
+            -0.0076146788990825685,
+            0.17137614678899082,
+            -0.02568807339449541,
+            0.22486238532110092,
+            -0.02908256880733945,
+            "c",
+            0.020366972477064222,
+            -0.0012844036697247708,
+            0.03981651376146789,
+            0.012201834862385321,
+            0.038256880733944953,
+            0.029724770642201838,
+            "c",
+            -0.006422018348623853,
+            0.07110091743119266,
+            -0.01073394495412844,
+            0.1253211009174312,
+            -0.01853211009174312,
+            0.17275229357798164,
+            "c",
+            -0.0011926605504587156,
+            0.0076146788990825685,
+            -0.004954128440366972,
+            0.017431192660550456,
+            -0.004954128440366972,
+            0.0226605504587156
+        ],
+        [
+            "M",
+            0.5029357798165137,
+            0.23596330275229357,
+            "c",
+            0.05559633027522935,
+            -0.007706422018348624,
+            0.1840366972477064,
+            -0.020366972477064222,
+            0.2328440366972477,
+            -0.02256880733944954
+        ],
+        [
+            "M",
+            0.5153211009174312,
+            0.33532110091743117,
+            "c",
+            0.037614678899082564,
+            -0.005045871559633028,
+            0.1598165137614679,
+            -0.018073394495412842,
+            0.20669724770642203,
+            -0.022477064220183487
+        ],
+        [
+            "M",
+            0.4,
+            0.4380733944954128,
+            "c",
+            0.01651376146788991,
+            0.003577981651376147,
+            0.041834862385321095,
+            0.005412844036697248,
+            0.05825688073394495,
+            0.003577981651376147,
+            "C",
+            0.5779816513761468,
+            0.4277064220183486,
+            0.6788990825688074,
+            0.41284403669724773,
+            0.8176146788990826,
+            0.4038532110091743,
+            "c",
+            0.027522935779816515,
+            -0.0017431192660550458,
+            0.048256880733944955,
+            0.0011009174311926604,
+            0.062018348623853206,
+            0.0029357798165137615
+        ],
+        [
+            "M",
+            0.5045871559633027,
+            0.46220183486238536,
+            "c",
+            0.0010091743119266055,
+            0.010550458715596329,
+            -0.0021100917431192663,
+            0.020642201834862386,
+            -0.007889908256880733,
+            0.029908256880733942,
+            "c",
+            -0.027981651376146787,
+            0.0453211009174312,
+            -0.07614678899082569,
+            0.09568807339449541,
+            -0.14119266055045873,
+            0.13633027522935778
+        ],
+        [
+            "M",
+            0.503394495412844,
+            0.5325688073394496,
+            "c",
+            0.019541284403669725,
+            0.003027522935779817,
+            0.03376146788990826,
+            0.0007339449541284404,
+            0.049724770642201835,
+            -0.0003669724770642202,
+            "c",
+            0.06385321100917431,
+            -0.0045871559633027525,
+            0.2140366972477064,
+            -0.02981651376146789,
+            0.25311926605504587,
+            -0.03431192660550459,
+            "c",
+            0.03,
+            -0.0033944954128440367,
+            0.04568807339449542,
+            0.00963302752293578,
+            0.0408256880733945,
+            0.03935779816513762,
+            "C",
+            0.8348623853211009,
+            0.6123853211009175,
+            0.7903669724770642,
+            0.7702752293577981,
+            0.7240366972477065,
+            0.8511926605504587,
+            "c",
+            -0.019908256880733943,
+            0.024311926605504585,
+            -0.031192660550458714,
+            -0.004036697247706422,
+            -0.04899082568807339,
+            -0.021743119266055048
+        ],
+        [
+            "M",
+            0.5665137614678899,
+            0.5607339449541284,
+            "c",
+            0.0011009174311926604,
+            0.009174311926605505,
+            -0.0007339449541284404,
+            0.015321100917431192,
+            -0.004678899082568807,
+            0.02348623853211009,
+            "c",
+            -0.025137614678899085,
+            0.05192660550458716,
+            -0.08513761467889908,
+            0.12458715596330275,
+            -0.16963302752293577,
+            0.1656880733944954
+        ],
+        [
+            "M",
+            0.6961467889908256,
+            0.5448623853211009,
+            "c",
+            0.0009174311926605505,
+            0.008440366972477065,
+            -0.0003669724770642202,
+            0.02165137614678899,
+            -0.004128440366972477,
+            0.0336697247706422,
+            "C",
+            0.6700917431192661,
+            0.6495412844036696,
+            0.578256880733945,
+            0.7809174311926605,
+            0.45871559633027525,
+            0.8577981651376146
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. place; spot; space 場が白けた。The party grew chilly."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. field; discipline; sphere; realm "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. occasion; situation See also その場このネクタイはこのような場にふさわしくありません。This tie is not suitable for a situation like this."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. scene (of a play, movie, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. session Stock market"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. field; table; area in which cards are laid out (in a card game) Card games"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. round (east, south, etc.) Mahjong, See also 東場, See also 南場"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. field Physics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. field (in Gestalt psychology) Psychology"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "10. Field (physics) In physics, a field is a physical quantity associated wit... Read more"
+                },
+                {
+                    "type": "Noun, used as a suffix, Noun",
+                    "meaning": "1. place; spot; grounds; arena; stadium; range; course "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. place; spot; space 場が白けた。The party grew chilly."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. field; discipline; sphere; realm "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. occasion; situation See also その場このネクタイはこのような場にふさわしくありません。This tie is not suitable for a situation like this."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. scene (of a play, movie, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. session Stock market"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. field; table; area in which cards are laid out (in a card game) Card games"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. round (east, south, etc.) Mahjong, See also 東場, See also 南場"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. field Physics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. field (in Gestalt psychology) Psychology"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "10. Field (physics) In physics, a field is a physical quantity associated wit... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "場",
+                            "ば"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "白けた",
+                            "しら"
+                        ]
+                    ],
+                    "translation": "The party grew chilly."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "ネクタイ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "このような",
+                            null
+                        ],
+                        [
+                            "場",
+                            "ば"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ふさわしくありません",
+                            null
+                        ]
+                    ],
+                    "translation": "This tie is not suitable for a situation like this."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "所",
+                    "しょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. place; location; spot; position "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. room; space "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. basho; wrestling tournament Sumo"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. place; location; spot; position "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. room; space "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. basho; wrestling tournament Sumo"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "合",
+                    "あい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. case; occasion; situation; circumstances "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. case; occasion; situation; circumstances "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "面",
+                    "めん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. scene; setting; place (where something happens); scenario; case その場面は彼の記憶の底に留まっていた。The scene was embedded in his memory."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. scene (in a movie, play); shot アクション場面の少ない映画にはいつも退屈してしまう。I'm always bored with films that have little action."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. state of the market "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. scene; setting; place (where something happens); scenario; case その場面は彼の記憶の底に留まっていた。The scene was embedded in his memory."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. scene (in a movie, play); shot アクション場面の少ない映画にはいつも退屈してしまう。I'm always bored with films that have little action."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. state of the market "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "場面",
+                            "ばめん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "記憶",
+                            "きおく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "底",
+                            "そこ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "留まっていた",
+                            "とど"
+                        ]
+                    ],
+                    "translation": "The scene was embedded in his memory."
+                },
+                {
+                    "sentence": [
+                        [
+                            "アクション",
+                            null
+                        ],
+                        [
+                            "場面",
+                            "ばめん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "少ない",
+                            "すく"
+                        ],
+                        [
+                            "映画",
+                            "えいが"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "いつも",
+                            null
+                        ],
+                        [
+                            "退屈",
+                            "たいくつ"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "しまう",
+                            null
+                        ]
+                    ],
+                    "translation": "I'm always bored with films that have little action."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "じょう"
+                ],
+                [
+                    "内",
+                    "ない"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. in-house; (on) the grounds; (in) the premises; hall; theatre; theater Antonym: 場外"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "じょう"
+                ],
+                [
+                    "外",
+                    "がい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. outside the hall (or stadium, market, etc.); off the grounds; off the premises; off-track Antonym: 場内"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "違",
+                    "ちが"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. out-of-place; inappropriate; sticking out like a sore thumb "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. produced at an unorthodox location "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "末",
+                    "すえ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. outskirts (of a town); run-down district "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "当",
+                    "あ"
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. playing to the gallery; grandstanding; gag; claptrap "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. ad hoc; haphazard "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. dress rehearsal Abbreviation, See also 場当たり稽古"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "場当り 【ばあたり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "数",
+                    "かず"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. experiences "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "合",
+                    "あい"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "よ",
+                    null
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. depending on the situation; should time and circumstances permit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "合",
+                    "あい"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "よ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ru' ending",
+                    "meaning": "1. to depend (on the situation); to be handled case by case "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "量",
+                    "りょう"
+                ],
+                [
+                    "子",
+                    "し"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. quantum field theory Physics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Quantum field theory Quantum field theory (QFT) provides a theoretical framewo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "古",
+                    "こ"
+                ],
+                [
+                    "典",
+                    "てん"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. classical field theory Physics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Classical field theory A classical field theory is a physical theory that descri... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "合",
+                    "あい"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "数",
+                    "かず"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. number of possible outcomes; number of ways (e.g. of arranging something) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "じょう"
+                ],
+                [
+                    "内",
+                    "ない"
+                ],
+                [
+                    "放",
+                    "ほう"
+                ],
+                [
+                    "送",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (announcement over) the public address system (e.g. in stadium) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "味",
+                    "あじ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. market sentiment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "ば"
+                ],
+                [
+                    "繋",
+                    "つな"
+                ],
+                [
+                    "ぎ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. filling in (e.g. between speakers at a meeting, acts at a show); material used to fill in (between speeches at a meeting, etc.); anecdote "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "場つなぎ 【ばつなぎ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "場",
+                    "じょう"
+                ],
+                [
+                    "外",
+                    "がい"
+                ],
+                [
+                    "乱",
+                    "らん"
+                ],
+                [
+                    "闘",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. brawl outside the stadium; fighting outside ring (wrestling); ring-side battle Sports"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. verbal fight via the media Idiomatic expression"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "場",
+                "えき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Eki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "場",
+                "つるば"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tsuruba "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "場",
+                "ば"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Ba "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "飛",
+                    "ひ"
+                ],
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. airfield; airport "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Hikoujou "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Aerodrome An aerodrome is a location from which aircraft flight ope... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "工",
+                    "こう"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. factory; plant; mill; workshop "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Factory A factory (previously manufactory) or manufacturing plant... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "工場 【こうば】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駐",
+                    "ちゅう"
+                ],
+                [
+                    "車",
+                    "しゃ"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. parking lot; car park; carpark; parking garage "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Parking lot A parking lot, also known as car lot, is a cleared area t... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "劇",
+                    "げき"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. theatre; theater; playhouse "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Theater (structure) A theater or theatre is a structure where theatrical work... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "農",
+                    "のう"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. farm (agriculture) "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Noujou "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Farm A farm is an area of land, or, for aquaculture, lake, riv... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "広",
+                    "ひろ"
+                ],
+                [
+                    "場",
+                    "ば"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. public square; square; plaza; piazza; forum 何千人もの人々が広場にひしめき合っていた。Thousands of people were milling around in the square."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. open space; clearing 広場で野球をするのはどうでしょうか。How about we play baseball in the open space?"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Town square A town square is an open public space commonly found in t... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "何千",
+                            "なんぜん"
+                        ],
+                        [
+                            "人",
+                            "にん"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "人々",
+                            "ひとびと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "広場",
+                            "ひろば"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ひしめき合っていた",
+                            null
+                        ]
+                    ],
+                    "translation": "Thousands of people were milling around in the square."
+                },
+                {
+                    "sentence": [
+                        [
+                            "広場",
+                            "ひろば"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "野球",
+                            "やきゅう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "どう",
+                            null
+                        ],
+                        [
+                            "でしょうか",
+                            null
+                        ]
+                    ],
+                    "translation": "How about we play baseball in the open space?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "牧",
+                    "ぼく"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. farm (livestock); stock farm; ranch; station あなたの牧場は何エーカーありますか。What is the acreage of your ranch?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. pasture; meadow; grazing land 牛が牧場で草を食べている。Cows are eating grass in the meadow."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Ranch A ranch is an area of landscape, including various struct... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "牧場 【まきば】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "牧場",
+                            "ぼくじょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "何",
+                            "なに"
+                        ],
+                        [
+                            "エーカー",
+                            null
+                        ],
+                        [
+                            "あります",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "What is the acreage of your ranch?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "牛",
+                            "うし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "牧場",
+                            "ぼくじょう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "草",
+                            "くさ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "食べている",
+                            "たべ"
+                        ]
+                    ],
+                    "translation": "Cows are eating grass in the meadow."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. assembly hall; meeting place; venue; site; grounds "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "売",
+                    "う"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "場",
+                    "ば"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. selling area; counter; section; department; sales floor "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. favorable time to sell; good time to sell See also 売り時, See also 買い場"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "売場 【うりば】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "立",
+                    "たち"
+                ],
+                [
+                    "場",
+                    "ば"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. position; situation お答えできる立場にありません。I'm not in a position to answer."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. viewpoint; standpoint; point of view 彼女の立場からその問題をとらえるようにしなさい。Try to see the problem from her point of view."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "答え",
+                            "こた"
+                        ],
+                        [
+                            "できる",
+                            null
+                        ],
+                        [
+                            "立場",
+                            "たちば"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ありません",
+                            null
+                        ]
+                    ],
+                    "translation": "I'm not in a position to answer."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女の",
+                            "かのじょ"
+                        ],
+                        [
+                            "立場",
+                            "たちば"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "問題",
+                            "もんだい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "とらえる",
+                            null
+                        ],
+                        [
+                            "ようにし",
+                            null
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "Try to see the problem from her point of view."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "現",
+                    "げん"
+                ],
+                [
+                    "場",
+                    "ば"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. actual spot; scene (of a crime, accident, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (on) site; (on) the ground; (in) the field; job site Only applies to げんば"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. filming location; (movie) set Only applies to げんば, See also 撮影現場"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "現場 【げんじょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. entrance; entering; admission; admittance Antonym: 退場"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "登",
+                    "とう"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. entrance (on the stage); appearance (in a book, film, etc.) Antonym: 退場その女優は舞台に３度登場した。That actress made three entrances onto the stage."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. appearance (on the scene); arrival (on the market); emergence; introduction; advent 「西遊記」の中には錬金術の話が数多く登場します。Many tales of alchemy show up in \"Journey to the West\"."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "女優",
+                            "じょゆう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "舞台",
+                            "ぶたい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "３度",
+                            "さんど"
+                        ],
+                        [
+                            "登場",
+                            "とうじょう"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "That actress made three entrances onto the stage."
+                },
+                {
+                    "sentence": [
+                        [
+                            "西遊記",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "中",
+                            "なか"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "錬金術",
+                            "れんきんじゅつ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "話",
+                            "はなし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "数多く",
+                            "かずおお"
+                        ],
+                        [
+                            "登場",
+                            "とうじょう"
+                        ],
+                        [
+                            "します",
+                            null
+                        ]
+                    ],
+                    "translation": "Many tales of alchemy show up in \"Journey to the West\"."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "酒",
+                    "さか"
+                ],
+                [
+                    "場",
+                    "ば"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bar; pub; tavern "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "場",
+                    "ば"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. market price "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. speculation (e.g. on stocks) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. reputation (according to conventional wisdom); estimation; esteem "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "本",
+                    "ほん"
+                ],
+                [
+                    "場",
+                    "ば"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. home (of something); place famous for its ...; center (e.g. of manufacture); best place (for) "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. place of origin; birthplace; cradle 日本にあるインドカレー屋のカレーって、やっぱり日本人の口に合わせて本場よりマイルドに作られてるよね。The curry they serve in Japan is milder than real Indian curry. They adapt it to Japanese tastes."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. morning session; last session in the morning "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "日本",
+                            "にほん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "インドカレー",
+                            null
+                        ],
+                        [
+                            "屋",
+                            "や"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "カレー",
+                            null
+                        ],
+                        [
+                            "って",
+                            null
+                        ],
+                        [
+                            "やっぱり",
+                            null
+                        ],
+                        [
+                            "日本人",
+                            "にほんじん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "口に合わせて",
+                            "くちにあ"
+                        ],
+                        [
+                            "本場",
+                            "ほんば"
+                        ],
+                        [
+                            "より",
+                            null
+                        ],
+                        [
+                            "マイルド",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "作られてる",
+                            "つく"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "The curry they serve in Japan is milder than real Indian curry. They adapt it to Japanese tastes."
+                }
+            ]
+        }
+    ]
+}

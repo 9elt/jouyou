@@ -1,0 +1,1327 @@
+{
+    "kanji": "泊",
+    "grade": 10,
+    "jlpt": 2,
+    "meanings": [
+        "overnight stay",
+        "put up at",
+        "ride at anchor"
+    ],
+    "kun": [
+        "と.まる",
+        "と.める"
+    ],
+    "on": [
+        "ハク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.20990825688073395,
+            0.14330275229357797,
+            "c",
+            0.0408256880733945,
+            0.014495412844036697,
+            0.10550458715596331,
+            0.05963302752293578,
+            0.11577981651376146,
+            0.08229357798165138
+        ],
+        [
+            "M",
+            0.1559633027522936,
+            0.36009174311926606,
+            "c",
+            0.04293577981651376,
+            0.013761467889908258,
+            0.11082568807339449,
+            0.056605504587155964,
+            0.12155963302752294,
+            0.0779816513761468
+        ],
+        [
+            "M",
+            0.15825688073394495,
+            0.8047706422018348,
+            "c",
+            0.015412844036697248,
+            0.006697247706422018,
+            0.027155963302752294,
+            0.002752293577981651,
+            0.03642201834862385,
+            -0.00963302752293578,
+            "c",
+            0.03238532110091743,
+            -0.04302752293577982,
+            0.06247706422018348,
+            -0.09339449541284403,
+            0.0920183486238532,
+            -0.14834862385321101
+        ],
+        [
+            "M",
+            0.6387155963302753,
+            0.14678899082568808,
+            "c",
+            0.0022935779816513763,
+            0.009174311926605505,
+            -0.001559633027522936,
+            0.01724770642201835,
+            -0.0047706422018348625,
+            0.023761467889908256,
+            "C",
+            0.606605504587156,
+            0.22587155963302752,
+            0.5688073394495413,
+            0.29128440366972475,
+            0.5063302752293578,
+            0.37119266055045874
+        ],
+        [
+            "M",
+            0.4260550458715596,
+            0.386788990825688,
+            "c",
+            0.009816513761467891,
+            0.009816513761467891,
+            0.012568807339449543,
+            0.019908256880733943,
+            0.012568807339449543,
+            0.035596330275229356,
+            "c",
+            0,
+            0.013394495412844036,
+            -0.0008256880733944953,
+            0.25431192660550456,
+            -0.00045871559633027525,
+            0.38036697247706425,
+            "c",
+            0.00009174311926605505,
+            0.021100917431192658,
+            0.00009174311926605505,
+            0.039266055045871565,
+            0.00009174311926605505,
+            0.052752293577981654
+        ],
+        [
+            "M",
+            0.4446788990825688,
+            0.40761467889908254,
+            "c",
+            0.04146788990825688,
+            -0.005596330275229358,
+            0.2561467889908257,
+            -0.02743119266055046,
+            0.3231192660550459,
+            -0.034128440366972476,
+            "c",
+            0.028807339449541284,
+            -0.0028440366972477065,
+            0.0453211009174312,
+            0.002752293577981651,
+            0.045229357798165136,
+            0.035871559633027524,
+            "C",
+            0.8130275229357798,
+            0.4456880733944954,
+            0.8146788990825687,
+            0.6357798165137615,
+            0.8140366972477064,
+            0.7798165137614679,
+            "c",
+            -0.00009174311926605505,
+            0.023577981651376145,
+            -0.0001834862385321101,
+            0.045871559633027525,
+            -0.0001834862385321101,
+            0.06614678899082568
+        ],
+        [
+            "M",
+            0.4488073394495413,
+            0.6068807339449542,
+            "c",
+            0.10275229357798164,
+            -0.01165137614678899,
+            0.29660550458715595,
+            -0.02660550458715596,
+            0.3623853211009174,
+            -0.029908256880733942
+        ],
+        [
+            "M",
+            0.44899082568807336,
+            0.83,
+            "c",
+            0.09798165137614678,
+            -0.008899082568807339,
+            0.25908256880733943,
+            -0.021376146788990826,
+            0.35357798165137616,
+            -0.024220183486238535
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "泊",
+                    "はく"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Counter",
+                    "meaning": "1. counter for nights of a stay "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. overnight stay; lodging Rare term"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "1. counter for nights of a stay "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. overnight stay; lodging Rare term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "と"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to stay at (e.g. hotel) まだ住所は決まっていませんので、友達の家にしばらく泊まります。I don't know my address yet. I'm going to stay with my friend for a while."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be docked; to be berthed; to be moored "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "泊る 【とまる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to stay at (e.g. hotel) まだ住所は決まっていませんので、友達の家にしばらく泊まります。I don't know my address yet. I'm going to stay with my friend for a while."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be docked; to be berthed; to be moored "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "泊る 【とまる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "まだ",
+                            null
+                        ],
+                        [
+                            "住所",
+                            "じゅうしょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "決まっていません",
+                            "き"
+                        ],
+                        [
+                            "ので",
+                            null
+                        ],
+                        [
+                            "友達",
+                            "ともだち"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "家",
+                            "いえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "しばらく",
+                            null
+                        ],
+                        [
+                            "泊まります",
+                            "と"
+                        ]
+                    ],
+                    "translation": "I don't know my address yet. I'm going to stay with my friend for a while."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "と"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to give shelter to; to lodge; to put up; to accommodate "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to give shelter to; to lodge; to put up; to accommodate "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "と"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (overnight) stay; lodging "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. inn; hotel "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. night duty "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. anchorage; harbor; port "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "泊り 【とまり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (overnight) stay; lodging "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. inn; hotel "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. night duty "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. anchorage; harbor; port "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "泊り 【とまり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "と"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. staying somewhere (overnight) due to circumstances "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "泊り込み 【とまりこみ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. staying somewhere (overnight) due to circumstances "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "泊り込み 【とまりこみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "はく"
+                ],
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. anchorage; berth "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Harbor A harbor or harbour, or haven, is a place where ships, bo... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. anchorage; berth "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Harbor A harbor or harbour, or haven, is a place where ships, bo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "とま"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "客",
+                    "きゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. overnight guest; house guest "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "と"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "番",
+                    "ばん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. night duty "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "とま"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "賃",
+                    "ちん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hotel charges; tariff "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "と"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to stay overnight; to stop (e.g. at a hotel) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "泊り込む 【とまりこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "とま"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. staying over "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "泊まりがけ 【とまりがけ】、泊まり掛け 【とまりがけ】、泊り掛け 【とまりがけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "はく"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "重",
+                    "かさ"
+                ],
+                [
+                    "ね",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to stay long "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    "とまり"
+                ],
+                [
+                    "村",
+                    "そん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Tomarison "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tomari, Hokkaidō Tomari, Hokkaidō is a village located in Furuu District, ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    null
+                ],
+                [
+                    "発",
+                    null
+                ],
+                [
+                    "電",
+                    null
+                ],
+                [
+                    "所",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Tomari Nuclear Power Plant The Tomari Nuclear Power Plant is the only nuclear power ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    null
+                ],
+                [
+                    "頭",
+                    null
+                ],
+                [
+                    "市",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Botou Botou is a county-level city in Hebei Province, China, un... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    null
+                ],
+                [
+                    "駅",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "鳥",
+                    null
+                ],
+                [
+                    "取",
+                    null
+                ],
+                [
+                    "県",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Tomari Station (Tottori) Tomari Station is a railway station on the Sanin Main Lin... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    null
+                ],
+                [
+                    "駅",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "三",
+                    null
+                ],
+                [
+                    "重",
+                    null
+                ],
+                [
+                    "県",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Tomari Station (Mie) Tomari Station is a Kintetsu train station in the city of... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    null
+                ],
+                [
+                    "駅",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "富",
+                    null
+                ],
+                [
+                    "山",
+                    null
+                ],
+                [
+                    "県",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Tomari Station (Toyama) Tomari Station is a train station in Asahi, Toyama Prefec... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    null
+                ],
+                [
+                    "山",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Golovnin Golovnin is a caldera located in the southern part of Kun... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "泊",
+                    null
+                ],
+                [
+                    "瀬",
+                    null
+                ],
+                [
+                    "部",
+                    null
+                ],
+                [
+                    "皇",
+                    null
+                ],
+                [
+                    "女",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Princess Hatsusebe (died 741) was a person in Japan during the Asuka Period ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "泊",
+                "とま"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Toma "
+                },
+                {
+                    "type": "Place, Family or surname, Female given name",
+                    "meaning": "1. Tomari "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Tomaru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宿",
+                    "しゅく"
+                ],
+                [
+                    "泊",
+                    "はく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. accommodation; lodging "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "停",
+                    "てい"
+                ],
+                [
+                    "泊",
+                    "はく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. anchorage; anchoring; mooring "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "碇泊 【ていはく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "外",
+                    "がい"
+                ],
+                [
+                    "泊",
+                    "はく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. staying somewhere else (overnight); spending the night away (e.g. from home); going home (e.g. from hospital) for the night; sleepover "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "泊",
+                    "ぱく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. (staying) one night; overnight stay "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. overnight rental; per-night rental "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "１泊 【いっぱく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "延",
+                    "えん"
+                ],
+                [
+                    "泊",
+                    "ぱく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. extending stay (somewhere) もう一日延泊できますか。I'd like to stay another night if I can."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "もう",
+                            null
+                        ],
+                        [
+                            "一日",
+                            "いちにち"
+                        ],
+                        [
+                            "延泊",
+                            "えんぱく"
+                        ],
+                        [
+                            "できます",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "I'd like to stay another night if I can."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "宿",
+                    "しゅく"
+                ],
+                [
+                    "泊",
+                    "はく"
+                ],
+                [
+                    "料",
+                    "りょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. accommodation charge; room rate "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宿",
+                    "しゅく"
+                ],
+                [
+                    "泊",
+                    "はく"
+                ],
+                [
+                    "先",
+                    "さき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lodging host; lodging place "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "素",
+                    "す"
+                ],
+                [
+                    "泊",
+                    "どま"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. staying overnight without meals "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "素泊まり 【すどまり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "泊",
+                    "と"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. staying the night; lodging (at) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝泊り 【ねとまり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "淡",
+                    "たん"
+                ],
+                [
+                    "白",
+                    "ぱく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. light (flavor, color, etc.); simple; plain Antonym: 濃厚"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. frank; candid; easygoing; unselfish; indifferent (to); not particular (about) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "淡泊 【たんぱく】、澹泊 【たんぱく】、淡薄 【たんぱく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "澹泊: Rarely-used kanji form. 淡薄: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漂",
+                    "ひょう"
+                ],
+                [
+                    "泊",
+                    "はく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. roaming; drifting about; wandering "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. drifting (with the current, on the tide, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "梁",
+                    "りょう"
+                ],
+                [
+                    "山",
+                    "ざん"
+                ],
+                [
+                    "泊",
+                    "ぱく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. place of assemblage for the bold and ambitious "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Ryouzanpaku "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Mount Liang Mount Liang is a mountain in Liangshan County, Shandong p... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "連",
+                    "れん"
+                ],
+                [
+                    "泊",
+                    "ぱく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. staying for two or more nights in a row (e.g. at a hotel) "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Renpaku "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "車",
+                    "しゃ"
+                ],
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "泊",
+                    "はく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. spending the night in a car, train, bus, etc. "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

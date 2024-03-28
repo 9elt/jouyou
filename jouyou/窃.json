@@ -1,0 +1,822 @@
+{
+    "kanji": "窃",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "stealth",
+        "steal",
+        "secret",
+        "private",
+        "hushed"
+    ],
+    "kun": [
+        "ぬす.む",
+        "ひそ.か"
+    ],
+    "on": [
+        "セツ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.48944954128440366,
+            0.09403669724770643,
+            "c",
+            0.008715596330275228,
+            0.008715596330275228,
+            0.013853211009174311,
+            0.01834862385321101,
+            0.013853211009174311,
+            0.03220183486238532,
+            "c",
+            0,
+            0.02853211009174312,
+            -0.0008256880733944953,
+            0.053944954128440366,
+            -0.0009174311926605505,
+            0.07990825688073395
+        ],
+        [
+            "M",
+            0.21568807339449542,
+            0.2181651376146789,
+            "c",
+            0,
+            0.03908256880733945,
+            -0.024770642201834864,
+            0.14642201834862387,
+            -0.03605504587155964,
+            0.1724770642201835
+        ],
+        [
+            "M",
+            0.22339449541284406,
+            0.23908256880733944,
+            "c",
+            0.15394495412844036,
+            -0.016605504587155963,
+            0.364954128440367,
+            -0.04412844036697247,
+            0.5496330275229357,
+            -0.05045871559633028,
+            "c",
+            0.1051376146788991,
+            -0.003577981651376147,
+            0.02743119266055046,
+            0.059082568807339454,
+            -0.008532110091743119,
+            0.08211009174311926
+        ],
+        [
+            "M",
+            0.40275229357798165,
+            0.28825688073394495,
+            "c",
+            0.0011009174311926604,
+            0.008715596330275228,
+            -0.0006422018348623854,
+            0.01669724770642202,
+            -0.005229357798165137,
+            0.024036697247706424,
+            "c",
+            -0.017155963302752295,
+            0.03256880733944954,
+            -0.06954128440366973,
+            0.08926605504587157,
+            -0.1524770642201835,
+            0.13192660550458715
+        ],
+        [
+            "M",
+            0.5676146788990826,
+            0.26055045871559634,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.008073394495412844,
+            0.016972477064220184,
+            0.008073394495412844,
+            0.02963302752293578,
+            "c",
+            0,
+            0.029357798165137616,
+            0.0002752293577981651,
+            0.03302752293577982,
+            0.0002752293577981651,
+            0.052935779816513755,
+            "c",
+            0,
+            0.04660550458715596,
+            0.052201834862385325,
+            0.04128440366972477,
+            0.10357798165137613,
+            0.04128440366972477,
+            "c",
+            0.054220183486238534,
+            0,
+            0.08990825688073395,
+            -0.006055045871559634,
+            0.09752293577981652,
+            -0.009357798165137614
+        ],
+        [
+            "M",
+            0.12844036697247707,
+            0.6300917431192661,
+            "c",
+            0.016788990825688074,
+            0.0039449541284403665,
+            0.03706422018348624,
+            0.004220183486238533,
+            0.053944954128440366,
+            0.002018348623853211,
+            "c",
+            0.07009174311926605,
+            -0.00926605504587156,
+            0.16871559633027525,
+            -0.034128440366972476,
+            0.22275229357798165,
+            -0.04467889908256881,
+            "c",
+            0.014403669724770642,
+            -0.002752293577981651,
+            0.02587155963302752,
+            -0.003119266055045872,
+            0.039174311926605504,
+            -0.0012844036697247708
+        ],
+        [
+            "M",
+            0.25522935779816514,
+            0.5143119266055046,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.012018348623853212,
+            0.02238532110091743,
+            0.012018348623853212,
+            0.034128440366972476,
+            "c",
+            0,
+            0.00834862385321101,
+            0.0008256880733944953,
+            0.15798165137614678,
+            0.0008256880733944953,
+            0.23321100917431195,
+            "c",
+            0,
+            0.03605504587155964,
+            0.007064220183486239,
+            0.047889908256880734,
+            0.06321100917431192,
+            0.047889908256880734,
+            "c",
+            0.04807339449541285,
+            0,
+            0.08146788990825689,
+            -0.004954128440366972,
+            0.11577981651376146,
+            -0.013669724770642202
+        ],
+        [
+            "M",
+            0.5032110091743119,
+            0.5379816513761468,
+            "c",
+            0.02743119266055046,
+            0.008807339449541284,
+            0.051559633027522936,
+            0.007522935779816513,
+            0.07954128440366973,
+            0.003119266055045872,
+            "c",
+            0.10880733944954128,
+            -0.017064220183486238,
+            0.15357798165137612,
+            -0.025137614678899085,
+            0.2296330275229358,
+            -0.03541284403669725,
+            "c",
+            0.04458715596330275,
+            -0.006055045871559634,
+            0.058807339449541286,
+            0.013853211009174311,
+            0.050366972477064224,
+            0.054220183486238534,
+            "c",
+            -0.022110091743119266,
+            0.10623853211009174,
+            -0.06339449541284403,
+            0.22550458715596328,
+            -0.1165137614678899,
+            0.30577981651376146,
+            "c",
+            -0.04440366972477064,
+            0.06697247706422019,
+            -0.06495412844036698,
+            0.014954128440366971,
+            -0.08431192660550459,
+            -0.004495412844036697
+        ],
+        [
+            "M",
+            0.6589908256880734,
+            0.5688073394495413,
+            "c",
+            0.003853211009174312,
+            0.011467889908256881,
+            0.002660550458715596,
+            0.024495412844036696,
+            -0.0011926605504587156,
+            0.03486238532110091,
+            "c",
+            -0.0408256880733945,
+            0.10963302752293577,
+            -0.10623853211009174,
+            0.20596330275229358,
+            -0.20339449541284405,
+            0.2787155963302752
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "密",
+                    "ひそ"
+                ],
+                [
+                    "か",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. secret; private; surreptitious "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "秘か 【ひそか】、窃か 【ひそか】、私か 【ひそか】"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. secret; private; surreptitious "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "秘か 【ひそか】、窃か 【ひそか】、私か 【ひそか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. theft; stealing; larceny "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Theft In common usage, theft is the taking of another person's ... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. theft; stealing; larceny "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Theft In common usage, theft is the taking of another person's ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ],
+                [
+                    "罪",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (crime of) theft; (crime of) stealing; larceny "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (crime of) theft; (crime of) stealing; larceny "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ],
+                [
+                    "犯",
+                    "はん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. theft; stealing; larceny "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. theft; stealing; larceny "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ],
+                [
+                    "狂",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kleptomania; kleptomaniac "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. kleptomania; kleptomaniac "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せつ"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. using without permission; using information obtained in the course of one's duties Rare term"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. using without permission; using information obtained in the course of one's duties Rare term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "ゃ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bicycle theft "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bicycle theft "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ],
+                [
+                    "癖",
+                    "へき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kleptomania "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. kleptomania "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ],
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "為",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. theft; act of larceny "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. theft; act of larceny "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ],
+                [
+                    "団",
+                    "だん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. group of thieves "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. group of thieves "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "視",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. peeping at (without permission) "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. peeping at (without permission) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "取",
+                    "しゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. theft; stealing; larceny "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. theft; stealing; larceny "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ],
+                [
+                    "強",
+                    "きょう"
+                ],
+                [
+                    "迫",
+                    "はく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kleptomania Rare term, See also 盗癖"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. kleptomania Rare term, See also 盗癖"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kleptomania See also クレプトマニア"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Kleptomania Kleptomania (from Greek: κλέπτειν, kleptein, \"to steal\", ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. kleptomania See also クレプトマニア"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Kleptomania Kleptomania (from Greek: κλέπτειν, kleptein, \"to steal\", ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "視",
+                    "し"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. voyeurism; scopophilia; scoptophilia "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Voyeurism Voyeurism is the sexual interest in or practice of spying... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. voyeurism; scopophilia; scoptophilia "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Voyeurism Voyeurism is the sexual interest in or practice of spying... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "個",
+                    "こ"
+                ],
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "情",
+                    "じょう"
+                ],
+                [
+                    "報",
+                    "ほう"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. identity theft See also 個人情報窃盗 こじんじょうほうせっとう"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "剽",
+                    "ひょう"
+                ],
+                [
+                    "窃",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. plagiarism "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "個",
+                    "こ"
+                ],
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "情",
+                    "じょう"
+                ],
+                [
+                    "報",
+                    "ほう"
+                ],
+                [
+                    "窃",
+                    "せっ"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. identity theft See also 個人情報盗難 こじんじょうほうとうなん"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "鼠",
+                    "そ"
+                ],
+                [
+                    "窃",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sneak-thief "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

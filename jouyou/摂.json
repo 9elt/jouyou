@@ -1,0 +1,1277 @@
+{
+    "kanji": "摂",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "vicarious",
+        "surrogate",
+        "act in addition to",
+        "take in",
+        "absorb"
+    ],
+    "kun": [
+        "おさ.める",
+        "かね.る",
+        "と.る"
+    ],
+    "on": [
+        "セツ",
+        "ショウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.09403669724770643,
+            0.33871559633027526,
+            "c",
+            0.01944954128440367,
+            0.004220183486238533,
+            0.03660550458715597,
+            0.006330275229357797,
+            0.05614678899082569,
+            0.0033944954128440367,
+            "c",
+            0.046055045871559626,
+            -0.006880733944954129,
+            0.12137614678899084,
+            -0.0226605504587156,
+            0.18293577981651377,
+            -0.03211009174311927,
+            "c",
+            0.011834862385321101,
+            -0.001834862385321101,
+            0.022477064220183487,
+            -0.004954128440366972,
+            0.03541284403669725,
+            -0.002660550458715596
+        ],
+        [
+            "M",
+            0.2593577981651376,
+            0.13073394495412843,
+            "c",
+            0.00963302752293578,
+            0.00963302752293578,
+            0.011559633027522935,
+            0.02522935779816514,
+            0.011559633027522935,
+            0.04376146788990825,
+            "c",
+            0,
+            0.13972477064220185,
+            -0.00009174311926605505,
+            0.5133944954128441,
+            -0.00009174311926605505,
+            0.6183486238532111,
+            "c",
+            0,
+            0.13073394495412843,
+            -0.05568807339449541,
+            0.03238532110091743,
+            -0.0689908256880734,
+            0.01834862385321101
+        ],
+        [
+            "M",
+            0.11146788990825689,
+            0.6158715596330275,
+            "c",
+            0.009541284403669725,
+            0.007706422018348624,
+            0.023577981651376145,
+            0.01,
+            0.036238532110091745,
+            0.0011926605504587156,
+            "C",
+            0.20412844036697247,
+            0.5779816513761468,
+            0.23853211009174313,
+            0.555045871559633,
+            0.34174311926605505,
+            0.48091743119266056
+        ],
+        [
+            "M",
+            0.4242201834862386,
+            0.18532110091743118,
+            "c",
+            0.023027522935779813,
+            0.005045871559633028,
+            0.04541284403669725,
+            0.0013761467889908255,
+            0.06431192660550458,
+            -0.0014678899082568807,
+            "c",
+            0.10889908256880733,
+            -0.0163302752293578,
+            0.2126605504587156,
+            -0.032844036697247704,
+            0.3104587155963303,
+            -0.04321100917431193,
+            "c",
+            0.01889908256880734,
+            -0.002018348623853211,
+            0.03889908256880734,
+            -0.0017431192660550458,
+            0.05733944954128441,
+            0.0025688073394495416
+        ],
+        [
+            "M",
+            0.5122935779816514,
+            0.19990825688073394,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.012660550458715595,
+            0.02256880733944954,
+            0.012660550458715595,
+            0.03339449541284404,
+            "c",
+            0,
+            0.020917431192660547,
+            0.0001834862385321101,
+            0.17541284403669727,
+            0.0001834862385321101,
+            0.25045871559633026
+        ],
+        [
+            "M",
+            0.536697247706422,
+            0.28211009174311924,
+            "c",
+            0.05137614678899082,
+            -0.007247706422018349,
+            0.1536697247706422,
+            -0.02146788990825688,
+            0.21110091743119266,
+            -0.02669724770642202
+        ],
+        [
+            "M",
+            0.5377981651376147,
+            0.3840366972477064,
+            "c",
+            0.05467889908256881,
+            -0.008532110091743119,
+            0.1401834862385321,
+            -0.0218348623853211,
+            0.20944954128440366,
+            -0.029541284403669727
+        ],
+        [
+            "M",
+            0.42110091743119266,
+            0.499908256880734,
+            "c",
+            0.0033944954128440367,
+            0.004862385321100918,
+            0.01871559633027523,
+            0.011743119266055046,
+            0.03055045871559633,
+            0.009724770642201836,
+            "c",
+            0.04743119266055046,
+            -0.008073394495412844,
+            0.31871559633027524,
+            -0.05889908256880734,
+            0.39165137614678897,
+            -0.07183486238532111
+        ],
+        [
+            "M",
+            0.7453211009174312,
+            0.17394495412844038,
+            "c",
+            0.01,
+            0.01,
+            0.013853211009174311,
+            0.024311926605504585,
+            0.013853211009174311,
+            0.041926605504587156,
+            "c",
+            0,
+            0.009724770642201836,
+            -0.0006422018348623854,
+            0.1373394495412844,
+            -0.0006422018348623854,
+            0.22788990825688074,
+            "c",
+            0,
+            0.048256880733944955,
+            -0.0002752293577981651,
+            0.08724770642201835,
+            -0.0002752293577981651,
+            0.09522935779816515
+        ],
+        [
+            "M",
+            0.46788990825688076,
+            0.6055045871559633,
+            "c",
+            0.035596330275229356,
+            0.014587155963302753,
+            0.0920183486238532,
+            0.059908256880733944,
+            0.10091743119266056,
+            0.08256880733944955
+        ],
+        [
+            "M",
+            0.41293577981651375,
+            0.8560550458715597,
+            "c",
+            0.01165137614678899,
+            0.0074311926605504595,
+            0.024495412844036696,
+            0.005963302752293578,
+            0.03669724770642202,
+            -0.004311926605504587,
+            "C",
+            0.458348623853211,
+            0.8444954128440366,
+            0.5229357798165137,
+            0.7981651376146789,
+            0.573394495412844,
+            0.7545871559633027
+        ],
+        [
+            "M",
+            0.8166972477064219,
+            0.5838532110091743,
+            "c",
+            0.0009174311926605505,
+            0.006605504587155963,
+            -0.0009174311926605505,
+            0.012385321100917432,
+            -0.005137614678899083,
+            0.017522935779816513,
+            "c",
+            -0.021376146788990826,
+            0.02587155963302752,
+            -0.07183486238532111,
+            0.06596330275229358,
+            -0.11596330275229358,
+            0.08862385321100917
+        ],
+        [
+            "M",
+            0.7064220183486238,
+            0.7568807339449541,
+            "c",
+            0.05376146788990826,
+            0.02192660550458716,
+            0.14926605504587157,
+            0.10211009174311927,
+            0.16055045871559634,
+            0.13073394495412843
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "取",
+                    "しゅ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. intake (e.g. of salt); ingestion 後に、高校生になると、僕はビタミン剤を常用するように化学を「摂取した」Later, in high school, I would take chemistry the way I took vitamin pills."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. absorption (e.g. of new knowledge); adoption (e.g. of foreign culture); assimilation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. reception and protection Buddhism"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Ingestion Ingestion is the consumption of a substance by an organis... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. intake (e.g. of salt); ingestion 後に、高校生になると、僕はビタミン剤を常用するように化学を「摂取した」Later, in high school, I would take chemistry the way I took vitamin pills."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. absorption (e.g. of new knowledge); adoption (e.g. of foreign culture); assimilation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. reception and protection Buddhism"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Ingestion Ingestion is the consumption of a substance by an organis... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "後",
+                            "あと"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "高校生",
+                            "こうこうせい"
+                        ],
+                        [
+                            "になると",
+                            null
+                        ],
+                        [
+                            "僕",
+                            "ぼく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ビタミン剤",
+                            "ビタミンざい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "常用",
+                            "じょうよう"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "ように",
+                            null
+                        ],
+                        [
+                            "化学",
+                            "かがく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "摂取",
+                            "せっしゅ"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "Later, in high school, I would take chemistry the way I took vitamin pills."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "接",
+                    "せっ"
+                ],
+                [
+                    "待",
+                    "たい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. entertainment (of guests; esp. in the corporate world); treating (to food and drinks); wining and dining 彼が外人客の接待にあたっている。He is in charge of entertaining the foreign guests."
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Settai "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "摂待 【せったい】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. entertainment (of guests; esp. in the corporate world); treating (to food and drinks); wining and dining 彼が外人客の接待にあたっている。He is in charge of entertaining the foreign guests."
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Settai "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "摂待 【せったい】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "外人",
+                            "がいじん"
+                        ],
+                        [
+                            "客",
+                            "きゃく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "接待",
+                            "せったい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "あたっている",
+                            null
+                        ]
+                    ],
+                    "translation": "He is in charge of entertaining the foreign guests."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "氏",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Celsius; centigrade Abbreviation, See also 摂氏温度, See also セ氏, See also 華氏"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Celsius; centigrade Abbreviation, See also 摂氏温度, See also セ氏, See also 華氏"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "と"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to have (e.g. lunch); to take (e.g. vitamins) Usually written using kana alone, See also 取る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to have (e.g. lunch); to take (e.g. vitamins) Usually written using kana alone, See also 取る"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せつ"
+                ],
+                [
+                    "理",
+                    "り"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. laws (of nature) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (divine) providence Christianity"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. laws (of nature) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (divine) providence Christianity"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せつ"
+                ],
+                [
+                    "南",
+                    "なん"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Setsunan University Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Setsunan University "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Setsunan University Setsunan University is a private university in Neyagawa, ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Setsunan University Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Setsunan University "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Setsunan University Setsunan University is a private university in Neyagawa, ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "家",
+                    "け"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (line of) regents and advisers (advisors) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Five regent houses The Five regent houses (五摂家; go-seike or go-sekke) is a c... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (line of) regents and advisers (advisors) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Five regent houses The Five regent houses (五摂家; go-seike or go-sekke) is a c... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "政",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. regency; regent "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Regency (government) A regent, from the Latin regens, \"[one one] reigning\", or... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. regency; regent "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Regency (government) A regent, from the Latin regens, \"[one one] reigning\", or... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "接",
+                    "せっ"
+                ],
+                [
+                    "心",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. concentration Buddhism"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. period of intensive zazen See also 坐禅"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Sesshin A sesshin (接心, 摂心, 攝心), literally \"touching the heart-min... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "摂心 【せっしん】、摂心 【しょうしん】"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. concentration Buddhism"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. period of intensive zazen See also 坐禅"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Sesshin A sesshin (接心, 摂心, 攝心), literally \"touching the heart-min... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "摂心 【せっしん】、摂心 【しょうしん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せつ"
+                ],
+                [
+                    "動",
+                    "どう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. perturbation Physics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Perturbation theory Perturbation theory comprises mathematical methods that a... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. perturbation Physics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Perturbation theory Perturbation theory comprises mathematical methods that a... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "障",
+                    "しょう"
+                ],
+                [
+                    "害",
+                    "がい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. eating disorder "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Eating disorder Eating disorders refer to a group of conditions defined b... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. eating disorder "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Eating disorder Eating disorders refer to a group of conditions defined b... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "しょう"
+                ],
+                [
+                    "受",
+                    "じゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. converting someone (gently) to Buddhism; proselytization Buddhism"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "摂受 【せつじゅ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "生",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. taking care of one's health Antonym: 不摂生"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "せっ生 【せっせい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せつ"
+                ],
+                [
+                    "動",
+                    "どう"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. perturbation theory Physics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. perturbation theory Physics"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せつ"
+                ],
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "腺",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. prostate gland "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "津",
+                    "つ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Settsu (former province located in the northern and central parts of present-day Osaka and the southeast of Hyogo prefectures) Historical term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "氏",
+                    "し"
+                ],
+                [
+                    "温",
+                    "おん"
+                ],
+                [
+                    "度",
+                    "ど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. degrees Celsius See also セ氏温度 セしおんど"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "関",
+                    "かん"
+                ],
+                [
+                    "家",
+                    "け"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. line of regents and advisers (advisors) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "関",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. regents and advisers (advisors) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "社",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. auxiliary shrine (dedicated to a deity close-related to that of a main shrine) See also 本社"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "摂",
+                "おさむ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Osamu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "摂",
+                "しずか"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Shizuka "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "摂",
+                "せつ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Setsu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "生",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. neglect of one's health; unhealthy living; intemperance Antonym: 摂生"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "過",
+                    "か"
+                ],
+                [
+                    "剰",
+                    "じょう"
+                ],
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "取",
+                    "しゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. overdose; excessive consumption "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "包",
+                    "ほう"
+                ],
+                [
+                    "摂",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. inclusion; encompassing; connotation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. subsumption Logic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "非",
+                    "ひ"
+                ],
+                [
+                    "摂",
+                    "せつ"
+                ],
+                [
+                    "動",
+                    "どう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun or verb acting prenominally",
+                    "meaning": "1. non-perturbative See also 摂動"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "五",
+                    "ご"
+                ],
+                [
+                    "摂",
+                    "せっ"
+                ],
+                [
+                    "家",
+                    "け"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the five regent houses; five families of the Fujiwara clan (Konoe, Kujo, Nijo, Ichijo, and Takatsukasa) entrusted as imperial regents and advisors starting in the Kamakura period See also 摂関"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "兼",
+                    "けん"
+                ],
+                [
+                    "摂",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. serving concurrently as; holding the additional post of "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "包",
+                    "ほう"
+                ],
+                [
+                    "摂",
+                    "せつ"
+                ],
+                [
+                    "主",
+                    "しゅ"
+                ],
+                [
+                    "義",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. inclusionism; inclusivism "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "耐",
+                    "たい"
+                ],
+                [
+                    "容",
+                    "よう"
+                ],
+                [
+                    "１",
+                    "いちにちせっしゅりょう"
+                ],
+                [
+                    "日",
+                    null
+                ],
+                [
+                    "摂",
+                    null
+                ],
+                [
+                    "取",
+                    null
+                ],
+                [
+                    "量",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tolerable daily intake; TDI "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "耐容一日摂取量 【たいよういちにちせっしゅりょう】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

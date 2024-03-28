@@ -1,0 +1,1257 @@
+{
+    "kanji": "法",
+    "grade": 4,
+    "jlpt": 3,
+    "meanings": [
+        "method",
+        "law",
+        "rule",
+        "principle",
+        "model",
+        "system"
+    ],
+    "kun": [
+        "のり"
+    ],
+    "on": [
+        "ホウ",
+        "ハッ",
+        "ホッ",
+        "フラン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.19834862385321103,
+            0.16862385321100917,
+            "c",
+            0.039266055045871565,
+            0.01330275229357798,
+            0.09174311926605505,
+            0.04697247706422018,
+            0.1111926605504587,
+            0.07541284403669725
+        ],
+        [
+            "M",
+            0.14788990825688075,
+            0.38073394495412843,
+            "c",
+            0.039266055045871565,
+            0.011743119266055046,
+            0.0871559633027523,
+            0.0389908256880734,
+            0.1111926605504587,
+            0.06651376146788991
+        ],
+        [
+            "M",
+            0.13412844036697247,
+            0.8451376146788991,
+            "c",
+            0.010091743119266056,
+            0.0023853211009174312,
+            0.02220183486238532,
+            -0.0007339449541284404,
+            0.028165137614678898,
+            -0.010642201834862385,
+            "c",
+            0.026788990825688072,
+            -0.04376146788990825,
+            0.06091743119266055,
+            -0.11128440366972478,
+            0.0853211009174312,
+            -0.1671559633027523
+        ],
+        [
+            "M",
+            0.4151376146788991,
+            0.30944954128440366,
+            "c",
+            0.01275229357798165,
+            0.0034862385321100917,
+            0.036238532110091745,
+            0.006605504587155963,
+            0.04899082568807339,
+            0.0057798165137614675,
+            "c",
+            0.08513761467889908,
+            -0.005504587155963302,
+            0.22275229357798165,
+            -0.0181651376146789,
+            0.3107339449541284,
+            -0.025779816513761468,
+            "c",
+            0.021192660550458715,
+            -0.001834862385321101,
+            0.03669724770642202,
+            -0.0006422018348623854,
+            0.047339449541284405,
+            0.0011009174311926604
+        ],
+        [
+            "M",
+            0.5887155963302753,
+            0.13990825688073394,
+            "c",
+            0.00834862385321101,
+            0.00834862385321101,
+            0.013944954128440367,
+            0.01944954128440367,
+            0.013944954128440367,
+            0.035321100917431195,
+            "c",
+            0,
+            0.08128440366972477,
+            0.0012844036697247708,
+            0.28192660550458715,
+            0.0012844036697247708,
+            0.30954128440366974
+        ],
+        [
+            "M",
+            0.34981651376146794,
+            0.5130275229357798,
+            "c",
+            0.01669724770642202,
+            0.004954128440366972,
+            0.04752293577981651,
+            0.004495412844036697,
+            0.06422018348623854,
+            0.002660550458715596,
+            "c",
+            0.13192660550458715,
+            -0.014495412844036697,
+            0.31486238532110095,
+            -0.03403669724770642,
+            0.42311926605504585,
+            -0.03577981651376147,
+            "c",
+            0.027889908256880733,
+            -0.00045871559633027525,
+            0.04467889908256881,
+            0.0022935779816513763,
+            0.05862385321100917,
+            0.0047706422018348625
+        ],
+        [
+            "M",
+            0.5788990825688074,
+            0.5373394495412844,
+            "c",
+            0.003669724770642202,
+            0.01110091743119266,
+            0.00045871559633027525,
+            0.02642201834862385,
+            -0.0032110091743119264,
+            0.03330275229357798,
+            "c",
+            -0.05045871559633028,
+            0.0944954128440367,
+            -0.0871559633027523,
+            0.14036697247706423,
+            -0.1559633027522936,
+            0.23660550458715596,
+            "c",
+            -0.01981651376146789,
+            0.027798165137614676,
+            -0.01688073394495413,
+            0.04055045871559633,
+            0.023853211009174313,
+            0.03036697247706422,
+            "c",
+            0.11146788990825689,
+            -0.027981651376146787,
+            0.18027522935779816,
+            -0.04119266055045872,
+            0.3385321100917431,
+            -0.07449541284403668
+        ],
+        [
+            "M",
+            0.7249541284403669,
+            0.6726605504587155,
+            "c",
+            0.04064220183486238,
+            0.03302752293577982,
+            0.10495412844036697,
+            0.13577981651376148,
+            0.11504587155963301,
+            0.18715596330275228
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. law; act; principle すべての人は法の前に平等です。Everybody is equal before the law."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. method これは生物の学習法としてはあまりよくないと思う。I don't think this is a good approach to biology."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. mood Grammar"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "4. dharma; law Buddhism"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. rule; law; regulation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. model; pattern "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. teachings of Buddha; Buddhist doctrine Buddhism"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. transverse measurement; measurement across "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. side-slope; slope Engineering"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "則 【のり】、典 【のり】、範 【のり】、矩 【のり】"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. law; act; principle すべての人は法の前に平等です。Everybody is equal before the law."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. method これは生物の学習法としてはあまりよくないと思う。I don't think this is a good approach to biology."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. mood Grammar"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "4. dharma; law Buddhism"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "すべての",
+                            null
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "法",
+                            "ほう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "前",
+                            "まえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "平等",
+                            "びょうどう"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "Everybody is equal before the law."
+                },
+                {
+                    "sentence": [
+                        [
+                            "これ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "生物",
+                            "せいぶつ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "学習",
+                            "がくしゅう"
+                        ],
+                        [
+                            "法",
+                            "ほう"
+                        ],
+                        [
+                            "としては",
+                            null
+                        ],
+                        [
+                            "あまり",
+                            null
+                        ],
+                        [
+                            "よくない",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "思う",
+                            "おも"
+                        ]
+                    ],
+                    "translation": "I don't think this is a good approach to biology."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "律",
+                    "りつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. law "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Statute A statute is a formal written enactment of a legislative ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. law "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Statute A statute is a formal written enactment of a legislative ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "則",
+                    "そく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. law; rule "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "方則 【ほうそく】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. law; rule "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "方則 【ほうそく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "案",
+                    "あん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bill (law); measure "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bill (law); measure "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "廷",
+                    "てい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. court (of law); courtroom "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. court (of law); courtroom "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. law; jurisprudence "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. law; jurisprudence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "律",
+                    "りつ"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "務",
+                    "む"
+                ],
+                [
+                    "所",
+                    "しょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. law office; law firm "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Law firm A law firm is a business entity formed by one or more law... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. law office; law firm "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Law firm A law firm is a business entity formed by one or more law... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "学",
+                    "がく"
+                ],
+                [
+                    "部",
+                    "ぶ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. law department; law school "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Law school A law school (also known as a school of law or college of... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "王",
+                    "おう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Pope See also ローマ法王"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Buddha Buddhism, orig. meaning"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "3. Houou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "規",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. laws and regulations; legislation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. legal "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "令",
+                    "れい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. statute; law; act; ordinance; regulation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "外",
+                    "がい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. exorbitant; outrageous; ridiculous; absurd; excessive; inordinate; extravagant; immoderate "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ほ",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "草",
+                    "そう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spinach (Spinacia oleracea) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ホウレン草 【ほうれんそう】、菠薐草 【ほうれんそう】、ホウレンソウ"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "菠薐草: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "話",
+                    "わ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Buddhist sermon "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "務",
+                    "む"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "臣",
+                    "じん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Minister of Justice "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Minister of Justice (Japan) The Minister of Justice is the member of the Cabinet of J... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ホ",
+                    null
+                ],
+                [
+                    "ラ",
+                    null
+                ],
+                [
+                    "話",
+                    "ほらばなし"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tall story; tall tale; cock-and-bull story; bullshit "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tall tale For the film see Tall Tale (film) A tall tale is a story ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ほら話 【ほらばなし】、法螺話 【ほらばなし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "務",
+                    "む"
+                ],
+                [
+                    "省",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Ministry of Justice "
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Ministry of Justice "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Ministry of Justice (Japan) The Ministry of Justice is one of the Ministries of the J... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "則",
+                    "のっと"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to conform to; to be in accordance with; to follow (rule, tradition, example, etc.) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "法る 【のっとる】、乗っ取る 【のっとる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "乗っ取る: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "法",
+                "さだむ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Sadamu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "法",
+                "のり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Nori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "法",
+                "はかる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Hakaru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "文",
+                    "ぶん"
+                ],
+                [
+                    "法",
+                    "ぽう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grammar "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Grammar In linguistics, grammar is the set of structural rules th... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憲",
+                    "けん"
+                ],
+                [
+                    "法",
+                    "ぽう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. constitution "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. rules; regulation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Constitution A constitution is a set of fundamental principles or esta... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "憲法 【けんぼう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "けんぼう: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "方",
+                    "ほう"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. method; process; manner; way; means; technique "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "作",
+                    "さ"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. manners; etiquette; propriety Only applies to さほう"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. manner of production (esp. of prose, poetry, etc.); way of making "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "作法 【さくほう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寸",
+                    "すん"
+                ],
+                [
+                    "法",
+                    "ぽう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. measurement; size; extent; dimension "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. plan; intention; arrangement; schedule "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "手",
+                    "しゅ"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. technique; method "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "製",
+                    "せい"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. manufacturing method; recipe; formula "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. directions; rules of use "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "方",
+                    "ほう"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. methodology "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Methodology Methodology is generally a guideline system for solving a... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "商",
+                    "しょう"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. business practice; business method; commerce "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. commercial law "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Commercial law Commercial law (also known as business law, which covers ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "労",
+                    "ろう"
+                ],
+                [
+                    "働",
+                    "どう"
+                ],
+                [
+                    "基",
+                    "き"
+                ],
+                [
+                    "準",
+                    "じゅん"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Labor Standards Act Law"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Labor Standards Act of 1947 The Labor Standards Act is a Japanese law. It was enacted... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "刑",
+                    "けい"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. criminal law; penal code "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Criminal law Criminal law, as opposed to civil law, is the body of law... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "国",
+                    "こく"
+                ],
+                [
+                    "際",
+                    "さい"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. international law; law of nations "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. International law International law is the set of rules generally regarded ... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

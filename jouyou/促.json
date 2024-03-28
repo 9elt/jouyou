@@ -1,0 +1,979 @@
+{
+    "kanji": "促",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "stimulate",
+        "urge",
+        "press",
+        "demand",
+        "incite"
+    ],
+    "kun": [
+        "うなが.す"
+    ],
+    "on": [
+        "ソク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2911926605504587,
+            0.1641284403669725,
+            "c",
+            0.0012844036697247708,
+            0.01,
+            0.002201834862385321,
+            0.022477064220183487,
+            -0.0011009174311926604,
+            0.034770642201834866,
+            "C",
+            0.26908256880733944,
+            0.2765137614678899,
+            0.18788990825688073,
+            0.42660550458715596,
+            0.09000000000000001,
+            0.5318348623853211
+        ],
+        [
+            "M",
+            0.22504587155963304,
+            0.3669724770642202,
+            "c",
+            0.00963302752293578,
+            0.00963302752293578,
+            0.013853211009174311,
+            0.020642201834862386,
+            0.013853211009174311,
+            0.036513761467889906,
+            "c",
+            0,
+            0.0973394495412844,
+            -0.0002752293577981651,
+            0.2804587155963303,
+            -0.0003669724770642202,
+            0.3900917431192661,
+            "c",
+            0,
+            0.024954128440366975,
+            0,
+            0.045871559633027525,
+            0,
+            0.06073394495412844
+        ],
+        [
+            "M",
+            0.40321100917431196,
+            0.2020183486238532,
+            "c",
+            0.005504587155963302,
+            0.004220183486238533,
+            0.012293577981651376,
+            0.015688073394495412,
+            0.013669724770642202,
+            0.021192660550458715,
+            "c",
+            0.012110091743119267,
+            0.04862385321100917,
+            0.01853211009174312,
+            0.07917431192660551,
+            0.03055045871559633,
+            0.13229357798165137,
+            "c",
+            0.0033027522935779813,
+            0.014587155963302753,
+            0.006880733944954129,
+            0.02981651376146789,
+            0.01073394495412844,
+            0.04577981651376147
+        ],
+        [
+            "M",
+            0.4186238532110092,
+            0.20889908256880735,
+            "c",
+            0.0873394495412844,
+            -0.013669724770642202,
+            0.23376146788990826,
+            -0.03577981651376147,
+            0.3107339449541284,
+            -0.04403669724770642,
+            "c",
+            0.03422018348623853,
+            -0.003669724770642202,
+            0.05678899082568808,
+            0.006422018348623853,
+            0.048532110091743116,
+            0.04449541284403669,
+            "c",
+            -0.00834862385321101,
+            0.03853211009174312,
+            -0.017522935779816513,
+            0.07403669724770642,
+            -0.032293577981651375,
+            0.12706422018348623
+        ],
+        [
+            "M",
+            0.46275229357798164,
+            0.3806422018348624,
+            "c",
+            0.07853211009174313,
+            -0.00908256880733945,
+            0.17110091743119266,
+            -0.019633027522935782,
+            0.25990825688073393,
+            -0.030917431192660553,
+            "c",
+            0.014036697247706422,
+            -0.0017431192660550458,
+            0.02743119266055046,
+            -0.0033944954128440367,
+            0.04,
+            -0.004862385321100918
+        ],
+        [
+            "M",
+            0.588348623853211,
+            0.38853211009174315,
+            "c",
+            0.00926605504587156,
+            0.00926605504587156,
+            0.01128440366972477,
+            0.020825688073394497,
+            0.01128440366972477,
+            0.0363302752293578,
+            "c",
+            0,
+            0.0581651376146789,
+            -0.0010091743119266055,
+            0.24486238532110094,
+            -0.0010091743119266055,
+            0.3044954128440367
+        ],
+        [
+            "M",
+            0.6119266055045872,
+            0.5231192660550459,
+            "C",
+            0.621651376146789,
+            0.5231192660550459,
+            0.6961467889908256,
+            0.5137614678899083,
+            0.7616513761467889,
+            0.5061467889908257,
+            "C",
+            0.7744954128440367,
+            0.5046788990825688,
+            0.7864220183486238,
+            0.5037614678899083,
+            0.7964220183486239,
+            0.5037614678899083
+        ],
+        [
+            "M",
+            0.4585321100917431,
+            0.5155963302752293,
+            "c",
+            0.0007339449541284404,
+            0.0077981651376146785,
+            0.002018348623853211,
+            0.020458715596330276,
+            -0.001559633027522936,
+            0.03155963302752293,
+            "c",
+            -0.033211009174311926,
+            0.10220183486238532,
+            -0.07963302752293577,
+            0.21541284403669725,
+            -0.14192660550458716,
+            0.2753211009174312
+        ],
+        [
+            "M",
+            0.4260550458715596,
+            0.6498165137614679,
+            "c",
+            0.028165137614678898,
+            0.0014678899082568807,
+            0.14504587155963303,
+            0.08981651376146788,
+            0.31477064220183487,
+            0.15678899082568806,
+            "c",
+            0.030917431192660553,
+            0.012201834862385321,
+            0.05495412844036698,
+            0.01798165137614679,
+            0.09311926605504588,
+            0.02596330275229358
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. promotion; acceleration; encouragement; facilitation; spurring on "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. promotion; acceleration; encouragement; facilitation; spurring on "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "促",
+                    "うなが"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to urge; to encourage; to press; to prompt; to draw (attention to) 彼は彼女に注意して運転するようにと促した。He urged her to drive carefully."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to stimulate (e.g. growth); to hasten (e.g. development); to quicken; to accelerate; to promote "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to urge; to encourage; to press; to prompt; to draw (attention to) 彼は彼女に注意して運転するようにと促した。He urged her to drive carefully."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to stimulate (e.g. growth); to hasten (e.g. development); to quicken; to accelerate; to promote "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "注意",
+                            "ちゅうい"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "運転",
+                            "うんてん"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "ように",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "促した",
+                            "うなが"
+                        ]
+                    ],
+                    "translation": "He urged her to drive carefully."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "音",
+                    "おん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. geminate consonant (small \"tsu\" in Japanese) Linguistics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sokuon kana gojūon wa ra ya ma ha na ta sa ka a wi ri mi hi ni c... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. geminate consonant (small \"tsu\" in Japanese) Linguistics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sokuon kana gojūon wa ra ya ma ha na ta sa ka a wi ri mi hi ni c... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "成",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. promotion of growth "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. promotion of growth "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "迫",
+                    "はく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. growing urgent; becoming distressful "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. growing urgent; becoming distressful "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "音",
+                    "おん"
+                ],
+                [
+                    "便",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. nasal sound change (generation of geminate consonant, primarily a geminate 't' from vowel stems ending in 'i') Linguistics, See also 撥音便"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. accelerant; stimulant "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "成",
+                    "せい"
+                ],
+                [
+                    "栽",
+                    "さい"
+                ],
+                [
+                    "培",
+                    "ばい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. forcing (plants, vegetables, etc.); artificially hastening the growth of plants (by controlling heat, light, etc.) "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. forcing (plants, vegetables, etc.); artificially hastening the growth of plants (by controlling heat, light, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "率",
+                    "りつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. acceleration ratio "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "催",
+                    "さい"
+                ],
+                [
+                    "促",
+                    "そく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. pressing; urging; demanding; demand "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "販",
+                    "はん"
+                ],
+                [
+                    "売",
+                    "ばい"
+                ],
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sales promotion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "齷",
+                    "あく"
+                ],
+                [
+                    "齪",
+                    "せく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Adverb taking the 'to' particle, Suru verb",
+                    "meaning": "1. busily; sedulously; laboriously; feverishly; fussily; worrying (about little things) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "齷齪 【あくさく】、あく促 【あくせく】、あく促 【あくさく】、偓促 【あくせく】、偓促 【あくさく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "あくさく: Out-dated or obsolete kana usage. あくさく: Out-dated or obsolete kana usage. 偓促: Out-dated kanji or kanji usage. あくさく: Out-dated or obsolete kana usage. 偓促: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "販",
+                    "はん"
+                ],
+                [
+                    "促",
+                    "そく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sales promotion Abbreviation, See also 販売促進 はんばいそくしん"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "督",
+                    "とく"
+                ],
+                [
+                    "促",
+                    "そく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. urge; demand; importunity "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "にっぽんこくさいぼうえきそくしんきょうかい"
+                ],
+                [
+                    "本",
+                    null
+                ],
+                [
+                    "国",
+                    null
+                ],
+                [
+                    "際",
+                    null
+                ],
+                [
+                    "貿",
+                    null
+                ],
+                [
+                    "易",
+                    null
+                ],
+                [
+                    "促",
+                    null
+                ],
+                [
+                    "進",
+                    null
+                ],
+                [
+                    "協",
+                    null
+                ],
+                [
+                    "会",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Association for the Promotion of International Trade, Japan Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Association for the Promotion of International Trade, Japan "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "国",
+                    "こく"
+                ],
+                [
+                    "際",
+                    "さい"
+                ],
+                [
+                    "教",
+                    "きょう"
+                ],
+                [
+                    "育",
+                    "いく"
+                ],
+                [
+                    "交",
+                    "こう"
+                ],
+                [
+                    "流",
+                    "りゅう"
+                ],
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "協",
+                    "きょう"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Association of International Educational Exchange; AiEE Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Association of International Educational Exchange; AiEE "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "雇",
+                    "こ"
+                ],
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "業",
+                    "ぎょう"
+                ],
+                [
+                    "団",
+                    "だん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Employment Promotion Corporation Company name"
+                },
+                {
+                    "type": "Company",
+                    "meaning": "2. Employment Promotion Corporation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "居",
+                    "い"
+                ],
+                [
+                    "催",
+                    "ざい"
+                ],
+                [
+                    "促",
+                    "そく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. refusal to leave "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勤",
+                    "きん"
+                ],
+                [
+                    "労",
+                    "ろう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ],
+                [
+                    "財",
+                    "ざい"
+                ],
+                [
+                    "産",
+                    "さん"
+                ],
+                [
+                    "形",
+                    "けい"
+                ],
+                [
+                    "成",
+                    "せい"
+                ],
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (workers) asset formation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "成",
+                    "せい"
+                ],
+                [
+                    "長",
+                    "ちょう"
+                ],
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. growth promotant "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ],
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. prompt Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "要",
+                    "よう"
+                ],
+                [
+                    "督",
+                    "とく"
+                ],
+                [
+                    "促",
+                    "そく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. necessary reminder "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "矢",
+                    "や"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "催",
+                    "さい"
+                ],
+                [
+                    "促",
+                    "そく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. strongly and repeatedly urging (demanding, requesting, pressing) "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

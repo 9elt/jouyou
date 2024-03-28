@@ -1,0 +1,1758 @@
+{
+    "kanji": "表",
+    "grade": 3,
+    "jlpt": 3,
+    "meanings": [
+        "surface",
+        "table",
+        "chart",
+        "diagram"
+    ],
+    "kun": [
+        "おもて",
+        "-おもて",
+        "あらわ.す",
+        "あらわ.れる",
+        "あら.わす"
+    ],
+    "on": [
+        "ヒョウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.27522935779816515,
+            0.21926605504587154,
+            "c",
+            0.027522935779816515,
+            0.004311926605504587,
+            0.05513761467889908,
+            0.0010091743119266055,
+            0.08036697247706422,
+            -0.002018348623853211,
+            "c",
+            0.07724770642201835,
+            -0.009357798165137614,
+            0.20807339449541284,
+            -0.024678899082568807,
+            0.29009174311926605,
+            -0.031009174311926603,
+            "c",
+            0.0263302752293578,
+            -0.002018348623853211,
+            0.05302752293577982,
+            -0.005045871559633028,
+            0.07908256880733944,
+            0.0006422018348623854
+        ],
+        [
+            "M",
+            0.48045871559633024,
+            0.08944954128440367,
+            "c",
+            0.01,
+            0.0045871559633027525,
+            0.015963302752293577,
+            0.020642201834862386,
+            0.01798165137614679,
+            0.02981651376146789,
+            "c",
+            0.002018348623853211,
+            0.009174311926605505,
+            0.0045871559633027525,
+            0.25,
+            0.0025688073394495416,
+            0.3073394495412844
+        ],
+        [
+            "M",
+            0.2958715596330275,
+            0.32697247706422017,
+            "c",
+            0.02981651376146789,
+            0.0033027522935779813,
+            0.050733944954128446,
+            0.0014678899082568807,
+            0.07339449541284404,
+            -0.0011926605504587156,
+            "c",
+            0.06935779816513761,
+            -0.00834862385321101,
+            0.19550458715596328,
+            -0.023761467889908256,
+            0.27293577981651373,
+            -0.03238532110091743,
+            "c",
+            0.027522935779816515,
+            -0.003027522935779817,
+            0.05504587155963303,
+            -0.005504587155963302,
+            0.08027522935779817,
+            -0.001926605504587156
+        ],
+        [
+            "M",
+            0.14908256880733944,
+            0.45596330275229363,
+            "c",
+            0.033211009174311926,
+            0.006238532110091744,
+            0.06880733944954129,
+            0.003577981651376147,
+            0.1010091743119266,
+            0.0001834862385321101,
+            "c",
+            0.11981651376146789,
+            -0.012477064220183487,
+            0.35899082568807344,
+            -0.039174311926605504,
+            0.499908256880734,
+            -0.04935779816513761,
+            "c",
+            0.03339449541284404,
+            -0.0023853211009174312,
+            0.06568807339449541,
+            -0.005229357798165137,
+            0.09862385321100918,
+            0.001834862385321101
+        ],
+        [
+            "M",
+            0.41027522935779814,
+            0.47376146788990825,
+            "c",
+            0.0008256880733944953,
+            0.007522935779816513,
+            -0.0014678899082568807,
+            0.02128440366972477,
+            -0.008532110091743119,
+            0.03018348623853211,
+            "C",
+            0.33761467889908253,
+            0.5854128440366972,
+            0.2600917431192661,
+            0.6643119266055045,
+            0.12155963302752294,
+            0.7385321100917431
+        ],
+        [
+            "M",
+            0.3440366972477064,
+            0.6032110091743119,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.011467889908256881,
+            0.01724770642201835,
+            0.011467889908256881,
+            0.027522935779816515,
+            "c",
+            0,
+            0.1111926605504587,
+            -0.0006422018348623854,
+            0.1808256880733945,
+            -0.0006422018348623854,
+            0.20357798165137617,
+            "c",
+            0,
+            0.01834862385321101,
+            0.013119266055045872,
+            0.02651376146788991,
+            0.02688073394495413,
+            0.01275229357798165,
+            "s",
+            0.12477064220183486,
+            -0.11091743119266055,
+            0.14311926605504588,
+            -0.12467889908256881
+        ],
+        [
+            "M",
+            0.7087155963302753,
+            0.47834862385321103,
+            "c",
+            0.0011009174311926604,
+            0.008990825688073394,
+            -0.0016513761467889907,
+            0.018807339449541282,
+            -0.0045871559633027525,
+            0.023944954128440367,
+            "c",
+            -0.01834862385321101,
+            0.03211009174311927,
+            -0.045871559633027525,
+            0.05963302752293578,
+            -0.10550458715596331,
+            0.10321100917431193
+        ],
+        [
+            "M",
+            0.46559633027522934,
+            0.5573394495412844,
+            "C",
+            0.5,
+            0.5596330275229358,
+            0.6968807339449541,
+            0.7231192660550458,
+            0.7811009174311927,
+            0.7877064220183486,
+            "c",
+            0.025596330275229357,
+            0.019633027522935782,
+            0.049174311926605506,
+            0.0344954128440367,
+            0.07788990825688073,
+            0.0436697247706422
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "表",
+                    "おもて"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. surface Antonym: 裏"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. face (i.e. the visible side of an object) この紙はどちらが表だか見分けがつかない。I cannot tell which is the right side of this paper."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. front (of a building, etc.); obverse side (i.e. \"head\") of a coin 私はその問題がわかっていない。裏と表の区別もついていない。I don't understand the problem; I could make neither head nor tail of it."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. outside; exterior 一体何が今晩表であんなひどい音をたてているのか見当もつきません。I don't know what kind of creature is making such a terrible noise outside tonight."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. appearance "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. public 内面の欠点は必ず表に現れる。An inner defect never fails to express itself outwardly."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. first half (of an inning); top (of an inning) Baseball, Antonym: 裏 うら"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. cover (for tatami mats, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. foreground Computing"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. Omotesenke school of tea ceremony Abbreviation, See also 表千家"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. table; chart; list "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. memorial to an emperor "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. surface Antonym: 裏"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. face (i.e. the visible side of an object) この紙はどちらが表だか見分けがつかない。I cannot tell which is the right side of this paper."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. front (of a building, etc.); obverse side (i.e. \"head\") of a coin 私はその問題がわかっていない。裏と表の区別もついていない。I don't understand the problem; I could make neither head nor tail of it."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. outside; exterior 一体何が今晩表であんなひどい音をたてているのか見当もつきません。I don't know what kind of creature is making such a terrible noise outside tonight."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. appearance "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. public 内面の欠点は必ず表に現れる。An inner defect never fails to express itself outwardly."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. first half (of an inning); top (of an inning) Baseball, Antonym: 裏 うら"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. cover (for tatami mats, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. foreground Computing"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. Omotesenke school of tea ceremony Abbreviation, See also 表千家"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. table; chart; list "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. memorial to an emperor "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "紙",
+                            "かみ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "どちら",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "表",
+                            "おもて"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "見分けがつかない",
+                            "みわ"
+                        ]
+                    ],
+                    "translation": "I cannot tell which is the right side of this paper."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "問題",
+                            "もんだい"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "わかっていない",
+                            null
+                        ],
+                        [
+                            "裏",
+                            "うら"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "表",
+                            "おもて"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "区別",
+                            "くべつ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "ついていない",
+                            null
+                        ]
+                    ],
+                    "translation": "I don't understand the problem; I could make neither head nor tail of it."
+                },
+                {
+                    "sentence": [
+                        [
+                            "一体",
+                            "いったい"
+                        ],
+                        [
+                            "何",
+                            "なに"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "今晩",
+                            "こんばん"
+                        ],
+                        [
+                            "表",
+                            "おもて"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "あんな",
+                            null
+                        ],
+                        [
+                            "ひどい",
+                            null
+                        ],
+                        [
+                            "音をたてている",
+                            "おとをたて"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "見当もつきません",
+                            "けんとう"
+                        ]
+                    ],
+                    "translation": "I don't know what kind of creature is making such a terrible noise outside tonight."
+                },
+                {
+                    "sentence": [
+                        [
+                            "内面",
+                            "ないめん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "欠点",
+                            "けってん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "必ず",
+                            "かなら"
+                        ],
+                        [
+                            "表",
+                            "おもて"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "現れる",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "An inner defect never fails to express itself outwardly."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "情",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. facial expression; countenance "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. look; appearance; expression (vocal, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Facial expression A facial expression is one or more motions or positions o... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. facial expression; countenance "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. look; appearance; expression (vocal, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Facial expression A facial expression is one or more motions or positions o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "うわ"
+                ],
+                [
+                    "着",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coat; jacket; outerwear "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. top; upper-body garment "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上衣 【うわぎ】、表着 【うわぎ】、上衣 【じょうい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "表着: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. coat; jacket; outerwear "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. top; upper-body garment "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上衣 【うわぎ】、表着 【うわぎ】、上衣 【じょうい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "表着: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "紙",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cover (of a book, magazine, etc.); binding "
+                },
+                {
+                    "type": "Suru verb, Intransitive verb",
+                    "meaning": "2. to appear on the cover of a magazine Slang"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Book cover A book cover is any protective covering used to bind toge... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. cover (of a book, magazine, etc.); binding "
+                },
+                {
+                    "type": "Suru verb, Intransitive verb",
+                    "meaning": "2. to appear on the cover of a magazine Slang"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Book cover A book cover is any protective covering used to bind toge... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "現",
+                    "あらわ"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to appear; to come in sight; to become visible; to come out; to embody; to materialize; to materialise ２０人の警官が現場に現れた。Twenty police have arrived on the scene."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be expressed (e.g. emotions); to become apparent (e.g. trends, effects) その薬の効きめが現れた。The medicine took effect."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "現われる 【あらわれる】、表れる 【あらわれる】、表われる 【あらわれる】、顕れる 【あらわれる】、顕われる 【あらわれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "顕われる: Irregular okurigana usage."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to appear; to come in sight; to become visible; to come out; to embody; to materialize; to materialise ２０人の警官が現場に現れた。Twenty police have arrived on the scene."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be expressed (e.g. emotions); to become apparent (e.g. trends, effects) その薬の効きめが現れた。The medicine took effect."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "現われる 【あらわれる】、表れる 【あらわれる】、表われる 【あらわれる】、顕れる 【あらわれる】、顕われる 【あらわれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "顕われる: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "人",
+                            "にん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "警官",
+                            "けいかん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "現場",
+                            "げんば"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "現れた",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "Twenty police have arrived on the scene."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "薬",
+                            "くすり"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "効きめ",
+                            "き"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "現れた",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "The medicine took effect."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "現",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. expression; representation; description 「潮時というものがある」という表現は実はシェイクスピアの「ジュリアス・シーザー」にある表現である。\"There is a tide\" is, in fact, from a passage in Shakespeare's Julius Caesar."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. representation (of a group) Mathematics"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. expression; representation; description 「潮時というものがある」という表現は実はシェイクスピアの「ジュリアス・シーザー」にある表現である。\"There is a tide\" is, in fact, from a passage in Shakespeare's Julius Caesar."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. representation (of a group) Mathematics"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "潮時",
+                            "しおどき"
+                        ],
+                        [
+                            "というもの",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "という",
+                            null
+                        ],
+                        [
+                            "表現",
+                            "ひょうげん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "実は",
+                            "じつ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "表現",
+                            "ひょうげん"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "\"There is a tide\" is, in fact, from a passage in Shakespeare's Julius Caesar."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "面",
+                    "めん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. surface; face "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. outside; exterior "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. appearances; superficiality "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. surface; face "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. outside; exterior "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. appearances; superficiality "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "現",
+                    "あらわ"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. embodiment; manifestation; materialization; materialisation; expression; indication "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "表れ 【あらわれ】、現われ 【あらわれ】、表われ 【あらわれ】、顕れ 【あらわれ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. embodiment; manifestation; materialization; materialisation; expression; indication "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "表れ 【あらわれ】、現われ 【あらわれ】、表われ 【あらわれ】、顕れ 【あらわれ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "あらわ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to represent; to signify; to stand for esp. 表す, 表わす＆のマークはａｎｄの文字を表す。The sign \"&\" stands for \"and\"."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to reveal; to show; to display esp. 現す, 現わすご自分の栄光を現された。He thus revealed his glory."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to express See also 言い表す, esp. 表す, 表わすあなたのご親切に対し深く感謝の意を表します。I wish to express my deep appreciation for your kindness."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to make widely known esp. 顕す"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "現す 【あらわす】、表わす 【あらわす】、現わす 【あらわす】、顕す 【あらわす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to represent; to signify; to stand for esp. 表す, 表わす＆のマークはａｎｄの文字を表す。The sign \"&\" stands for \"and\"."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to reveal; to show; to display esp. 現す, 現わすご自分の栄光を現された。He thus revealed his glory."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to express See also 言い表す, esp. 表す, 表わすあなたのご親切に対し深く感謝の意を表します。I wish to express my deep appreciation for your kindness."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to make widely known esp. 顕す"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "現す 【あらわす】、表わす 【あらわす】、現わす 【あらわす】、顕す 【あらわす】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "マーク",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "文字",
+                            "もじ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "表す",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "The sign \"&\" stands for \"and\"."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ご",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "栄光",
+                            "えいこう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "現された",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "He thus revealed his glory."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ご",
+                            null
+                        ],
+                        [
+                            "親切",
+                            "しんせつ"
+                        ],
+                        [
+                            "に対し",
+                            "にたい"
+                        ],
+                        [
+                            "深く",
+                            "ふか"
+                        ],
+                        [
+                            "感謝",
+                            "かんしゃ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "意",
+                            "い"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "表します",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "I wish to express my deep appreciation for your kindness."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "明",
+                    "めい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. declaration; indication; representation; manifestation; demonstration; expression; announcement; assertion "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Assertion (computing) In computer programming, an assertion is a predicate (for... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. declaration; indication; representation; manifestation; demonstration; expression; announcement; assertion "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Assertion (computing) In computer programming, an assertion is a predicate (for... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "示",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. indication; expression; showing; manifestation; demonstration "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. display; displaying Computing"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. representation Physics"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "4. (copyright) attribution Law"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "標示 【ひょうじ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "標示: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. indication; expression; showing; manifestation; demonstration "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. display; displaying Computing"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. representation Physics"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "4. (copyright) attribution Law"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "標示 【ひょうじ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "標示: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "記",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. expression in writing; written representation; notation; transcription; orthography "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. writing on the surface (e.g. an address on an envelope); inscribing on the face "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "裏",
+                    "り"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. front and back; inside and outside; two sides; both sides ベストを裏返さなくちゃ。表裏逆ですよ。You need to reverse your vest. It's inside-out!"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. duplicity; double-dealing; being two-faced Only applies to ひょうり彼の言葉には表裏がない。He is sincere in what he says."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "表裏 【おもてうら】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. front and back; inside and outside; two sides; both sides ベストを裏返さなくちゃ。表裏逆ですよ。You need to reverse your vest. It's inside-out!"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. duplicity; double-dealing; being two-faced Only applies to ひょうり彼の言葉には表裏がない。He is sincere in what he says."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "表裏 【おもてうら】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ベスト",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "裏返さなくちゃ",
+                            "うらがえ"
+                        ],
+                        [
+                            "表裏",
+                            "ひょうり"
+                        ],
+                        [
+                            "逆",
+                            "ぎゃく"
+                        ],
+                        [
+                            "です",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "You need to reverse your vest. It's inside-out!"
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "言葉",
+                            "ことば"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "表裏",
+                            "ひょうり"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ない",
+                            null
+                        ]
+                    ],
+                    "translation": "He is sincere in what he says."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "1. to express; to show Formal or literary term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "おもて"
+                ],
+                [
+                    "向",
+                    "む"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. outward appearance; ostensible; public; official Antonym: 裏向き"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "おもて"
+                ],
+                [
+                    "通",
+                    "どお"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. main street (as opposed to a side street); high street See also 裏通り"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "表通 【おもてどおり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "表通: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "象",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. symbol (of); emblem "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. (mental) image; representation; idea Psychology, Philosophy"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "面",
+                    "めん"
+                ],
+                [
+                    "積",
+                    "せき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. surface area "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "面",
+                    "めん"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. superficial; apparent; seeming; surface; cosmetic "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "表",
+                "うえ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Ue "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Uwa "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "表",
+                "おもて"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place, Family or surname, Given name, gender not specified",
+                    "meaning": "1. Omote "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "時",
+                    "じ"
+                ],
+                [
+                    "刻",
+                    "こく"
+                ],
+                [
+                    "表",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. timetable; schedule "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Public transport timetable A public transport timetable (also timetable and North Am... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "発",
+                    "はっ"
+                ],
+                [
+                    "表",
+                    "ぴょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. announcement; publication; presenting; statement; communique; making known; breaking (news story); expressing (one's opinion); releasing; unveiling "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "代",
+                    "だい"
+                ],
+                [
+                    "表",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. representation; representative; delegate; delegation 級友を代表してお礼の言葉を述べさしていただきます。On behalf of my classmates, let me say a few words of thanks to you."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. exemplification; typification; being representative of; being typical of; representative example; exemplar; model モネの芸術は印象派を代表している。Monet's art is representative of Impressionism."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. leader "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. switchboard number; main number Abbreviation, See also 代表番号"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "級友",
+                            "きゅうゆう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "代表",
+                            "だいひょう"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "お礼",
+                            "おれい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "言葉",
+                            "ことば"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "述べさして",
+                            "の"
+                        ],
+                        [
+                            "いただきます",
+                            null
+                        ]
+                    ],
+                    "translation": "On behalf of my classmates, let me say a few words of thanks to you."
+                },
+                {
+                    "sentence": [
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "芸術",
+                            "げいじゅつ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "印象派",
+                            "いんしょうは"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "代表",
+                            "だいひょう"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "Monet's art is representative of Impressionism."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "公",
+                    "こう"
+                ],
+                [
+                    "表",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. official announcement; proclamation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "図",
+                    "ず"
+                ],
+                [
+                    "表",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. chart; diagram; graph; figure "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "辞",
+                    "じ"
+                ],
+                [
+                    "表",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. letter of resignation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "表",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. surface of the earth; ground surface "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

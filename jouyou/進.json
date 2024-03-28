@@ -1,0 +1,1494 @@
+{
+    "kanji": "進",
+    "grade": 3,
+    "jlpt": 3,
+    "meanings": [
+        "advance",
+        "proceed",
+        "progress",
+        "promote"
+    ],
+    "kun": [
+        "すす.む",
+        "すす.める"
+    ],
+    "on": [
+        "シン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.5003669724770642,
+            0.13073394495412843,
+            "c",
+            0.0014678899082568807,
+            0.013577981651376147,
+            -0.0003669724770642202,
+            0.031376146788990825,
+            -0.005137614678899083,
+            0.04302752293577982,
+            "c",
+            -0.03036697247706422,
+            0.07412844036697248,
+            -0.06880733944954129,
+            0.1369724770642202,
+            -0.13825688073394496,
+            0.2271559633027523
+        ],
+        [
+            "M",
+            0.441651376146789,
+            0.2906422018348624,
+            "c",
+            0.007155963302752294,
+            0.007155963302752294,
+            0.01110091743119266,
+            0.015504587155963302,
+            0.01110091743119266,
+            0.024678899082568807,
+            "c",
+            0,
+            0.09642201834862385,
+            0.0003669724770642202,
+            0.2724770642201835,
+            0.0001834862385321101,
+            0.3693577981651376,
+            "c",
+            0,
+            0.019541284403669725,
+            -0.00009174311926605505,
+            0.03504587155963303,
+            -0.00009174311926605505,
+            0.04477064220183486
+        ],
+        [
+            "M",
+            0.6868807339449542,
+            0.12844036697247707,
+            "c",
+            0.0006422018348623854,
+            0.006788990825688073,
+            -0.0001834862385321101,
+            0.015688073394495412,
+            -0.002201834862385321,
+            0.021559633027522937,
+            "c",
+            -0.013119266055045872,
+            0.03715596330275229,
+            -0.022935779816513763,
+            0.058990825688073394,
+            -0.052935779816513755,
+            0.10431192660550458
+        ],
+        [
+            "M",
+            0.4565137614678899,
+            0.3052293577981652,
+            "c",
+            0.06174311926605505,
+            -0.007155963302752294,
+            0.22348623853211008,
+            -0.02908256880733945,
+            0.3062385321100918,
+            -0.03743119266055046,
+            "c",
+            0.021192660550458715,
+            -0.0021100917431192663,
+            0.03724770642201834,
+            -0.0032110091743119264,
+            0.04504587155963303,
+            -0.002752293577981651
+        ],
+        [
+            "M",
+            0.6341284403669725,
+            0.30880733944954125,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.01128440366972477,
+            0.019174311926605504,
+            0.01128440366972477,
+            0.032844036697247704,
+            "c",
+            0,
+            0.062018348623853206,
+            -0.001834862385321101,
+            0.21568807339449542,
+            -0.001834862385321101,
+            0.30376146788990827
+        ],
+        [
+            "M",
+            0.456605504587156,
+            0.42293577981651376,
+            "c",
+            0.05834862385321101,
+            -0.005963302752293578,
+            0.20972477064220182,
+            -0.02614678899082569,
+            0.28073394495412846,
+            -0.0326605504587156,
+            "c",
+            0.01871559633027523,
+            -0.0017431192660550458,
+            0.03211009174311927,
+            -0.0037614678899082566,
+            0.04568807339449542,
+            -0.0005504587155963302
+        ],
+        [
+            "M",
+            0.46376146788990824,
+            0.5373394495412844,
+            "c",
+            0.06348623853211009,
+            -0.005137614678899083,
+            0.21522935779816516,
+            -0.023211009174311924,
+            0.28834862385321103,
+            -0.028440366972477066,
+            "c",
+            0.014678899082568808,
+            -0.0010091743119266055,
+            0.031376146788990825,
+            -0.0016513761467889907,
+            0.0389908256880734,
+            -0.0009174311926605505
+        ],
+        [
+            "M",
+            0.46256880733944955,
+            0.6707339449541284,
+            "c",
+            0.06256880733944954,
+            -0.007247706422018349,
+            0.24376146788990827,
+            -0.022752293577981652,
+            0.3321100917431193,
+            -0.027981651376146787,
+            "c",
+            0.02128440366972477,
+            -0.0012844036697247708,
+            0.03715596330275229,
+            -0.0016513761467889907,
+            0.04477064220183486,
+            -0.0008256880733944953
+        ],
+        [
+            "M",
+            0.18697247706422018,
+            0.1720183486238532,
+            "c",
+            0.035229357798165134,
+            0.01724770642201835,
+            0.09100917431192661,
+            0.07073394495412844,
+            0.0998165137614679,
+            0.09752293577981652
+        ],
+        [
+            "M",
+            0.12155963302752294,
+            0.463302752293578,
+            "C",
+            0.14220183486238533,
+            0.4724770642201835,
+            0.1559633027522936,
+            0.46788990825688076,
+            0.1651376146788991,
+            0.46559633027522934,
+            "s",
+            0.07128440366972477,
+            -0.024678899082568807,
+            0.08486238532110092,
+            -0.02981651376146789,
+            "c",
+            0.03669724770642202,
+            -0.013761467889908258,
+            0.04715596330275229,
+            -0.004036697247706422,
+            0.022935779816513763,
+            0.04128440366972477,
+            "C",
+            0.21908256880733945,
+            0.5779816513761468,
+            0.22018348623853212,
+            0.5493577981651376,
+            0.2798165137614679,
+            0.6238532110091743,
+            "c",
+            0.015229357798165137,
+            0.01908256880733945,
+            0.013761467889908258,
+            0.027522935779816515,
+            -0.009174311926605505,
+            0.05045871559633028,
+            "c",
+            -0.012660550458715595,
+            0.012660550458715595,
+            -0.07339449541284404,
+            0.06880733944954129,
+            -0.0871559633027523,
+            0.07339449541284404
+        ],
+        [
+            "M",
+            0.13990825688073394,
+            0.7660550458715596,
+            "c",
+            0.027522935779816515,
+            -0.0045871559633027525,
+            0.0818348623853211,
+            -0.012018348623853212,
+            0.12385321100917432,
+            -0.006880733944954129,
+            "c",
+            0.08486238532110092,
+            0.010275229357798166,
+            0.2758715596330275,
+            0.07073394495412844,
+            0.3165137614678899,
+            0.08256880733944955,
+            "c",
+            0.11009174311926606,
+            0.03211009174311927,
+            0.1651376146788991,
+            0.03669724770642202,
+            0.24770642201834864,
+            0.027522935779816515
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "歩",
+                    "ぽ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. progress; advance; improvement; development Antonym: 退歩"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Progress (history) In historiography and the philosophy of history, progress... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. progress; advance; improvement; development Antonym: 退歩"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Progress (history) In historiography and the philosophy of history, progress... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "すす"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to advance; to go forward "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to precede; to go ahead (of) "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "3. to make progress; to improve "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "4. to deepen; to heighten "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "5. to be fast (of a clock); to be ahead "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "6. to do of one's own free will See also 進んで"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to advance; to go forward "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to precede; to go ahead (of) "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "3. to make progress; to improve "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "4. to deepen; to heighten "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "5. to be fast (of a clock); to be ahead "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "6. to do of one's own free will See also 進んで"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "化",
+                    "か"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. evolution Biology"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. evolution; becoming more advanced; progress; development; improvement Antonym: 退化"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Evolution Evolution is any change across successive generations in ... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. evolution Biology"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. evolution; becoming more advanced; progress; development; improvement Antonym: 退化"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Evolution Evolution is any change across successive generations in ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. advancing to the next stage of education; going on to (high school, college, etc.) "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. advancing to the next stage of education; going on to (high school, college, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "すす"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to advance; to move forward; to put (a clock, watch) forward ナポレオンは軍隊をロシアに進めた。Napoleon marched his armies into Russia."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to carry forward (plans, work, etc.); to proceed with; to make progress in; to further; to advance; to hasten; to speed up その計画は進められている。The project is underway."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to raise; to elevate; to promote; to develop; to stimulate (e.g. one's appetite) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to advance; to move forward; to put (a clock, watch) forward ナポレオンは軍隊をロシアに進めた。Napoleon marched his armies into Russia."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to carry forward (plans, work, etc.); to proceed with; to make progress in; to further; to advance; to hasten; to speed up その計画は進められている。The project is underway."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to raise; to elevate; to promote; to develop; to stimulate (e.g. one's appetite) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ナポレオン",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "軍隊",
+                            "ぐんたい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "ロシア",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "進めた",
+                            "すす"
+                        ]
+                    ],
+                    "translation": "Napoleon marched his armies into Russia."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "計画",
+                            "けいかく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "進められている",
+                            "すすめ"
+                        ]
+                    ],
+                    "translation": "The project is underway."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "行",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. moving forward (e.g. of a vehicle); onward movement "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. progress (of work, activities, etc.); advance; making headway その仕事は現在進行しています。The work is now in progress."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. progression (of a disease, global warming, etc.) このころ、病気の進行は遅くなった。About this time, the disease slowed."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. progression (e.g. chord progression) Music"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. moving forward (e.g. of a vehicle); onward movement "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. progress (of work, activities, etc.); advance; making headway その仕事は現在進行しています。The work is now in progress."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. progression (of a disease, global warming, etc.) このころ、病気の進行は遅くなった。About this time, the disease slowed."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. progression (e.g. chord progression) Music"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "現在",
+                            "げんざい"
+                        ],
+                        [
+                            "進行",
+                            "しんこう"
+                        ],
+                        [
+                            "しています",
+                            null
+                        ]
+                    ],
+                    "translation": "The work is now in progress."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "ころ",
+                            null
+                        ],
+                        [
+                            "病気の",
+                            "びょうき"
+                        ],
+                        [
+                            "進行",
+                            "しんこう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "遅く",
+                            "おそ"
+                        ],
+                        [
+                            "なった",
+                            null
+                        ]
+                    ],
+                    "translation": "About this time, the disease slowed."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "展",
+                    "てん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. progress; development "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. progress; development "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. route; course; path どの進路を選んでも危険が待ち受けている。Whichever way we choose will involve danger."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. one's future course (e.g. after graduating high school) 進路のことで先生に助言を求めた。I asked my teacher for advice on my future course."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. route; course; path どの進路を選んでも危険が待ち受けている。Whichever way we choose will involve danger."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. one's future course (e.g. after graduating high school) 進路のことで先生に助言を求めた。I asked my teacher for advice on my future course."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "どの",
+                            null
+                        ],
+                        [
+                            "進路",
+                            "しんろ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "選んで",
+                            "えら"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "危険",
+                            "きけん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "待ち受けている",
+                            "まちうけ"
+                        ]
+                    ],
+                    "translation": "Whichever way we choose will involve danger."
+                },
+                {
+                    "sentence": [
+                        [
+                            "進路",
+                            "しんろ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "先生",
+                            "せんせい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "助言",
+                            "じょげん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "求めた",
+                            "もと"
+                        ]
+                    ],
+                    "translation": "I asked my teacher for advice on my future course."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "出",
+                    "しゅつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. advance (into a new market, industry, etc.); expansion (into); launch (into); entering; making inroads (into) その会社は中国への進出を目指している。The company aims to branch out into China."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. advance (to the next round of a competition) Sports私達は決勝戦に進出した。We advanced to the finals."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. advance (into a new market, industry, etc.); expansion (into); launch (into); entering; making inroads (into) その会社は中国への進出を目指している。The company aims to branch out into China."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. advance (to the next round of a competition) Sports私達は決勝戦に進出した。We advanced to the finals."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "会社",
+                            "かいしゃ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "中国",
+                            "ちゅうごく"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "進出",
+                            "しんしゅつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "目指している",
+                            "めざ"
+                        ]
+                    ],
+                    "translation": "The company aims to branch out into China."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私達",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "決勝戦",
+                            "けっしょうせん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "進出",
+                            "しんしゅつ"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "We advanced to the finals."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "すす"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. progress "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. progress "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. advance; charge "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "入",
+                    "にゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. entry; approach; penetration "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "歩",
+                    "ぽ"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. progressive "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "化",
+                    "か"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. evolutionary theory; theory of evolution "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "取",
+                    "しゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. enterprising; go-ahead; progressive "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "水",
+                    "すい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. (ship's) launching "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "すす"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "出",
+                    "で"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to step forward; to volunteer "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "軍",
+                    "ぐん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. march; advance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. state of progress "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "形",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. progressive form Grammar"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. in progress; ongoing; underway See also 現在進行形"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Continuous and progressive aspects The continuous and progressive aspects (abbreviated CONT ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "進",
+                "しん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name, Family or surname",
+                    "meaning": "1. Shin "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Shinji "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "進",
+                "すすむ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname, Given name, gender not specified",
+                    "meaning": "1. Susumu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "前",
+                    "ぜん"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. advance; moving forward; progress Antonym: 後進, Antonym: 後退"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昇",
+                    "しょう"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. promotion; advancement; rising in rank "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昇進 【しょうじん】、陞進 【しょうしん】、陞進 【しょうじん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "しょうじん: Out-dated or obsolete kana usage. しょうじん: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "促",
+                    "そく"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. promotion; acceleration; encouragement; facilitation; spurring on "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. march; parade "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "増",
+                    "ぞう"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. promoting; increase; advance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "推",
+                    "すい"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. propulsion; drive "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. promotion (of a policy, project, movement, etc.); furtherance; advancement; pushing forward 法案通過を推進しているロビイストは、運動資金に賄賂の金をまぎれこませました。Lobbyists for the bill funneled bribes into a campaign fund."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "法案",
+                            "ほうあん"
+                        ],
+                        [
+                            "通過",
+                            "つうか"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "推進",
+                            "すいしん"
+                        ],
+                        [
+                            "している",
+                            null
+                        ],
+                        [
+                            "ロビイスト",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "運動",
+                            "うんどう"
+                        ],
+                        [
+                            "資金",
+                            "しきん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "賄賂",
+                            "わいろ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "金",
+                            "かね"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "まぎれこませました",
+                            null
+                        ]
+                    ],
+                    "translation": "Lobbyists for the bill funneled bribes into a campaign fund."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "国",
+                    "こく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. advanced (developed) country; advanced nations "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Developed country A developed country or \"more developed country\" (MDC), is... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "曲",
+                    "きょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. march Music"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. March (music) A march, as a musical genre, is a piece of music with a s... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. advanced; developed "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. seniority; senior; superior; elder Antonym: 後進"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "突",
+                    "とっ"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. rush; dash; charge "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

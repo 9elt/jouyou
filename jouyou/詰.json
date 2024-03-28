@@ -1,0 +1,2119 @@
+{
+    "kanji": "詰",
+    "grade": 10,
+    "jlpt": 2,
+    "meanings": [
+        "packed",
+        "close",
+        "pressed",
+        "reprove",
+        "rebuke",
+        "blame"
+    ],
+    "kun": [
+        "つ.める",
+        "つ.め",
+        "-づ.め",
+        "つ.まる",
+        "つ.む"
+    ],
+    "on": [
+        "キツ",
+        "キチ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2121100917431193,
+            0.13412844036697247,
+            "c",
+            0.026055045871559632,
+            0.014770642201834864,
+            0.06743119266055045,
+            0.06073394495412844,
+            0.07394495412844038,
+            0.08366972477064219
+        ],
+        [
+            "M",
+            0.09972477064220182,
+            0.3126605504587156,
+            "c",
+            0.016788990825688074,
+            0.005504587155963302,
+            0.040458715596330276,
+            0.0021100917431192663,
+            0.05752293577981651,
+            0.0009174311926605505,
+            "c",
+            0.07440366972477064,
+            -0.005137614678899083,
+            0.15293577981651377,
+            -0.020642201834862386,
+            0.2101834862385321,
+            -0.02743119266055046,
+            "c",
+            0.01073394495412844,
+            -0.0012844036697247708,
+            0.02706422018348624,
+            -0.0012844036697247708,
+            0.03247706422018349,
+            -0.0001834862385321101
+        ],
+        [
+            "M",
+            0.17137614678899082,
+            0.4363302752293578,
+            "c",
+            0.012385321100917432,
+            0.0034862385321100917,
+            0.028256880733944955,
+            0.0012844036697247708,
+            0.0408256880733945,
+            -0.0001834862385321101,
+            "C",
+            0.2545871559633027,
+            0.43119266055045874,
+            0.28073394495412846,
+            0.42550458715596334,
+            0.3201834862385321,
+            0.41743119266055045,
+            "c",
+            0.012385321100917432,
+            -0.0025688073394495416,
+            0.027522935779816515,
+            -0.004403669724770642,
+            0.040091743119266054,
+            -0.0022935779816513763
+        ],
+        [
+            "M",
+            0.17477064220183486,
+            0.5534862385321101,
+            "c",
+            0.01091743119266055,
+            0.0033027522935779813,
+            0.02614678899082569,
+            0.0013761467889908255,
+            0.03743119266055046,
+            0.0005504587155963302,
+            "c",
+            0.0336697247706422,
+            -0.0023853211009174312,
+            0.0746788990825688,
+            -0.011743119266055046,
+            0.11798165137614679,
+            -0.018073394495412842,
+            "c",
+            0.010642201834862385,
+            -0.001559633027522936,
+            0.02238532110091743,
+            -0.0014678899082568807,
+            0.03293577981651376,
+            0.0003669724770642202
+        ],
+        [
+            "M",
+            0.15834862385321102,
+            0.6694495412844037,
+            "c",
+            0.0081651376146789,
+            0.0076146788990825685,
+            0.009816513761467891,
+            0.02018348623853211,
+            0.011834862385321101,
+            0.03018348623853211,
+            "c",
+            0.0057798165137614675,
+            0.028990825688073395,
+            0.011559633027522935,
+            0.07183486238532111,
+            0.018990825688073393,
+            0.11201834862385322,
+            "c",
+            0.0028440366972477065,
+            0.015137614678899082,
+            0.005412844036697248,
+            0.02944954128440367,
+            0.0076146788990825685,
+            0.04174311926605504
+        ],
+        [
+            "M",
+            0.17275229357798164,
+            0.6795412844036697,
+            "c",
+            0.0544954128440367,
+            -0.006697247706422018,
+            0.11495412844036697,
+            -0.015321100917431192,
+            0.16678899082568807,
+            -0.022477064220183487,
+            "c",
+            0.02908256880733945,
+            -0.004036697247706422,
+            0.04137614678899083,
+            -0.0005504587155963302,
+            0.03495412844036697,
+            0.030091743119266053,
+            "c",
+            -0.006697247706422018,
+            0.03165137614678899,
+            -0.014770642201834864,
+            0.06669724770642202,
+            -0.027614678899082565,
+            0.11807339449541283
+        ],
+        [
+            "M",
+            0.2040366972477064,
+            0.8312844036697248,
+            "c",
+            0.036513761467889906,
+            -0.003669724770642202,
+            0.07642201834862386,
+            -0.00908256880733945,
+            0.12394495412844037,
+            -0.013761467889908258,
+            "c",
+            0.011467889908256881,
+            -0.0011009174311926604,
+            0.023211009174311924,
+            -0.0023853211009174312,
+            0.035321100917431195,
+            -0.0037614678899082566
+        ],
+        [
+            "M",
+            0.4379816513761468,
+            0.3287155963302752,
+            "c",
+            0.019541284403669725,
+            0.005045871559633028,
+            0.050091743119266056,
+            0.003669724770642202,
+            0.07009174311926605,
+            0.0009174311926605505,
+            "c",
+            0.08706422018348624,
+            -0.011926605504587157,
+            0.2121100917431193,
+            -0.02568807339449541,
+            0.30844036697247706,
+            -0.030458715596330274,
+            "c",
+            0.023394495412844035,
+            -0.0011009174311926604,
+            0.048532110091743116,
+            -0.0028440366972477065,
+            0.0710091743119266,
+            0.004036697247706422
+        ],
+        [
+            "M",
+            0.6328440366972478,
+            0.12165137614678899,
+            "c",
+            0.01036697247706422,
+            0.01036697247706422,
+            0.013853211009174311,
+            0.021743119266055048,
+            0.013853211009174311,
+            0.035688073394495416,
+            "c",
+            0,
+            0.05825688073394495,
+            0.00009174311926605505,
+            0.21422018348623856,
+            0.00009174311926605505,
+            0.3307339449541284
+        ],
+        [
+            "M",
+            0.47073394495412846,
+            0.5086238532110091,
+            "c",
+            0.016788990825688074,
+            0.005871559633027523,
+            0.03935779816513762,
+            0.004862385321100918,
+            0.05678899082568808,
+            0.003027522935779817,
+            "c",
+            0.0781651376146789,
+            -0.008073394495412844,
+            0.15917431192660553,
+            -0.017798165137614678,
+            0.26825688073394494,
+            -0.025596330275229357,
+            "c",
+            0.01834862385321101,
+            -0.0012844036697247708,
+            0.036788990825688074,
+            0.0006422018348623854,
+            0.05467889908256881,
+            0.004036697247706422
+        ],
+        [
+            "M",
+            0.4952293577981651,
+            0.6244036697247707,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.011559633027522935,
+            0.01926605504587156,
+            0.013577981651376147,
+            0.031743119266055046,
+            "c",
+            0.00834862385321101,
+            0.05146788990825688,
+            0.017339449541284403,
+            0.09990825688073394,
+            0.024403669724770642,
+            0.1555045871559633,
+            "c",
+            0.002477064220183486,
+            0.019357798165137614,
+            0.004678899082568807,
+            0.038073394495412846,
+            0.006605504587155963,
+            0.05504587155963303
+        ],
+        [
+            "M",
+            0.5153211009174312,
+            0.6410091743119266,
+            "c",
+            0.08302752293577982,
+            -0.01036697247706422,
+            0.19550458715596328,
+            -0.0218348623853211,
+            0.25761467889908257,
+            -0.028807339449541284,
+            "c",
+            0.03724770642201834,
+            -0.004220183486238533,
+            0.06165137614678899,
+            -0.0012844036697247708,
+            0.0536697247706422,
+            0.04293577981651376,
+            "c",
+            -0.008440366972477065,
+            0.04724770642201835,
+            -0.014678899082568808,
+            0.08568807339449541,
+            -0.03055045871559633,
+            0.16110091743119265
+        ],
+        [
+            "M",
+            0.5480733944954128,
+            0.8482568807339449,
+            "c",
+            0.06376146788990826,
+            -0.007339449541284404,
+            0.14137614678899083,
+            -0.015045871559633026,
+            0.22293577981651377,
+            -0.0218348623853211,
+            "c",
+            0.015412844036697248,
+            -0.0012844036697247708,
+            0.030825688073394496,
+            -0.0001834862385321101,
+            0.04623853211009174,
+            -0.0013761467889908255
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suffix",
+                    "meaning": "1. stuffing; packing づめ when a suffixどの電車も通勤者でぎゅうぎゅう詰めだった。The trains were jammed with commuters."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. end (esp. the foot of a bridge) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. lowest-ranking guest at tea ceremony "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. tea master "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. endgame (esp. in shogi or used figuratively) 最後の詰めを怠ったばかりに、画竜点睛を欠くはめになってしまったね。You kept putting off working on the fine details on this project so it ended up lacking the finishing touches."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. sweet eel sauce Abbreviation"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. middle-aged woman Archaic"
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "8. appointment to a particular workplace "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "9. using as the sole ground of judgement (judgment) "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "10. continuing; keep doing for period of time after the -masu stem of a verb我々はしゃべりづめで夜半まで起きていた。We sat up half the night just talking."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰め 【づめ】、詰 【つめ】、詰 【づめ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "どの",
+                            null
+                        ],
+                        [
+                            "電車",
+                            "でんしゃ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "通勤者",
+                            "つうきんしゃ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "ぎゅうぎゅう",
+                            null
+                        ],
+                        [
+                            "詰め",
+                            "つ"
+                        ],
+                        [
+                            "だった",
+                            null
+                        ]
+                    ],
+                    "translation": "The trains were jammed with commuters."
+                },
+                {
+                    "sentence": [
+                        [
+                            "最後",
+                            "さいご"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "詰め",
+                            "つ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "怠った",
+                            "おこた"
+                        ],
+                        [
+                            "ばかりに",
+                            null
+                        ],
+                        [
+                            "画竜点睛",
+                            "がりょうてんせい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "欠く",
+                            "か"
+                        ],
+                        [
+                            "はめ",
+                            null
+                        ],
+                        [
+                            "になって",
+                            null
+                        ],
+                        [
+                            "しまった",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "You kept putting off working on the fine details on this project so it ended up lacking the finishing touches."
+                },
+                {
+                    "sentence": [
+                        [
+                            "我々",
+                            "われわれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "しゃべり",
+                            null
+                        ],
+                        [
+                            "づめ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "夜半",
+                            "やはん"
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "起きていた",
+                            "お"
+                        ]
+                    ],
+                    "translation": "We sat up half the night just talking."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つま"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. dull; uninteresting; boring; tedious Usually written using kana aloneあの新しい映画は、つまらんかった。That new movie was a bummer."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. insignificant; unimportant; trifling; trivial; worthless Usually written using kana aloneあの男はよくつまらぬことで誰にでも因縁をつける。He often uses the slightest thing as a pretext for a fight with anybody."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. absurd; foolish; silly; stupid Usually written using kana alone"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "4. useless; pointless; disappointing Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰まらない 【つまらない】"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. dull; uninteresting; boring; tedious Usually written using kana aloneあの新しい映画は、つまらんかった。That new movie was a bummer."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. insignificant; unimportant; trifling; trivial; worthless Usually written using kana aloneあの男はよくつまらぬことで誰にでも因縁をつける。He often uses the slightest thing as a pretext for a fight with anybody."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. absurd; foolish; silly; stupid Usually written using kana alone"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "4. useless; pointless; disappointing Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰まらない 【つまらない】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あの",
+                            null
+                        ],
+                        [
+                            "新しい",
+                            "あたら"
+                        ],
+                        [
+                            "映画",
+                            "えいが"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "つまらんかった",
+                            null
+                        ]
+                    ],
+                    "translation": "That new movie was a bummer."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あの",
+                            null
+                        ],
+                        [
+                            "男",
+                            "おとこ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "よく",
+                            null
+                        ],
+                        [
+                            "つまらぬ",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "誰にでも",
+                            "だれ"
+                        ],
+                        [
+                            "因縁をつける",
+                            "いんねん"
+                        ]
+                    ],
+                    "translation": "He often uses the slightest thing as a pretext for a fight with anybody."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. that is to say; that is; in other words; I mean; that (this, it) means Usually written using kana alone"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. in short; in brief; to sum up; ultimately; in the end; in the long run; when all is said and done; what it all comes down to; when you get right down to it; basically Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. clogging; obstruction; stuffing; (degree of) blockage Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. shrinkage Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. end; conclusion Usually written using kana alone, See also とどのつまり"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. dead end; corner Usually written using kana alone, Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. distress; being at the end of one's rope Usually written using kana alone, Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰り 【つまり】"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. that is to say; that is; in other words; I mean; that (this, it) means Usually written using kana alone"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. in short; in brief; to sum up; ultimately; in the end; in the long run; when all is said and done; what it all comes down to; when you get right down to it; basically Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. clogging; obstruction; stuffing; (degree of) blockage Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. shrinkage Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. end; conclusion Usually written using kana alone, See also とどのつまり"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. dead end; corner Usually written using kana alone, Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. distress; being at the end of one's rope Usually written using kana alone, Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰り 【つまり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to stuff into; to jam; to cram; to pack; to fill; to plug; to stop up この穴を何かで詰めなくては。We've got to fill this hole with something."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. to shorten; to move closer together このブラウスをつめていただけますか。Could I have this blouse taken in, please?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to reduce (spending); to conserve "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb, Intransitive verb",
+                    "meaning": "4. to focus intently on; to strain oneself to do See also 根を詰める, usu. as 根を詰める"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to go through thoroughly; to work out (details); to bring to a conclusion; to wind up "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "6. to be on duty; to be stationed "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to corner (esp. an opponent's king in shogi); to trap; to checkmate "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to cut off (one's finger as an act of apology); to catch (one's finger in a door, etc.) See also 指を詰める, the meaning \"to catch one's finger\" is predominantly used in Kansai"
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "9. to do non-stop; to do continuously; to keep doing (without a break) "
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "10. to do completely; to do thoroughly "
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "11. to force someone into a difficult situation by ... "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to stuff into; to jam; to cram; to pack; to fill; to plug; to stop up この穴を何かで詰めなくては。We've got to fill this hole with something."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. to shorten; to move closer together このブラウスをつめていただけますか。Could I have this blouse taken in, please?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to reduce (spending); to conserve "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb, Intransitive verb",
+                    "meaning": "4. to focus intently on; to strain oneself to do See also 根を詰める, usu. as 根を詰める"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to go through thoroughly; to work out (details); to bring to a conclusion; to wind up "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "6. to be on duty; to be stationed "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to corner (esp. an opponent's king in shogi); to trap; to checkmate "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to cut off (one's finger as an act of apology); to catch (one's finger in a door, etc.) See also 指を詰める, the meaning \"to catch one's finger\" is predominantly used in Kansai"
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "9. to do non-stop; to do continuously; to keep doing (without a break) "
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "10. to do completely; to do thoroughly "
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "11. to force someone into a difficult situation by ... "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "穴",
+                            "あな"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "何か",
+                            "なに"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "詰めなくて",
+                            "つ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ]
+                    ],
+                    "translation": "We've got to fill this hole with something."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "ブラウス",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "つめて",
+                            null
+                        ],
+                        [
+                            "いただけます",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Could I have this blouse taken in, please?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be packed (with); to be full (space, schedule, etc.) のどが詰まった感じです。My throat feels clogged up."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be blocked (road, pipe, nose, etc.); to be clogged; to be plugged up See also 鼻が詰まる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to shorten (width, interval, etc.); to shrink (shirt, word form, etc.); to narrow "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to be at a loss; to be hard pressed See also 言葉に詰まる, See also 気の詰まる きのつまる, often in the form …につまる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to end up; to be settled See also 詰まる所 つまるところ"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to become a geminate consonant See also 促音 そくおん"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to hit the ball near the handle of the bat Baseball"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be packed (with); to be full (space, schedule, etc.) のどが詰まった感じです。My throat feels clogged up."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be blocked (road, pipe, nose, etc.); to be clogged; to be plugged up See also 鼻が詰まる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to shorten (width, interval, etc.); to shrink (shirt, word form, etc.); to narrow "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to be at a loss; to be hard pressed See also 言葉に詰まる, See also 気の詰まる きのつまる, often in the form …につまる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to end up; to be settled See also 詰まる所 つまるところ"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to become a geminate consonant See also 促音 そくおん"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to hit the ball near the handle of the bat Baseball"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "のど",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "詰まった",
+                            "つ"
+                        ],
+                        [
+                            "感じ",
+                            "かん"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "My throat feels clogged up."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to cram; to stuff; to jam; to squeeze; to pack; to crowd "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to cram; to stuff; to jam; to squeeze; to pack; to crowd "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "きつ"
+                ],
+                [
+                    "問",
+                    "もん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. cross-examination; close questioning; demanding an explanation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. cross-examination; close questioning; demanding an explanation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "なじ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to rebuke; to scold; to tell off; to find fault; to harp on; to reprove Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to question persistently (in order to criticize or find fault with someone) Usually written using kana alone"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ],
+                [
+                    "と",
+                    null
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "ろ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. in short; in brief; to sum up; ultimately; in the end; in the long run; when all is said and done; what it all comes down to; when you get right down to it Usually written using kana alone, See also つまり"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰まる所 【つまるところ】、つまる所 【つまるところ】、詰まる処 【つまるところ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詰まる処: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "勉",
+                    "べん"
+                ],
+                [
+                    "強",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cramming (e.g. for an exam) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "物",
+                    "もの"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. filling; packing; padding; wadding; filler "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. stuffing; filling; dressing Food, cooking"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. (dental) filling "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰物 【つめもの】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "腹",
+                    "ばら"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. being forced to commit seppuku "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. to be forced to bear responsibility and resign from one's position See also 詰め腹を切らされる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰腹 【つめばら】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "そ",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. bored; bored-looking; uninterested Usually written using kana alone, See also 詰まらなさそう"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つめ"
+                ],
+                [
+                    "将",
+                    "しょう"
+                ],
+                [
+                    "棋",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. composed shogi problem Shogi, See also 詰む"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tsumeshogi Tsumeshogi or tsume is the Japanese term for a shogi prob... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰め将棋 【つめしょうぎ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. checkmate "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Checkmate Checkmate (frequently shortened to mate) is a situation i... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to clog; to block; to choke up; to jam; to obstruct "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "わ",
+                    null
+                ],
+                [
+                    "せ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. combination; assortment (of goods); assorted basket or box (e.g. of chocolates) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰合せ 【つめあわせ】、詰合わせ 【つめあわせ】、詰め合せ 【つめあわせ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "替",
+                    "か"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to repack; to refill "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰替える 【つめかえる】、詰め換える 【つめかえる】、詰換える 【つめかえる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "所",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. station; office; guardroom "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰所 【つめしょ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to draw near; to draw closer "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to press (e.g. for an answer); to hound 検察官が容疑者に詰め寄った。The prosecutors pressed the suspect for an answer."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詰寄る 【つめよる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "検察官",
+                            "けんさつかん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "容疑者",
+                            "ようぎしゃ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "詰め寄った",
+                            "つめよ"
+                        ]
+                    ],
+                    "translation": "The prosecutors pressed the suspect for an answer."
+                }
+            ]
+        },
+        {
+            "word": [
+                "詰",
+                "さきづめ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Sakidzume "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "詰の内",
+                "つめのうち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Tsumenouchi "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tsumemaru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "缶",
+                    "かん"
+                ],
+                [
+                    "詰",
+                    "づめ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. canned food; tinned food "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. confining someone (e.g. so they can concentrate on work) usu. 缶詰にする"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. being stuck in a confined space usu. 缶詰になる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "缶詰め 【かんづめ】、罐詰め 【かんづめ】、罐詰 【かんづめ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "罐詰め: Out-dated kanji or kanji usage. 罐詰: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "びん"
+                ],
+                [
+                    "詰",
+                    "づ"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. bottling "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. bottled "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "瓶詰 【びんづめ】、ビン詰め 【びんづめ】、壜詰め 【びんづめ】、壜詰 【びんづめ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "壜詰め: Rarely-used kanji form. 壜詰: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "見",
+                    "み"
+                ],
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to stare (at); to gaze (at); to look hard (at); to watch intently; to fix one's eyes (on) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "見詰める 【みつめる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "見詰める: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "おお"
+                ],
+                [
+                    "詰",
+                    "づ"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. final scene; the end; finale "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "大詰 【おおづめ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "煮",
+                    "に"
+                ],
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to boil down; to concentrate (soup, milk, stock, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to reach a conclusion; to conclude a discussion "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "煮つめる 【につめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to shorten; to cut short; to trim "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to cut down on; to reduce; to scrimp on; to economize; to economise "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "切りつめる 【きりつめる】、切詰める 【きりつめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "追",
+                    "お"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to corner; to drive to the wall; to run down; to track down; to chase after "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "追いつめる 【おいつめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "行",
+                    "い"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "詰",
+                    "づ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to come to a dead end; to come to a standstill; to reach a deadlock; to reach an impasse; to reach a stalemate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "行き詰まる 【ゆきづまる】、行き詰る 【いきづまる】、行き詰る 【ゆきづまる】、行きづまる 【いきづまる】、行きづまる 【ゆきづまる】、行詰まる 【いきづまる】、行詰まる 【ゆきづまる】、行詰る 【いきづまる】、行詰る 【ゆきづまる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "のぼ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to go to the top; to climb to the top; to ascend to the top; to reach the summit (e.g. of a mountain) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be engrossed in; to be very enthusiastic about; to be infatuated with "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "登り詰める 【のぼりつめる】、昇り詰める 【のぼりつめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "敷",
+                    "し"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to cover a surface; to spread all over; to blanket; to lay "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "敷きつめる 【しきつめる】、敷詰める 【しきつめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to think hard; to brood over; to worry too much (about); to torment oneself (with the thought of) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思いつめる 【おもいつめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "箱",
+                    "はこ"
+                ],
+                [
+                    "詰",
+                    "づ"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. boxing; packing into a box; something packed into a box "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "煮",
+                    "に"
+                ],
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be boiled down "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to come to a standstill; to reach an impasse Colloquial, sometimes considered incorrect"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to approach a conclusion (of a discussion, investigation, etc.) 長い議論は現実的な結論に煮詰まった。The long discussion reached a realistic conclusion."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "煮詰る 【につまる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "長い",
+                            "なが"
+                        ],
+                        [
+                            "議論",
+                            "ぎろん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "現実的な",
+                            "げんじつてき"
+                        ],
+                        [
+                            "結論",
+                            "けつろん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "煮詰まった",
+                            "につ"
+                        ]
+                    ],
+                    "translation": "The long discussion reached a realistic conclusion."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "息",
+                    "いき"
+                ],
+                [
+                    "詰",
+                    "づ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending",
+                    "meaning": "1. to be breathtaking; to be stifling "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "息づまる 【いきづまる】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

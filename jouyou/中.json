@@ -1,0 +1,2301 @@
+{
+    "kanji": "中",
+    "grade": 1,
+    "jlpt": 5,
+    "meanings": [
+        "in",
+        "inside",
+        "middle",
+        "mean",
+        "center"
+    ],
+    "kun": [
+        "なか",
+        "うち",
+        "あた.る"
+    ],
+    "on": [
+        "チュウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1824770642201835,
+            0.33825688073394494,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.015963302752293577,
+            0.020642201834862386,
+            0.018440366972477064,
+            0.033486238532110094,
+            "c",
+            0.01036697247706422,
+            0.05238532110091743,
+            0.023669724770642202,
+            0.11981651376146789,
+            0.038256880733944953,
+            0.21073394495412842,
+            "c",
+            0.002477064220183486,
+            0.015412844036697248,
+            0.005045871559633028,
+            0.04064220183486238,
+            0.0076146788990825685,
+            0.057431192660550454
+        ],
+        [
+            "M",
+            0.2140366972477064,
+            0.36247706422018344,
+            "C",
+            0.3405504587155963,
+            0.3451376146788991,
+            0.6502752293577981,
+            0.3119266055045872,
+            0.7706422018348624,
+            0.304954128440367,
+            "c",
+            0.04018348623853211,
+            -0.0022935779816513763,
+            0.05504587155963303,
+            0.010458715596330274,
+            0.04697247706422018,
+            0.04055045871559633,
+            "c",
+            -0.014036697247706422,
+            0.05229357798165138,
+            -0.05146788990825688,
+            0.18513761467889908,
+            -0.05614678899082569,
+            0.2026605504587156
+        ],
+        [
+            "M",
+            0.2544954128440367,
+            0.5948623853211009,
+            "C",
+            0.3680733944954128,
+            0.5836697247706422,
+            0.5675229357798165,
+            0.5706422018348624,
+            0.7247706422018348,
+            0.5575229357798166,
+            "c",
+            0.02165137614678899,
+            -0.001834862385321101,
+            0.052752293577981654,
+            -0.002477064220183486,
+            0.06651376146788991,
+            -0.002477064220183486
+        ],
+        [
+            "M",
+            0.481651376146789,
+            0.10550458715596331,
+            "c",
+            0.013211009174311925,
+            0.013211009174311925,
+            0.020642201834862386,
+            0.03211009174311927,
+            0.020642201834862386,
+            0.04642201834862385,
+            "c",
+            0,
+            0.008256880733944955,
+            0.0005504587155963302,
+            0.5192660550458715,
+            -0.0013761467889908255,
+            0.7035779816513761,
+            "c",
+            -0.0002752293577981651,
+            0.030275229357798163,
+            -0.0006422018348623854,
+            0.05137614678899082,
+            -0.0009174311926605505,
+            0.05963302752293578
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. medium (size); average (grade, level, etc.); middle "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. in; within; out of (e.g. ten people); among 空気中のごく小さい粒子がガンのもとになり得る。Tiny particles in the air can cause cancer."
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "3. during; while; in (the course of); within (a period); throughout 彼は旅行中に病気になった。He got sick during the trip."
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "4. currently (doing); in the process of; in the middle of; under (e.g. construction, investigation) 隣の部屋では会議中です。There is a conference going on in the next room."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. middle way; moderation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. second volume (of three) See also 上, See also 下"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. junior high school; middle school Abbreviation, See also 中学校"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. China Abbreviation, See also 中国"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. inside; interior 彼は自分のお金を全部箱の中に入れた。He put all his money in the box."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. among; within これらの商品の中から１つ選びなさい。Choose one from among these products."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. middle; center; centre "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "4. during; while; middle; midst; amid 身を切るような寒い中でわざわざ遊ばなくてもいいじゃない。You don't have to play outside in the biting wind."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. interval; gap "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. mean; average "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "7. second (of three, e.g. sons, volumes); middle "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "8. medium grade; medium quality "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. red-light district Archaic"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "10. Naka "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "1. (all) through (e.g. the night); throughout (e.g. the year); all ... long 彼は夏中ずっと長野にいた。He stayed in Nagano throughout the summer."
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. within (e.g. the week); in the course of (e.g. today); by the end of as 〜に最終提案は来週中に発表されます。The final proposal will be announced sometime next week."
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "3. all over; throughout (e.g. the world) その知らせは村中に不安をまき起こした。The news caused alarm throughout the village."
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "4. all (of a group); the whole (family, school, etc.) その事件は学校中にショックを与えた。The incident gave a shock to the whole school."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中 【ぢゅう】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. red dragon tile Mahjong, Abbreviation, See also 紅中"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. winning hand with a pung (or kong) of red dragon tiles Mahjong"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "空気",
+                            "くうき"
+                        ],
+                        [
+                            "中",
+                            "ちゅう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ごく",
+                            null
+                        ],
+                        [
+                            "小さい",
+                            "ちい"
+                        ],
+                        [
+                            "粒子",
+                            "りゅうし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ガン",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "もと",
+                            null
+                        ],
+                        [
+                            "になり",
+                            null
+                        ],
+                        [
+                            "得る",
+                            "え"
+                        ]
+                    ],
+                    "translation": "Tiny particles in the air can cause cancer."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "旅行",
+                            "りょこう"
+                        ],
+                        [
+                            "中",
+                            "ちゅう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "病気になった",
+                            "びょうき"
+                        ]
+                    ],
+                    "translation": "He got sick during the trip."
+                },
+                {
+                    "sentence": [
+                        [
+                            "隣の",
+                            "となり"
+                        ],
+                        [
+                            "部屋",
+                            "へや"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "会議",
+                            "かいぎ"
+                        ],
+                        [
+                            "中",
+                            "ちゅう"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "There is a conference going on in the next room."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "内",
+                    "うち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. inside; within エイズが私が生きているうちに治ることを願っているよ。I have a dream that AIDS will be cured in my lifetime."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. while (e.g. one is young); during; within (e.g. a day); in the course of Usually written using kana aloneあの少年は店から店を歩いているうちに盗み癖がでてしまった。The young boy got sticky fingers when he walked into stores."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "3. among; amongst; (out) of; between Usually written using kana alone, as 〜のうち私の息子二人のうち、一人は教師で、もう一人は医者です。One of my sons is a teacher, and the other is a doctor."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. in (secret, chaos, poverty, etc.); amidst; with (e.g. success) Usually written using kana alone, also 裡, 裏; as 〜のうちに after a noun representing a state or condition「うちで働いてみたいかね」とウッドさんが尋ねました。\"Would you like to work for me, Tony?\" asked Mr Wood."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. within oneself; one's feelings; inner thoughts "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. we; our company; our organization Usually written using kana alone, Only applies to 内, Antonym: そと, Antonym: よそうちの一番腕利きの交渉者はいつも強引に有利な取り引きをする。Our best negotiators always drive a hard bargain."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. one's home; one's family Usually written using kana alone, Only applies to 内, See also 家 うち, also 家"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. my spouse; my husband; my wife Only applies to 内"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. signed on behalf of (husband's name) by his wife Only applies to 内, in a letter after the husband's name"
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "10. I; me Usually written using kana alone, Kansai dialect, Only applies to 内, primarily used by women and children"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "11. imperial palace grounds Archaic, Only applies to 内"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "12. emperor Archaic, Only applies to 内"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中 【うち】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "エイズ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "生きている",
+                            "いき"
+                        ],
+                        [
+                            "うち",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "治る",
+                            "なお"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "願っている",
+                            "ねが"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "I have a dream that AIDS will be cured in my lifetime."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あの",
+                            null
+                        ],
+                        [
+                            "少年",
+                            "しょうねん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "店",
+                            "みせ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "店",
+                            "みせ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "歩いている",
+                            "ある"
+                        ],
+                        [
+                            "うち",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "盗み",
+                            "ぬす"
+                        ],
+                        [
+                            "癖",
+                            "くせ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "でて",
+                            null
+                        ],
+                        [
+                            "しまった",
+                            null
+                        ]
+                    ],
+                    "translation": "The young boy got sticky fingers when he walked into stores."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "息子",
+                            "むすこ"
+                        ],
+                        [
+                            "二人",
+                            "ふたり"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "うち",
+                            null
+                        ],
+                        [
+                            "一人",
+                            "ひとり"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "教師",
+                            "きょうし"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "もう一人",
+                            "もうひとり"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "医者",
+                            "いしゃ"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "One of my sons is a teacher, and the other is a doctor."
+                },
+                {
+                    "sentence": [
+                        [
+                            "うち",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "働いて",
+                            "はたら"
+                        ],
+                        [
+                            "み",
+                            null
+                        ],
+                        [
+                            "たい",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "さん",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "尋ねました",
+                            "たず"
+                        ]
+                    ],
+                    "translation": "\"Would you like to work for me, Tony?\" asked Mr Wood."
+                },
+                {
+                    "sentence": [
+                        [
+                            "うちの",
+                            null
+                        ],
+                        [
+                            "一番",
+                            "いちばん"
+                        ],
+                        [
+                            "腕利きの",
+                            "うでき"
+                        ],
+                        [
+                            "交渉",
+                            "こうしょう"
+                        ],
+                        [
+                            "者",
+                            "しゃ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いつも",
+                            null
+                        ],
+                        [
+                            "強引に",
+                            "ごういん"
+                        ],
+                        [
+                            "有利な",
+                            "ゆうり"
+                        ],
+                        [
+                            "取り引き",
+                            "とりひ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "する",
+                            null
+                        ]
+                    ],
+                    "translation": "Our best negotiators always drive a hard bargain."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "学",
+                    "がっこう"
+                ],
+                [
+                    "校",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. junior high school; middle school; lower secondary school "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Middle school Middle School and Junior High School are levels of school... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. junior high school; middle school; lower secondary school "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Middle school Middle School and Junior High School are levels of school... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch; midday meal 彼は今昼食を取っているところです。He is having lunch now."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. food served at a tea party (tea ceremony) usu. 中食"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Lunch Luncheon, commonly abbreviated to lunch, is a middle of t... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼食 【ちゅうじき】、中食 【ちゅうじき】、昼食 【ひるげ】、昼餉 【ひるげ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. lunch; midday meal 彼は今昼食を取っているところです。He is having lunch now."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. food served at a tea party (tea ceremony) usu. 中食"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Lunch Luncheon, commonly abbreviated to lunch, is a middle of t... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼食 【ちゅうじき】、中食 【ちゅうじき】、昼食 【ひるげ】、昼餉 【ひるげ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "今",
+                            "いま"
+                        ],
+                        [
+                            "昼食",
+                            "ちゅうしょく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取っている",
+                            "と"
+                        ],
+                        [
+                            "ところ",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "He is having lunch now."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "心",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. center; centre; middle; heart; core; focus; pivot; emphasis; balance "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. -centered; -centred; -focused; -oriented; centered on; focused on "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Centre (geometry) In geometry, the centre (or center) of an object is a poi... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. center; centre; middle; heart; core; focus; pivot; emphasis; balance "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. -centered; -centred; -focused; -oriented; centered on; focused on "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Centre (geometry) In geometry, the centre (or center) of an object is a poi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "世",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Middle Ages (in Japan esp. the Kamakura and Muromachi periods); medieval times; mediaeval times Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Middle Ages The Middle Ages is a period of European history encompass... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Middle Ages (in Japan esp. the Kamakura and Muromachi periods); medieval times; mediaeval times Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Middle Ages The Middle Ages is a period of European history encompass... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "年",
+                    "ねん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. middle-age; middle age; midlife; one's middle years "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Middle age Middle age is the period of age beyond young adulthood bu... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. middle-age; middle age; midlife; one's middle years "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Middle age Middle age is the period of age beyond young adulthood bu... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "なか"
+                ],
+                [
+                    "指",
+                    "ゆび"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. middle finger; long finger; second finger; tall finger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. middle toe; third toe "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Middle finger The middle finger, long finger, or tall finger is the thi... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中指 【ちゅうし】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. middle finger; long finger; second finger; tall finger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. middle toe; third toe "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Middle finger The middle finger, long finger, or tall finger is the thi... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中指 【ちゅうし】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "中指",
+                            "なかゆび"
+                        ],
+                        [
+                            "5本",
+                            "ごほん"
+                        ],
+                        [
+                            "指",
+                            "ゆび"
+                        ],
+                        [
+                            "手話",
+                            "しゅわ"
+                        ],
+                        [
+                            "兄",
+                            "あに"
+                        ],
+                        [
+                            "表す",
+                            "あらわ"
+                        ]
+                    ],
+                    "translation": "The middle finger is the longest of the five fingers and represents the older brother in sign language."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "立",
+                    "りつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. neutrality "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Neutrality (international relations) A neutral power in a particular war is a sovereign state ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. neutrality "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Neutrality (international relations) A neutral power in a particular war is a sovereign state ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "央",
+                    "おう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. centre; center; middle; heart "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. capital; seat of government See also 地方"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "3. Chuuou "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. centre; center; middle; heart "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. capital; seat of government See also 地方"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "3. Chuuou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "止",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. interruption; discontinuance; suspension; stoppage 暴風雨のため道路工事が中止された。Work on the road was suspended because of the storm."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. cancellation (of a planned event); calling off 今日予定の会合は中止になりました。Today's meeting has been canceled."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. interruption; discontinuance; suspension; stoppage 暴風雨のため道路工事が中止された。Work on the road was suspended because of the storm."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. cancellation (of a planned event); calling off 今日予定の会合は中止になりました。Today's meeting has been canceled."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "暴風雨",
+                            "ぼうふうう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ため",
+                            null
+                        ],
+                        [
+                            "道路工事",
+                            "どうろこうじ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "中止",
+                            "ちゅうし"
+                        ],
+                        [
+                            "された",
+                            null
+                        ]
+                    ],
+                    "translation": "Work on the road was suspended because of the storm."
+                },
+                {
+                    "sentence": [
+                        [
+                            "今日",
+                            "きょう"
+                        ],
+                        [
+                            "予定",
+                            "よてい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "会合",
+                            "かいごう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "中止",
+                            "ちゅうし"
+                        ],
+                        [
+                            "になりました",
+                            null
+                        ]
+                    ],
+                    "translation": "Today's meeting has been canceled."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "半",
+                    "なか"
+                ],
+                [
+                    "ば",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. middle; halfway; midway 彼女は４０代半ばで再婚した。She married again in her mid-forties."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. half (of); one half 人生とは何であるかを知ったとき、すでに生涯の半ばは過ぎている。Life is half spent before we know what it is."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. half (e.g. done, jokingly); partly; in part; partially 出だしがよければ半ばやり遂げたようなものだ。Well begun is half done."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "4. mostly; almost; nearly "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中ば 【なかば】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "中ば: Irregular kanji usage."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. middle; halfway; midway 彼女は４０代半ばで再婚した。She married again in her mid-forties."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. half (of); one half 人生とは何であるかを知ったとき、すでに生涯の半ばは過ぎている。Life is half spent before we know what it is."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. half (e.g. done, jokingly); partly; in part; partially 出だしがよければ半ばやり遂げたようなものだ。Well begun is half done."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "4. mostly; almost; nearly "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中ば 【なかば】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "中ば: Irregular kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "代",
+                            "だい"
+                        ],
+                        [
+                            "半ば",
+                            "なか"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "再婚した",
+                            "さいこん"
+                        ]
+                    ],
+                    "translation": "She married again in her mid-forties."
+                },
+                {
+                    "sentence": [
+                        [
+                            "人生",
+                            "じんせい"
+                        ],
+                        [
+                            "とは",
+                            null
+                        ],
+                        [
+                            "何",
+                            "なに"
+                        ],
+                        [
+                            "である",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "知った",
+                            "し"
+                        ],
+                        [
+                            "とき",
+                            null
+                        ],
+                        [
+                            "すでに",
+                            null
+                        ],
+                        [
+                            "生涯",
+                            "しょうがい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "半ば",
+                            "なか"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "過ぎている",
+                            "すぎ"
+                        ]
+                    ],
+                    "translation": "Life is half spent before we know what it is."
+                },
+                {
+                    "sentence": [
+                        [
+                            "出だし",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "よければ",
+                            null
+                        ],
+                        [
+                            "半ば",
+                            "なか"
+                        ],
+                        [
+                            "やり遂げた",
+                            "やりと"
+                        ],
+                        [
+                            "ような",
+                            null
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "Well begun is half done."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. junior high school; middle school; lower secondary school Abbreviation, See also 中学校"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. junior high school; middle school; lower secondary school Abbreviation, See also 中学校"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "古",
+                    "こ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. used; second-hand; old その中古の冷蔵庫はひどい代物だった。That used refrigerator was a real dog."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Middle Ages (in Japan esp. Heian period) Only applies to ちゅうこ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中古 【ちゅうぶる】"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. used; second-hand; old その中古の冷蔵庫はひどい代物だった。That used refrigerator was a real dog."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Middle Ages (in Japan esp. Heian period) Only applies to ちゅうこ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中古 【ちゅうぶる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "中古",
+                            "ちゅうこ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "冷蔵庫",
+                            "れいぞうこ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ひどい",
+                            null
+                        ],
+                        [
+                            "代物",
+                            "しろもの"
+                        ],
+                        [
+                            "だった",
+                            null
+                        ]
+                    ],
+                    "translation": "That used refrigerator was a real dog."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "当",
+                    "あ"
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be hit; to strike Antonym: 外す彼は発砲したが当たらなかった。He fired but missed."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to touch; to be in contact; to be affixed "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to be equivalent to; to be applicable; to apply to 日本の桜はまさにイギリスのバラにあたる。The cherry blossom is to Japan what the rose is to England."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to be right on the money (of a prediction, criticism, etc.) 不思議な話だが、彼の予言は当たった。Strange to say, his prediction has come true."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to be selected (in a lottery, etc.); to win 福引きでカメラが当たった。I got a camera in a lottery."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to be successful; to go well; to be a hit "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to face; to confront "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to lie (in the direction of) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "9. to undertake; to be assigned "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "10. to be stricken (by food poisoning, heat, etc.); to be afflicted 彼はフグにあたった。He was poisoned by the globefish he ate."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "11. to be called on (e.g. by a teacher) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "12. to treat (esp. harshly); to lash out at "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "13. to be unnecessary as 〜するには当たらない, etc."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "14. to be hitting well; to be on a hitting streak Baseball, usu. as 当たっている"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "15. to feel a bite (in fishing) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "16. (of fruit, etc.) to be bruised; to spoil "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "17. to feel (something) out; to probe into; to check (i.e. by comparison) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "18. to shave "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "19. to be a relative of a person; to be a ... in relation to ...; to stand in a relationship as 〜の〜に当たる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "当る 【あたる】、中る 【あたる】、中たる 【あたる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "発砲",
+                            "はっぽう"
+                        ],
+                        [
+                            "した",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "当たらなかった",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "He fired but missed."
+                },
+                {
+                    "sentence": [
+                        [
+                            "日本",
+                            "にほん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "桜",
+                            "さくら"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "まさに",
+                            null
+                        ],
+                        [
+                            "イギリス",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "バラ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "あたる",
+                            null
+                        ]
+                    ],
+                    "translation": "The cherry blossom is to Japan what the rose is to England."
+                },
+                {
+                    "sentence": [
+                        [
+                            "不思議な",
+                            "ふしぎ"
+                        ],
+                        [
+                            "話",
+                            "はなし"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "予言",
+                            "よげん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "当たった",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "Strange to say, his prediction has come true."
+                },
+                {
+                    "sentence": [
+                        [
+                            "福引き",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "カメラ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "当たった",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "I got a camera in a lottery."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "フグ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "あたった",
+                            null
+                        ]
+                    ],
+                    "translation": "He was poisoned by the globefish he ate."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "なか"
+                ],
+                [
+                    "々",
+                    "なか"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Na-adjective (keiyodoshi)",
+                    "meaning": "1. very; considerably; easily; readily; fairly; quite; highly; rather Usually written using kana aloneあいつは、なかなかいい奴だぜ！He is a good joker."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. by no means; not readily Usually written using kana alone, with a verb in the negativeいまどき良い仕事はなかなか得がたいのを忘れないでね。Don't forget that good jobs are very hard to come by these days."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. middle; half-way point "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "4. excellent; wonderful; very good Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中中 【なかなか】、仲々 【なかなか】、仲仲 【なかなか】、却々 【なかなか】、却却 【なかなか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "仲々: Rarely-used kanji form. 仲仲: Rarely-used kanji form. 却々: Rarely-used kanji form. 却却: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あいつ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "なかなか",
+                            null
+                        ],
+                        [
+                            "いい",
+                            null
+                        ],
+                        [
+                            "奴",
+                            "やつ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "ぜ",
+                            null
+                        ]
+                    ],
+                    "translation": "He is a good joker."
+                },
+                {
+                    "sentence": [
+                        [
+                            "いまどき",
+                            null
+                        ],
+                        [
+                            "良い",
+                            "よ"
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "なかなか",
+                            null
+                        ],
+                        [
+                            "得がたい",
+                            "え"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "忘れないで",
+                            "わす"
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "Don't forget that good jobs are very hard to come by these days."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "なか"
+                ],
+                [
+                    "身",
+                    "み"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. contents; interior; filling "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. substance; content "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. (sword) blade "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中味 【なかみ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "中味: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "中",
+                "あたり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name, Family or surname",
+                    "meaning": "1. Atari "
+                },
+                {
+                    "type": "Female given name, Family or surname",
+                    "meaning": "1. Ataru "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Atsu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "背",
+                    "せ"
+                ],
+                [
+                    "中",
+                    "なか"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. back (of the body) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Human back The human back is the large posterior area of the human b... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "腹",
+                    "なか"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. belly; abdomen; stomach Polite (teineigo) language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "お中 【おなか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "お中: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "途",
+                    "と"
+                ],
+                [
+                    "中",
+                    "ちゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. on the way; en route 学校へ行く途中でトムに会った。I met Tom on my way to school."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. in the middle of; midway; halfway 途中であきらめるな。Don't give up halfway."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "学校",
+                            "がっこう"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "行く",
+                            "い"
+                        ],
+                        [
+                            "途中",
+                            "とちゅう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "会った",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "I met Tom on my way to school."
+                },
+                {
+                    "sentence": [
+                        [
+                            "途中",
+                            "とちゅう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "あきらめる",
+                            null
+                        ],
+                        [
+                            "な",
+                            null
+                        ]
+                    ],
+                    "translation": "Don't give up halfway."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "真",
+                    "ま"
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "中",
+                    "なか"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. middle; centre; center; midpoint; heart "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "まん中 【まんなか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "よ"
+                ],
+                [
+                    "中",
+                    "なか"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. middle of the night; dead of night "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Yonaka "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜なか 【よなか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "世",
+                    "よ"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "中",
+                    "なか"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. society; the world; the times "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "集",
+                    "しゅう"
+                ],
+                [
+                    "中",
+                    "ちゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. concentration (on a task); focusing one's attention 私は読書に集中していた。I was concentrating on reading."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. concentration (of population, buildings, power, etc.); centralization; convergence; focus (of a debate, questions, etc.) 彼の仕事の大半が都市部に集中している。The bulk of his work is in the urban area."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. within a collection of works "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "読書",
+                            "どくしょ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "集中",
+                            "しゅうちゅう"
+                        ],
+                        [
+                            "していた",
+                            null
+                        ]
+                    ],
+                    "translation": "I was concentrating on reading."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "仕事の",
+                            "しごと"
+                        ],
+                        [
+                            "大半",
+                            "たいはん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "都市部",
+                            "としぶ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "集中",
+                            "しゅうちゅう"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "The bulk of his work is in the urban area."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "年",
+                    "ねん"
+                ],
+                [
+                    "中",
+                    "じゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. whole year; all year round; throughout the year "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. always; all the time; perpetually Only applies to ねんじゅう, Only applies to ねんぢゅう"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. during an era "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. middle class (of a nursery school, etc.) Only applies to ねんちゅう"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "年じゅう 【ねんじゅう】、年中 【ねんちゅう】、年中 【ねんぢゅう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "中央病院",
+                "ちゅうおうびょういん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Chuuou Hospital "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "山中湖",
+                "やまなかこ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Yamanakako "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Lake Yamanaka Lake Yamanaka is the biggest of the Fuji Five Lakes. Loca... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1348 @@
+{
+    "kanji": "候",
+    "grade": 4,
+    "jlpt": 3,
+    "meanings": [
+        "climate",
+        "season",
+        "weather",
+        "wait for",
+        "expect"
+    ],
+    "kun": [
+        "そうろう"
+    ],
+    "on": [
+        "コウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2706422018348624,
+            0.14678899082568808,
+            "c",
+            0.0034862385321100917,
+            0.014036697247706422,
+            0.001834862385321101,
+            0.025596330275229357,
+            -0.0039449541284403665,
+            0.04211009174311926,
+            "c",
+            -0.03688073394495413,
+            0.1051376146788991,
+            -0.08587155963302752,
+            0.21559633027522937,
+            -0.17027522935779815,
+            0.34357798165137615
+        ],
+        [
+            "M",
+            0.20440366972477064,
+            0.3853211009174312,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.013761467889908258,
+            0.022477064220183487,
+            0.013761467889908258,
+            0.03669724770642202,
+            "c",
+            0,
+            0.10027522935779816,
+            -0.0001834862385321101,
+            0.29174311926605506,
+            -0.0002752293577981651,
+            0.3956880733944954,
+            "c",
+            0,
+            0.024220183486238535,
+            0,
+            0.04376146788990825,
+            0,
+            0.05614678899082569
+        ],
+        [
+            "M",
+            0.32587155963302755,
+            0.29697247706422014,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.016146788990825688,
+            0.023027522935779813,
+            0.016146788990825688,
+            0.046055045871559626,
+            "c",
+            0,
+            0.10137614678899083,
+            0,
+            0.27376146788990824,
+            0,
+            0.36917431192660555,
+            "c",
+            0,
+            0.02651376146788991,
+            0,
+            0.04706422018348624,
+            0,
+            0.05853211009174312
+        ],
+        [
+            "M",
+            0.463302752293578,
+            0.15825688073394495,
+            "c",
+            0.009174311926605505,
+            0.0045871559633027525,
+            0.02743119266055046,
+            0.005963302752293578,
+            0.045871559633027525,
+            0.0045871559633027525,
+            "C",
+            0.5688073394495413,
+            0.15825688073394495,
+            0.6903669724770642,
+            0.13990825688073394,
+            0.7155963302752294,
+            0.13761467889908258,
+            "s",
+            0.0389908256880734,
+            0.006880733944954129,
+            0.02981651376146789,
+            0.03211009174311927,
+            "C",
+            0.7401834862385321,
+            0.1842201834862385,
+            0.7247706422018348,
+            0.2420183486238532,
+            0.7201834862385321,
+            0.27522935779816515
+        ],
+        [
+            "M",
+            0.4036697247706422,
+            0.3113761467889908,
+            "c",
+            0.018990825688073393,
+            0.0028440366972477065,
+            0.041009174311926605,
+            0.004036697247706422,
+            0.0555045871559633,
+            0.002660550458715596,
+            "C",
+            0.5642201834862385,
+            0.3038532110091743,
+            0.7155963302752294,
+            0.283302752293578,
+            0.8186238532110092,
+            0.2769724770642202,
+            "c",
+            0.024036697247706424,
+            -0.0014678899082568807,
+            0.038623853211009175,
+            -0.002201834862385321,
+            0.05064220183486238,
+            0.0002752293577981651
+        ],
+        [
+            "M",
+            0.5170642201834862,
+            0.366697247706422,
+            "c",
+            0.0002752293577981651,
+            0.004678899082568807,
+            0.0006422018348623854,
+            0.012018348623853212,
+            -0.0005504587155963302,
+            0.01871559633027523,
+            "c",
+            -0.006880733944954129,
+            0.039449541284403665,
+            -0.050366972477064224,
+            0.13642201834862386,
+            -0.09366972477064221,
+            0.17238532110091742
+        ],
+        [
+            "M",
+            0.525045871559633,
+            0.45055045871559635,
+            "c",
+            0.010458715596330274,
+            0.0001834862385321101,
+            0.024770642201834864,
+            -0.00045871559633027525,
+            0.03339449541284404,
+            -0.001559633027522936,
+            "c",
+            0.040091743119266054,
+            -0.005137614678899083,
+            0.11972477064220184,
+            -0.01724770642201835,
+            0.17889908256880735,
+            -0.02642201834862385,
+            "c",
+            0.015963302752293577,
+            -0.002477064220183486,
+            0.03403669724770642,
+            -0.0039449541284403665,
+            0.05018348623853211,
+            -0.0006422018348623854
+        ],
+        [
+            "M",
+            0.4140366972477064,
+            0.6131192660550459,
+            "c",
+            0.0263302752293578,
+            0.004954128440366972,
+            0.05128440366972477,
+            0.002018348623853211,
+            0.07348623853211009,
+            -0.0001834862385321101,
+            "c",
+            0.09605504587155964,
+            -0.00944954128440367,
+            0.22458715596330275,
+            -0.02834862385321101,
+            0.30504587155963303,
+            -0.034403669724770644,
+            "c",
+            0.025596330275229357,
+            -0.001926605504587156,
+            0.04889908256880734,
+            -0.004403669724770642,
+            0.07412844036697248,
+            0.0006422018348623854
+        ],
+        [
+            "M",
+            0.6320183486238532,
+            0.4664220183486239,
+            "c",
+            0.004403669724770642,
+            0.009541284403669725,
+            0.005963302752293578,
+            0.019724770642201832,
+            0.0034862385321100917,
+            0.03220183486238532,
+            "C",
+            0.6032110091743119,
+            0.6570642201834863,
+            0.5412844036697247,
+            0.8004587155963303,
+            0.4013761467889908,
+            0.8757798165137614
+        ],
+        [
+            "M",
+            0.6227522935779816,
+            0.6044036697247706,
+            "c",
+            0.07596330275229357,
+            0.08596330275229357,
+            0.12834862385321102,
+            0.15009174311926604,
+            0.18990825688073393,
+            0.20458715596330276,
+            "c",
+            0.01908256880733945,
+            0.01688073394495413,
+            0.03596330275229358,
+            0.03165137614678899,
+            0.06009174311926605,
+            0.03963302752293578
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "候",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. season; weather "
+                },
+                {
+                    "type": "Auxiliary",
+                    "meaning": "1. to be Archaic, Polite (teineigo) language, auxiliary used in place of ある after で or に when forming a copula"
+                },
+                {
+                    "type": "Auxiliary",
+                    "meaning": "2. to do Archaic, Polite (teineigo) language, See also 候ふ, auxiliary used in place of ます"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "候 【そう】、候 【さう】、候 【す】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "そうろう"
+                ],
+                [
+                    "ふ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Yodan verb with 'hu/fu' ending (archaic), Intransitive verb",
+                    "meaning": "1. to serve (by a superior's side) Archaic, Only applies to 候ふ"
+                },
+                {
+                    "type": "Auxiliary verb, Yodan verb with 'hu/fu' ending (archaic)",
+                    "meaning": "2. to be Archaic, Polite (teineigo) language, auxiliary used in place of ある after で or に when forming a copula"
+                },
+                {
+                    "type": "Auxiliary verb, Yodan verb with 'hu/fu' ending (archaic)",
+                    "meaning": "3. to do Archaic, Polite (teineigo) language, auxiliary used in place of ます"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "候ふ 【そうらう】、候 【そうろう】、候 【そうらう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "そうらう: Out-dated or obsolete kana usage. 候: Irregular okurigana usage. そうらう: Out-dated or obsolete kana usage. 候: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. candidate; contender; prospect; pick; choice; list スミス氏は市長候補である。Mr Smith is a candidate for mayor."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. candidacy; candidature; nomination "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. candidate; contender; prospect; pick; choice; list スミス氏は市長候補である。Mr Smith is a candidate for mayor."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. candidacy; candidature; nomination "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "氏",
+                            "し"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "市長",
+                            "しちょう"
+                        ],
+                        [
+                            "候補",
+                            "こうほ"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "Mr Smith is a candidate for mayor."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. candidate; applicant "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. candidate; applicant "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ],
+                [
+                    "名",
+                    "めい"
+                ],
+                [
+                    "簿",
+                    "ぼ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. list of candidates; slate; list of nominees "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "そうろう"
+                ],
+                [
+                    "調",
+                    "ちょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. epistolary style using the auxiliary \"sōrō\" in place of \"aru\" Historical term, See also 候文"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "そうろう調 【そうろうちょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "鳥",
+                    "ちょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bird of passage; migratory bird "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ],
+                [
+                    "化",
+                    "か"
+                ],
+                [
+                    "合",
+                    "ごう"
+                ],
+                [
+                    "物",
+                    "ぶつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (pharmaceutical) candidate compound "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ],
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. proposed site; site chosen "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "そうろう"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. epistolary style using the auxiliary \"sōrō\" in place of \"aru\" Historical term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ],
+                [
+                    "生",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cadet "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "そうろう"
+                ],
+                [
+                    "由",
+                    "よし"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. I hear that ... Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "立",
+                    "た"
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to put up a candidate "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "そえ"
+                ],
+                [
+                    "へ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Auxiliary verb",
+                    "meaning": "1. please ...; please do ... Archaic, See also 候 そう"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "そうろう"
+                ],
+                [
+                    "間",
+                    "あいだ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. as ... Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "そうろう"
+                ],
+                [
+                    "処",
+                    "ところ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. just; but Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "候所 【そうろうところ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ],
+                [
+                    "デ",
+                    null
+                ],
+                [
+                    "ス",
+                    null
+                ],
+                [
+                    "ク",
+                    null
+                ],
+                [
+                    "リ",
+                    null
+                ],
+                [
+                    "プ",
+                    null
+                ],
+                [
+                    "タ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. candidate descriptor Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    "そうろう"
+                ],
+                [
+                    "哉",
+                    "や"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. I wonder if ... Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "候",
+                    null
+                ],
+                [
+                    "補",
+                    null
+                ],
+                [
+                    "キ",
+                    null
+                ],
+                [
+                    "ー",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Candidate key In the relational model of databases, a candidate key of ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "候",
+                "こう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname, Given name, gender not specified",
+                    "meaning": "1. Kou "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Kouichi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "候保",
+                "きみやす"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kimiyasu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "候",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. climate "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Climate Climate encompasses the statistics of temperature, humidi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "候",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. weather "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悪",
+                    "あく"
+                ],
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "候",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bad weather "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "立",
+                    "りっ"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. candidacy; standing as a candidate; bidding (to host an event, e.g. the Olympics) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "兆",
+                    "ちょう"
+                ],
+                [
+                    "候",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sign; indication; omen; symptom "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "徴候 【ちょうこう】、微候 【ちょうこう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "微候: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "居",
+                    "い"
+                ],
+                [
+                    "候",
+                    "そうろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. lodger who pays nothing for room and board; freeloader; sponger "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "変",
+                    "へん"
+                ],
+                [
+                    "動",
+                    "どう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. climate change "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Climate change Climate change is a significant and lasting change in the... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "立",
+                    "りっ"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. candidate (for an election) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "有",
+                    "ゆう"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. major contender; strong (leading) candidate; front runner "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "公",
+                    "こう"
+                ],
+                [
+                    "認",
+                    "にん"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. official candidate "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "統",
+                    "とう"
+                ],
+                [
+                    "領",
+                    "りょう"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. presidential candidate "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "優",
+                    "ゆう"
+                ],
+                [
+                    "勝",
+                    "しょう"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "補",
+                    "ほ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. favorite (top choice) for the championship (favourite); best bet for the title "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "測",
+                    "そっこうじょ"
+                ],
+                [
+                    "候",
+                    null
+                ],
+                [
+                    "所",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. weather measurement station "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Sokkoujo "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "症",
+                    "しょう"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "群",
+                    "ぐん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. syndrome Medicine"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "時",
+                    "じ"
+                ],
+                [
+                    "候",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. season; time of the year "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Jikou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "症",
+                    "しょう"
+                ],
+                [
+                    "候",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. symptoms "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. climatology "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Climatology Climatology (from Greek κλίμα, klima, \"place, zone\"; and ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "寒",
+                    "かん"
+                ],
+                [
+                    "帯",
+                    "たい"
+                ],
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "候",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. subarctic climate "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Subarctic climate ]] The subarctic climate (also called boreal climate) is ... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

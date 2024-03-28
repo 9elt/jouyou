@@ -1,0 +1,1624 @@
+{
+    "kanji": "先",
+    "grade": 1,
+    "jlpt": 5,
+    "meanings": [
+        "before",
+        "ahead",
+        "previous",
+        "future",
+        "precedence"
+    ],
+    "kun": [
+        "さき",
+        "ま.ず"
+    ],
+    "on": [
+        "セン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.34412844036697243,
+            0.1926605504587156,
+            "c",
+            0.0006422018348623854,
+            0.005688073394495413,
+            0.0013761467889908255,
+            0.014770642201834864,
+            -0.0012844036697247708,
+            0.02284403669724771,
+            "C",
+            0.32339449541284404,
+            0.2741284403669725,
+            0.29009174311926605,
+            0.3429357798165138,
+            0.22477064220183487,
+            0.41284403669724773
+        ],
+        [
+            "M",
+            0.34981651376146794,
+            0.29394495412844035,
+            "c",
+            0.013761467889908258,
+            0.0008256880733944953,
+            0.036238532110091745,
+            -0.0014678899082568807,
+            0.04256880733944954,
+            -0.002018348623853211,
+            "c",
+            0.059449541284403676,
+            -0.005229357798165137,
+            0.18678899082568806,
+            -0.01669724770642202,
+            0.25522935779816514,
+            -0.026972477064220183,
+            "c",
+            0.015137614678899082,
+            -0.0022935779816513763,
+            0.03357798165137615,
+            -0.0011926605504587156,
+            0.047339449541284405,
+            0.002477064220183486
+        ],
+        [
+            "M",
+            0.48449541284403674,
+            0.11357798165137616,
+            "c",
+            0.011743119266055046,
+            0.011743119266055046,
+            0.018440366972477064,
+            0.028623853211009177,
+            0.018440366972477064,
+            0.04357798165137615,
+            "c",
+            0,
+            0.006880733944954129,
+            -0.00045871559633027525,
+            0.29284403669724773,
+            -0.0006422018348623854,
+            0.3015596330275229
+        ],
+        [
+            "M",
+            0.1456880733944954,
+            0.48862385321100915,
+            "c",
+            0.031376146788990825,
+            0.008990825688073394,
+            0.06559633027522936,
+            0.0045871559633027525,
+            0.09743119266055045,
+            0.002018348623853211,
+            "c",
+            0.146697247706422,
+            -0.011926605504587157,
+            0.3577064220183486,
+            -0.03256880733944954,
+            0.5412844036697247,
+            -0.04036697247706422,
+            "c",
+            0.026972477064220183,
+            -0.0011926605504587156,
+            0.053577981651376144,
+            -0.0002752293577981651,
+            0.08027522935779817,
+            0.004311926605504587
+        ],
+        [
+            "M",
+            0.4144954128440367,
+            0.5108256880733945,
+            "c",
+            0.0029357798165137615,
+            0.01330275229357798,
+            0.0013761467889908255,
+            0.022752293577981652,
+            -0.0013761467889908255,
+            0.035321100917431195,
+            "C",
+            0.39669724770642206,
+            0.6206422018348624,
+            0.3211009174311927,
+            0.7946788990825688,
+            0.1834862385321101,
+            0.8842201834862385
+        ],
+        [
+            "M",
+            0.554954128440367,
+            0.4919266055045871,
+            "c",
+            0.009816513761467891,
+            0.009816513761467891,
+            0.012660550458715595,
+            0.024862385321100917,
+            0.012660550458715595,
+            0.04568807339449542,
+            "c",
+            0,
+            0.07137614678899083,
+            -0.002018348623853211,
+            0.1365137614678899,
+            -0.002018348623853211,
+            0.2008256880733945,
+            "c",
+            0,
+            0.13889908256880734,
+            0.010091743119266056,
+            0.1471559633027523,
+            0.14541284403669724,
+            0.1471559633027523,
+            "c",
+            0.13412844036697247,
+            0,
+            0.1434862385321101,
+            -0.0163302752293578,
+            0.1434862385321101,
+            -0.10357798165137613
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "先",
+                    "さき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. point; tip; end; nozzle 鉛筆の先が丸くなった。The point of the pencil has become dull."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. head (of a line); front "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. first; before; ahead (of) 二人の男のうち、背の高い方が先に出ていった。The taller of the two men went out first."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. (the way) ahead; beyond ここから先には行けません。You cannot go any farther."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "5. future 先の事など誰にも予想できない。You never can tell what'll happen in the future."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "6. previous; prior; former; recent; last "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "7. destination; address; place where you do something で、電話してみたらしいんだけど、その電話先の相手ってのが問題だったのよ。And so it seems she tried phoning but it's who was on the other end of that phone that was the problem."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. rest (e.g. of a story); continuation; remaining part それから先の話を聞きたい。I'd like to know the rest of the story."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. the other party "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "前 【さき】、先き 【さき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "先き: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. a short while ago; a moment ago; just now; some time ago Usually written using kana alone"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "先: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. former; previous; old "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. first move (in go, shogi, etc.); opening move "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. point; tip; end; nozzle 鉛筆の先が丸くなった。The point of the pencil has become dull."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. head (of a line); front "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. first; before; ahead (of) 二人の男のうち、背の高い方が先に出ていった。The taller of the two men went out first."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. (the way) ahead; beyond ここから先には行けません。You cannot go any farther."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "5. future 先の事など誰にも予想できない。You never can tell what'll happen in the future."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "6. previous; prior; former; recent; last "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "7. destination; address; place where you do something で、電話してみたらしいんだけど、その電話先の相手ってのが問題だったのよ。And so it seems she tried phoning but it's who was on the other end of that phone that was the problem."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. rest (e.g. of a story); continuation; remaining part それから先の話を聞きたい。I'd like to know the rest of the story."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. the other party "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "前 【さき】、先き 【さき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "先き: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "鉛筆",
+                            "えんぴつ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "先",
+                            "さき"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "丸く",
+                            "まる"
+                        ],
+                        [
+                            "なった",
+                            null
+                        ]
+                    ],
+                    "translation": "The point of the pencil has become dull."
+                },
+                {
+                    "sentence": [
+                        [
+                            "二人",
+                            "ふたり"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "男",
+                            "おとこ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "うち",
+                            null
+                        ],
+                        [
+                            "背の高い",
+                            "せのたか"
+                        ],
+                        [
+                            "方",
+                            "ほう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "先",
+                            "さき"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "出ていった",
+                            "でてい"
+                        ]
+                    ],
+                    "translation": "The taller of the two men went out first."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "先",
+                            "さき"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "行けません",
+                            "い"
+                        ]
+                    ],
+                    "translation": "You cannot go any farther."
+                },
+                {
+                    "sentence": [
+                        [
+                            "先",
+                            "さき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "事",
+                            "こと"
+                        ],
+                        [
+                            "など",
+                            null
+                        ],
+                        [
+                            "誰にも",
+                            "だれ"
+                        ],
+                        [
+                            "予想",
+                            "よそう"
+                        ],
+                        [
+                            "できない",
+                            null
+                        ]
+                    ],
+                    "translation": "You never can tell what'll happen in the future."
+                },
+                {
+                    "sentence": [
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "電話",
+                            "でんわ"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "みた",
+                            null
+                        ],
+                        [
+                            "らしい",
+                            null
+                        ],
+                        [
+                            "ん",
+                            null
+                        ],
+                        [
+                            "だけど",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "電話",
+                            "でんわ"
+                        ],
+                        [
+                            "先の",
+                            "さき"
+                        ],
+                        [
+                            "相手",
+                            "あいて"
+                        ],
+                        [
+                            "って",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "問題",
+                            "もんだい"
+                        ],
+                        [
+                            "だった",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "And so it seems she tried phoning but it's who was on the other end of that phone that was the problem."
+                },
+                {
+                    "sentence": [
+                        [
+                            "それから",
+                            null
+                        ],
+                        [
+                            "先の",
+                            "さき"
+                        ],
+                        [
+                            "話",
+                            "はなし"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "聞き",
+                            "き"
+                        ],
+                        [
+                            "たい",
+                            null
+                        ]
+                    ],
+                    "translation": "I'd like to know the rest of the story."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "生",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. teacher; instructor; master われわれの先生は真の意味で紳士です。Our teacher is a gentleman in the true sense of the word."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. sensei; title or form of address for a teacher, master, doctor, lawyer, etc. Honorific or respectful (sonkeigo) languageぼくはジョーンズ先生に作文を直してもらった。I had my composition corrected by Mr Jones."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. intimate or teasing form of address Familiar language, Jocular, humorous term"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. one's elder Archaic, orig. meaning"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Sensei Sensei is a Japanese word that is literally translated as... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. teacher; instructor; master われわれの先生は真の意味で紳士です。Our teacher is a gentleman in the true sense of the word."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. sensei; title or form of address for a teacher, master, doctor, lawyer, etc. Honorific or respectful (sonkeigo) languageぼくはジョーンズ先生に作文を直してもらった。I had my composition corrected by Mr Jones."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. intimate or teasing form of address Familiar language, Jocular, humorous term"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. one's elder Archaic, orig. meaning"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Sensei Sensei is a Japanese word that is literally translated as... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "われわれ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "先生",
+                            "せんせい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "真の",
+                            "しん"
+                        ],
+                        [
+                            "意味",
+                            "いみ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "紳士",
+                            "しんし"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "Our teacher is a gentleman in the true sense of the word."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ぼく",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "先生",
+                            "せんせい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "作文",
+                            "さくぶん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "直して",
+                            "なお"
+                        ],
+                        [
+                            "もらった",
+                            null
+                        ]
+                    ],
+                    "translation": "I had my composition corrected by Mr Jones."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "輩",
+                    "ぱい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. senior (at work or school); superior; elder; older graduate; progenitor; old-timer See also 後輩 こうはい"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Senpai and kōhai Senpai and kōhai and kōhai are an essential element of Ja... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. senior (at work or school); superior; elder; older graduate; progenitor; old-timer See also 後輩 こうはい"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Senpai and kōhai Senpai and kōhai and kōhai are an essential element of Ja... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "週",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. last week; the week before "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. last week; the week before "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "月",
+                    "げつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. last month "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. last month "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "祖",
+                    "ぞ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ancestor; forefather; foremother "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ancestor This article is about the concept of ancestry. For the we... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ancestor; forefather; foremother "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ancestor This article is about the concept of ancestry. For the we... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "日",
+                    "じつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. the other day; a few days ago "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. the other day; a few days ago "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "ま"
+                ],
+                [
+                    "ず",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. first (of all); firstly; to begin with; before anything else Usually written using kana aloneまず第一に私はジムを訪ねなければならない。First of all, I have to call on Jim."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. probably; most likely; almost certainly; virtually Usually written using kana aloneあのチームは、あるとしても、まず優勝の望みはない。That team has little, if any, chance of winning."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. more or less (satisfactory); on the whole; reasonably Usually written using kana alone"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "4. anyway; at any rate; for now (at least); for the time being Usually written using kana alone"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. first (of all); firstly; to begin with; before anything else Usually written using kana aloneまず第一に私はジムを訪ねなければならない。First of all, I have to call on Jim."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. probably; most likely; almost certainly; virtually Usually written using kana aloneあのチームは、あるとしても、まず優勝の望みはない。That team has little, if any, chance of winning."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. more or less (satisfactory); on the whole; reasonably Usually written using kana alone"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "4. anyway; at any rate; for now (at least); for the time being Usually written using kana alone"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "まず",
+                            null
+                        ],
+                        [
+                            "第一",
+                            "だいいち"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "訪ね",
+                            "たず"
+                        ],
+                        [
+                            "なければならない",
+                            null
+                        ]
+                    ],
+                    "translation": "First of all, I have to call on Jim."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あの",
+                            null
+                        ],
+                        [
+                            "チーム",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "としても",
+                            null
+                        ],
+                        [
+                            "まず",
+                            null
+                        ],
+                        [
+                            "優勝",
+                            "ゆうしょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "望み",
+                            "のぞ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ない",
+                            null
+                        ]
+                    ],
+                    "translation": "That team has little, if any, chance of winning."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "頭",
+                    "とう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. head (of a line, group, etc.); front; lead; forefront; vanguard "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. head (of a line, group, etc.); front; lead; forefront; vanguard "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "端",
+                    "たん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pointed end; tip; point; cusp (of a leaf, crescent moon, etc.); apex (of a curve) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. forefront; vanguard; spearhead; leading edge "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "尖端 【せんたん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. pointed end; tip; point; cusp (of a leaf, crescent moon, etc.); apex (of a curve) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. forefront; vanguard; spearhead; leading edge "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "尖端 【せんたん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "さき"
+                ],
+                [
+                    "ほ",
+                    null
+                ],
+                [
+                    "ど",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. a short while ago; a moment ago; just now; some time ago "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "先程 【さきほど】"
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. a short while ago; a moment ago; just now; some time ago "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "先程 【さきほど】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "行",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. going ahead; going first "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. preceding; coming before; being ahead (e.g. of the times); occurring first; happening prior 稲光は雷の音に先行する。The flash of lightning precedes the sound of thunder."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. scoring first; getting off to a lead Sports"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. stalker Horse racing"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. going ahead; going first "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. preceding; coming before; being ahead (e.g. of the times); occurring first; happening prior 稲光は雷の音に先行する。The flash of lightning precedes the sound of thunder."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. scoring first; getting off to a lead Sports"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. stalker Horse racing"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "稲光",
+                            "いなびかり"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "雷",
+                            "かみなり"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "音",
+                            "おと"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "先行",
+                            "せんこう"
+                        ],
+                        [
+                            "する",
+                            null
+                        ]
+                    ],
+                    "translation": "The flash of lightning precedes the sound of thunder."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. inborn; innate; inherent; congenital; hereditary Antonym: 後天的"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. a priori Philosophy, See also アプリオリ"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. inborn; innate; inherent; congenital; hereditary Antonym: 後天的"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. a priori Philosophy, See also アプリオリ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "だ",
+                    null
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. the other day; some time ago; recently "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "先達て 【せんだって】"
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. the other day; some time ago; recently "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "先達て 【せんだって】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "国",
+                    "こく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. advanced (developed) country; advanced nations "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Developed country A developed country or \"more developed country\" (MDC), is... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "例",
+                    "れい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. precedent "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Precedent Not to be confused with President, nor [the plural] with ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "さき"
+                ],
+                [
+                    "に",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. previously; before; earlier; formerly; recently "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. first; before (something or someone else); ahead (of); earlier 私が先にそこへ着くよ。I'll get there before you will."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. beforehand; in advance; ahead of time その情報は発表するより先に新聞に漏れた。The information was given away to the newspaper prior to the announcement."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "曩に 【さきに】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "先に",
+                            "さき"
+                        ],
+                        [
+                            "そこ",
+                            null
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "着く",
+                            "つ"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "I'll get there before you will."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "情報",
+                            "じょうほう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "発表",
+                            "はっぴょう"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "より",
+                            null
+                        ],
+                        [
+                            "先に",
+                            "さき"
+                        ],
+                        [
+                            "新聞",
+                            "しんぶん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "漏れた",
+                            "も"
+                        ]
+                    ],
+                    "translation": "The information was given away to the newspaper prior to the announcement."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "せん"
+                ],
+                [
+                    "進",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. advanced; developed "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. seniority; senior; superior; elder Antonym: 後進"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "先",
+                "あゆみ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Ayumi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "先",
+                "さき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name, Family or surname",
+                    "meaning": "1. Saki "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Sakizaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "祖",
+                    "そ"
+                ],
+                [
+                    "先",
+                    "せん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ancestor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "真",
+                    "ま"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "先",
+                    "さき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the head; the foremost; beginning; the very front "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "まっ先 【まっさき】、真先 【まっさき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "真先: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "ひと"
+                ],
+                [
+                    "先",
+                    "ま"
+                ],
+                [
+                    "ず",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. for now; for the time being; for the present Usually written using kana alone"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. though not quite satisfactorily; after a fashion Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "一先 【ひとまず】、一まず 【ひとまず】、ひと先ず 【ひとまず】、一と先ず 【ひとまず】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "先",
+                    "さき"
+                ],
+                [
+                    "に",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. before; previously Polite (teineigo) languageお先にどうぞ。After you."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. ahead Polite (teineigo) languageどうぞ、お先に！Go ahead!"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "3. pardon me for leaving (before you) Abbreviation, Polite (teineigo) language, See also お先に失礼します"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "お先に",
+                            "おさき"
+                        ],
+                        [
+                            "どうぞ",
+                            null
+                        ]
+                    ],
+                    "translation": "After you."
+                },
+                {
+                    "sentence": [
+                        [
+                            "どうぞ",
+                            null
+                        ],
+                        [
+                            "お先に",
+                            "おさき"
+                        ]
+                    ],
+                    "translation": "Go ahead!"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "優",
+                    "ゆう"
+                ],
+                [
+                    "先",
+                    "せん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. preference; priority; precedence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勤",
+                    "つと"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "先",
+                    "さき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. place of work "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

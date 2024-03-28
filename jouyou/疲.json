@@ -1,0 +1,1292 @@
+{
+    "kanji": "疲",
+    "grade": 10,
+    "jlpt": 3,
+    "meanings": [
+        "exhausted",
+        "tire",
+        "weary"
+    ],
+    "kun": [
+        "つか.れる",
+        "-づか.れ",
+        "つか.らす"
+    ],
+    "on": [
+        "ヒ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.5234862385321101,
+            0.13422018348623854,
+            "c",
+            0.01,
+            0.01,
+            0.011559633027522935,
+            0.021743119266055048,
+            0.011559633027522935,
+            0.033486238532110094,
+            "c",
+            0,
+            0.007247706422018349,
+            0.0007339449541284404,
+            0.0426605504587156,
+            -0.0006422018348623854,
+            0.08678899082568808
+        ],
+        [
+            "M",
+            0.24889908256880733,
+            0.275045871559633,
+            "c",
+            0.0263302752293578,
+            0.009357798165137614,
+            0.057798165137614675,
+            0.005688073394495413,
+            0.08486238532110092,
+            0.0029357798165137615,
+            "c",
+            0.13871559633027522,
+            -0.014128440366972478,
+            0.3044036697247706,
+            -0.028899082568807338,
+            0.4242201834862386,
+            -0.03706422018348624,
+            "c",
+            0.028256880733944955,
+            -0.001926605504587156,
+            0.05477064220183486,
+            -0.003119266055045872,
+            0.08256880733944955,
+            0.0028440366972477065
+        ],
+        [
+            "M",
+            0.27293577981651373,
+            0.2878899082568807,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.011376146788990826,
+            0.01944954128440367,
+            0.011376146788990826,
+            0.030917431192660553,
+            "c",
+            0,
+            0.28155963302752296,
+            -0.020550458715596333,
+            0.41743119266055045,
+            -0.15761467889908257,
+            0.5364220183486238
+        ],
+        [
+            "M",
+            0.12385321100917432,
+            0.3463302752293578,
+            "c",
+            0.02587155963302752,
+            0.017798165137614678,
+            0.06688073394495413,
+            0.07321100917431193,
+            0.07339449541284404,
+            0.10091743119266056
+        ],
+        [
+            "M",
+            0.09559633027522936,
+            0.6176146788990825,
+            "c",
+            0.011009174311926604,
+            0.005045871559633028,
+            0.018990825688073393,
+            0.004403669724770642,
+            0.03128440366972477,
+            -0.0028440366972477065,
+            "c",
+            0.05431192660550459,
+            -0.03220183486238532,
+            0.07614678899082569,
+            -0.044862385321100914,
+            0.11853211009174312,
+            -0.06889908256880733
+        ],
+        [
+            "M",
+            0.4110091743119266,
+            0.41284403669724773,
+            "c",
+            0.0077981651376146785,
+            0.0077981651376146785,
+            0.008623853211009174,
+            0.01944954128440367,
+            0.007706422018348624,
+            0.03669724770642202,
+            "C",
+            0.40935779816513757,
+            0.6341284403669725,
+            0.3853211009174312,
+            0.7614678899082569,
+            0.28091743119266055,
+            0.8494495412844038
+        ],
+        [
+            "M",
+            0.4288073394495413,
+            0.43394495412844036,
+            "c",
+            0.12394495412844037,
+            -0.024587155963302753,
+            0.23174311926605506,
+            -0.03834862385321101,
+            0.30853211009174314,
+            -0.042477064220183484,
+            "c",
+            0.07605504587155963,
+            -0.004128440366972477,
+            0.031009174311926603,
+            0.04201834862385321,
+            -0.0011009174311926604,
+            0.07449541284403668
+        ],
+        [
+            "M",
+            0.5773394495412844,
+            0.3119266055045872,
+            "c",
+            0.00834862385321101,
+            0.00834862385321101,
+            0.010550458715596329,
+            0.01834862385321101,
+            0.010550458715596329,
+            0.030458715596330274,
+            "c",
+            0,
+            0.0074311926605504595,
+            -0.0005504587155963302,
+            0.1428440366972477,
+            -0.0005504587155963302,
+            0.2171559633027523
+        ],
+        [
+            "M",
+            0.46275229357798164,
+            0.5881651376146789,
+            "c",
+            0.011743119266055046,
+            0.0025688073394495416,
+            0.02311926605504587,
+            0.003027522935779817,
+            0.04660550458715596,
+            -0.0009174311926605505,
+            "c",
+            0.02348623853211009,
+            -0.0039449541284403665,
+            0.17238532110091742,
+            -0.03752293577981651,
+            0.18853211009174312,
+            -0.04137614678899083,
+            "c",
+            0.01944954128440367,
+            -0.004678899082568807,
+            0.032844036697247704,
+            0.010183486238532111,
+            0.02201834862385321,
+            0.028623853211009177,
+            "c",
+            -0.07550458715596331,
+            0.12853211009174312,
+            -0.1981651376146789,
+            0.24091743119266057,
+            -0.3389908256880734,
+            0.3025688073394495
+        ],
+        [
+            "M",
+            0.47779816513761464,
+            0.6421100917431192,
+            "c",
+            0.03376146788990826,
+            0.00944954128440367,
+            0.16587155963302752,
+            0.12908256880733945,
+            0.2806422018348624,
+            0.19623853211009173,
+            "c",
+            0.02614678899082569,
+            0.015321100917431192,
+            0.05412844036697248,
+            0.031376146788990825,
+            0.08357798165137614,
+            0.039449541284403665
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to get tired; to tire; to get fatigued; to become exhausted; to grow weary そのとき、彼らは、ブラックベリーの林の周りをつかれて、のどがかわくまで競争して遊んでいました。Then they played \"ring-a-ring-a-rosy\" until they were tired and thirsty."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to become worn out (of a well-used object) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to starve Archaic"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to get tired; to tire; to get fatigued; to become exhausted; to grow weary そのとき、彼らは、ブラックベリーの林の周りをつかれて、のどがかわくまで競争して遊んでいました。Then they played \"ring-a-ring-a-rosy\" until they were tired and thirsty."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to become worn out (of a well-used object) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to starve Archaic"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "とき",
+                            null
+                        ],
+                        [
+                            "彼ら",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ブラックベリー",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "林",
+                            "はやし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "周り",
+                            "まわ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "つかれて",
+                            null
+                        ],
+                        [
+                            "のどがかわく",
+                            null
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "競争",
+                            "きょうそう"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "遊んでいました",
+                            "あそ"
+                        ]
+                    ],
+                    "translation": "Then they played \"ring-a-ring-a-rosy\" until they were tired and thirsty."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "ひ"
+                ],
+                [
+                    "労",
+                    "ろう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. fatigue; weariness; exhaustion; tiredness "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. fatigue (of metal, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Fatigue (medical) Fatigue (also called exhaustion, lethargy, languidness, l... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. fatigue; weariness; exhaustion; tiredness "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. fatigue (of metal, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Fatigue (medical) Fatigue (also called exhaustion, lethargy, languidness, l... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tiredness; fatigue "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "1. weariness (from); fatigue; tiredness; exhaustion See also 湯疲れ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. tiredness; fatigue "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "果",
+                    "は"
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to get tired out; to be exhausted "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to get tired out; to be exhausted "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be exhausted; to be tired out; to be worn out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "疲れ切る 【つかれきる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be exhausted; to be tired out; to be worn out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "疲れ切る 【つかれきる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "ひ"
+                ],
+                [
+                    "労",
+                    "ろう"
+                ],
+                [
+                    "感",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tired feeling; feeling of exhaustion; sense of fatigue; fatigability "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. tired feeling; feeling of exhaustion; sense of fatigue; fatigability "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "ひ"
+                ],
+                [
+                    "労",
+                    "ろう"
+                ],
+                [
+                    "困",
+                    "こん"
+                ],
+                [
+                    "憊",
+                    "ぱい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. total exhaustion Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "疲労困ぱい 【ひろうこんぱい】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. total exhaustion Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "疲労困ぱい 【ひろうこんぱい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. tiring easily; easy to tire "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "疲れ易い 【つかれやすい】"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. tiring easily; easy to tire "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "疲れ易い 【つかれやすい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "ひ"
+                ],
+                [
+                    "弊",
+                    "へい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. exhaustion; fatigue "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. impoverishment; (financial) exhaustion; ruin "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. exhaustion; fatigue "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. impoverishment; (financial) exhaustion; ruin "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to tire; to weary; to exhaust; to fatigue "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "ひ"
+                ],
+                [
+                    "憊",
+                    "はい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. exhaustion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痩",
+                    "や"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "男",
+                    "おとこ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. skinny man; shabby-looking man "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. noh mask representing a male ghost "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "疲男 【やせおとこ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "た",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun or verb acting prenominally",
+                    "meaning": "1. worn-out (as opposed to sleepy) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "目",
+                    "め"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. eye strain "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "ひ"
+                ],
+                [
+                    "労",
+                    "ろう"
+                ],
+                [
+                    "回",
+                    "かい"
+                ],
+                [
+                    "復",
+                    "ふく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. recovery from exhaustion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "果",
+                    "は"
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. being tired out "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "ひ"
+                ],
+                [
+                    "労",
+                    "ろう"
+                ],
+                [
+                    "骨",
+                    "こっ"
+                ],
+                [
+                    "折",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stress fracture "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Stress fracture This article is about stress fractures in bones. For stre... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to fatigue; to exhaust Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ru' ending",
+                    "meaning": "1. to relieve one's fatigue (e.g. by resting) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "疲れをとる 【つかれをとる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "様",
+                    "さま"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. thank you (for your hard work); good work 「おさきにしつれいします」「おつかれさまでした」\"I'm finished for the day.\" \"Much appreciated.\""
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "2. see you; goodbye; goodnight "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "お疲れさま 【おつかれさま】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "おさきにしつれいします",
+                            null
+                        ],
+                        [
+                            "おつかれさま",
+                            null
+                        ],
+                        [
+                            "でした",
+                            null
+                        ]
+                    ],
+                    "translation": "\"I'm finished for the day.\" \"Much appreciated.\""
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "金",
+                    "きん"
+                ],
+                [
+                    "属",
+                    "ぞく"
+                ],
+                [
+                    "疲",
+                    "ひ"
+                ],
+                [
+                    "労",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. metal fatigue "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fatigue (material) vte Materials failure modes Buckling · Corrosion · Creep ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "歩",
+                    "ある"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb",
+                    "meaning": "1. to be tired from walking "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "づ",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. mental fatigue; worry; boredom "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "気疲れ 【きづかれ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "慢",
+                    "まん"
+                ],
+                [
+                    "性",
+                    "せい"
+                ],
+                [
+                    "疲",
+                    "ひ"
+                ],
+                [
+                    "労",
+                    "ろう"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ],
+                [
+                    "候",
+                    "こう"
+                ],
+                [
+                    "群",
+                    "ぐん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chronic fatigue syndrome; CFS Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Chronic fatigue syndrome Chronic fatigue syndrome (CFS) is the most common name us... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "眼",
+                    "がん"
+                ],
+                [
+                    "精",
+                    "せい"
+                ],
+                [
+                    "疲",
+                    "ひ"
+                ],
+                [
+                    "労",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. eyestrain "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Asthenopia Asthenopia (aesthenopia) or eye strain is an ophthalmolog... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恋",
+                    "こい"
+                ],
+                [
+                    "疲",
+                    "づか"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. haggard from love "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "看",
+                    "かん"
+                ],
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. nursing fatigue "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "旅",
+                    "りょ"
+                ],
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "疲",
+                    "づか"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. travel fatigue "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湯",
+                    "ゆ"
+                ],
+                [
+                    "疲",
+                    "づか"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. weariness caused by prolonged hot bath "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "疲",
+                    "つか"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": null,
+                    "meaning": "1. thanks (for coming, helping, etc.); glad you could make it "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. tiredness; fatigue See also 疲れ つかれ"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

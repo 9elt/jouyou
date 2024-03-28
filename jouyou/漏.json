@@ -1,0 +1,1570 @@
+{
+    "kanji": "漏",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "leak",
+        "escape",
+        "time"
+    ],
+    "kun": [
+        "も.る",
+        "も.れる",
+        "も.らす"
+    ],
+    "on": [
+        "ロウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1846788990825688,
+            0.12155963302752294,
+            "c",
+            0.036788990825688074,
+            0.014678899082568808,
+            0.09504587155963302,
+            0.06055045871559633,
+            0.10431192660550458,
+            0.08339449541284404
+        ],
+        [
+            "M",
+            0.11238532110091744,
+            0.35091743119266056,
+            "c",
+            0.040458715596330276,
+            0.00926605504587156,
+            0.10458715596330276,
+            0.038256880733944953,
+            0.11467889908256881,
+            0.052752293577981654
+        ],
+        [
+            "M",
+            0.10550458715596331,
+            0.8071559633027523,
+            "c",
+            0.016055045871559634,
+            0.005871559633027523,
+            0.0255045871559633,
+            0.0029357798165137615,
+            0.03541284403669725,
+            -0.011467889908256881,
+            "C",
+            0.16972477064220184,
+            0.7538532110091744,
+            0.21229357798165138,
+            0.6796330275229358,
+            0.23853211009174313,
+            0.6261467889908257
+        ],
+        [
+            "M",
+            0.3847706422018348,
+            0.14853211009174314,
+            "c",
+            0.014311926605504588,
+            0.0074311926605504595,
+            0.03871559633027523,
+            0.010183486238532111,
+            0.05348623853211009,
+            0.008807339449541284,
+            "c",
+            0.07385321100917432,
+            -0.007064220183486239,
+            0.2569724770642202,
+            -0.029174311926605506,
+            0.3302752293577982,
+            -0.03697247706422019,
+            "c",
+            0.031192660550458714,
+            -0.0033027522935779813,
+            0.05431192660550459,
+            0.0023853211009174312,
+            0.0481651376146789,
+            0.03788990825688073,
+            "c",
+            -0.004862385321100918,
+            0.027889908256880733,
+            -0.01036697247706422,
+            0.04477064220183486,
+            -0.021100917431192658,
+            0.09385321100917432
+        ],
+        [
+            "M",
+            0.43009174311926607,
+            0.3069724770642202,
+            "c",
+            0.03165137614678899,
+            -0.0013761467889908255,
+            0.2261467889908257,
+            -0.02834862385321101,
+            0.32688073394495415,
+            -0.040458715596330276,
+            "c",
+            0.02669724770642202,
+            -0.0032110091743119264,
+            0.046697247706422015,
+            -0.005321100917431192,
+            0.0555045871559633,
+            -0.005688073394495413
+        ],
+        [
+            "M",
+            0.41339449541284407,
+            0.16192660550458715,
+            "c",
+            0.010458715596330274,
+            0.010458715596330274,
+            0.012018348623853212,
+            0.021559633027522937,
+            0.012018348623853212,
+            0.040458715596330276,
+            "c",
+            0,
+            0.17174311926605504,
+            -0.04091743119266055,
+            0.45605504587155965,
+            -0.15477064220183487,
+            0.573302752293578
+        ],
+        [
+            "M",
+            0.46816513761467893,
+            0.3967889908256881,
+            "c",
+            0.01862385321100917,
+            0.006238532110091744,
+            0.043486238532110096,
+            0.0037614678899082566,
+            0.06284403669724771,
+            0.0013761467889908255,
+            "c",
+            0.0571559633027523,
+            -0.006880733944954129,
+            0.15752293577981652,
+            -0.017064220183486238,
+            0.22706422018348624,
+            -0.024311926605504585,
+            "c",
+            0.02,
+            -0.0021100917431192663,
+            0.04477064220183486,
+            -0.0022935779816513763,
+            0.06385321100917431,
+            0
+        ],
+        [
+            "M",
+            0.4381651376146789,
+            0.5326605504587156,
+            "c",
+            0.008256880733944955,
+            0.008256880733944955,
+            0.009724770642201836,
+            0.017798165137614678,
+            0.009724770642201836,
+            0.03110091743119266,
+            "c",
+            0,
+            0.052752293577981654,
+            0.00009174311926605505,
+            0.16899082568807341,
+            0.00009174311926605505,
+            0.24577981651376146,
+            "c",
+            0,
+            0.03339449541284404,
+            -0.0007339449541284404,
+            0.047339449541284405,
+            -0.0007339449541284404,
+            0.05733944954128441
+        ],
+        [
+            "M",
+            0.4531192660550459,
+            0.5471559633027523,
+            "c",
+            0.0853211009174312,
+            -0.008715596330275228,
+            0.2972477064220183,
+            -0.030275229357798163,
+            0.37027522935779816,
+            -0.0373394495412844,
+            "c",
+            0.03394495412844037,
+            -0.0033027522935779813,
+            0.045871559633027525,
+            0.005963302752293578,
+            0.04577981651376147,
+            0.04064220183486238,
+            "c",
+            -0.0001834862385321101,
+            0.08348623853211008,
+            -0.001926605504587156,
+            0.1643119266055046,
+            -0.001926605504587156,
+            0.26339449541284404,
+            "c",
+            0,
+            0.09211009174311925,
+            -0.04155963302752294,
+            0.034770642201834866,
+            -0.06495412844036698,
+            0.021376146788990826
+        ],
+        [
+            "M",
+            0.6320183486238532,
+            0.4084403669724771,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.011467889908256881,
+            0.020458715596330276,
+            0.011467889908256881,
+            0.03669724770642202,
+            "c",
+            0,
+            0.005504587155963302,
+            -0.00009174311926605505,
+            0.23954128440366973,
+            -0.00009174311926605505,
+            0.35761467889908255,
+            "c",
+            0,
+            0.03385321100917431,
+            -0.00009174311926605505,
+            0.056330275229357796,
+            -0.00009174311926605505,
+            0.06073394495412844
+        ],
+        [
+            "M",
+            0.5137614678899083,
+            0.6111926605504587,
+            "c",
+            0.020825688073394497,
+            0.0076146788990825685,
+            0.049174311926605506,
+            0.03055045871559633,
+            0.06055045871559633,
+            0.04321100917431193
+        ],
+        [
+            "M",
+            0.5091743119266054,
+            0.7041284403669725,
+            "c",
+            0.01926605504587156,
+            0.007981651376146788,
+            0.04899082568807339,
+            0.03706422018348624,
+            0.05954128440366973,
+            0.05027522935779817
+        ],
+        [
+            "M",
+            0.7195412844036698,
+            0.5940366972477065,
+            "c",
+            0.02669724770642202,
+            0.012477064220183487,
+            0.056972477064220185,
+            0.03743119266055046,
+            0.06770642201834862,
+            0.047889908256880734
+        ],
+        [
+            "M",
+            0.7172477064220184,
+            0.6914678899082569,
+            "c",
+            0.016146788990825688,
+            0.007706422018348624,
+            0.0528440366972477,
+            0.042477064220183484,
+            0.06458715596330275,
+            0.059816513761467884
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to let leak; to let out (e.g. light) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to let out (a secret); to leak (information); to divulge; to disclose; to let slip 彼女は秘密をもらした。She let the secret out."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to give utterance to (e.g. one's dissatisfaction); to vent; to express; to reveal (e.g. one's true intentions); to let out (a sigh, etc.) 彼は自分の真意を漏らしてしまった。He gave away his real intention."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to wet one's pants "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "5. to omit; to leave out 学生たちは先生の言ったことをもらさず書き留めた。The students noted down every word the teacher said."
+                },
+                {
+                    "type": "Suffix, Godan verb with 'su' ending",
+                    "meaning": "6. to fail to do; to miss; to omit (by mistake); to forget to do after masu stem of verb"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "洩らす 【もらす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to let leak; to let out (e.g. light) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to let out (a secret); to leak (information); to divulge; to disclose; to let slip 彼女は秘密をもらした。She let the secret out."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to give utterance to (e.g. one's dissatisfaction); to vent; to express; to reveal (e.g. one's true intentions); to let out (a sigh, etc.) 彼は自分の真意を漏らしてしまった。He gave away his real intention."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to wet one's pants "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "5. to omit; to leave out 学生たちは先生の言ったことをもらさず書き留めた。The students noted down every word the teacher said."
+                },
+                {
+                    "type": "Suffix, Godan verb with 'su' ending",
+                    "meaning": "6. to fail to do; to miss; to omit (by mistake); to forget to do after masu stem of verb"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "洩らす 【もらす】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "秘密",
+                            "ひみつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "もらした",
+                            null
+                        ]
+                    ],
+                    "translation": "She let the secret out."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "真意",
+                            "しんい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "漏らして",
+                            "も"
+                        ],
+                        [
+                            "しまった",
+                            null
+                        ]
+                    ],
+                    "translation": "He gave away his real intention."
+                },
+                {
+                    "sentence": [
+                        [
+                            "学生",
+                            "がくせい"
+                        ],
+                        [
+                            "たち",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "先生",
+                            "せんせい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "言った",
+                            "い"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "もらさず",
+                            null
+                        ],
+                        [
+                            "書き留めた",
+                            "かきと"
+                        ]
+                    ],
+                    "translation": "The students noted down every word the teacher said."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to leak out; to escape; to come through; to shine through; to filter out "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to find expression; to give vent "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to leak out; to be divulged; to be disclosed "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to be omitted; to be left out; to be excluded; to be not included "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "洩れる 【もれる】"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to leak out; to escape; to come through; to shine through; to filter out "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to find expression; to give vent "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to leak out; to be divulged; to be disclosed "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to be omitted; to be left out; to be excluded; to be not included "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "洩れる 【もれる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to leak; to run out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "洩る 【もる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to leak; to run out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "洩る 【もる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "洩",
+                    "えい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. leak (of secrets, information, etc.); disclosure; divulging "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. leak (of gas, liquid, etc.); leakage; escape (of gas); coming through (of light) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漏えい 【ろうえい】、漏泄 【ろうえい】、漏洩 【ろうせつ】、漏泄 【ろうせつ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "漏泄: Rarely-used kanji form. 漏泄: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. leak (of secrets, information, etc.); disclosure; divulging "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. leak (of gas, liquid, etc.); leakage; escape (of gas); coming through (of light) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漏えい 【ろうえい】、漏泄 【ろうえい】、漏洩 【ろうせつ】、漏泄 【ろうせつ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "漏泄: Rarely-used kanji form. 漏泄: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. without omission; in full Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漏れ無く 【もれなく】"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. without omission; in full Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漏れ無く 【もれなく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "出",
+                    "しゅつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. leaking out; leakage; leak "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. leaking out; leakage; leak "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "話",
+                    "わ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cross talk "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Crosstalk (electronics) In electronics, crosstalk (XT) is any phenomenon by which... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. cross talk "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Crosstalk (electronics) In electronics, crosstalk (XT) is any phenomenon by which... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "電",
+                    "でん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. short circuit; leakage (of electricity); electrical fault "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Leakage (electronics) In electronics, leakage may refer to a gradual loss of en... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. short circuit; leakage (of electricity); electrical fault "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Leakage (electronics) In electronics, leakage may refer to a gradual loss of en... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろじんつう"
+                ],
+                [
+                    "尽",
+                    null
+                ],
+                [
+                    "通",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. extinction of contamination (one of the six supernormal Buddhist powers) Buddhism, See also 六神通"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "洩",
+                    "えい"
+                ],
+                [
+                    "電",
+                    "でん"
+                ],
+                [
+                    "流",
+                    "りゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. leakage current "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to leak out "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "刻",
+                    "こく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. water clock "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "聞",
+                    "き"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to overhear; to hear (secondhand); to hear on the grapevine; to know by hearsay "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "洩れ聞く 【もれきく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "水",
+                    "すい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. water leakage; water leak "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. leak; leakage "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. omission; oversight "
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "3. I; me Internet slang, See also 俺"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "洩れ 【もれ】、泄れ 【もれ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "泄れ: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. leak; leakage (of rain) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "電",
+                    "でん"
+                ],
+                [
+                    "流",
+                    "りゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. leakage current Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "話",
+                    "わ"
+                ],
+                [
+                    "結",
+                    "げつ"
+                ],
+                [
+                    "合",
+                    "ごう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. crosstalk coupling "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "斗",
+                    "と"
+                ],
+                [
+                    "胸",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. funnel chest; pectus excavatum "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漏斗胸 【ろときょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "入",
+                    "にゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. leaking in; leak; infiltration See also 漏出"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "漏斗口",
+                "じょうごぐち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Jougoguchi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "漏斗谷",
+                "しょごだん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Shogodan "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "漏水",
+                "もりみず"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Morimizu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "雨",
+                    "あま"
+                ],
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. roof leak "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "雨もり 【あまもり】、雨漏 【あまもり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "雨漏: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "聞",
+                    "き"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to fail to hear; to miss "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "聞きもらす 【ききもらす】、聞き洩らす 【ききもらす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "聞き洩らす: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "歯",
+                    "し"
+                ],
+                [
+                    "槽",
+                    "そう"
+                ],
+                [
+                    "膿",
+                    "のう"
+                ],
+                [
+                    "漏",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. periodontitis; pyorrhea; pyorrhoea; pyorrhea alveolaris; inflammation of the gingiva (gums) resulting in bone loss "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "秘",
+                    "ひ"
+                ],
+                [
+                    "密",
+                    "みつ"
+                ],
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "洩",
+                    "えい"
+                ],
+                [
+                    "罪",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (crime of) revealing state secrets; charge of revealing national security information "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "秘密漏洩罪 【ひみつろうせつざい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ガ",
+                    null
+                ],
+                [
+                    "ス",
+                    null
+                ],
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gas leak "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gas leak In common usage, a gas leak refers to a leak of natural g... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "秘",
+                    "ひ"
+                ],
+                [
+                    "密",
+                    "みつ"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'su' ending",
+                    "meaning": "1. to betray a secret; to reveal a secret See also 秘密を暴露する"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "網",
+                    "もう"
+                ],
+                [
+                    "恢",
+                    "かい"
+                ],
+                [
+                    "恢",
+                    "かい"
+                ],
+                [
+                    "疎",
+                    "そ"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "さ",
+                    null
+                ],
+                [
+                    "ず",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. heaven's net has large meshes, but nothing escapes Proverb, from Laozi天網恢恢疎にして漏らさずの言葉通り、天罰覿面だ。They say fate will catch up with you. That was God's way of punishing him."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "天網恢恢疎にして漏らさず",
+                            "てんもうかいかいそにしても"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "言葉",
+                            "ことば"
+                        ],
+                        [
+                            "通り",
+                            "とお"
+                        ],
+                        [
+                            "天罰覿面",
+                            "てんばつてきめん"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "They say fate will catch up with you. That was God's way of punishing him."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "早",
+                    "そう"
+                ],
+                [
+                    "漏",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. premature ejaculation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Premature ejaculation Premature ejaculation (PE) is a condition in which a man ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "遅",
+                    "ち"
+                ],
+                [
+                    "漏",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. late ejaculation; impotence See also 早漏"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Delayed ejaculation Delayed ejaculation is the inability to ejaculate or pers... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "機",
+                    "き"
+                ],
+                [
+                    "密",
+                    "みつ"
+                ],
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "洩",
+                    "えい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. leak of official secrets; leaking of confidential information "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "機密漏えい 【きみつろうえい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "水",
+                    "みず"
+                ],
+                [
+                    "漏",
+                    "も"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. (water) leak "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "水漏 【みずもれ】、水漏 【みずもり】、水漏り 【みずもり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "軍",
+                    "ぐん"
+                ],
+                [
+                    "機",
+                    "き"
+                ],
+                [
+                    "漏",
+                    "ろう"
+                ],
+                [
+                    "洩",
+                    "えい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. disclosure (leakage, betrayal) of military secrets "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "軍機漏えい 【ぐんきろうえい】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

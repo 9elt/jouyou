@@ -1,0 +1,1782 @@
+{
+    "kanji": "無",
+    "grade": 4,
+    "jlpt": null,
+    "meanings": [
+        "nothingness",
+        "none",
+        "ain't",
+        "nothing",
+        "nil",
+        "not"
+    ],
+    "kun": [
+        "な.い"
+    ],
+    "on": [
+        "ム",
+        "ブ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.3744954128440367,
+            0.11467889908256881,
+            "c",
+            0.00045871559633027525,
+            0.005504587155963302,
+            -0.002201834862385321,
+            0.016055045871559634,
+            -0.005504587155963302,
+            0.02192660550458716,
+            "C",
+            0.3302752293577982,
+            0.20642201834862386,
+            0.2787155963302752,
+            0.2787155963302752,
+            0.19724770642201836,
+            0.33522935779816515
+        ],
+        [
+            "M",
+            0.3532110091743119,
+            0.231651376146789,
+            "c",
+            0.010091743119266056,
+            0.0006422018348623854,
+            0.0226605504587156,
+            0.0005504587155963302,
+            0.03669724770642202,
+            -0.00045871559633027525,
+            "c",
+            0.10091743119266056,
+            -0.007522935779816513,
+            0.20752293577981654,
+            -0.02706422018348624,
+            0.28192660550458715,
+            -0.03981651376146789,
+            "c",
+            0.015688073394495412,
+            -0.002660550458715596,
+            0.03486238532110091,
+            -0.004678899082568807,
+            0.05064220183486238,
+            -0.0008256880733944953
+        ],
+        [
+            "M",
+            0.12155963302752294,
+            0.458256880733945,
+            "c",
+            0.02220183486238532,
+            0.004954128440366972,
+            0.06055045871559633,
+            0.005045871559633028,
+            0.08256880733944955,
+            0.002660550458715596,
+            "c",
+            0.14798165137614677,
+            -0.015963302752293577,
+            0.42091743119266056,
+            -0.03779816513761468,
+            0.6081651376146789,
+            -0.04568807339449542,
+            "c",
+            0.03688073394495413,
+            -0.001559633027522936,
+            0.05917431192660551,
+            0.0023853211009174312,
+            0.07770642201834863,
+            0.004862385321100918
+        ],
+        [
+            "M",
+            0.2946788990825688,
+            0.3532110091743119,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.012385321100917432,
+            0.020458715596330276,
+            0.013394495412844036,
+            0.02981651376146789,
+            "c",
+            0.003853211009174312,
+            0.03669724770642202,
+            0.01073394495412844,
+            0.12614678899082568,
+            0.017614678899082567,
+            0.22935779816513763
+        ],
+        [
+            "M",
+            0.4254128440366972,
+            0.3073394495412844,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.01330275229357798,
+            0.022752293577981652,
+            0.013394495412844036,
+            0.03211009174311927,
+            "c",
+            0.00045871559633027525,
+            0.07339449541284404,
+            0.001559633027522936,
+            0.11816513761467891,
+            0.006146788990825688,
+            0.26376146788990823
+        ],
+        [
+            "M",
+            0.5676146788990826,
+            0.29128440366972475,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.011559633027522935,
+            0.022752293577981652,
+            0.01110091743119266,
+            0.03211009174311927,
+            "c",
+            -0.004128440366972477,
+            0.08256880733944955,
+            -0.005321100917431192,
+            0.12844036697247707,
+            -0.012201834862385321,
+            0.27293577981651373
+        ],
+        [
+            "M",
+            0.7144036697247707,
+            0.2981651376146789,
+            "c",
+            0.0057798165137614675,
+            0.011467889908256881,
+            0.00834862385321101,
+            0.02642201834862385,
+            0.006513761467889908,
+            0.04128440366972477,
+            "c",
+            -0.0076146788990825685,
+            0.06192660550458716,
+            -0.021376146788990826,
+            0.16403669724770642,
+            -0.03513761467889908,
+            0.25
+        ],
+        [
+            "M",
+            0.1743119266055046,
+            0.6262385321100918,
+            "c",
+            0.026788990825688072,
+            0.004954128440366972,
+            0.05522935779816513,
+            0.004495412844036697,
+            0.07651376146788991,
+            0.002660550458715596,
+            "c",
+            0.12201834862385322,
+            -0.010458715596330274,
+            0.2701834862385321,
+            -0.02284403669724771,
+            0.5012844036697248,
+            -0.033211009174311926,
+            "c",
+            0.0355045871559633,
+            -0.001559633027522936,
+            0.056972477064220185,
+            0.0009174311926605505,
+            0.07477064220183487,
+            0.0047706422018348625
+        ],
+        [
+            "M",
+            0.21788990825688073,
+            0.7545871559633027,
+            "c",
+            -0.011467889908256881,
+            0.051559633027522936,
+            -0.052752293577981654,
+            0.11467889908256881,
+            -0.07568807339449542,
+            0.13302752293577982
+        ],
+        [
+            "M",
+            0.3602752293577982,
+            0.7323853211009174,
+            "c",
+            0.027889908256880733,
+            0.023577981651376145,
+            0.05431192660550459,
+            0.08844036697247706,
+            0.06137614678899083,
+            0.12504587155963304
+        ],
+        [
+            "M",
+            0.5377981651376147,
+            0.7209174311926605,
+            "c",
+            0.024862385321100917,
+            0.02165137614678899,
+            0.06431192660550458,
+            0.08908256880733946,
+            0.07045871559633027,
+            0.12275229357798166
+        ],
+        [
+            "M",
+            0.7455963302752293,
+            0.7232110091743119,
+            "c",
+            0.030917431192660553,
+            0.024128440366972478,
+            0.07981651376146788,
+            0.09908256880733946,
+            0.0875229357798165,
+            0.1365137614678899
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ]
+            ],
+            "common": false,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. nothing; naught; nought; nil; zero "
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "2. un-; non- "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "无 【む】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "无: Rarely-used kanji form."
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "1. un-; non- "
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "2. bad ...; poor ... "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "不 【ぶ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "料",
+                    "りょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. free (of charge); gratuitous Antonym: 有料"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gratis Gratis /ˈɡreɪtɨs/ is the process of providing goods or se... Read more"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. free (of charge); gratuitous Antonym: 有料"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gratis Gratis /ˈɡreɪtɨs/ is the process of providing goods or se... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "な"
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to lose (something) Usually written using kana alone彼女は新しい時計をなくした。She lost her new watch."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to get rid of; to eliminate; to remove; to eradicate; to abolish Usually written using kana aloneその国の財政の赤字をなくすには、もっと、たくさんの外国の援助を注ぎ込まなければならなかった。To get the nation's economy out of the red, more foreign aid had to be pumped in."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "失くす 【なくす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "失くす: Irregular kanji usage."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to lose (something) Usually written using kana alone彼女は新しい時計をなくした。She lost her new watch."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to get rid of; to eliminate; to remove; to eradicate; to abolish Usually written using kana aloneその国の財政の赤字をなくすには、もっと、たくさんの外国の援助を注ぎ込まなければならなかった。To get the nation's economy out of the red, more foreign aid had to be pumped in."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "失くす 【なくす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "失くす: Irregular kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "新しい",
+                            "あたら"
+                        ],
+                        [
+                            "時計",
+                            "とけい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "なくした",
+                            null
+                        ]
+                    ],
+                    "translation": "She lost her new watch."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "国",
+                            "くに"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "財政",
+                            "ざいせい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "赤字",
+                            "あかじ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "なくす",
+                            null
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "もっと",
+                            null
+                        ],
+                        [
+                            "たくさん",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "外国",
+                            "がいこく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "援助",
+                            "えんじょ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "注ぎ込ま",
+                            "そそぎこ"
+                        ],
+                        [
+                            "なければならなかった",
+                            null
+                        ]
+                    ],
+                    "translation": "To get the nation's economy out of the red, more foreign aid had to be pumped in."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. infinity; infinitude; eternity "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)",
+                    "meaning": "2. infinite; limitless "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Infinity Infinity refers to something without any limit, and is a ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. infinity; infinitude; eternity "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)",
+                    "meaning": "2. infinite; limitless "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Infinity Infinity refers to something without any limit, and is a ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "理",
+                    "り"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. unreasonable; unnatural; unjustifiable "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. impossible "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "3. forcible; forced; compulsory oft. adverbially as 〜に"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "4. excessive (work, etc.); immoderate "
+                },
+                {
+                    "type": "Suru verb, Intransitive verb",
+                    "meaning": "6. no way; not a chance; never; dream on Colloquial"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "7. irrational Mathematics"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ムリ"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. unreasonable; unnatural; unjustifiable "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. impossible "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "3. forcible; forced; compulsory oft. adverbially as 〜に"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "4. excessive (work, etc.); immoderate "
+                },
+                {
+                    "type": "Suru verb, Intransitive verb",
+                    "meaning": "6. no way; not a chance; never; dream on Colloquial"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "7. irrational Mathematics"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ムリ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "効",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. invalid; void; ineffective; unavailable Antonym: 有効"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Void (law) In law, void means of no legal effect. An action, documen... Read more"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. invalid; void; ineffective; unavailable Antonym: 有効"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Void (law) In law, void means of no legal effect. An action, documen... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "な"
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be lost (e.g. luggage); to be missing Usually written using kana aloneあなたの青いペンがなくなってしまいました。I misplaced your blue pen."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be used up; to be run out; to be exhausted; to be consumed; to be reduced to zero; to not occur any more Usually written using kana alone残り時間があまりなくなってきた。The sands are running out."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to disappear (e.g. pain); to be lost (e.g. a dream, confidence) Usually written using kana aloneやがてこの世から戦争がなくなる日がくるだろう。The day will soon come when there will be no more wars in the world."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be lost (e.g. luggage); to be missing Usually written using kana aloneあなたの青いペンがなくなってしまいました。I misplaced your blue pen."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be used up; to be run out; to be exhausted; to be consumed; to be reduced to zero; to not occur any more Usually written using kana alone残り時間があまりなくなってきた。The sands are running out."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to disappear (e.g. pain); to be lost (e.g. a dream, confidence) Usually written using kana aloneやがてこの世から戦争がなくなる日がくるだろう。The day will soon come when there will be no more wars in the world."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "青い",
+                            "あお"
+                        ],
+                        [
+                            "ペン",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "なくなって",
+                            null
+                        ],
+                        [
+                            "しまいました",
+                            null
+                        ]
+                    ],
+                    "translation": "I misplaced your blue pen."
+                },
+                {
+                    "sentence": [
+                        [
+                            "残り",
+                            "のこ"
+                        ],
+                        [
+                            "時間",
+                            "じかん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あまり",
+                            null
+                        ],
+                        [
+                            "なくなって",
+                            null
+                        ],
+                        [
+                            "きた",
+                            null
+                        ]
+                    ],
+                    "translation": "The sands are running out."
+                },
+                {
+                    "sentence": [
+                        [
+                            "やがて",
+                            null
+                        ],
+                        [
+                            "この世",
+                            "このよ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "戦争",
+                            "せんそう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "なくなる",
+                            null
+                        ],
+                        [
+                            "日",
+                            "ひ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "くる",
+                            null
+                        ],
+                        [
+                            "だろう",
+                            null
+                        ]
+                    ],
+                    "translation": "The day will soon come when there will be no more wars in the world."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. ignorance; innocence; stupidity "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ignorance Ignorance is a state of being uninformed. The word ignora... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "無智 【むち】"
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. ignorance; innocence; stupidity "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ignorance Ignorance is a state of being uninformed. The word ignora... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "無智 【むち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "口",
+                    "くち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. taciturn; reticent; quiet; silent; untalkative "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Halter A halter, headcollar, or, less often, headstall, is headg... Read more"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. taciturn; reticent; quiet; silent; untalkative "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Halter A halter, headcollar, or, less often, headstall, is headg... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    null
+                ],
+                [
+                    "駄",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. futility; waste; uselessness; pointlessness; idleness "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "徒 【むだ】、ムダ"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "無駄: Ateji (phonetic) reading."
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. futility; waste; uselessness; pointlessness; idleness "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "徒 【むだ】、ムダ"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "無駄: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "視",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. disregarding; ignoring "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. disregarding; ignoring "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "ぶ"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. safety; security; peace; quiet 彼の無事を知らされて、部長は安堵のため息をついた。Informed of his safety, the manager breathed a sigh of relief."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. safely; without incident; successfully See also 無事に積み荷は無事届きました。The shipment has reached us safely."
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "3. good health "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. inaction; ennui Obsolete term"
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. safety; security; peace; quiet 彼の無事を知らされて、部長は安堵のため息をついた。Informed of his safety, the manager breathed a sigh of relief."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. safely; without incident; successfully See also 無事に積み荷は無事届きました。The shipment has reached us safely."
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "3. good health "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. inaction; ennui Obsolete term"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "無事",
+                            "ぶじ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "知らされて",
+                            "し"
+                        ],
+                        [
+                            "部長",
+                            "ぶちょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "安堵",
+                            "あんど"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ため息をついた",
+                            "ためいき"
+                        ]
+                    ],
+                    "translation": "Informed of his safety, the manager breathed a sigh of relief."
+                },
+                {
+                    "sentence": [
+                        [
+                            "積み荷",
+                            "つみに"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "無事",
+                            "ぶじ"
+                        ],
+                        [
+                            "届きました",
+                            "とど"
+                        ]
+                    ],
+                    "translation": "The shipment has reached us safely."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "数",
+                    "すう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. innumerable; countless; numberless "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. innumerable; countless; numberless "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "線",
+                    "せん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. radio (communication) "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "2. wireless; not using wires Antonym: 有線"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "3. Musen "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. radio (communication) "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "2. wireless; not using wires Antonym: 有線"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "3. Musen "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "地",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. plain; unfigured; patternless; solid (color) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "駄",
+                    "だ"
+                ],
+                [
+                    "遣",
+                    "づか"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. waste (of money, time, etc.); squandering; frittering away "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "無駄使い 【むだづかい】、徒遣い 【むだづかい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "無駄使い: Irregular kanji usage. 徒遣い: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "断",
+                    "だん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a prefix",
+                    "meaning": "1. absence of permission; lack of permission "
+                },
+                {
+                    "type": "Noun, Noun, used as a prefix",
+                    "meaning": "2. absence of (advance) notice; lack of notice "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. useless; futile 電気のために、ろうそくは我々の生活にほとんど無用になった。Electricity made candles of little use in our life."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. unnecessary; needless あせって仕事を仕上げようとすれば、無用な間違いを犯す。When we rush to complete our work, we make needless errors."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "3. not on business; unrelated; unauthorised; unauthorized 無用の立ち入り禁止。No admittance except on business."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "4. prohibited; banned; forbidden "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "電気",
+                            "でんき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "ろうそく",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "我々",
+                            "われわれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "生活",
+                            "せいかつ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ほとんど",
+                            null
+                        ],
+                        [
+                            "無用",
+                            "むよう"
+                        ],
+                        [
+                            "になった",
+                            null
+                        ]
+                    ],
+                    "translation": "Electricity made candles of little use in our life."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あせって",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "仕上げよう",
+                            "しあ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "すれば",
+                            null
+                        ],
+                        [
+                            "無用な",
+                            "むよう"
+                        ],
+                        [
+                            "間違い",
+                            "まちが"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "犯す",
+                            "おか"
+                        ]
+                    ],
+                    "translation": "When we rush to complete our work, we make needless errors."
+                },
+                {
+                    "sentence": [
+                        [
+                            "無用の",
+                            "むよう"
+                        ],
+                        [
+                            "立ち入り禁止",
+                            "たちいりきんし"
+                        ]
+                    ],
+                    "translation": "No admittance except on business."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. of course; certainly; naturally See also 勿論 もちろん"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "無",
+                "のん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Non "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "無々",
+                "むむ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Mumu "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Muichi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "違",
+                    "ちが"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. sure; no mistaking it; for certain; without doubt oft. as に違いない"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "違い無い 【ちがいない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "間",
+                    "ま"
+                ],
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. soon; shortly; before long; in a short time; in a little while Usually written using kana aloneまもなくお会いできることを楽しみにしています。I am looking forward to seeing you soon."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. having no time to ...; with no time to ... after the dictionary form of a verb私は回復する間もなく別のひどい風邪にかかってしまった。I didn't have time to recover before I came down with another horrible cold."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "間も無く 【まもなく】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "まもなく",
+                            null
+                        ],
+                        [
+                            "お会い",
+                            "あ"
+                        ],
+                        [
+                            "できる",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "楽しみにしています",
+                            "たの"
+                        ]
+                    ],
+                    "translation": "I am looking forward to seeing you soon."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "回復",
+                            "かいふく"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "間もなく",
+                            "ま"
+                        ],
+                        [
+                            "別の",
+                            "べつ"
+                        ],
+                        [
+                            "ひどい",
+                            null
+                        ],
+                        [
+                            "風邪",
+                            "かぜ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "かかって",
+                            null
+                        ],
+                        [
+                            "しまった",
+                            null
+                        ]
+                    ],
+                    "translation": "I didn't have time to recover before I came down with another horrible cold."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "有",
+                    "う"
+                ],
+                [
+                    "無",
+                    "む"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. existence or nonexistence; presence or absence 排卵の有無を調べる方法はありますか？Is there some way to check for ovulation?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. consent or refusal; yes or no "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "有無 【ゆうむ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ゆうむ: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "排卵",
+                            "はいらん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "有無",
+                            "うむ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "調べる",
+                            "しら"
+                        ],
+                        [
+                            "方法",
+                            "ほうほう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "あります",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Is there some way to check for ovulation?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "申",
+                    "もう"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "訳",
+                    "わけ"
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. I'm sorry; (it's) inexcusable; I feel regretful; I feel guilty 申し訳ないけど、できません。I'm sorry, but it's impossible."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "2. thank you very much (for help, etc.) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "申し訳無い 【もうしわけない】、申しわけない 【もうしわけない】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "申し訳ない",
+                            "もうしわけ"
+                        ],
+                        [
+                            "けど",
+                            null
+                        ],
+                        [
+                            "できません",
+                            null
+                        ]
+                    ],
+                    "translation": "I'm sorry, but it's impossible."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. unexpected; contrary to expectations; by chance; casual "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い掛けない 【おもいがけない】、思い掛け無い 【おもいがけない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "勿",
+                    "もったい"
+                ],
+                [
+                    "体",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. wasteful; a waste Usually written using kana alone"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. too good; more than one deserves; unworthy of Usually written using kana alone"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. impious; profane; sacrilegious Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "勿体無い 【もったいない】、物体ない 【もったいない】、物体無い 【もったいない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なん"
+                ],
+                [
+                    "と",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. somehow or other; for some reason or another; without knowing why Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何となく 【なにとなく】、何と無く 【なんとなく】、何と無く 【なにとなく】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

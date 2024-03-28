@@ -1,0 +1,1835 @@
+{
+    "kanji": "限",
+    "grade": 5,
+    "jlpt": 3,
+    "meanings": [
+        "limit",
+        "restrict",
+        "to best of ability"
+    ],
+    "kun": [
+        "かぎ.る",
+        "かぎ.り",
+        "-かぎ.り"
+    ],
+    "on": [
+        "ゲン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.13990825688073394,
+            0.16055045871559634,
+            "c",
+            0.008256880733944955,
+            0.002018348623853211,
+            0.017614678899082567,
+            0.004403669724770642,
+            0.027522935779816515,
+            0.003027522935779817,
+            "c",
+            0.05963302752293578,
+            -0.008715596330275228,
+            0.1408256880733945,
+            -0.02568807339449541,
+            0.16440366972477066,
+            -0.03357798165137615,
+            "c",
+            0.027522935779816515,
+            -0.009174311926605505,
+            0.05045871559633028,
+            0.013761467889908258,
+            0.038256880733944953,
+            0.03513761467889908,
+            "C",
+            0.3577981651376147,
+            0.1865137614678899,
+            0.2920183486238532,
+            0.3043119266055046,
+            0.2706422018348624,
+            0.3348623853211009
+        ],
+        [
+            "M",
+            0.2706422018348624,
+            0.3348623853211009,
+            "c",
+            0.11926605504587157,
+            0.10321100917431193,
+            0.11357798165137616,
+            0.2958715596330275,
+            0.01073394495412844,
+            0.23853211009174313
+        ],
+        [
+            "M",
+            0.16394495412844037,
+            0.16972477064220184,
+            "c",
+            0.0045871559633027525,
+            0.0045871559633027525,
+            0.008807339449541284,
+            0.011467889908256881,
+            0.008807339449541284,
+            0.01834862385321101,
+            "c",
+            0,
+            0.008073394495412844,
+            0.0001834862385321101,
+            0.4556880733944954,
+            0.0002752293577981651,
+            0.6261467889908257,
+            "c",
+            0,
+            0.02706422018348624,
+            0,
+            0.04715596330275229,
+            0,
+            0.05733944954128441
+        ],
+        [
+            "M",
+            0.458256880733945,
+            0.15880733944954128,
+            "c",
+            0.01651376146788991,
+            0.008623853211009174,
+            0.046330275229357794,
+            0.0076146788990825685,
+            0.06009174311926605,
+            0.005045871559633028,
+            "c",
+            0.056972477064220185,
+            -0.01073394495412844,
+            0.13422018348623854,
+            -0.025045871559633028,
+            0.1811926605504587,
+            -0.03110091743119266,
+            "c",
+            0.0318348623853211,
+            -0.004128440366972477,
+            0.05082568807339449,
+            0.005321100917431192,
+            0.04807339449541285,
+            0.042844036697247706,
+            "c",
+            -0.003577981651376147,
+            0.04954128440366973,
+            -0.015688073394495412,
+            0.1355045871559633,
+            -0.024220183486238535,
+            0.19706422018348624,
+            "c",
+            -0.001834862385321101,
+            0.013394495412844036,
+            -0.0034862385321100917,
+            0.025596330275229357,
+            -0.004862385321100918,
+            0.03605504587155964
+        ],
+        [
+            "M",
+            0.4843119266055046,
+            0.2963302752293578,
+            "c",
+            0.08908256880733946,
+            -0.017614678899082567,
+            0.17394495412844038,
+            -0.030275229357798163,
+            0.24155963302752292,
+            -0.03495412844036697
+        ],
+        [
+            "M",
+            0.4841284403669725,
+            0.4201834862385321,
+            "C",
+            0.5779816513761468,
+            0.4036697247706422,
+            0.6322935779816514,
+            0.3956880733944954,
+            0.7111009174311927,
+            0.38697247706422017
+        ],
+        [
+            "M",
+            0.458256880733945,
+            0.15880733944954128,
+            "c",
+            0.010275229357798166,
+            0.010275229357798166,
+            0.014678899082568808,
+            0.02238532110091743,
+            0.014678899082568808,
+            0.034678899082568805,
+            "c",
+            0,
+            0.01165137614678899,
+            0.00009174311926605505,
+            0.5656880733944953,
+            0.00009174311926605505,
+            0.615137614678899,
+            "c",
+            0,
+            0.02568807339449541,
+            0.005504587155963302,
+            0.04449541284403669,
+            0.03422018348623853,
+            0.024678899082568807,
+            "s",
+            0.0753211009174312,
+            -0.05577981651376147,
+            0.12559633027522935,
+            -0.09816513761467889
+        ],
+        [
+            "M",
+            0.8131192660550458,
+            0.40256880733944955,
+            "c",
+            0.0011926605504587156,
+            0.01036697247706422,
+            0.0001834862385321101,
+            0.020275229357798165,
+            -0.00944954128440367,
+            0.02944954128440367,
+            "c",
+            -0.03853211009174312,
+            0.03697247706422019,
+            -0.0891743119266055,
+            0.07376146788990826,
+            -0.12321100917431192,
+            0.09238532110091743
+        ],
+        [
+            "M",
+            0.5573394495412844,
+            0.48623853211009177,
+            "c",
+            0.037614678899082564,
+            0,
+            0.1961467889908257,
+            0.19495412844036697,
+            0.2377981651376147,
+            0.23770642201834863,
+            "c",
+            0.036146788990825685,
+            0.03706422018348624,
+            0.05577981651376147,
+            0.05477064220183486,
+            0.07981651376146788,
+            0.0673394495412844
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. end; finish; place to stop Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bound; limit; end Usually written using kana alone, See also 切りがない"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. delivery date (of a futures contract) Finance, Only applies to 限り, Only applies to 限"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. finale (of a noh song); end of an act (in jōruri or kabuki); final performance of the day (in vaudeville) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. trump card "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. king (court card; in mekuri karuta and unsun karuta) Card games"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "7. counter for slices (esp. thick slices); counter for cuts (of fish, meat, etc.) 彼はそこに行ったきり２度と帰ってこなかった。He went there, never to return."
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "8. only; just Usually written using kana alone, See also っきり, sometimes pronounced ぎり彼は３８歳なのに両親に頼りきりです。Though 38, he is still dependent on his parents."
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "9. (ever) since; after Usually written using kana alone, usu. in a negative sentence; sometimes pronounced ぎり"
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "10. continuously; remaining (in a particular state) Usually written using kana alone, sometimes pronounced ぎり"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "限り 【きり】、切 【きり】、限 【きり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "切: Irregular okurigana usage. 限: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. end; finish; place to stop Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bound; limit; end Usually written using kana alone, See also 切りがない"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. delivery date (of a futures contract) Finance, Only applies to 限り, Only applies to 限"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. finale (of a noh song); end of an act (in jōruri or kabuki); final performance of the day (in vaudeville) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. trump card "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. king (court card; in mekuri karuta and unsun karuta) Card games"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "7. counter for slices (esp. thick slices); counter for cuts (of fish, meat, etc.) 彼はそこに行ったきり２度と帰ってこなかった。He went there, never to return."
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "8. only; just Usually written using kana alone, See also っきり, sometimes pronounced ぎり彼は３８歳なのに両親に頼りきりです。Though 38, he is still dependent on his parents."
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "9. (ever) since; after Usually written using kana alone, usu. in a negative sentence; sometimes pronounced ぎり"
+                },
+                {
+                    "type": "Particle",
+                    "meaning": "10. continuously; remaining (in a particular state) Usually written using kana alone, sometimes pronounced ぎり"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "限り 【きり】、切 【きり】、限 【きり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "切: Irregular okurigana usage. 限: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "そこ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "行った",
+                            "い"
+                        ],
+                        [
+                            "きり",
+                            null
+                        ],
+                        [
+                            "２度と",
+                            "にど"
+                        ],
+                        [
+                            "帰ってこなかった",
+                            "かえ"
+                        ]
+                    ],
+                    "translation": "He went there, never to return."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "歳な",
+                            "さい"
+                        ],
+                        [
+                            "のに",
+                            null
+                        ],
+                        [
+                            "両親",
+                            "りょうしん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "頼り",
+                            "たよ"
+                        ],
+                        [
+                            "きり",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "Though 38, he is still dependent on his parents."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "かぎ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to restrict; to limit; to confine "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be restricted to; to be limited to; to be confined to "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to be best (for); to be the best plan; to be the only way (to) as ...は...に限る暑い日は冷たいビールに限る。There is nothing like cold beer on a hot day."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to restrict; to limit; to confine "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be restricted to; to be limited to; to be confined to "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to be best (for); to be the best plan; to be the only way (to) as ...は...に限る暑い日は冷たいビールに限る。There is nothing like cold beer on a hot day."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "暑い",
+                            "あつ"
+                        ],
+                        [
+                            "日",
+                            "ひ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "冷たい",
+                            "つめ"
+                        ],
+                        [
+                            "ビール",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "限る",
+                            "かぎ"
+                        ]
+                    ],
+                    "translation": "There is nothing like cold beer on a hot day."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "界",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. limit; bound "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. limit; bound "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "度",
+                    "ど"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. limit; bounds "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. limit; bounds "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "定",
+                    "てい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. limit; restriction "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. limit; restriction "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "かぎ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. limit; limits; bounds 彼の好奇心には限りがなかった。His curiosity knew no bounds."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. degree; extent; scope 私の力が及ぶ限り援助します。I'll help you to the best of my ability."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. the end; the last アキラはお金の続く限りニューヨークに滞在するだろう。Akira will stay in New York while his money lasts."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "4. as long as ...; as far as ...; as much as ...; to the limits of ...; all of ... after an adjective, verb, or noun汚さない限り、この本を持ち帰ってもいいですよ。You may take this book as long as you keep it clean."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "5. unless ... after neg. verbもっと勉強しない限り落第しますよ。You will fail unless you work harder."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. (not) included in ...; (not) part of ... usu. as 〜の限りではない"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. being very much (in a certain state); extreme amount (of a feeling, etc.) usu. adj+限り"
+                },
+                {
+                    "type": "Noun, used as a suffix, Noun, Adverb (fukushi)",
+                    "meaning": "8. ... only (e.g. \"one time only\", \"today only\") "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. end of one's life; final moments; death Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. funeral; burial Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. limit; limits; bounds 彼の好奇心には限りがなかった。His curiosity knew no bounds."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. degree; extent; scope 私の力が及ぶ限り援助します。I'll help you to the best of my ability."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. the end; the last アキラはお金の続く限りニューヨークに滞在するだろう。Akira will stay in New York while his money lasts."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "4. as long as ...; as far as ...; as much as ...; to the limits of ...; all of ... after an adjective, verb, or noun汚さない限り、この本を持ち帰ってもいいですよ。You may take this book as long as you keep it clean."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "5. unless ... after neg. verbもっと勉強しない限り落第しますよ。You will fail unless you work harder."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. (not) included in ...; (not) part of ... usu. as 〜の限りではない"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. being very much (in a certain state); extreme amount (of a feeling, etc.) usu. adj+限り"
+                },
+                {
+                    "type": "Noun, used as a suffix, Noun, Adverb (fukushi)",
+                    "meaning": "8. ... only (e.g. \"one time only\", \"today only\") "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. end of one's life; final moments; death Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. funeral; burial Archaic"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "好奇心",
+                            "こうきしん"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "限り",
+                            "かぎ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "なかった",
+                            null
+                        ]
+                    ],
+                    "translation": "His curiosity knew no bounds."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "力",
+                            "ちから"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "及ぶ",
+                            "およ"
+                        ],
+                        [
+                            "限り",
+                            "かぎ"
+                        ],
+                        [
+                            "援助",
+                            "えんじょ"
+                        ],
+                        [
+                            "します",
+                            null
+                        ]
+                    ],
+                    "translation": "I'll help you to the best of my ability."
+                },
+                {
+                    "sentence": [
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "お金",
+                            "おかね"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "続く",
+                            "つづ"
+                        ],
+                        [
+                            "限り",
+                            "かぎ"
+                        ],
+                        [
+                            "ニューヨーク",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "滞在",
+                            "たいざい"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "だろう",
+                            null
+                        ]
+                    ],
+                    "translation": "Akira will stay in New York while his money lasts."
+                },
+                {
+                    "sentence": [
+                        [
+                            "汚さない",
+                            "よご"
+                        ],
+                        [
+                            "限り",
+                            "かぎ"
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "持ち帰って",
+                            "もちかえ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "いい",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "You may take this book as long as you keep it clean."
+                },
+                {
+                    "sentence": [
+                        [
+                            "もっと",
+                            null
+                        ],
+                        [
+                            "勉強",
+                            "べんきょう"
+                        ],
+                        [
+                            "しない",
+                            null
+                        ],
+                        [
+                            "限り",
+                            "かぎ"
+                        ],
+                        [
+                            "落第",
+                            "らくだい"
+                        ],
+                        [
+                            "します",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "You will fail unless you work harder."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. limited; limiting; restrictive "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. restrictive (use) Linguistics不定詞の形容詞的用法には２種類あり、①限定用法、②叙述用法。②はもちろん主格補語です。There are two ways of using the infinitive as an adjective, 1. attributive, 2. predicative. Naturally 2. is a subject complement."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "不定詞",
+                            "ふていし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "形容詞",
+                            "けいようし"
+                        ],
+                        [
+                            "的",
+                            "てき"
+                        ],
+                        [
+                            "用法",
+                            "ようほう"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "種類",
+                            "しゅるい"
+                        ],
+                        [
+                            "あり",
+                            null
+                        ],
+                        [
+                            "限定用法",
+                            "げんていようほう"
+                        ],
+                        [
+                            "叙述用法",
+                            "じょじゅつようほう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "もちろん",
+                            null
+                        ],
+                        [
+                            "主格補語",
+                            "しゅかくほご"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "There are two ways of using the infinitive as an adjective, 1. attributive, 2. predicative. Naturally 2. is a subject complement."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "かぎ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "あ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun or verb acting prenominally",
+                    "meaning": "1. finite; limited; restricted "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "限り有る 【かぎりある】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "ぎ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "限",
+                    "ぎ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun, Adverb (fukushi)",
+                    "meaning": "1. just barely; only just; at the very limit; at the last moment Onomatopoeic or mimetic word, Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ギリギリ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "度",
+                    "ど"
+                ],
+                [
+                    "額",
+                    "がく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. limit (amount, e.g. on credit card, loan, expenditure) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "かぎ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. unlimited; endless; boundless; infinite "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "限り無い 【かぎりない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "度",
+                    "ど"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "超",
+                    "こ"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to go beyond the limit; to pass the limit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "界",
+                    "かい"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. critical situation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Limit situation Limit situation describes certain situations in which a h... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "界",
+                    "かい"
+                ],
+                [
+                    "効",
+                    "こう"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. marginal utility "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Marginal utility In economics, the marginal utility of a good or service i... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "界",
+                    "かい"
+                ],
+                [
+                    "利",
+                    "り"
+                ],
+                [
+                    "益",
+                    "えき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. marginal profit; marginal income Finance, See also 限界利潤"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Contribution margin In cost-volume-profit analysis, a form of management acco... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "界",
+                    "かい"
+                ],
+                [
+                    "費",
+                    "ひ"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. marginal cost "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Marginal cost In economics and finance, marginal cost is the change in ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "詞",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. determiner; qualifier; determinative Grammar"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Determiner (linguistics) A determiner is a noun-modifier that expresses the refere... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "げん"
+                ],
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "戦",
+                    "せん"
+                ],
+                [
+                    "争",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. limited war "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Limited war A limited war is a conflict in which the belligerents par... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "限",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "無",
+                    "な"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. boundlessness; endlessness; infinity usu. used adverbially as 限り無しに"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. incessantness; continuousness "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "限無し 【きりなし】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "限無し: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "限",
+                "さちよ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sachiyo "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Sakai "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "限三",
+                "げんぞう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Genzou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. infinity; infinitude; eternity "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)",
+                    "meaning": "2. infinite; limitless "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Infinity Infinity refers to something without any limit, and is a ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "権",
+                    "けん"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. power; authority; jurisdiction "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ultra vires Ultra vires is a Latin phrase meaning literally \"beyond t... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "制",
+                    "せい"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. restriction; restraint; limitation; limit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. term; period; time frame "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. time limit; deadline; cutoff (date) See also 期限切れすべてのレポートは期限を守って提出されなければならない。All essays must be handed in on time."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "すべての",
+                            null
+                        ],
+                        [
+                            "レポート",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "期限",
+                            "きげん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "守って",
+                            "まも"
+                        ],
+                        [
+                            "提出",
+                            "ていしゅつ"
+                        ],
+                        [
+                            "され",
+                            null
+                        ],
+                        [
+                            "なければならない",
+                            null
+                        ]
+                    ],
+                    "translation": "All essays must be handed in on time."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "賞",
+                    "しょう"
+                ],
+                [
+                    "味",
+                    "み"
+                ],
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. best-before date (on food); use-by date; expiry date; expiration date "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shelf life Shelf life is the length of time that foods, beverages, p... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "最",
+                    "さい"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. maximum Antonym: 最小限"
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. to the maximum degree; to the full "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "最",
+                    "さい"
+                ],
+                [
+                    "小",
+                    "しょう"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. minimum; lowest; minimal; least Antonym: 最大限"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "最少限 【さいしょうげん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "最少限: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "際",
+                    "さい"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. limits; end; bounds "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "時",
+                    "じ"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. (school) period １時限は何の授業ですか。What do you have the first period?"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. period or division of time; time limit "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "時限",
+                            "じげん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "何の",
+                            "なん"
+                        ],
+                        [
+                            "授業",
+                            "じゅぎょう"
+                        ],
+                        [
+                            "ですか",
+                            null
+                        ]
+                    ],
+                    "translation": "What do you have the first period?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "最",
+                    "さい"
+                ],
+                [
+                    "低",
+                    "てい"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. minimum "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. at the very least "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "制",
+                    "せい"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. unlimited; unrestricted; limitless "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "見",
+                    "み"
+                ],
+                [
+                    "限",
+                    "かぎ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to give up on; to turn one's back on; to abandon; to forsake; to desert; to leave "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "産",
+                    "さん"
+                ],
+                [
+                    "児",
+                    "じ"
+                ],
+                [
+                    "制",
+                    "せい"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. birth control "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "門",
+                    "もん"
+                ],
+                [
+                    "限",
+                    "げん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. closing time; lockup; curfew "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

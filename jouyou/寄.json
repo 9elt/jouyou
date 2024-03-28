@@ -1,0 +1,1849 @@
+{
+    "kanji": "寄",
+    "grade": 5,
+    "jlpt": 3,
+    "meanings": [
+        "draw near",
+        "stop in",
+        "bring near",
+        "gather",
+        "collect",
+        "send",
+        "forward"
+    ],
+    "kun": [
+        "よ.る",
+        "-よ.り",
+        "よ.せる"
+    ],
+    "on": [
+        "キ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.4805504587155964,
+            0.09807339449541284,
+            "c",
+            0.01,
+            0.01,
+            0.013394495412844036,
+            0.024678899082568807,
+            0.013394495412844036,
+            0.03577981651376147,
+            "c",
+            0,
+            0.028256880733944955,
+            -0.00045871559633027525,
+            0.03504587155963303,
+            -0.0003669724770642202,
+            0.060825688073394495
+        ],
+        [
+            "M",
+            0.24880733944954128,
+            0.2144954128440367,
+            "c",
+            0.00009174311926605505,
+            0.026788990825688072,
+            -0.02834862385321101,
+            0.10110091743119266,
+            -0.04128440366972477,
+            0.11926605504587157
+        ],
+        [
+            "M",
+            0.2537614678899083,
+            0.2311926605504587,
+            "c",
+            0.09366972477064221,
+            -0.016788990825688074,
+            0.3884403669724771,
+            -0.04889908256880734,
+            0.4798165137614679,
+            -0.05302752293577982,
+            "c",
+            0.08568807339449541,
+            -0.003853211009174312,
+            0.020550458715596333,
+            0.055963302752293574,
+            -0.0006422018348623854,
+            0.07192660550458715
+        ],
+        [
+            "M",
+            0.30587155963302753,
+            0.3287155963302752,
+            "c",
+            0.014403669724770642,
+            0.0028440366972477065,
+            0.030642201834862385,
+            0.00009174311926605505,
+            0.044954128440366975,
+            -0.0013761467889908255,
+            "c",
+            0.07137614678899083,
+            -0.007522935779816513,
+            0.1718348623853211,
+            -0.024311926605504585,
+            0.2444954128440367,
+            -0.03165137614678899,
+            "c",
+            0.01908256880733945,
+            -0.001926605504587156,
+            0.037981651376146786,
+            -0.002752293577981651,
+            0.0571559633027523,
+            -0.002752293577981651
+        ],
+        [
+            "M",
+            0.4694495412844037,
+            0.23394495412844038,
+            "c",
+            0.002477064220183486,
+            0.0032110091743119264,
+            0.004220183486238533,
+            0.013761467889908258,
+            0.003669724770642202,
+            0.020550458715596333,
+            "C",
+            0.4644036697247706,
+            0.3543119266055046,
+            0.40825688073394495,
+            0.4368807339449541,
+            0.31798165137614676,
+            0.46788990825688076
+        ],
+        [
+            "M",
+            0.4851376146788991,
+            0.3463302752293578,
+            "c",
+            0.055412844036697245,
+            0.020275229357798165,
+            0.11954128440366972,
+            0.05302752293577982,
+            0.15339449541284403,
+            0.08330275229357799
+        ],
+        [
+            "M",
+            0.13192660550458715,
+            0.5169724770642202,
+            "c",
+            0.0363302752293578,
+            0.010091743119266056,
+            0.07862385321100918,
+            0.004862385321100918,
+            0.1153211009174312,
+            0,
+            "c",
+            0.15605504587155966,
+            -0.020458715596330276,
+            0.346605504587156,
+            -0.04229357798165138,
+            0.5175229357798165,
+            -0.054220183486238534,
+            "c",
+            0.03853211009174312,
+            -0.002660550458715596,
+            0.07550458715596331,
+            -0.0033944954128440367,
+            0.1136697247706422,
+            0.003027522935779817
+        ],
+        [
+            "M",
+            0.2569724770642202,
+            0.6135779816513761,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.012844036697247705,
+            0.014403669724770642,
+            0.014587155963302753,
+            0.024954128440366975,
+            "c",
+            0.007706422018348624,
+            0.04559633027522936,
+            0.014770642201834864,
+            0.08009174311926606,
+            0.020917431192660547,
+            0.11339449541284403,
+            "c",
+            0.002201834862385321,
+            0.012110091743119267,
+            0.004403669724770642,
+            0.024036697247706424,
+            0.006422018348623853,
+            0.036238532110091745
+        ],
+        [
+            "M",
+            0.2778899082568807,
+            0.6268807339449541,
+            "c",
+            0.07146788990825688,
+            -0.012293577981651376,
+            0.14779816513761468,
+            -0.0255045871559633,
+            0.1946788990825688,
+            -0.03165137614678899,
+            "c",
+            0.02981651376146789,
+            -0.0039449541284403665,
+            0.04339449541284404,
+            0.005688073394495413,
+            0.03715596330275229,
+            0.03110091743119266,
+            "c",
+            -0.0077981651376146785,
+            0.031376146788990825,
+            -0.0181651376146789,
+            0.06055045871559633,
+            -0.030091743119266053,
+            0.10110091743119266
+        ],
+        [
+            "M",
+            0.30752293577981654,
+            0.7620183486238532,
+            "c",
+            0.04862385321100917,
+            -0.007889908256880733,
+            0.10091743119266056,
+            -0.015504587155963302,
+            0.15688073394495414,
+            -0.021743119266055048,
+            "c",
+            0.012568807339449543,
+            -0.0013761467889908255,
+            0.02522935779816514,
+            -0.002752293577981651,
+            0.0381651376146789,
+            -0.0039449541284403665
+        ],
+        [
+            "M",
+            0.6510091743119265,
+            0.5011926605504587,
+            "c",
+            0.01165137614678899,
+            0.01165137614678899,
+            0.016146788990825688,
+            0.0263302752293578,
+            0.016146788990825688,
+            0.04541284403669725,
+            "c",
+            0,
+            0.11990825688073395,
+            -0.00009174311926605505,
+            0.2765137614678899,
+            -0.00009174311926605505,
+            0.31733944954128446,
+            "c",
+            0,
+            0.07642201834862386,
+            -0.06844036697247706,
+            0.012385321100917432,
+            -0.08220183486238533,
+            0.002018348623853211
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "寄",
+                    "き"
+                ],
+                [
+                    "付",
+                    "ふ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. contribution; donation "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kifu "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Donation A donation is a gift given by physical or legal persons, ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄附 【きふ】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. contribution; donation "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kifu "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Donation A donation is a gift given by physical or legal persons, ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄附 【きふ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to approach; to draw near; to come near; to be close to "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to gather (in one place); to come together; to meet "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to stop by (while on one's way to another place); to drop by; to make a short visit "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to grow old; to grow high (number, etc.) See also 年が寄る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to grow (wrinkly) in the form of しわが寄る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to lean against; to recline on also written as 倚る, 凭る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to push one's opponent while holding their belt Sumo"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to decide on a price and come to a deal "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "9. to be swayed by (a person); to yield to Archaic"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to approach; to draw near; to come near; to be close to "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to gather (in one place); to come together; to meet "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to stop by (while on one's way to another place); to drop by; to make a short visit "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to grow old; to grow high (number, etc.) See also 年が寄る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to grow (wrinkly) in the form of しわが寄る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to lean against; to recline on also written as 倚る, 凭る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to push one's opponent while holding their belt Sumo"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to decide on a price and come to a deal "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "9. to be swayed by (a person); to yield to Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to come near; to let someone approach 道の脇に寄せてください。Pull over to the side, please."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to bring near; to bring together; to collect; to gather いすをもっと火の近くに寄せなさい。Draw your chair closer to the fire."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to deliver (opinion, news, etc.); to send (e.g. a letter); to contribute; to donate 誤字・誤訳のご指摘等は下記メールアドレスよりお寄せください。Please send reports of mistypings and mistranslations to the email address below."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to let someone drop by "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to add (numbers) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to have feelings for (love, goodwill, trust, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to rely upon for a time; to depend on "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to use as a pretext "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "9. to put aside "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "10. to press; to push; to force "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "11. to include; to welcome (in a group); to let in Kansai dialect"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to come near; to let someone approach 道の脇に寄せてください。Pull over to the side, please."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to bring near; to bring together; to collect; to gather いすをもっと火の近くに寄せなさい。Draw your chair closer to the fire."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to deliver (opinion, news, etc.); to send (e.g. a letter); to contribute; to donate 誤字・誤訳のご指摘等は下記メールアドレスよりお寄せください。Please send reports of mistypings and mistranslations to the email address below."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to let someone drop by "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to add (numbers) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to have feelings for (love, goodwill, trust, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to rely upon for a time; to depend on "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to use as a pretext "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "9. to put aside "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "10. to press; to push; to force "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "11. to include; to welcome (in a group); to let in Kansai dialect"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "道",
+                            "みち"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "脇",
+                            "わき"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "寄せて",
+                            "よ"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Pull over to the side, please."
+                },
+                {
+                    "sentence": [
+                        [
+                            "いす",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "もっと",
+                            null
+                        ],
+                        [
+                            "火",
+                            "ひ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "近く",
+                            "ちか"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "寄せ",
+                            "よ"
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "Draw your chair closer to the fire."
+                },
+                {
+                    "sentence": [
+                        [
+                            "誤字",
+                            "ごじ"
+                        ],
+                        [
+                            "誤訳",
+                            "ごやく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ご",
+                            null
+                        ],
+                        [
+                            "指摘",
+                            "してき"
+                        ],
+                        [
+                            "等",
+                            "など"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "下記",
+                            "かき"
+                        ],
+                        [
+                            "メールアドレス",
+                            null
+                        ],
+                        [
+                            "より",
+                            null
+                        ],
+                        [
+                            "お寄せ",
+                            "よ"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Please send reports of mistypings and mistranslations to the email address below."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "越",
+                    "こ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to send; to forward Usually written using kana alone洗濯物を持っていくために誰かよこしてくださいますか。Could you send someone up to pick up some laundry?"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to hand over (e.g. money) Usually written using kana alone誰か助けをよこしてください。Is there someone who could help me?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "遣す 【よこす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "遣す: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to send; to forward Usually written using kana alone洗濯物を持っていくために誰かよこしてくださいますか。Could you send someone up to pick up some laundry?"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to hand over (e.g. money) Usually written using kana alone誰か助けをよこしてください。Is there someone who could help me?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "遣す 【よこす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "遣す: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "洗濯物",
+                            "せんたくもの"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "持っていく",
+                            "も"
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "誰か",
+                            "だれ"
+                        ],
+                        [
+                            "よこして",
+                            null
+                        ],
+                        [
+                            "くださいます",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Could you send someone up to pick up some laundry?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "誰か",
+                            "だれ"
+                        ],
+                        [
+                            "助け",
+                            "たす"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "よこして",
+                            null
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Is there someone who could help me?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "き"
+                ],
+                [
+                    "与",
+                    "よ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. contribution; service "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. contribution; service "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "き"
+                ],
+                [
+                    "贈",
+                    "ぞう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. donation; presentation; gift "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄贈 【きそう】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. donation; presentation; gift "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄贈 【きそう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to lean against; to recline on; to lean on "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to rely on; to depend on "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄り掛かる 【よりかかる】、凭り掛かる 【よりかかる】、倚り懸かる 【よりかかる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "凭り掛かる: Rarely-used kanji form. 倚り懸かる: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to lean against; to recline on; to lean on "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to rely on; to depend on "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄り掛かる 【よりかかる】、凭り掛かる 【よりかかる】、倚り懸かる 【よりかかる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "凭り掛かる: Rarely-used kanji form. 倚り懸かる: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "き"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. calling at a port "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. making an intermediate stop at an airport Only applies to 寄航"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄航 【きこう】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. calling at a port "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. making an intermediate stop at an airport Only applies to 寄航"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄航 【きこう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "道",
+                    "みち"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. dropping in on the way; stopping off at; making a side trip "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. going the long way round; making a detour "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄道 【よりみち】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. dropping in on the way; stopping off at; making a side trip "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. going the long way round; making a detour "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄道 【よりみち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "集",
+                    "あつ"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. mishmash; miscellany; medley; jumble; mixture; odds and ends "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄集め 【よせあつめ】"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. mishmash; miscellany; medley; jumble; mixture; odds and ends "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄集め 【よせあつめ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "添",
+                    "そ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to get close; to cuddle close together; to nestle close to; to snuggle up to "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄りそう 【よりそう】、寄添う 【よりそう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "き"
+                ],
+                [
+                    "稿",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. contribution (e.g. to newspaper) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "き"
+                ],
+                [
+                    "宿",
+                    "しゅく"
+                ],
+                [
+                    "舎",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. boarding house; residence hall; dormitory "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pushing back one's opponent while locked in close quarters Sumo"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. having a tendency towards; being close to 彼は保守寄りだ。He is conservative to a degree."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "保守",
+                            "ほしゅ"
+                        ],
+                        [
+                            "寄り",
+                            "よ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "He is conservative to a degree."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "目",
+                    "め"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. crossed eyes; convergent strabismus Colloquial, See also 内斜視"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄目 【よりめ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "き"
+                ],
+                [
+                    "生",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. parasitism "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Parasitism Parasitism is a type of non mutual relationship between o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "木",
+                    "ぎ"
+                ],
+                [
+                    "細",
+                    "ざい"
+                ],
+                [
+                    "工",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wooden mosaic work; parquetry; wooden mosaic (e.g. on a piece of furniture); marquetry; marqueterie "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Parquetry Parquetry is a geometric mosaic of wood pieces used for d... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄木細工 【よせぎざいく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "せ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. last moves (in go, shogi, or chess); endgame "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. gathering; collecting; coming together "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "き"
+                ],
+                [
+                    "生",
+                    "せい"
+                ],
+                [
+                    "虫",
+                    "ちゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. parasite "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "よせ"
+                ],
+                [
+                    "席",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. entertainment hall (for rakugo, manzai, magic, music, etc.); vaudeville theater (theatre); music hall "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄席 【よせせき】、寄せ席 【よせせき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "寄",
+                "たかより"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Takayori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "寄",
+                "はまより"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Hamayori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "寄",
+                "やどりき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Yadoriki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "年",
+                    "とし"
+                ],
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. old person; elderly person; senior citizen Sensitive目が見えない看護婦は年寄りの世話をすることに一身を捧げた。The blind nurse devoted herself to caring for the elderly."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. trustee of the Japan Sumo Association; retired high-ranking wrestler who is licensed to coach and receives retirement pay Sumo"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. senior statesman (of the Tokugawa shogunate) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. important local official (under the Tokugawa Shogunate) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Toshiyori A toshiyori (年寄) is a sumo elder of the Japan Sumo Associ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "年寄 【としより】、年より 【としより】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "目が見えない",
+                            "めがみ"
+                        ],
+                        [
+                            "看護婦",
+                            "かんごふ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "年寄り",
+                            "としよ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "世話をする",
+                            "せわ"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "一身",
+                            "いっしん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "捧げた",
+                            "ささ"
+                        ]
+                    ],
+                    "translation": "The blind nurse devoted herself to caring for the elderly."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "近",
+                    "ちか"
+                ],
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to approach; to draw near "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "近よる 【ちかよる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偏",
+                    "かたよ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to lean (to one side); to incline "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be unbalanced (e.g. diet); to be unduly weighted towards; to be concentrated on ハンバーガーばかり食べていると、栄養が偏るよ。Your diet is going to be really unbalanced if all you eat is hamburgers."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to be partial; to be biased; to be prejudiced ２桁のＩＱがある人間なら誰でも、この選択が政治的に偏ったものだって分かってるよ。Anybody with at least a two-digit IQ knows this was a politically biased choice."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "片寄る 【かたよる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ハンバーガー",
+                            null
+                        ],
+                        [
+                            "ばかり",
+                            null
+                        ],
+                        [
+                            "食べている",
+                            "たべ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "栄養",
+                            "えいよう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "偏る",
+                            "かたよ"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "Your diet is going to be really unbalanced if all you eat is hamburgers."
+                },
+                {
+                    "sentence": [
+                        [
+                            "２桁",
+                            "ふたけた"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "人間",
+                            "にんげん"
+                        ],
+                        [
+                            "なら",
+                            null
+                        ],
+                        [
+                            "誰でも",
+                            "だれ"
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "選択",
+                            "せんたく"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "政治的に",
+                            "せいじてき"
+                        ],
+                        [
+                            "偏った",
+                            "かたよ"
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "って",
+                            null
+                        ],
+                        [
+                            "分かってる",
+                            "わか"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "Anybody with at least a two-digit IQ knows this was a politically biased choice."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "立",
+                    "た"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to drop in (at); to drop by; to call at; to stop by; to stop off; to stop in "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "立寄る 【たちよる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to order; to send away for; to have (something) sent to one "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to pull (something) closer "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取寄せる 【とりよせる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "押",
+                    "お"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to advance on; to close in; to march on; to descend on (the enemy); to move towards; to surge forward (crowd, wave of nostalgia, wave, etc.); to rush for (the door); to inundate; to overwhelm; to push aside "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "押寄せる 【おしよせる】、押しよせる 【おしよせる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "最",
+                    "もよ"
+                ],
+                [
+                    "寄",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. nearest; closest "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Moyori "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "最寄 【もより】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "最寄: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "歩",
+                    "あゆ"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to compromise; to meet halfway "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to step up to; to walk up to; to approach "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "歩みよる 【あゆみよる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "耳",
+                    "みみ"
+                ],
+                [
+                    "よ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. welcome (news); inviting; encouraging; tempting; hopeful "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "耳寄り 【みみより】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "忍",
+                    "しの"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to creep; to steal up; to draw near unnoticed "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "忍びよる 【しのびよる】、しのび寄る 【しのびよる】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

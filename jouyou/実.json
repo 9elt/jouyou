@@ -1,0 +1,1298 @@
+{
+    "kanji": "実",
+    "grade": 3,
+    "jlpt": 3,
+    "meanings": [
+        "reality",
+        "truth",
+        "seed",
+        "fruit",
+        "nut"
+    ],
+    "kun": [
+        "み",
+        "みの.る",
+        "まこと",
+        "みの",
+        "みち.る"
+    ],
+    "on": [
+        "ジツ",
+        "シツ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.4820183486238532,
+            0.10321100917431193,
+            "c",
+            0.01073394495412844,
+            0.01073394495412844,
+            0.01688073394495413,
+            0.025137614678899085,
+            0.01669724770642202,
+            0.034403669724770644,
+            "c",
+            -0.0007339449541284404,
+            0.028990825688073395,
+            -0.0007339449541284404,
+            0.06467889908256881,
+            -0.0007339449541284404,
+            0.09110091743119265
+        ],
+        [
+            "M",
+            0.24431192660550458,
+            0.24568807339449542,
+            "c",
+            0,
+            0.02587155963302752,
+            -0.0363302752293578,
+            0.12467889908256881,
+            -0.04660550458715596,
+            0.14192660550458716
+        ],
+        [
+            "M",
+            0.2479816513761468,
+            0.2613761467889908,
+            "c",
+            0.15339449541284403,
+            -0.017155963302752295,
+            0.403394495412844,
+            -0.04302752293577982,
+            0.5159633027522936,
+            -0.04862385321100917,
+            "c",
+            0.08247706422018349,
+            -0.004128440366972477,
+            0.03889908256880734,
+            0.04064220183486238,
+            -0.007889908256880733,
+            0.0736697247706422
+        ],
+        [
+            "M",
+            0.3211009174311927,
+            0.39266055045871556,
+            "c",
+            0.016055045871559634,
+            0.004128440366972477,
+            0.03357798165137615,
+            0.0034862385321100917,
+            0.04963302752293578,
+            0.0016513761467889907,
+            "c",
+            0.059816513761467884,
+            -0.006880733944954129,
+            0.18944954128440367,
+            -0.019724770642201832,
+            0.2495412844036697,
+            -0.025412844036697246,
+            "c",
+            0.01669724770642202,
+            -0.001559633027522936,
+            0.030917431192660553,
+            -0.002018348623853211,
+            0.04715596330275229,
+            0.001926605504587156
+        ],
+        [
+            "M",
+            0.30045871559633025,
+            0.5059633027522936,
+            "c",
+            0.020642201834862386,
+            0.004311926605504587,
+            0.04385321100917432,
+            0.002201834862385321,
+            0.06302752293577982,
+            0.0006422018348623854,
+            "C",
+            0.43119266055045874,
+            0.5011009174311927,
+            0.5504587155963303,
+            0.4897247706422019,
+            0.6329357798165137,
+            0.48256880733944957,
+            "c",
+            0.022110091743119266,
+            -0.001926605504587156,
+            0.04477064220183486,
+            -0.0022935779816513763,
+            0.06660550458715596,
+            0.002477064220183486
+        ],
+        [
+            "M",
+            0.21788990825688073,
+            0.6366972477064221,
+            "c",
+            0.02981651376146789,
+            0.005504587155963302,
+            0.04981651376146789,
+            0.004311926605504587,
+            0.07220183486238532,
+            0.002018348623853211,
+            "c",
+            0.09100917431192661,
+            -0.00926605504587156,
+            0.30779816513761465,
+            -0.030733944954128442,
+            0.41743119266055045,
+            -0.036238532110091745,
+            "c",
+            0.02614678899082569,
+            -0.0012844036697247708,
+            0.053302752293577976,
+            -0.003853211009174312,
+            0.07908256880733944,
+            0.001834862385321101
+        ],
+        [
+            "M",
+            0.4795412844036698,
+            0.2889908256880734,
+            "c",
+            0.011926605504587157,
+            0.011926605504587157,
+            0.016055045871559634,
+            0.028715596330275227,
+            0.016788990825688074,
+            0.04642201834862385,
+            "C",
+            0.5126605504587156,
+            0.7304587155963304,
+            0.4036697247706422,
+            0.8084403669724771,
+            0.22018348623853212,
+            0.8967889908256881
+        ],
+        [
+            "M",
+            0.4908256880733945,
+            0.6422018348623854,
+            "c",
+            0.08486238532110092,
+            0.07568807339449542,
+            0.20366972477064219,
+            0.17724770642201834,
+            0.26788990825688075,
+            0.2261467889908257,
+            "c",
+            0.0218348623853211,
+            0.016605504587155963,
+            0.049724770642201835,
+            0.023669724770642202,
+            0.07155963302752294,
+            0.028440366972477066
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "実",
+                    "じつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. truth; reality 生物は、実がついにそのうちの１つにわかり始めるまで、３０億年以上の間、全くその理由を知らずに地球上に存在していた。Living organisms had existed on earth, without ever knowing why, for over three thousand million years before the truth finally dawned on one of them."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. sincerity; honesty; fidelity Only applies to じつ"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. content; substance Only applies to じつ名を捨てて実を取る。Profit is better than fame."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "4. (good) result Only applies to じつ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "実 【じち】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. fruit; nut 男の子たちが、私の柿の木になっている熟した実を全部持ち去ってしまった。Some boys made away with all the ripe fruits on my persimmon tree."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. seed "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. (in broth) pieces of meat, vegetable, etc. "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. content; substance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "子 【み】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. seed (of a fruit); pit; pip; stone See also 核 かく"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. tongue (projecting strip on a board that fits into a groove on another board) Architecture, See also さねはぎ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. clitoris See also 陰核"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. core; kernel; heart Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "核 【さね】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "生物",
+                            "せいぶつ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "実",
+                            "じつ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ついに",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "うちの",
+                            null
+                        ],
+                        [
+                            "１つ",
+                            "ひと"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "わかり",
+                            null
+                        ],
+                        [
+                            "始める",
+                            "はじ"
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "億",
+                            "おく"
+                        ],
+                        [
+                            "年",
+                            "ねん"
+                        ],
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "間",
+                            "あいだ"
+                        ],
+                        [
+                            "全く",
+                            "まった"
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "理由",
+                            "りゆう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "知らず",
+                            "し"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "地球上",
+                            "ちきゅうじょう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "存在",
+                            "そんざい"
+                        ],
+                        [
+                            "していた",
+                            null
+                        ]
+                    ],
+                    "translation": "Living organisms had existed on earth, without ever knowing why, for over three thousand million years before the truth finally dawned on one of them."
+                },
+                {
+                    "sentence": [
+                        [
+                            "名",
+                            "な"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "捨てて",
+                            "す"
+                        ],
+                        [
+                            "実",
+                            "じつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取る",
+                            "と"
+                        ]
+                    ],
+                    "translation": "Profit is better than fame."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "誠",
+                    "まこと"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. truth; reality; fact 嘘から出た誠。Many a true word is spoken in jest."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. sincerity; honesty; faithfulness; good faith 手八丁口八丁の彼だけど、誠がないのが玉に疵だね。He works fast and is very articulate but his insincerity is his biggest defect."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. indeed; really; absolutely; truly; actually; very; quite Dated term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "真 【まこと】、実 【まこと】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "嘘",
+                            "うそ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "出た",
+                            "で"
+                        ],
+                        [
+                            "誠",
+                            "まこと"
+                        ]
+                    ],
+                    "translation": "Many a true word is spoken in jest."
+                },
+                {
+                    "sentence": [
+                        [
+                            "手八丁口八丁",
+                            "てはっちょうくちはっちょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "けど",
+                            null
+                        ],
+                        [
+                            "誠",
+                            "まこと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ない",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "玉に疵",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "He works fast and is very articulate but his insincerity is his biggest defect."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "正",
+                    "そうじみ"
+                ],
+                [
+                    "身",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the real person; said person Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. real thing; genuine article Only applies to むざね"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "正身 【ただみ】、正身 【むざね】、直身 【そうじみ】、直身 【ただみ】、直身 【むざね】、実 【そうじみ】、実 【ただみ】、実 【むざね】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じっ"
+                ],
+                [
+                    "験",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. experiment; experimentation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Experiment An experiment is a methodical trial and error procedure c... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. experiment; experimentation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Experiment An experiment is a methodical trial and error procedure c... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じつ"
+                ],
+                [
+                    "業",
+                    "ぎょう"
+                ],
+                [
+                    "家",
+                    "か"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. businessman; entrepreneur; captain of industry "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Businessperson A businessperson (also businessman, business man, or busi... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. businessman; entrepreneur; captain of industry "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Businessperson A businessperson (also businessman, business man, or busi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じっ"
+                ],
+                [
+                    "践",
+                    "せん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. practice; putting into practice; implementation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. praxis Philosophy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Praxis (process) Praxis is the process by which a theory, lesson, or skill... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. practice; putting into practice; implementation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. praxis Philosophy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Praxis (process) Praxis is the process by which a theory, lesson, or skill... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じっ"
+                ],
+                [
+                    "行",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. execution (e.g. of a plan); carrying out; (putting into) practice; action; implementation; fulfillment; realization "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. execution (of a program); run Computing"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. execution (e.g. of a plan); carrying out; (putting into) practice; action; implementation; fulfillment; realization "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. execution (of a program); run Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じっ"
+                ],
+                [
+                    "際",
+                    "さい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. reality; actuality; truth; fact; actual conditions この物語は実際の出来事に基づいている。This story is based on actual events."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. practice (as opposed to theory) 理論と実際とは必ずしも一致しない。Theory and practice do not necessarily go together."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. truly; really; indeed; actually 人間は実際自然のなすがままである。Man is indeed at the mercy of nature."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. bhutakoti (limit of reality) Buddhism"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. reality; actuality; truth; fact; actual conditions この物語は実際の出来事に基づいている。This story is based on actual events."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. practice (as opposed to theory) 理論と実際とは必ずしも一致しない。Theory and practice do not necessarily go together."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. truly; really; indeed; actually 人間は実際自然のなすがままである。Man is indeed at the mercy of nature."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. bhutakoti (limit of reality) Buddhism"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "物語",
+                            "ものがたり"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "実際の",
+                            "じっさい"
+                        ],
+                        [
+                            "出来事",
+                            "できごと"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "基づいている",
+                            "もと"
+                        ]
+                    ],
+                    "translation": "This story is based on actual events."
+                },
+                {
+                    "sentence": [
+                        [
+                            "理論",
+                            "りろん"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "実際",
+                            "じっさい"
+                        ],
+                        [
+                            "とは",
+                            null
+                        ],
+                        [
+                            "必ずしも",
+                            "かなら"
+                        ],
+                        [
+                            "一致",
+                            "いっち"
+                        ],
+                        [
+                            "しない",
+                            null
+                        ]
+                    ],
+                    "translation": "Theory and practice do not necessarily go together."
+                },
+                {
+                    "sentence": [
+                        [
+                            "人間",
+                            "にんげん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "実際",
+                            "じっさい"
+                        ],
+                        [
+                            "自然",
+                            "しぜん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "なすがまま",
+                            null
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "Man is indeed at the mercy of nature."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じつ"
+                ],
+                [
+                    "は",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. as a matter of fact; by the way; to tell you the truth; to be honest; frankly "
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. as a matter of fact; by the way; to tell you the truth; to be honest; frankly "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じつ"
+                ],
+                [
+                    "現",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. implementation (e.g. of a system); materialization; materialisation; realization; realisation; actualization; actualisation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. implementation (e.g. of a system); materialization; materialisation; realization; realisation; actualization; actualisation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じっ"
+                ],
+                [
+                    "施",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. enforcement; implementation; putting into practice; carrying out; operation; working (e.g. working parameters); enactment "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. enforcement; implementation; putting into practice; carrying out; operation; working (e.g. working parameters); enactment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "誠",
+                    "まこと"
+                ],
+                [
+                    "に",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. indeed; really; absolutely; truly; actually; very; quite See also 実に じつに"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "真に 【まことに】、寔に 【まことに】、洵に 【まことに】、真に 【しんに】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "寔に: Rarely-used kanji form. 洵に: Rarely-used kanji form."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. indeed; really; absolutely; truly; actually; very; quite See also 実に じつに"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "真に 【まことに】、寔に 【まことに】、洵に 【まことに】、真に 【しんに】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "寔に: Rarely-used kanji form. 洵に: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じつ"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (real) ability; true strength; merit; efficiency; competency けっきょく、実力が勝つ。Real ability wins in the end."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. arms; force See also 実力行使"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (real) ability; true strength; merit; efficiency; competency けっきょく、実力が勝つ。Real ability wins in the end."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. arms; force See also 実力行使"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "けっきょく",
+                            null
+                        ],
+                        [
+                            "実力",
+                            "じつりょく"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "勝つ",
+                            "か"
+                        ]
+                    ],
+                    "translation": "Real ability wins in the end."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じつ"
+                ],
+                [
+                    "物",
+                    "ぶつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. real thing; original; actual "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. real thing; original; actual "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じつ"
+                ],
+                [
+                    "例",
+                    "れい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. example; illustration; precedent "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. example; illustration; precedent "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じっ"
+                ],
+                [
+                    "感",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. real feeling; actual feeling "
+                },
+                {
+                    "type": "Suru verb",
+                    "meaning": "2. to actually feel; to have a real feeling (that ...); to experience personally "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. real feeling; actual feeling "
+                },
+                {
+                    "type": "Suru verb",
+                    "meaning": "2. to actually feel; to have a real feeling (that ...); to experience personally "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じつ"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. practical use; utility "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. practical use; utility "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じっ"
+                ],
+                [
+                    "績",
+                    "せき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. achievements; actual results; accomplishments; past results; track record "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. achievements; actual results; accomplishments; past results; track record "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "実",
+                "さね"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Sane "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "実",
+                "じつ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Jitsu "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Jitsusaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "実",
+                    "じつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Noun",
+                    "meaning": "1. fact; truth; reality "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fact A fact (derived from the Latin factum, see below) is some... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "現",
+                    "げん"
+                ],
+                [
+                    "実",
+                    "じつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reality; actuality; hard fact See also 理想"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Reality In philosophy, reality is the state of things as they act... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "果",
+                    "か"
+                ],
+                [
+                    "実",
+                    "じつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fruit; nut; berry "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. fruits; profit Law"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Fruit In botany, a fruit is a part of a flowering plant that de... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "確",
+                    "かく"
+                ],
+                [
+                    "実",
+                    "じつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. certain; sure; definite; reliable; sound; solid; safe; secure "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "口",
+                    "こう"
+                ],
+                [
+                    "実",
+                    "じつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. excuse; pretext "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

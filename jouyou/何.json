@@ -1,0 +1,2032 @@
+{
+    "kanji": "何",
+    "grade": 2,
+    "jlpt": 5,
+    "meanings": [
+        "what"
+    ],
+    "kun": [
+        "なに",
+        "なん",
+        "なに-",
+        "なん-"
+    ],
+    "on": [
+        "カ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2981651376146789,
+            0.12614678899082568,
+            "c",
+            0.0021100917431192663,
+            0.01926605504587156,
+            -0.0017431192660550458,
+            0.03495412844036697,
+            -0.007339449541284404,
+            0.05192660550458716,
+            "c",
+            -0.036238532110091745,
+            0.10862385321100917,
+            -0.08871559633027523,
+            0.21440366972477065,
+            -0.18761467889908257,
+            0.34256880733944955
+        ],
+        [
+            "M",
+            0.24550458715596332,
+            0.3348623853211009,
+            "c",
+            0.011376146788990826,
+            0.013761467889908258,
+            0.014128440366972478,
+            0.027889908256880733,
+            0.014128440366972478,
+            0.05045871559633028,
+            "c",
+            0,
+            0.08678899082568808,
+            -0.0011926605504587156,
+            0.2824770642201835,
+            -0.001559633027522936,
+            0.40935779816513757,
+            "c",
+            -0.00009174311926605505,
+            0.023853211009174313,
+            -0.00009174311926605505,
+            0.0453211009174312,
+            -0.00009174311926605505,
+            0.06311926605504586
+        ],
+        [
+            "M",
+            0.356697247706422,
+            0.24440366972477065,
+            "c",
+            0.015963302752293577,
+            0.0045871559633027525,
+            0.04293577981651376,
+            0.006146788990825688,
+            0.058807339449541286,
+            0.0045871559633027525,
+            "c",
+            0.12119266055045873,
+            -0.01165137614678899,
+            0.3104587155963303,
+            -0.04376146788990825,
+            0.4244036697247706,
+            -0.05376146788990826,
+            "c",
+            0.02642201834862385,
+            -0.0022935779816513763,
+            0.042477064220183484,
+            0.002201834862385321,
+            0.05577981651376147,
+            0.004495412844036697
+        ],
+        [
+            "M",
+            0.37495412844036696,
+            0.4036697247706422,
+            "c",
+            0.006880733944954129,
+            0.006880733944954129,
+            0.011559633027522935,
+            0.014862385321100919,
+            0.012477064220183487,
+            0.020275229357798165,
+            "c",
+            0.006146788990825688,
+            0.03724770642201834,
+            0.013211009174311925,
+            0.09321100917431192,
+            0.020642201834862386,
+            0.14954128440366973,
+            "c",
+            0.002477064220183486,
+            0.01871559633027523,
+            0.0023853211009174312,
+            0.018440366972477064,
+            0.004311926605504587,
+            0.034403669724770644
+        ],
+        [
+            "M",
+            0.39697247706422023,
+            0.41834862385321103,
+            "c",
+            0.05761467889908257,
+            -0.01073394495412844,
+            0.13889908256880734,
+            -0.02724770642201835,
+            0.18100917431192662,
+            -0.034128440366972476,
+            "c",
+            0.028715596330275227,
+            -0.004678899082568807,
+            0.04036697247706422,
+            0.0028440366972477065,
+            0.03376146788990826,
+            0.03220183486238532,
+            "c",
+            -0.007889908256880733,
+            0.03541284403669725,
+            -0.02284403669724771,
+            0.09477064220183486,
+            -0.030091743119266053,
+            0.12972477064220184
+        ],
+        [
+            "M",
+            0.41825688073394496,
+            0.5795412844036697,
+            "c",
+            0.03403669724770642,
+            -0.003577981651376147,
+            0.08669724770642201,
+            -0.011376146788990826,
+            0.13256880733944953,
+            -0.016972477064220184,
+            "c",
+            0.017339449541284403,
+            -0.0021100917431192663,
+            0.03504587155963303,
+            -0.004311926605504587,
+            0.052752293577981654,
+            -0.006330275229357797
+        ],
+        [
+            "M",
+            0.7637614678899083,
+            0.22706422018348624,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.015963302752293577,
+            0.02,
+            0.016605504587155963,
+            0.04577981651376147,
+            "c",
+            0.003027522935779817,
+            0.12403669724770641,
+            -0.001926605504587156,
+            0.5177981651376147,
+            -0.001926605504587156,
+            0.5599999999999999,
+            "c",
+            0,
+            0.09825688073394497,
+            -0.05825688073394495,
+            0.024862385321100917,
+            -0.08422018348623853,
+            -0.007064220183486239
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "何",
+                    "なに"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. what 今のアナウンスは何だったのですか。What did the announcement just say?"
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "2. you-know-what; that thing "
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "3. whatsit; whachamacallit; what's-his-name; what's-her-name "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. penis; (one's) thing; dick Colloquial, Usually written using kana alone, esp. ナニ「や、それほどでも。せいぜい、大きさ比べたり、わい談するくらいだし」「大きさって何の？」「ナニの」\"No, not so much. At most comparing sizes, telling dirty stories.\" \"Sizes of what?\" \"Of 'that'.\""
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "8. oh, no (it's fine); why (it's nothing); oh (certainly not) used to dismiss someone's worries, concerns, etc."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ナニ"
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. what See also 何彼は今何の仕事をしているのですか。What is he up to now?"
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "2. how many See also 何か月, followed by a counterここの家、何匹猫がいるの？How many cats are there in this house?"
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "3. many; a lot of See also 何度も, See also 何日も, followed by (optional number), counter and も私は何軒もの店でその本を探しました。I inquired about the book in many stores."
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "4. several; a few; some See also 何日か, followed by a counter and か学校の前に何本か木が見えます。You see some trees in front of the school."
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. what 今のアナウンスは何だったのですか。What did the announcement just say?"
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "2. you-know-what; that thing "
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "3. whatsit; whachamacallit; what's-his-name; what's-her-name "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. penis; (one's) thing; dick Colloquial, Usually written using kana alone, esp. ナニ「や、それほどでも。せいぜい、大きさ比べたり、わい談するくらいだし」「大きさって何の？」「ナニの」\"No, not so much. At most comparing sizes, telling dirty stories.\" \"Sizes of what?\" \"Of 'that'.\""
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "8. oh, no (it's fine); why (it's nothing); oh (certainly not) used to dismiss someone's worries, concerns, etc."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ナニ"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "今",
+                            "いま"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "アナウンス",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "何",
+                            "なに"
+                        ],
+                        [
+                            "だった",
+                            null
+                        ],
+                        [
+                            "のです",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "What did the announcement just say?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "や",
+                            null
+                        ],
+                        [
+                            "それほど",
+                            null
+                        ],
+                        [
+                            "でも",
+                            null
+                        ],
+                        [
+                            "せいぜい",
+                            null
+                        ],
+                        [
+                            "大き",
+                            "おお"
+                        ],
+                        [
+                            "さ",
+                            null
+                        ],
+                        [
+                            "比べたり",
+                            "くら"
+                        ],
+                        [
+                            "わい談",
+                            "わいだん"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "くらい",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "し",
+                            null
+                        ],
+                        [
+                            "大き",
+                            "おお"
+                        ],
+                        [
+                            "さ",
+                            null
+                        ],
+                        [
+                            "って",
+                            null
+                        ],
+                        [
+                            "何",
+                            "なに"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ナニ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ]
+                    ],
+                    "translation": "\"No, not so much. At most comparing sizes, telling dirty stories.\" \"Sizes of what?\" \"Of 'that'.\""
+                },
+                {
+                    "sentence": [
+                        [
+                            "なに",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ],
+                        [
+                            "出来ない",
+                            "でき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "度胸",
+                            "どきょう"
+                        ],
+                        [
+                            "なし",
+                            null
+                        ],
+                        [
+                            "腰抜けッ",
+                            "こしぬ"
+                        ]
+                    ],
+                    "translation": "What? You can't do it? You coward! Chicken!"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "ど"
+                ],
+                [
+                    "の",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Pre-noun adjectival (rentaishi)",
+                    "meaning": "1. which; what (way) Usually written using kana alone, See also この, See also その, See also あの"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "何の: Rarely-used kanji form."
+                },
+                {
+                    "type": "Pre-noun adjectival (rentaishi)",
+                    "meaning": "1. which; what (way) Usually written using kana alone, See also この, See also その, See also あの"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "何の: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "いつ"
+                ],
+                [
+                    "時",
+                    null
+                ],
+                [
+                    "も",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. always; all the time; at all times Usually written using kana alone彼はいつも学校に遅れる。He is always late for school."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. never Usually written using kana alone, with neg. verb私は日曜日にはいつも家にいない。I'm never at home on Sundays."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. usual; regular; habitual; customary Usually written using kana aloneいつものところでいつもの人達に会った。I met the usual people at the usual place."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. always; all the time; at all times Usually written using kana alone彼はいつも学校に遅れる。He is always late for school."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. never Usually written using kana alone, with neg. verb私は日曜日にはいつも家にいない。I'm never at home on Sundays."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. usual; regular; habitual; customary Usually written using kana aloneいつものところでいつもの人達に会った。I met the usual people at the usual place."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いつも",
+                            null
+                        ],
+                        [
+                            "学校",
+                            "がっこう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "遅れる",
+                            "おく"
+                        ]
+                    ],
+                    "translation": "He is always late for school."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "日曜日",
+                            "にちようび"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "いつも",
+                            null
+                        ],
+                        [
+                            "家",
+                            "いえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "いない",
+                            null
+                        ]
+                    ],
+                    "translation": "I'm never at home on Sundays."
+                },
+                {
+                    "sentence": [
+                        [
+                            "いつも",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ところ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "いつも",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "人達",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "会った",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "I met the usual people at the usual place."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "どこ"
+                ],
+                [
+                    "処",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. where; what place Usually written using kana alone, See also ここ, See also そこ, See also あそこあなたはどこでテレビを見ますか。Where do you watch television?"
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "2. how much (long, far); what extent Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何処 【いどこ】、何所 【どこ】、何所 【いどこ】、何處 【どこ】、何處 【いどこ】、何処 【いずこ】、何処 【いずく】、何処 【いづこ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "いどこ: Out-dated or obsolete kana usage. いどこ: Out-dated or obsolete kana usage. 何處: Out-dated kanji or kanji usage. いどこ: Out-dated or obsolete kana usage. 何處: Out-dated kanji or kanji usage. いずく: Out-dated or obsolete kana usage. いづこ: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. where; what place Usually written using kana alone, See also ここ, See also そこ, See also あそこあなたはどこでテレビを見ますか。Where do you watch television?"
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "2. how much (long, far); what extent Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何処 【いどこ】、何所 【どこ】、何所 【いどこ】、何處 【どこ】、何處 【いどこ】、何処 【いずこ】、何処 【いずく】、何処 【いづこ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "いどこ: Out-dated or obsolete kana usage. いどこ: Out-dated or obsolete kana usage. 何處: Out-dated kanji or kanji usage. いどこ: Out-dated or obsolete kana usage. 何處: Out-dated kanji or kanji usage. いずく: Out-dated or obsolete kana usage. いづこ: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "どこ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "テレビ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "見ます",
+                            "み"
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Where do you watch television?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "どなた"
+                ],
+                [
+                    "方",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. who Usually written using kana alone, Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. who Usually written using kana alone, Honorific or respectful (sonkeigo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なぜ"
+                ],
+                [
+                    "故",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. why; how; for what reason Usually written using kana alone"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "なぜ: Gikun (meaning as reading) or jukujikun (special kanji reading)."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. why; how; for what reason Usually written using kana alone"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "なぜ: Gikun (meaning as reading) or jukujikun (special kanji reading)."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なに"
+                ],
+                [
+                    "か",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. something; some; any "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. (so) what (are you trying to say)?; what (do you mean)? Only applies to なにか「もしや、あなたは小川さんではありませんか？」「そうですが、何か？」\"Might you happen to be Mr. Ogawa?\" \"Well, yes ... can I help you?\""
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何か 【なんか】"
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Ka "
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. something; some; any "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. (so) what (are you trying to say)?; what (do you mean)? Only applies to なにか「もしや、あなたは小川さんではありませんか？」「そうですが、何か？」\"Might you happen to be Mr. Ogawa?\" \"Well, yes ... can I help you?\""
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何か 【なんか】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "もしや",
+                            null
+                        ],
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "さん",
+                            null
+                        ],
+                        [
+                            "ではありません",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "そうですが",
+                            null
+                        ],
+                        [
+                            "何か",
+                            "なに"
+                        ]
+                    ],
+                    "translation": "\"Might you happen to be Mr. Ogawa?\" \"Well, yes ... can I help you?\""
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なに"
+                ],
+                [
+                    "も",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. (not) anything; (nothing) at all; (not) any; nothing with neg. verb過ちのない者は何も作り出せない。He who makes no mistakes makes nothing."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "2. and everything else; and all as ...も何も車も何もなく、生活保護で生きてます。I'm living on welfare, without a car or anything."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "3. (not) at all; (not) in the least; (not) especially; (not) to that extent as ...なくてもいい, ...ことはない, etc."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. (not) anything; (nothing) at all; (not) any; nothing with neg. verb過ちのない者は何も作り出せない。He who makes no mistakes makes nothing."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "2. and everything else; and all as ...も何も車も何もなく、生活保護で生きてます。I'm living on welfare, without a car or anything."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "3. (not) at all; (not) in the least; (not) especially; (not) to that extent as ...なくてもいい, ...ことはない, etc."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "過ち",
+                            "あやま"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ない",
+                            null
+                        ],
+                        [
+                            "者",
+                            "もの"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "何も",
+                            "なに"
+                        ],
+                        [
+                            "作り出せない",
+                            "つくりだ"
+                        ]
+                    ],
+                    "translation": "He who makes no mistakes makes nothing."
+                },
+                {
+                    "sentence": [
+                        [
+                            "車",
+                            "くるま"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "何も",
+                            "なに"
+                        ],
+                        [
+                            "なく",
+                            null
+                        ],
+                        [
+                            "生活保護",
+                            "せいかつほご"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "生きてます",
+                            "い"
+                        ]
+                    ],
+                    "translation": "I'm living on welfare, without a car or anything."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なん"
+                ],
+                [
+                    "で",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. why?; what for? Usually written using kana aloneテニスウェアってなんでミニスカートなのかしら？I wonder why tennis is played in mini-skirts."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. how?; by what means? ここになんで来たの？How did you come here?"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. why?; what for? Usually written using kana aloneテニスウェアってなんでミニスカートなのかしら？I wonder why tennis is played in mini-skirts."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. how?; by what means? ここになんで来たの？How did you come here?"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "テニスウェア",
+                            null
+                        ],
+                        [
+                            "って",
+                            null
+                        ],
+                        [
+                            "なんで",
+                            null
+                        ],
+                        [
+                            "ミニスカート",
+                            null
+                        ],
+                        [
+                            "な",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "かしら",
+                            null
+                        ]
+                    ],
+                    "translation": "I wonder why tennis is played in mini-skirts."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "なんで",
+                            null
+                        ],
+                        [
+                            "来た",
+                            "き"
+                        ],
+                        [
+                            "の",
+                            null
+                        ]
+                    ],
+                    "translation": "How did you come here?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "いつ"
+                ],
+                [
+                    "時",
+                    null
+                ],
+                [
+                    "で",
+                    null
+                ],
+                [
+                    "も",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. always; all the time; at all times Usually written using kana alone私はいつでも喜んでお手伝いします。I am always ready to help you."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. (at) any time; whenever (you like) Usually written using kana aloneあなたはいつでも歓迎されています。You will be welcome at any time."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何時でも 【なんどきでも】"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. always; all the time; at all times Usually written using kana alone私はいつでも喜んでお手伝いします。I am always ready to help you."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. (at) any time; whenever (you like) Usually written using kana aloneあなたはいつでも歓迎されています。You will be welcome at any time."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何時でも 【なんどきでも】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いつでも",
+                            null
+                        ],
+                        [
+                            "喜んで",
+                            "よろこ"
+                        ],
+                        [
+                            "お手伝い",
+                            "てつだ"
+                        ],
+                        [
+                            "します",
+                            null
+                        ]
+                    ],
+                    "translation": "I am always ready to help you."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いつでも",
+                            null
+                        ],
+                        [
+                            "歓迎",
+                            "かんげい"
+                        ],
+                        [
+                            "されています",
+                            null
+                        ]
+                    ],
+                    "translation": "You will be welcome at any time."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "いつ"
+                ],
+                [
+                    "時",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "で",
+                    null
+                ],
+                [
+                    "も",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. forever; eternally; for good; as long as one likes; indefinitely; endlessly; for a long time Usually written using kana alone"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. forever; eternally; for good; as long as one likes; indefinitely; endlessly; for a long time Usually written using kana alone"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なん"
+                ],
+                [
+                    "と",
+                    null
+                ],
+                [
+                    "も",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. really; very; extremely; terribly; awfully "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. (not) anything; (not) at all; (not) a bit with neg. verb"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. really; very; extremely; terribly; awfully "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. (not) anything; (not) at all; (not) a bit with neg. verb"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なに"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "ろ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. in any case; at any rate; anyhow; anyway; as you know; for you see; particularly See also 何せ"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. because; since; for; after all "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. in any case; at any rate; anyhow; anyway; as you know; for you see; particularly See also 何せ"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. because; since; for; after all "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なに"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. some; any; (a) little; of some kind; of some sort "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. please "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. anyway; anyhow; at any rate; after all なにぶんこんな辺ぴな村に住んでいるので、めったに客は来ない。Living as I do in a remote village, I seldom have visitors."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何ぶん 【なにぶん】"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. some; any; (a) little; of some kind; of some sort "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. please "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. anyway; anyhow; at any rate; after all なにぶんこんな辺ぴな村に住んでいるので、めったに客は来ない。Living as I do in a remote village, I seldom have visitors."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何ぶん 【なにぶん】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "なにぶん",
+                            null
+                        ],
+                        [
+                            "こんな",
+                            null
+                        ],
+                        [
+                            "辺ぴな",
+                            "へんぴ"
+                        ],
+                        [
+                            "村",
+                            "むら"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "住んでいる",
+                            "す"
+                        ],
+                        [
+                            "ので",
+                            null
+                        ],
+                        [
+                            "めったに",
+                            null
+                        ],
+                        [
+                            "客",
+                            "きゃく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "来ない",
+                            "こ"
+                        ]
+                    ],
+                    "translation": "Living as I do in a remote village, I seldom have visitors."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "間",
+                    "ま"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. before one knows; before one becomes aware of; unnoticed; unawares "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何時の間にか 【いつのまにか】"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. before one knows; before one becomes aware of; unnoticed; unawares "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何時の間にか 【いつのまにか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なん"
+                ],
+                [
+                    "と",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. somehow or other; for some reason or another; without knowing why Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何となく 【なにとなく】、何と無く 【なんとなく】、何と無く 【なにとなく】"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. somehow or other; for some reason or another; without knowing why Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "何となく 【なにとなく】、何と無く 【なんとなく】、何と無く 【なにとなく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なん"
+                ],
+                [
+                    "と",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. what; how 英語でこの昆虫を何といいますか。What do you call this insect in English?"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. what (a) ...!; how ...! Usually written using kana alone, indicates surprise, admiration, etc.なんと素晴らしい発明だろう。What a wonderful invention!"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "5. well, ...; so, ... Usually written using kana alone, used when asking for confirmation or approval"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. what; how 英語でこの昆虫を何といいますか。What do you call this insect in English?"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. what (a) ...!; how ...! Usually written using kana alone, indicates surprise, admiration, etc.なんと素晴らしい発明だろう。What a wonderful invention!"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "5. well, ...; so, ... Usually written using kana alone, used when asking for confirmation or approval"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "英語",
+                            "えいご"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "昆虫",
+                            "こんちゅう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "何と",
+                            "なん"
+                        ],
+                        [
+                            "いいます",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "What do you call this insect in English?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "なんと",
+                            null
+                        ],
+                        [
+                            "素晴らしい",
+                            "すば"
+                        ],
+                        [
+                            "発明",
+                            "はつめい"
+                        ],
+                        [
+                            "だろう",
+                            null
+                        ]
+                    ],
+                    "translation": "What a wonderful invention!"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なに"
+                ],
+                [
+                    "よ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. above anything else; above all; more than anything 何より大事なことは、自分の頭で考えることだ。The most important thing is thinking for oneself."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "2. best; greatest; excellent; wonderful; most important 私は自分が健康で何よりだと思っている。I count myself lucky in having good health."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. above anything else; above all; more than anything 何より大事なことは、自分の頭で考えることだ。The most important thing is thinking for oneself."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "2. best; greatest; excellent; wonderful; most important 私は自分が健康で何よりだと思っている。I count myself lucky in having good health."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "何より",
+                            "なに"
+                        ],
+                        [
+                            "大事な",
+                            "だいじ"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "頭",
+                            "あたま"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "考える",
+                            "かんが"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "The most important thing is thinking for oneself."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "健康",
+                            "けんこう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "何より",
+                            "なに"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "思っている",
+                            "おも"
+                        ]
+                    ],
+                    "translation": "I count myself lucky in having good health."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "何",
+                    "なん"
+                ],
+                [
+                    "だ",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. (a) little; somewhat; somehow Usually written using kana alone"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "何",
+                "あが"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Aga "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "何",
+                "いつか"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Itsuka "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "如",
+                    "どう"
+                ],
+                [
+                    "何",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. how; in what way; by what means Usually written using kana alone, See also どうやってそのニュースはどうして漏れたのだろう。How did the news get out?"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. why; for what reason; for what purpose; what for Usually written using kana aloneどうしてあなたにお詫びする理由があるのですか。Why should I apologize to you?"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "4. no way Usually written using kana alone, often as どうして、どうして"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "如何して: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "ニュース",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "どうして",
+                            null
+                        ],
+                        [
+                            "漏れた",
+                            "も"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "だろう",
+                            null
+                        ]
+                    ],
+                    "translation": "How did the news get out?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "どうして",
+                            null
+                        ],
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "詫び",
+                            "わ"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "理由",
+                            "りゆう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "のです",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Why should I apologize to you?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "如",
+                    "どう"
+                ],
+                [
+                    "何",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "も",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. by all means; at any cost; no matter what; at any rate; surely Usually written using kana alone彼女はどうしても自分の思い通りにしようとする。She will have her own way."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "2. whether (one is) willing or not; willingly or unwillingly; willy-nilly Usually written using kana alone"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "3. on no account; by no means Usually written using kana alone, with. neg. verb残念ですが、あなたの名前をどうしても覚えられない。I'm sorry to say I don't remember your name."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "4. in the end; in the long run; after all; eventually Usually written using kana aloneその計画を成功させるためには君の援助がどうしても必要だ。Your help is indispensable for the success of the scheme."
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "如何しても: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "どうしても",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "思い通り",
+                            "おもいどお"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "しようとする",
+                            null
+                        ]
+                    ],
+                    "translation": "She will have her own way."
+                },
+                {
+                    "sentence": [
+                        [
+                            "残念",
+                            "ざんねん"
+                        ],
+                        [
+                            "ですが",
+                            null
+                        ],
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "名前",
+                            "なまえ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "どうしても",
+                            null
+                        ],
+                        [
+                            "覚えられない",
+                            "おぼ"
+                        ]
+                    ],
+                    "translation": "I'm sorry to say I don't remember your name."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "計画",
+                            "けいかく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "成功",
+                            "せいこう"
+                        ],
+                        [
+                            "させる",
+                            null
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "君の",
+                            "きみ"
+                        ],
+                        [
+                            "援助",
+                            "えんじょ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "どうしても",
+                            null
+                        ],
+                        [
+                            "必要",
+                            "ひつよう"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "Your help is indispensable for the success of the scheme."
+                }
+            ]
+        }
+    ]
+}

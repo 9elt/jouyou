@@ -1,0 +1,1252 @@
+{
+    "kanji": "港",
+    "grade": 3,
+    "jlpt": 3,
+    "meanings": [
+        "harbor"
+    ],
+    "kun": [
+        "みなと"
+    ],
+    "on": [
+        "コウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.17660550458715596,
+            0.16862385321100917,
+            "c",
+            0.04678899082568807,
+            0.015963302752293577,
+            0.09220183486238533,
+            0.04779816513761468,
+            0.11009174311926606,
+            0.07541284403669725
+        ],
+        [
+            "M",
+            0.11926605504587157,
+            0.40477064220183484,
+            "c",
+            0.04128440366972477,
+            0.012385321100917432,
+            0.0963302752293578,
+            0.04477064220183486,
+            0.11697247706422019,
+            0.06990825688073395
+        ],
+        [
+            "M",
+            0.12844036697247707,
+            0.8069724770642202,
+            "c",
+            0.01724770642201835,
+            0,
+            0.025779816513761468,
+            -0.003577981651376147,
+            0.034403669724770644,
+            -0.01834862385321101,
+            "c",
+            0.02522935779816514,
+            -0.043119266055045874,
+            0.05045871559633028,
+            -0.09587155963302751,
+            0.07339449541284404,
+            -0.15091743119266054
+        ],
+        [
+            "M",
+            0.38449541284403665,
+            0.28192660550458715,
+            "c",
+            0.01275229357798165,
+            0.0025688073394495416,
+            0.036238532110091745,
+            0.004495412844036697,
+            0.048807339449541284,
+            0.0025688073394495416,
+            "c",
+            0.08623853211009175,
+            -0.013853211009174311,
+            0.18605504587155963,
+            -0.029908256880733942,
+            0.28990825688073396,
+            -0.04036697247706422,
+            "c",
+            0.021100917431192658,
+            -0.0021100917431192663,
+            0.03394495412844037,
+            0.0011926605504587156,
+            0.04449541284403669,
+            0.002477064220183486
+        ],
+        [
+            "M",
+            0.45871559633027525,
+            0.14788990825688075,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.013944954128440367,
+            0.018073394495412842,
+            0.014403669724770642,
+            0.02532110091743119,
+            "c",
+            0.0039449541284403665,
+            0.058440366972477065,
+            0.013761467889908258,
+            0.17137614678899082,
+            0.01862385321100917,
+            0.2298165137614679
+        ],
+        [
+            "M",
+            0.6494495412844037,
+            0.13302752293577982,
+            "c",
+            0.006513761467889908,
+            0.010275229357798166,
+            0.00926605504587156,
+            0.020642201834862386,
+            0.008073394495412844,
+            0.03357798165137615,
+            "c",
+            -0.008532110091743119,
+            0.09605504587155964,
+            -0.011926605504587157,
+            0.12357798165137615,
+            -0.02238532110091743,
+            0.22458715596330275
+        ],
+        [
+            "M",
+            0.2947706422018349,
+            0.4315596330275229,
+            "c",
+            0.015229357798165137,
+            0.0033027522935779813,
+            0.04321100917431193,
+            0.004862385321100918,
+            0.05825688073394495,
+            0.0033027522935779813,
+            "c",
+            0.1136697247706422,
+            -0.012293577981651376,
+            0.29486238532110093,
+            -0.03403669724770642,
+            0.4435779816513762,
+            -0.043486238532110096,
+            "c",
+            0.02532110091743119,
+            -0.001559633027522936,
+            0.04055045871559633,
+            0.001559633027522936,
+            0.05321100917431192,
+            0.0032110091743119264
+        ],
+        [
+            "M",
+            0.4843119266055046,
+            0.438348623853211,
+            "c",
+            0.0005504587155963302,
+            0.004403669724770642,
+            0.002018348623853211,
+            0.011834862385321101,
+            -0.0011009174311926604,
+            0.017798165137614678,
+            "c",
+            -0.021100917431192658,
+            0.040458715596330276,
+            -0.08990825688073395,
+            0.1356880733944954,
+            -0.1908256880733945,
+            0.2101834862385321
+        ],
+        [
+            "M",
+            0.6241284403669725,
+            0.4105504587155963,
+            "c",
+            0.03275229357798165,
+            0.02587155963302752,
+            0.17522935779816515,
+            0.19137614678899081,
+            0.2210091743119266,
+            0.21045871559633028,
+            "c",
+            0.013394495412844036,
+            0.005596330275229358,
+            0.02238532110091743,
+            0.012293577981651376,
+            0.034403669724770644,
+            0.014770642201834864
+        ],
+        [
+            "M",
+            0.44440366972477063,
+            0.5723853211009174,
+            "c",
+            0.017706422018348624,
+            0.005596330275229358,
+            0.029724770642201838,
+            0.006880733944954129,
+            0.04422018348623853,
+            0.0045871559633027525,
+            "c",
+            0.029357798165137616,
+            -0.004678899082568807,
+            0.16174311926605503,
+            -0.027706422018348623,
+            0.17073394495412844,
+            -0.028623853211009177,
+            "c",
+            0.011834862385321101,
+            -0.0011926605504587156,
+            0.021192660550458715,
+            0.009816513761467891,
+            0.016972477064220184,
+            0.027614678899082565,
+            "c",
+            -0.0012844036697247708,
+            0.005321100917431192,
+            -0.016146788990825688,
+            0.04403669724770642,
+            -0.024403669724770642,
+            0.09495412844036696
+        ],
+        [
+            "M",
+            0.43577981651376146,
+            0.6891743119266055,
+            "c",
+            0.008073394495412844,
+            0.005688073394495413,
+            0.025045871559633028,
+            0.009816513761467891,
+            0.03779816513761468,
+            0.009174311926605505,
+            "c",
+            0.04477064220183486,
+            -0.0022935779816513763,
+            0.10550458715596331,
+            -0.012660550458715595,
+            0.15605504587155966,
+            -0.017431192660550456,
+            "c",
+            0.015871559633027523,
+            -0.001559633027522936,
+            0.02743119266055046,
+            -0.004311926605504587,
+            0.037614678899082564,
+            -0.002660550458715596
+        ],
+        [
+            "M",
+            0.4436697247706422,
+            0.6935779816513761,
+            "c",
+            0.006513761467889908,
+            0.006513761467889908,
+            0.009724770642201836,
+            0.015137614678899082,
+            0.009724770642201836,
+            0.02660550458715596,
+            "c",
+            0,
+            0.020917431192660547,
+            -0.0007339449541284404,
+            0.04229357798165138,
+            -0.0007339449541284404,
+            0.062018348623853206,
+            "c",
+            0,
+            0.07568807339449542,
+            0.014128440366972478,
+            0.08761467889908257,
+            0.14724770642201834,
+            0.08761467889908257,
+            "c",
+            0.14788990825688075,
+            0,
+            0.16119266055045872,
+            -0.014220183486238533,
+            0.16119266055045872,
+            -0.08678899082568808
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "港",
+                    "みなと"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. harbour; harbor; port "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "湊 【みなと】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "湊: Rarely-used kanji form."
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "1. harbour in location names"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. harbour; harbor; port "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "湊 【みなと】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "湊: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. harbour; harbor "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Port A port is a location on a coast or shore containing one o... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. harbour; harbor "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Port A port is a location on a coast or shore containing one o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "内",
+                    "ない"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. inside the harbour; inside the harbor "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. inside the harbour; inside the harbor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "市",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. port city; harbour city; harbor city See also 港湾都市"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. port city; harbour city; harbor city See also 港湾都市"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "局",
+                    "きょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Port and Harbor Authority "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Port and Harbor Authority "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "みなと"
+                ],
+                [
+                    "町",
+                    "まち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. port city; harbor city; harbour city "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Minatomachi "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. port city; harbor city; harbour city "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Minatomachi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "みなと"
+                ],
+                [
+                    "区",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Minato City (special ward of Tokyo) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Minato Ward (Osaka) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. Minato Ward (Nagoya) "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "4. Minato-ku (ward of Tokyo) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Minato "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "運",
+                    "うん"
+                ],
+                [
+                    "送",
+                    "そう"
+                ],
+                [
+                    "業",
+                    "ぎょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. port transport industry "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Port operator A port operator is port authority or company that contrac... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "技",
+                    "ぎ"
+                ],
+                [
+                    "術",
+                    "じゅつ"
+                ],
+                [
+                    "研",
+                    "けん"
+                ],
+                [
+                    "究",
+                    "きゅう"
+                ],
+                [
+                    "所",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Port and Harbour Research Institute Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Port and Harbour Research Institute "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "南",
+                    "なん"
+                ],
+                [
+                    "図",
+                    "と"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ],
+                [
+                    "館",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Konan Library Organization name"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "口",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. harbor entrance; harbour entrance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "当",
+                    "とう"
+                ],
+                [
+                    "局",
+                    "きょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. port authorities "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "税",
+                    "ぜい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. harbor duties; harbour duties "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "労",
+                    "ろう"
+                ],
+                [
+                    "働",
+                    "どう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. longshoreman; stevedore "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "外",
+                    "がい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. outside a port or harbor (harbour) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "みなと"
+                ],
+                [
+                    "区",
+                    "く"
+                ],
+                [
+                    "女",
+                    "じょ"
+                ],
+                [
+                    "子",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Minato girl (young woman who likes spending time in fancy neighbourhoods) Colloquial"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "運",
+                    "うん"
+                ],
+                [
+                    "送",
+                    "そう"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "業",
+                    "ぎょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. port transport industry "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "管",
+                    "かん"
+                ],
+                [
+                    "理",
+                    "り"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. port authority; port administration "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "図",
+                    "ず"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. map of a harbor (harbour) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "港",
+                "こう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "港",
+                "みなと"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place, Family or surname, Female given name",
+                    "meaning": "1. Minato "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Minatozaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "空",
+                    "くう"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. airport "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Airport An airport is a location where aircraft such as fixed-win... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "香",
+                    "ホンコン"
+                ],
+                [
+                    "港",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Hong Kong; Hongkong "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Hong Kong Hong Kong is one of two special administrative regions (S... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "出",
+                    "しゅっ"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. departure from a port; leaving port; setting sail See also 入港"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寄",
+                    "き"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. calling at a port "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. making an intermediate stop at an airport Only applies to 寄航"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寄航 【きこう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. entry into port; arriving in harbor See also 出港"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "開",
+                    "かい"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. opening a port (seaport, airport, etc.); starting operations at a port "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. opening a port to foreign vessels or trade "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "母",
+                    "ぼ"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. home port "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "帰",
+                    "き"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. returning to port "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "国",
+                    "こく"
+                ],
+                [
+                    "際",
+                    "さい"
+                ],
+                [
+                    "空",
+                    "くう"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. international airport "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. International airport An international airport is an airport that can accommoda... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漁",
+                    "ぎょ"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fishing harbour; fishing harbor "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Gyokou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臨",
+                    "りん"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. facing (along) the harbor (harbour) "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Rinkou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "軍",
+                    "ぐん"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. naval port; naval station "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "港",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. port; seaport "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "香",
+                    "ほんこんてんもんだい"
+                ],
+                [
+                    "港",
+                    null
+                ],
+                [
+                    "天",
+                    null
+                ],
+                [
+                    "文",
+                    null
+                ],
+                [
+                    "台",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Hong Kong Observatory Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Hong Kong Observatory "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Hong Kong Observatory Hong Kong Observatory is a department of the Hong Kong go... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

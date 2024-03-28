@@ -1,0 +1,864 @@
+{
+    "kanji": "恭",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "respect",
+        "reverent"
+    ],
+    "kun": [
+        "うやうや.しい"
+    ],
+    "on": [
+        "キョウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.24247706422018347,
+            0.25688073394495414,
+            "c",
+            0.021009174311926605,
+            0.006146788990825688,
+            0.047981651376146794,
+            0.0032110091743119264,
+            0.06944954128440367,
+            0.0005504587155963302,
+            "c",
+            0.08045871559633028,
+            -0.009816513761467891,
+            0.26541284403669724,
+            -0.03,
+            0.36009174311926606,
+            -0.036146788990825685,
+            "c",
+            0.022110091743119266,
+            -0.0014678899082568807,
+            0.04449541284403669,
+            -0.002660550458715596,
+            0.06642201834862385,
+            0.0011926605504587156
+        ],
+        [
+            "M",
+            0.35275229357798166,
+            0.13743119266055046,
+            "c",
+            0.013119266055045872,
+            0.007064220183486239,
+            0.017798165137614678,
+            0.01798165137614679,
+            0.01834862385321101,
+            0.029724770642201838,
+            "c",
+            0.002752293577981651,
+            0.05761467889908257,
+            0.011743119266055046,
+            0.17963302752293575,
+            0.016146788990825688,
+            0.23853211009174313
+        ],
+        [
+            "M",
+            0.6163302752293579,
+            0.11697247706422019,
+            "c",
+            0.007522935779816513,
+            0.009174311926605505,
+            0.008899082568807339,
+            0.020825688073394497,
+            0.005963302752293578,
+            0.03697247706422019,
+            "C",
+            0.6055045871559633,
+            0.24660550458715597,
+            0.5963302752293578,
+            0.29926605504587156,
+            0.5808256880733945,
+            0.39091743119266054
+        ],
+        [
+            "M",
+            0.13990825688073394,
+            0.43495412844036696,
+            "c",
+            0.02944954128440367,
+            0.008440366972477065,
+            0.061834862385321106,
+            0.003119266055045872,
+            0.09165137614678899,
+            0.0002752293577981651,
+            "c",
+            0.12330275229357798,
+            -0.011743119266055046,
+            0.4158715596330275,
+            -0.04504587155963303,
+            0.5436697247706422,
+            -0.05321100917431192,
+            "c",
+            0.027155963302752294,
+            -0.0017431192660550458,
+            0.05339449541284404,
+            -0.002477064220183486,
+            0.08027522935779817,
+            0.0021100917431192663
+        ],
+        [
+            "M",
+            0.36211009174311926,
+            0.454954128440367,
+            "c",
+            0.0009174311926605505,
+            0.0074311926605504595,
+            -0.0034862385321100917,
+            0.02146788990825688,
+            -0.00834862385321101,
+            0.02688073394495413,
+            "c",
+            -0.04403669724770642,
+            0.049082568807339445,
+            -0.12825688073394495,
+            0.12770642201834861,
+            -0.23605504587155965,
+            0.19550458715596328
+        ],
+        [
+            "M",
+            0.5252293577981652,
+            0.41284403669724773,
+            "c",
+            0.04238532110091743,
+            0.0389908256880734,
+            0.15614678899082568,
+            0.13082568807339448,
+            0.23009174311926603,
+            0.18844036697247707,
+            "c",
+            0.02596330275229358,
+            0.020275229357798165,
+            0.05082568807339449,
+            0.03513761467889908,
+            0.08412844036697248,
+            0.04779816513761468
+        ],
+        [
+            "M",
+            0.41733944954128444,
+            0.5305504587155964,
+            "c",
+            0.00944954128440367,
+            0.00944954128440367,
+            0.012110091743119267,
+            0.02330275229357798,
+            0.012110091743119267,
+            0.04128440366972477,
+            "c",
+            0,
+            0.05770642201834862,
+            0.0001834862385321101,
+            0.21752293577981652,
+            0.0001834862385321101,
+            0.2582568807339449,
+            "c",
+            0,
+            0.08541284403669726,
+            -0.05238532110091743,
+            0.012293577981651376,
+            -0.06467889908256881,
+            0.002018348623853211
+        ],
+        [
+            "M",
+            0.2787155963302752,
+            0.6937614678899083,
+            "c",
+            0,
+            0.048532110091743116,
+            -0.0536697247706422,
+            0.12027522935779816,
+            -0.06770642201834862,
+            0.13412844036697247
+        ],
+        [
+            "M",
+            0.5412844036697247,
+            0.658256880733945,
+            "c",
+            0.02128440366972477,
+            0.028256880733944955,
+            0.05486238532110092,
+            0.11623853211009175,
+            0.060183486238532105,
+            0.16027522935779814
+        ],
+        [
+            "M",
+            0.661651376146789,
+            0.6548623853211009,
+            "c",
+            0.029724770642201838,
+            0.025596330275229357,
+            0.07678899082568806,
+            0.10541284403669725,
+            0.08422018348623853,
+            0.1453211009174312
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "恭",
+                    "きょう"
+                ],
+                [
+                    "敬",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. respect; reverence; veneration "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. respect; reverence; veneration "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恐",
+                    "きょう"
+                ],
+                [
+                    "悦",
+                    "えつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. delight "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "恭悦 【きょうえつ】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. delight "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "恭悦 【きょうえつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    "きょう"
+                ],
+                [
+                    "賀",
+                    "が"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. respectful congratulations "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. respectful congratulations "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    "きょう"
+                ],
+                [
+                    "順",
+                    "じゅん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. allegiance; obedience; submission "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. allegiance; obedience; submission "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    "うやうや"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. polite; respectful; reverent "
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. polite; respectful; reverent "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恐",
+                    "きょう"
+                ],
+                [
+                    "悦",
+                    "えつ"
+                ],
+                [
+                    "至",
+                    "し"
+                ],
+                [
+                    "極",
+                    "ごく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. extremely delighted Humble (kenjougo) language, Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "恭悦至極 【きょうえつしごく】"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. extremely delighted Humble (kenjougo) language, Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "恭悦至極 【きょうえつしごく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    "きょう"
+                ],
+                [
+                    "賀",
+                    "が"
+                ],
+                [
+                    "新",
+                    "しん"
+                ],
+                [
+                    "年",
+                    "ねん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. Happy New Year "
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. Happy New Year "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    "きょう"
+                ],
+                [
+                    "倹",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. respectfulness and modesty; deference "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. respectfulness and modesty; deference "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    "きょう"
+                ],
+                [
+                    "謙",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. modesty; humility Usually written using kana alone"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. modesty; humility Usually written using kana alone"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    null
+                ],
+                [
+                    "譲",
+                    null
+                ],
+                [
+                    "王",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Gongyang of Goryeo Gongyang of Goryeo (1345–1394, r. 1389–1392) was the 34th... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    null
+                ],
+                [
+                    "城",
+                    null
+                ],
+                [
+                    "ヤ",
+                    null
+                ],
+                [
+                    "オ",
+                    null
+                ],
+                [
+                    "族",
+                    null
+                ],
+                [
+                    "自",
+                    null
+                ],
+                [
+                    "治",
+                    null
+                ],
+                [
+                    "県",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Gongcheng Yao Autonomous County Gongcheng Yao Autonomous County is a county of Guangxi, C... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    null
+                ],
+                [
+                    "帝",
+                    null
+                ],
+                [
+                    "ト",
+                    null
+                ],
+                [
+                    "ウ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Yang Tong Yang Tong (楊侗) (605–619), known in traditional histories ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    null
+                ],
+                [
+                    "帝",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "西",
+                    null
+                ],
+                [
+                    "魏",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Emperor Gong of Western Wei Emperor Gong of Western Wei (魏恭帝) (537–557), personal nam... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    null
+                ],
+                [
+                    "仁",
+                    null
+                ],
+                [
+                    "京",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Kuni-kyō Kuni-kyō (恭仁京, or Kuni no miyako), was the capital city o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    null
+                ],
+                [
+                    "子",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "小",
+                    null
+                ],
+                [
+                    "惑",
+                    null
+                ],
+                [
+                    "星",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. 35441 Kyoko 35441 Kyoko (1998 BH33) is a main-belt asteroid discovere... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    null
+                ],
+                [
+                    "帝",
+                    null
+                ],
+                [
+                    "侑",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Emperor Gong of Sui Emperor Gong of Sui (隋恭帝) (605 – September 14, 619), pers... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    null
+                ],
+                [
+                    "帝",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "宋",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Emperor Gong of Song Emperor Gong of Song (1271- unknown, born Zhào Xiǎn, was ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    null
+                ],
+                [
+                    "愍",
+                    null
+                ],
+                [
+                    "王",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Gongmin of Goryeo King Gongmin (1330–1374) ruled Goryeo Dynasty Korea from ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恭",
+                    null
+                ],
+                [
+                    "帝",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "東",
+                    null
+                ],
+                [
+                    "晋",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Emperor Gong of Jin Emperor Gong of Jin (386–421) was last emperor of the Eas... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "恭",
+                "きょう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kyou "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kyouji "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kiyou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "温",
+                    "おん"
+                ],
+                [
+                    "良",
+                    "りょう"
+                ],
+                [
+                    "恭",
+                    "きょう"
+                ],
+                [
+                    "倹",
+                    "けん"
+                ],
+                [
+                    "譲",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. cordial, obedient, respectful, modest, and moderate orig. said of Confucius"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

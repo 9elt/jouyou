@@ -1,0 +1,1400 @@
+{
+    "kanji": "議",
+    "grade": 4,
+    "jlpt": 3,
+    "meanings": [
+        "deliberation",
+        "consultation",
+        "debate",
+        "consideration"
+    ],
+    "kun": [
+        "ギ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.21788990825688073,
+            0.14220183486238533,
+            "c",
+            0.0218348623853211,
+            0.013394495412844036,
+            0.056422018348623856,
+            0.05486238532110092,
+            0.06192660550458716,
+            0.07568807339449542
+        ],
+        [
+            "M",
+            0.10431192660550458,
+            0.3126605504587156,
+            "c",
+            0.0057798165137614675,
+            0.0021100917431192663,
+            0.027798165137614676,
+            0.0023853211009174312,
+            0.0336697247706422,
+            0.0021100917431192663,
+            "C",
+            0.20412844036697247,
+            0.3119266055045872,
+            0.28440366972477066,
+            0.2958715596330275,
+            0.3571559633027523,
+            0.2861467889908257,
+            "c",
+            0.00963302752293578,
+            -0.0012844036697247708,
+            0.024220183486238535,
+            0.0010091743119266055,
+            0.028990825688073395,
+            0.0021100917431192663
+        ],
+        [
+            "M",
+            0.16495412844036697,
+            0.4363302752293578,
+            "c",
+            0.00908256880733945,
+            0.0028440366972477065,
+            0.0218348623853211,
+            0.0012844036697247708,
+            0.03110091743119266,
+            0.0005504587155963302,
+            "c",
+            0.0336697247706422,
+            -0.002660550458715596,
+            0.08009174311926606,
+            -0.012844036697247705,
+            0.11706422018348624,
+            -0.017339449541284403,
+            "c",
+            0.010550458715596329,
+            -0.0012844036697247708,
+            0.02165137614678899,
+            -0.001926605504587156,
+            0.03220183486238532,
+            0.00009174311926605505
+        ],
+        [
+            "M",
+            0.16954128440366972,
+            0.5511926605504587,
+            "c",
+            0.010091743119266056,
+            0.0034862385321100917,
+            0.02532110091743119,
+            0.0012844036697247708,
+            0.035871559633027524,
+            0.00045871559633027525,
+            "c",
+            0.02926605504587156,
+            -0.0021100917431192663,
+            0.06761467889908257,
+            -0.008532110091743119,
+            0.09871559633027523,
+            -0.01293577981651376,
+            "c",
+            0.01091743119266055,
+            -0.001559633027522936,
+            0.024678899082568807,
+            -0.0045871559633027525,
+            0.035596330275229356,
+            -0.0023853211009174312
+        ],
+        [
+            "M",
+            0.15724770642201835,
+            0.6756880733944954,
+            "c",
+            0.007064220183486239,
+            0.006238532110091744,
+            0.010642201834862385,
+            0.0163302752293578,
+            0.01073394495412844,
+            0.025779816513761468,
+            "c",
+            0.006422018348623853,
+            0.031467889908256885,
+            0.012844036697247705,
+            0.0753211009174312,
+            0.01926605504587156,
+            0.11724770642201834,
+            "c",
+            0.001834862385321101,
+            0.011743119266055046,
+            0.003577981651376147,
+            0.023394495412844035,
+            0.005412844036697248,
+            0.0344954128440367
+        ],
+        [
+            "M",
+            0.1771559633027523,
+            0.6822935779816515,
+            "c",
+            0.059082568807339454,
+            -0.0081651376146789,
+            0.10302752293577983,
+            -0.01926605504587156,
+            0.15752293577981652,
+            -0.027522935779816515,
+            "c",
+            0.013669724770642202,
+            -0.002018348623853211,
+            0.02192660550458716,
+            0.009541284403669725,
+            0.02,
+            0.01889908256880734,
+            "c",
+            -0.0081651376146789,
+            0.0389908256880734,
+            -0.015229357798165137,
+            0.06165137614678899,
+            -0.029724770642201838,
+            0.12642201834862385
+        ],
+        [
+            "M",
+            0.19926605504587155,
+            0.828440366972477,
+            "c",
+            0.035688073394495416,
+            -0.004036697247706422,
+            0.06825688073394495,
+            -0.008899082568807339,
+            0.11155963302752293,
+            -0.014678899082568808,
+            "c",
+            0.010183486238532111,
+            -0.0013761467889908255,
+            0.020917431192660547,
+            -0.002752293577981651,
+            0.03247706422018349,
+            -0.004220183486238533
+        ],
+        [
+            "M",
+            0.46724770642201835,
+            0.12798165137614678,
+            "c",
+            0.023669724770642202,
+            0.013944954128440367,
+            0.061192660550458716,
+            0.0571559633027523,
+            0.0671559633027523,
+            0.07880733944954128
+        ],
+        [
+            "M",
+            0.7007339449541284,
+            0.08486238532110092,
+            "c",
+            0.0001834862385321101,
+            0.0032110091743119264,
+            0.0008256880733944953,
+            0.010642201834862385,
+            -0.0003669724770642202,
+            0.015137614678899082,
+            "c",
+            -0.0076146788990825685,
+            0.028440366972477066,
+            -0.02568807339449541,
+            0.06770642201834862,
+            -0.05614678899082569,
+            0.10339449541284404
+        ],
+        [
+            "M",
+            0.4500917431192661,
+            0.2545871559633027,
+            "c",
+            0.016605504587155963,
+            0.0033944954128440367,
+            0.038073394495412846,
+            0.002660550458715596,
+            0.05110091743119266,
+            0.0002752293577981651,
+            "c",
+            0.05559633027522935,
+            -0.010458715596330274,
+            0.16220183486238532,
+            -0.03,
+            0.21908256880733945,
+            -0.03660550458715597,
+            "c",
+            0.014954128440366971,
+            -0.0017431192660550458,
+            0.03357798165137615,
+            -0.004220183486238533,
+            0.048348623853211,
+            -0.0001834862385321101
+        ],
+        [
+            "M",
+            0.5988990825688073,
+            0.24963302752293579,
+            "c",
+            0.008623853211009174,
+            0.008623853211009174,
+            0.011192660550458715,
+            0.021009174311926605,
+            0.011192660550458715,
+            0.034128440366972476,
+            "c",
+            0,
+            0.02587155963302752,
+            -0.0012844036697247708,
+            0.06825688073394495,
+            -0.0012844036697247708,
+            0.10779816513761468
+        ],
+        [
+            "M",
+            0.4706422018348624,
+            0.3347706422018349,
+            "c",
+            0.01908256880733945,
+            0.003577981651376147,
+            0.037614678899082564,
+            0.0009174311926605505,
+            0.051559633027522936,
+            -0.0011926605504587156,
+            "c",
+            0.047981651376146794,
+            -0.0074311926605504595,
+            0.1304587155963303,
+            -0.020917431192660547,
+            0.17752293577981654,
+            -0.0255045871559633,
+            "c",
+            0.013944954128440367,
+            -0.0013761467889908255,
+            0.02908256880733945,
+            -0.0032110091743119264,
+            0.04293577981651376,
+            0.0005504587155963302
+        ],
+        [
+            "M",
+            0.42,
+            0.4203669724770642,
+            "c",
+            0.0226605504587156,
+            0.005137614678899083,
+            0.049724770642201835,
+            0.0021100917431192663,
+            0.06963302752293578,
+            -0.0009174311926605505,
+            "c",
+            0.0653211009174312,
+            -0.01,
+            0.19642201834862386,
+            -0.030275229357798163,
+            0.2765137614678899,
+            -0.03889908256880734,
+            "c",
+            0.02284403669724771,
+            -0.002477064220183486,
+            0.045871559633027525,
+            -0.006513761467889908,
+            0.06853211009174312,
+            -0.0010091743119266055
+        ],
+        [
+            "M",
+            0.5207339449541284,
+            0.45981651376146787,
+            "c",
+            0.0011009174311926604,
+            0.0057798165137614675,
+            -0.00045871559633027525,
+            0.011743119266055046,
+            -0.0032110091743119264,
+            0.015045871559633026,
+            "c",
+            -0.01798165137614679,
+            0.02192660550458716,
+            -0.05137614678899082,
+            0.05064220183486238,
+            -0.11614678899082569,
+            0.08009174311926606
+        ],
+        [
+            "M",
+            0.3965137614678899,
+            0.6044954128440367,
+            "c",
+            0.024403669724770642,
+            0.005596330275229358,
+            0.05403669724770642,
+            0.0033027522935779813,
+            0.07853211009174313,
+            -0.00045871559633027525,
+            "c",
+            0.07559633027522936,
+            -0.011559633027522935,
+            0.20394495412844038,
+            -0.040733944954128444,
+            0.3012844036697248,
+            -0.05229357798165138,
+            "c",
+            0.024128440366972478,
+            -0.0028440366972477065,
+            0.04642201834862385,
+            -0.004862385321100918,
+            0.07027522935779816,
+            0.0006422018348623854
+        ],
+        [
+            "M",
+            0.5046788990825688,
+            0.5197247706422018,
+            "c",
+            0.0006422018348623854,
+            0.0025688073394495416,
+            0.008715596330275228,
+            0.013486238532110091,
+            0.008715596330275228,
+            0.03,
+            "c",
+            0,
+            0.10045871559633027,
+            -0.0007339449541284404,
+            0.264954128440367,
+            -0.0007339449541284404,
+            0.30000000000000004,
+            "c",
+            0,
+            0.04697247706422018,
+            -0.03963302752293578,
+            0.010550458715596329,
+            -0.061467889908256884,
+            -0.003669724770642202
+        ],
+        [
+            "M",
+            0.41174311926605506,
+            0.7603669724770642,
+            "c",
+            0.011467889908256881,
+            0.005688073394495413,
+            0.02284403669724771,
+            0.0022935779816513763,
+            0.02981651376146789,
+            -0.0025688073394495416,
+            "c",
+            0.006972477064220183,
+            -0.004678899082568807,
+            0.1053211009174312,
+            -0.07990825688073395,
+            0.13477064220183485,
+            -0.10256880733944954
+        ],
+        [
+            "M",
+            0.6221100917431193,
+            0.44027522935779817,
+            "c",
+            0.014036697247706422,
+            0.014403669724770642,
+            0.021376146788990826,
+            0.031009174311926603,
+            0.023853211009174313,
+            0.05055045871559633,
+            "c",
+            0.02146788990825688,
+            0.1679816513761468,
+            0.09807339449541284,
+            0.32779816513761467,
+            0.2028440366972477,
+            0.3975229357798165,
+            "c",
+            0.03706422018348624,
+            0.024587155963302753,
+            0.040733944954128444,
+            -0.00963302752293578,
+            0.03605504587155964,
+            -0.05229357798165138
+        ],
+        [
+            "M",
+            0.7786238532110092,
+            0.6111926605504587,
+            "c",
+            0.0005504587155963302,
+            0.005412844036697248,
+            0.0011009174311926604,
+            0.014128440366972478,
+            -0.0010091743119266055,
+            0.02192660550458716,
+            "c",
+            -0.01275229357798165,
+            0.04623853211009174,
+            -0.0828440366972477,
+            0.15293577981651377,
+            -0.1826605504587156,
+            0.21513761467889908
+        ],
+        [
+            "M",
+            0.7144954128440366,
+            0.43467889908256885,
+            "c",
+            0.021192660550458715,
+            0.01165137614678899,
+            0.05495412844036698,
+            0.0381651376146789,
+            0.06486238532110092,
+            0.05807339449541284
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. discussion; deliberation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. thought; opinion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "長",
+                    "ちょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chair; chairman; chairperson; speaker (of an assembly); president (of a council, senate, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Speaker (politics) The term speaker is a title often given to the presiding ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. chair; chairman; chairperson; speaker (of an assembly); president (of a council, senate, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Speaker (politics) The term speaker is a title often given to the presiding ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. congress; parliament; diet; legislative assembly "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Parliament A parliament is a legislature whose power and function ar... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. congress; parliament; diet; legislative assembly "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Parliament A parliament is a legislature whose power and function ar... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "員",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. member of an assembly; member of the Diet; member of parliament; member of Congress "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Legislator A legislator (or lawmaker) is a person who writes and pas... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. member of an assembly; member of the Diet; member of parliament; member of Congress "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Legislator A legislator (or lawmaker) is a person who writes and pas... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. argument; discussion; dispute; controversy "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. argument; discussion; dispute; controversy "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "案",
+                    "あん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. legislative bill; measure この議案は我々の政策に合っている。This measure is in accord with our policy."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. agenda item "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. legislative bill; measure この議案は我々の政策に合っている。This measure is in accord with our policy."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. agenda item "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "議案",
+                            "ぎあん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "我々",
+                            "われわれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "政策",
+                            "せいさく"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "合っている",
+                            "あ"
+                        ]
+                    ],
+                    "translation": "This measure is in accord with our policy."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "題",
+                    "だい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. topic of discussion; agenda "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. topic of discussion; agenda "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "決",
+                    "けつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. resolution; decision; vote "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. resolution; decision; vote "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "諮",
+                    "はか"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to consult with; to discuss; to confer; to deliberate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "議る 【はかる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "議る: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. proceedings (e.g. parliament, congress); business (of the day) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "席",
+                    "せき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. parliamentary seat "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "録",
+                    "ろく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. record of proceedings; minutes "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "妨",
+                    "ぼう"
+                ],
+                [
+                    "害",
+                    "がい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. obstruction of proceedings; filibuster "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Filibuster A filibuster is a type of parliamentary procedure where a... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "堂",
+                    "どう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. assembly hall; parliament house; diet building; capitol; houses of parliament; congress hall "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "院",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. parliament; congress; diet "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. house (of parliament, etc.); chamber "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Chambers of parliament Many parliaments or other legislatures consist of two cha... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "院",
+                    "いん"
+                ],
+                [
+                    "運",
+                    "うん"
+                ],
+                [
+                    "営",
+                    "えい"
+                ],
+                [
+                    "委",
+                    "い"
+                ],
+                [
+                    "員",
+                    "いん"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Committee on Rules and Administration (Diet); House Steering Committee; Standing Committee for House Management See also 議運"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. protocol "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. assembly hall; the House "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "主",
+                    "しゅ"
+                ],
+                [
+                    "義",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. parliamentarism "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "政",
+                    "せい"
+                ],
+                [
+                    "治",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. parliamentarism; parliamentary government "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "議",
+                "はかり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Hakari "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Hakaru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "議一",
+                "ぎいち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Giichi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Transitive verb",
+                    "meaning": "1. meeting; conference; session; assembly; council; convention; congress "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Meeting For multi-event athletic competitions see Track and Field... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "室",
+                    "しつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conference room; council room "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Conference hall A conference hall or conference room is a room provided f... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "参",
+                    "さん"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "院",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. House of Councillors (upper house of the National Diet of Japan) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. House of Councillors The House of Councillors is the upper house of the Diet o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "衆",
+                    "しゅう"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "院",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. House of Representatives (lower house of the National Diet of Japan) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. House of Representatives of Japan The House of Representatives is the lower house of the Di... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "思",
+                    "し"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. wonderful; marvelous; strange; incredible; amazing; curious; miraculous; mysterious "
+                },
+                {
+                    "type": "Adverb taking the 'to' particle",
+                    "meaning": "2. strangely enough; oddly enough; for some reason; curiously "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抗",
+                    "こう"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. protest; objection "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "討",
+                    "とう"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. debate; discussion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "異",
+                    "い"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. objection; dissent; protest "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "論",
+                    "ろん"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. discussion; argument; debate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "論義 【ろんぎ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "論義: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "協",
+                    "きょう"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. conference; consultation; discussion; negotiation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "決",
+                    "けつ"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. resolution; vote; decision "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "審",
+                    "しん"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. deliberation; discussion; consideration "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "物",
+                    "ぶつ"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. public discussion; public criticism; controversy "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

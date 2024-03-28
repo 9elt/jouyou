@@ -1,0 +1,893 @@
+{
+    "kanji": "峡",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "gorge",
+        "ravine"
+    ],
+    "kun": [
+        "はざま"
+    ],
+    "on": [
+        "キョウ",
+        "コウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.22587155963302752,
+            0.19155963302752294,
+            "c",
+            0.007981651376146788,
+            0.007981651376146788,
+            0.011376146788990826,
+            0.020550458715596333,
+            0.011376146788990826,
+            0.03311926605504587,
+            "c",
+            0,
+            0.006605504587155963,
+            -0.0010091743119266055,
+            0.3664220183486238,
+            -0.0010091743119266055,
+            0.4198165137614679
+        ],
+        [
+            "M",
+            0.11724770642201834,
+            0.446697247706422,
+            "c",
+            0.007064220183486239,
+            0.006972477064220183,
+            0.008899082568807339,
+            0.017706422018348624,
+            0.008715596330275228,
+            0.028165137614678898,
+            "c",
+            -0.0011009174311926604,
+            0.04577981651376147,
+            -0.004311926605504587,
+            0.11,
+            -0.009357798165137614,
+            0.17853211009174313,
+            "c",
+            -0.0012844036697247708,
+            0.017889908256880735,
+            -0.0003669724770642202,
+            0.024862385321100917,
+            0.01853211009174312,
+            0.020917431192660547,
+            "c",
+            0.04330275229357798,
+            -0.00908256880733945,
+            0.1444954128440367,
+            -0.02596330275229358,
+            0.21128440366972479,
+            -0.03669724770642202
+        ],
+        [
+            "M",
+            0.3597247706422018,
+            0.39917431192660546,
+            "c",
+            0.008807339449541284,
+            0.008807339449541284,
+            0.009541284403669725,
+            0.020550458715596333,
+            0.008715596330275228,
+            0.0355045871559633,
+            "c",
+            -0.001926605504587156,
+            0.03238532110091743,
+            -0.003577981651376147,
+            0.10688073394495413,
+            -0.009174311926605505,
+            0.17825688073394494,
+            "c",
+            -0.001834862385321101,
+            0.024036697247706424,
+            -0.0039449541284403665,
+            0.04715596330275229,
+            -0.006238532110091744,
+            0.06724770642201836
+        ],
+        [
+            "M",
+            0.4243119266055046,
+            0.2971559633027523,
+            "c",
+            0.0218348623853211,
+            0.005596330275229358,
+            0.04055045871559633,
+            0.0032110091743119264,
+            0.05724770642201835,
+            0.0009174311926605505,
+            "c",
+            0.09293577981651377,
+            -0.012568807339449543,
+            0.18009174311926604,
+            -0.0263302752293578,
+            0.2697247706422018,
+            -0.037706422018348625,
+            "c",
+            0.01853211009174312,
+            -0.0023853211009174312,
+            0.03541284403669725,
+            -0.0033027522935779813,
+            0.05376146788990826,
+            0.0011926605504587156
+        ],
+        [
+            "M",
+            0.4288990825688073,
+            0.3796330275229358,
+            "c",
+            0.02018348623853211,
+            0.018990825688073393,
+            0.052110091743119265,
+            0.07807339449541284,
+            0.0571559633027523,
+            0.10761467889908258
+        ],
+        [
+            "M",
+            0.7387155963302752,
+            0.3292660550458716,
+            "c",
+            0.0011009174311926604,
+            0.008256880733944955,
+            0.00009174311926605505,
+            0.016146788990825688,
+            -0.0029357798165137615,
+            0.023761467889908256,
+            "c",
+            -0.011834862385321101,
+            0.03752293577981651,
+            -0.03403669724770642,
+            0.08247706422018349,
+            -0.08220183486238533,
+            0.14238532110091742
+        ],
+        [
+            "M",
+            0.41174311926605506,
+            0.5491743119266055,
+            "c",
+            0.021100917431192658,
+            0.005045871559633028,
+            0.048348623853211,
+            0.0023853211009174312,
+            0.06972477064220182,
+            -0.00045871559633027525,
+            "c",
+            0.09100917431192661,
+            -0.011834862385321101,
+            0.2055045871559633,
+            -0.024678899082568807,
+            0.31339449541284403,
+            -0.0355045871559633,
+            "c",
+            0.01981651376146789,
+            -0.002018348623853211,
+            0.04119266055045872,
+            -0.0028440366972477065,
+            0.06073394495412844,
+            0.0005504587155963302
+        ],
+        [
+            "M",
+            0.5787155963302753,
+            0.11697247706422019,
+            "c",
+            0.009357798165137614,
+            0.009357798165137614,
+            0.010642201834862385,
+            0.022110091743119266,
+            0.01073394495412844,
+            0.044311926605504585,
+            "c",
+            0.0011926605504587156,
+            0.42357798165137617,
+            -0.012568807339449543,
+            0.5439449541284403,
+            -0.2705504587155963,
+            0.7056880733944955
+        ],
+        [
+            "M",
+            0.5825688073394495,
+            0.5527522935779816,
+            "C",
+            0.6330275229357798,
+            0.6157798165137615,
+            0.7178899082568807,
+            0.7155963302752294,
+            0.7964220183486239,
+            0.7961467889908257,
+            "c",
+            0.024220183486238535,
+            0.024862385321100917,
+            0.05045871559633028,
+            0.04513761467889908,
+            0.06660550458715596,
+            0.05706422018348624
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "峡",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gorge; ravine Archaic, See also はざま"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "峽 【かい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "峽: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. gorge; ravine Archaic, See also はざま"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "峽 【かい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "峽: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "峡",
+                    "きょう"
+                ],
+                [
+                    "谷",
+                    "こく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gorge; ravine; canyon; glen "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Canyon A canyon (occasionally spelled cañon) or gorge is a deep ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. gorge; ravine; canyon; glen "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Canyon A canyon (occasionally spelled cañon) or gorge is a deep ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "峡",
+                    "きょう"
+                ],
+                [
+                    "間",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. between the mountains "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. between the mountains "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "峡",
+                    "きょう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fjord "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. fjord "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "峡",
+                    "きょう"
+                ],
+                [
+                    "谷",
+                    "こく"
+                ],
+                [
+                    "風",
+                    "ふう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ravine wind; canyon wind; gorge wind "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ravine wind; canyon wind; gorge wind "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "峡",
+                    "きょう"
+                ],
+                [
+                    "部",
+                    "ぶ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. isthmus "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. isthmus "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "峡",
+                    null
+                ],
+                [
+                    "江",
+                    null
+                ],
+                [
+                    "県",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Xiajiang County Xiajiang County is a county of Jiangxi province, People's... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "峡",
+                    null
+                ],
+                [
+                    "谷",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "星",
+                    null
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "へ",
+                    null
+                ],
+                [
+                    "…",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Des canyons aux étoiles... Des canyons aux étoiles… (From the canyons to the stars..... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "峡",
+                "きょう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Kyou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "峡",
+                "はけ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Hake "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Hazama "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. channel (e.g. between two land masses); strait "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Strait A strait or straits is a narrow, typically navigable chan... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "英",
+                    "えい"
+                ],
+                [
+                    "仏",
+                    "ふつ"
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. English Channel "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Eifutsukaikyou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "間",
+                    "ま"
+                ],
+                [
+                    "宮",
+                    "みや"
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. strait between Sakhalin and the east coast of Siberia "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Strait of Tartary Strait of Tartary is a strait in the Pacific Ocean dividi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "台",
+                    "たい"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Straits of Taiwan "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Taiwan Strait The Taiwan Strait or Formosa Strait, formerly known as th... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "関",
+                    "かん"
+                ],
+                [
+                    "門",
+                    "もん"
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kanmon Straits (between Honshu and Kyushu) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Kanmon Straits The Kanmon Straits (関門海峡 Kanmon Kaikyō) or the Straits of... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "国",
+                    "こく"
+                ],
+                [
+                    "際",
+                    "さい"
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. international strait "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. isthmus "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "口",
+                    "こう"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ],
+                [
+                    "炎",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sore throat; acute tonsillitis; angina Medicine"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "イ",
+                    null
+                ],
+                [
+                    "ギ",
+                    null
+                ],
+                [
+                    "リ",
+                    null
+                ],
+                [
+                    "ス",
+                    null
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. English Channel "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. English Channel "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. English Channel The English Channel, often referred to simply as the Chan... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "英",
+                    "えい"
+                ],
+                [
+                    "仏",
+                    "ふつ"
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ],
+                [
+                    "ト",
+                    null
+                ],
+                [
+                    "ン",
+                    null
+                ],
+                [
+                    "ネ",
+                    null
+                ],
+                [
+                    "ル",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Channel Tunnel; Chunnel "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Channel Tunnel The Channel Tunnel (French: Le tunnel sous la Manche; als... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "本",
+                    "ほん"
+                ],
+                [
+                    "四",
+                    "し"
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ],
+                [
+                    "バ",
+                    null
+                ],
+                [
+                    "ス",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Honshi Kaikyō Bus Company Company name"
+                },
+                {
+                    "type": "Company",
+                    "meaning": "2. Honshi Kaikyou Bus Company "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "山",
+                    "さん"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gorge; ravine; gap "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "山峡 【やまかい】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

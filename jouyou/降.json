@@ -1,0 +1,2087 @@
+{
+    "kanji": "降",
+    "grade": 6,
+    "jlpt": 3,
+    "meanings": [
+        "descend",
+        "precipitate",
+        "fall",
+        "surrender"
+    ],
+    "kun": [
+        "お.りる",
+        "お.ろす",
+        "ふ.る",
+        "ふ.り",
+        "くだ.る",
+        "くだ.す"
+    ],
+    "on": [
+        "コウ",
+        "ゴ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.11467889908256881,
+            0.1926605504587156,
+            "c",
+            0.014862385321100919,
+            0.0045871559633027525,
+            0.031009174311926603,
+            0.005688073394495413,
+            0.04660550458715596,
+            0.0032110091743119264,
+            "c",
+            0.046055045871559626,
+            -0.007339449541284404,
+            0.09330275229357798,
+            -0.020458715596330276,
+            0.12385321100917432,
+            -0.02908256880733945,
+            "c",
+            0.027706422018348623,
+            -0.0077981651376146785,
+            0.040458715596330276,
+            0.012018348623853212,
+            0.028440366972477066,
+            0.03458715596330275,
+            "c",
+            -0.012018348623853212,
+            0.02256880733944954,
+            -0.06321100917431192,
+            0.13238532110091744,
+            -0.08431192660550459,
+            0.1646788990825688
+        ],
+        [
+            "M",
+            0.22926605504587155,
+            0.36614678899082564,
+            "c",
+            0.12394495412844037,
+            0.08688073394495413,
+            0.09752293577981652,
+            0.3277064220183486,
+            -0.001559633027522936,
+            0.2537614678899083
+        ],
+        [
+            "M",
+            0.1265137614678899,
+            0.2004587155963303,
+            "c",
+            0.008532110091743119,
+            0.008532110091743119,
+            0.013119266055045872,
+            0.020825688073394497,
+            0.013119266055045872,
+            0.031467889908256885,
+            "c",
+            0,
+            0.0081651376146789,
+            0.0028440366972477065,
+            0.3904587155963303,
+            0.0013761467889908255,
+            0.5592660550458716,
+            "c",
+            -0.0003669724770642202,
+            0.036238532110091745,
+            -0.0006422018348623854,
+            0.0626605504587156,
+            -0.0010091743119266055,
+            0.07339449541284404
+        ],
+        [
+            "M",
+            0.5109174311926605,
+            0.12155963302752294,
+            "c",
+            0.00045871559633027525,
+            0.004678899082568807,
+            0.0009174311926605505,
+            0.012110091743119267,
+            -0.0008256880733944953,
+            0.018807339449541282,
+            "c",
+            -0.010183486238532111,
+            0.03972477064220183,
+            -0.06844036697247706,
+            0.12688073394495414,
+            -0.1481651376146789,
+            0.18027522935779816
+        ],
+        [
+            "M",
+            0.5360550458715596,
+            0.14899082568807337,
+            "c",
+            0.008623853211009174,
+            0.0012844036697247708,
+            0.017431192660550456,
+            0.0007339449541284404,
+            0.024128440366972478,
+            -0.0008256880733944953,
+            "c",
+            0.025779816513761468,
+            -0.005963302752293578,
+            0.07981651376146788,
+            -0.016972477064220184,
+            0.11211009174311927,
+            -0.025045871559633028,
+            "c",
+            0.022110091743119266,
+            -0.005596330275229358,
+            0.036146788990825685,
+            0.005688073394495413,
+            0.027339449541284404,
+            0.026055045871559632,
+            "c",
+            -0.037981651376146786,
+            0.08825688073394494,
+            -0.1710091743119266,
+            0.2671559633027523,
+            -0.32587155963302755,
+            0.32779816513761467
+        ],
+        [
+            "M",
+            0.48651376146788994,
+            0.23477064220183486,
+            "c",
+            0.03128440366972477,
+            0.005596330275229358,
+            0.22110091743119267,
+            0.13999999999999999,
+            0.3025688073394495,
+            0.191651376146789,
+            "c",
+            0.0226605504587156,
+            0.014311926605504588,
+            0.045871559633027525,
+            0.0263302752293578,
+            0.0710091743119266,
+            0.03577981651376147
+        ],
+        [
+            "M",
+            0.4288990825688073,
+            0.5229357798165137,
+            "c",
+            0.01834862385321101,
+            0.0034862385321100917,
+            0.0363302752293578,
+            0.0023853211009174312,
+            0.051834862385321104,
+            0.0011926605504587156,
+            "c",
+            0.059449541284403676,
+            -0.004678899082568807,
+            0.16633027522935778,
+            -0.019541284403669725,
+            0.22577981651376147,
+            -0.024036697247706424,
+            "c",
+            0.017339449541284403,
+            -0.0012844036697247708,
+            0.035596330275229356,
+            -0.0028440366972477065,
+            0.0526605504587156,
+            0.0012844036697247708
+        ],
+        [
+            "M",
+            0.4624770642201835,
+            0.5309174311926605,
+            "c",
+            0.006788990825688073,
+            0.006788990825688073,
+            0.01,
+            0.01724770642201835,
+            0.009357798165137614,
+            0.02688073394495413,
+            "c",
+            -0.0032110091743119264,
+            0.05,
+            -0.0028440366972477065,
+            0.08449541284403671,
+            -0.005963302752293578,
+            0.1234862385321101
+        ],
+        [
+            "M",
+            0.36009174311926606,
+            0.6939449541284404,
+            "c",
+            0.028623853211009177,
+            0.004495412844036697,
+            0.048256880733944955,
+            0.0032110091743119264,
+            0.07018348623853211,
+            0.00045871559633027525,
+            "c",
+            0.10412844036697247,
+            -0.013211009174311925,
+            0.27174311926605504,
+            -0.03211009174311927,
+            0.35394495412844035,
+            -0.03669724770642202,
+            "c",
+            0.02192660550458716,
+            -0.0011926605504587156,
+            0.042477064220183484,
+            -0.001926605504587156,
+            0.06440366972477064,
+            0.0029357798165137615
+        ],
+        [
+            "M",
+            0.6111926605504587,
+            0.4197247706422018,
+            "c",
+            0.008623853211009174,
+            0.008623853211009174,
+            0.01165137614678899,
+            0.022935779816513763,
+            0.01165137614678899,
+            0.038256880733944953,
+            "c",
+            0,
+            0.02522935779816514,
+            -0.0011926605504587156,
+            0.2667889908256881,
+            -0.0011926605504587156,
+            0.3837614678899082,
+            "c",
+            0,
+            0.023669724770642202,
+            -0.0005504587155963302,
+            0.04155963302752294,
+            -0.0009174311926605505,
+            0.05045871559633028
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "降",
+                    "お"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to descend (e.g. a mountain); to go down; to come down esp. 下りるあのプロのスキーヤーは離れ業をしながら山をおりるのが好きだった。The professional skier liked to \"hot-dog\" down the mountain."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to alight (e.g. from bus); to get off; to disembark; to dismount esp. 降りるここで降りましょう。Let's get off here."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to step down; to retire; to give up; to quit; to fold "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to be granted; to be issued; to be given esp. 下りる"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to form (of frost, dew, mist, etc.) esp. 降りる今朝は露が降りた。The dew fell this morning."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "6. to be passed (from the body; e.g. of a roundworm) See also 下り物, esp. 下りる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "下りる 【おりる】"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to descend (e.g. a mountain); to go down; to come down esp. 下りるあのプロのスキーヤーは離れ業をしながら山をおりるのが好きだった。The professional skier liked to \"hot-dog\" down the mountain."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to alight (e.g. from bus); to get off; to disembark; to dismount esp. 降りるここで降りましょう。Let's get off here."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to step down; to retire; to give up; to quit; to fold "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to be granted; to be issued; to be given esp. 下りる"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to form (of frost, dew, mist, etc.) esp. 降りる今朝は露が降りた。The dew fell this morning."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "6. to be passed (from the body; e.g. of a roundworm) See also 下り物, esp. 下りる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "下りる 【おりる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あの",
+                            null
+                        ],
+                        [
+                            "プロ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "スキーヤー",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "離れ業",
+                            "はなれわざ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "し",
+                            null
+                        ],
+                        [
+                            "ながら",
+                            null
+                        ],
+                        [
+                            "山",
+                            "やま"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "おりる",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "好き",
+                            "す"
+                        ],
+                        [
+                            "だった",
+                            null
+                        ]
+                    ],
+                    "translation": "The professional skier liked to \"hot-dog\" down the mountain."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "降り",
+                            "お"
+                        ],
+                        [
+                            "ましょう",
+                            null
+                        ]
+                    ],
+                    "translation": "Let's get off here."
+                },
+                {
+                    "sentence": [
+                        [
+                            "今朝",
+                            "けさ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "露",
+                            "つゆ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "降りた",
+                            "お"
+                        ]
+                    ],
+                    "translation": "The dew fell this morning."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "ふ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to fall (of rain, snow, ash, etc.); to come down "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to form (of frost) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to beam down (of sunlight or moonlight); to pour in "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to visit (of luck, misfortune, etc.); to come; to arrive "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to fall (of rain, snow, ash, etc.); to come down "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to form (of frost) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to beam down (of sunlight or moonlight); to pour in "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to visit (of luck, misfortune, etc.); to come; to arrive "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "こう"
+                ],
+                [
+                    "水",
+                    "すい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rainfall; precipitation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Precipitation (meteorology) In meteorology, precipitation (also known as one of the c... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. rainfall; precipitation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Precipitation (meteorology) In meteorology, precipitation (also known as one of the c... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "昨年",
+                            "さくねん"
+                        ],
+                        [
+                            "空梅雨",
+                            "からつゆ"
+                        ],
+                        [
+                            "雨",
+                            "あめ"
+                        ],
+                        [
+                            "例年",
+                            "れいねん"
+                        ],
+                        [
+                            "降水量",
+                            "こうすいりょう"
+                        ]
+                    ],
+                    "translation": "Last year’s rainy season was relatively dry with little rainfall compared to previous years."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "下",
+                    "くだ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. down-train; train heading toward the ending point of its route "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. down-slope; downward going ここの下りも手掛かりがないので危険だ。The downclimb here is also dangerous as there are no handholds."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. downbound (esp. away from Tokyo) "
+                },
+                {
+                    "type": "Noun, Noun, used as a prefix",
+                    "meaning": "4. downstream; downhill Antonym: 上り"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降り 【くだり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. down-train; train heading toward the ending point of its route "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. down-slope; downward going ここの下りも手掛かりがないので危険だ。The downclimb here is also dangerous as there are no handholds."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. downbound (esp. away from Tokyo) "
+                },
+                {
+                    "type": "Noun, Noun, used as a prefix",
+                    "meaning": "4. downstream; downhill Antonym: 上り"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降り 【くだり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "下り",
+                            "くだ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "手掛かり",
+                            "てが"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ない",
+                            null
+                        ],
+                        [
+                            "ので",
+                            null
+                        ],
+                        [
+                            "危険",
+                            "きけん"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "The downclimb here is also dangerous as there are no handholds."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "下",
+                    "お"
+                ],
+                [
+                    "ろ",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to take down; to bring down; to lower (a hand, flag, shutter, etc.); to drop (an anchor, curtain, etc.); to let down (hair); to launch (a boat) ２階からトランクを降ろしてきてくれませんか。Can you bring down my trunk from upstairs?"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to drop off (a passenger); to let off; to unload (goods, a truck, etc.); to offload; to discharge esp. 降ろすあの信号の手前で降ろしてください。Please let me off on this side of that traffic light."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to withdraw (money) 銀行で１０万下ろしてください。Please draw a hundred thousand yen from the bank."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to use for the first time; to wear for the first time "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "5. to cut off; to fillet (fish); to grate (e.g. radish); to prune (branches) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "6. to remove (someone from a position); to oust; to drop esp. 降ろす"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "7. to clear (the table); to remove (offerings from an altar); to pass down (e.g. old clothes); to hand down "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "8. to expel from the body (e.g. worms); to abort (a fetus) See also 堕ろす"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "9. to invoke (a spirit); to call down "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降ろす 【おろす】、下す 【おろす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "下す: Irregular okurigana usage."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to take down; to bring down; to lower (a hand, flag, shutter, etc.); to drop (an anchor, curtain, etc.); to let down (hair); to launch (a boat) ２階からトランクを降ろしてきてくれませんか。Can you bring down my trunk from upstairs?"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to drop off (a passenger); to let off; to unload (goods, a truck, etc.); to offload; to discharge esp. 降ろすあの信号の手前で降ろしてください。Please let me off on this side of that traffic light."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to withdraw (money) 銀行で１０万下ろしてください。Please draw a hundred thousand yen from the bank."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to use for the first time; to wear for the first time "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "5. to cut off; to fillet (fish); to grate (e.g. radish); to prune (branches) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "6. to remove (someone from a position); to oust; to drop esp. 降ろす"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "7. to clear (the table); to remove (offerings from an altar); to pass down (e.g. old clothes); to hand down "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "8. to expel from the body (e.g. worms); to abort (a fetus) See also 堕ろす"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "9. to invoke (a spirit); to call down "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降ろす 【おろす】、下す 【おろす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "下す: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "２階",
+                            "にかい"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "トランク",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "降ろして",
+                            null
+                        ],
+                        [
+                            "きて",
+                            null
+                        ],
+                        [
+                            "くれません",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Can you bring down my trunk from upstairs?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "あの",
+                            null
+                        ],
+                        [
+                            "信号",
+                            "しんごう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "手前",
+                            "てまえ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "降ろして",
+                            null
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Please let me off on this side of that traffic light."
+                },
+                {
+                    "sentence": [
+                        [
+                            "銀行",
+                            "ぎんこう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "万",
+                            "まん"
+                        ],
+                        [
+                            "下ろして",
+                            null
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Please draw a hundred thousand yen from the bank."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "ふ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to begin to rain; to begin to snow "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降りだす 【ふりだす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to begin to rain; to begin to snow "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降りだす 【ふりだす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "下",
+                    "くだ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to descend; to go down; to come down 山を下ったところに学校がある。There is a school down the mountain."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be handed down (of an order, judgment, etc.) 彼は懲役十年で、女房には三年の刑が下った。He was given ten years and his wife three."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to pass (of time) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to surrender; to capitulate "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to be less than; to be inferior to often in neg. form"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to have the runs; to have diarrhea See also 腹が下る, also written as 瀉る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to pass (in stool); to be discharged from the body "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to depreciate oneself; to be humble Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降る 【くだる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to descend; to go down; to come down 山を下ったところに学校がある。There is a school down the mountain."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be handed down (of an order, judgment, etc.) 彼は懲役十年で、女房には三年の刑が下った。He was given ten years and his wife three."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to pass (of time) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to surrender; to capitulate "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to be less than; to be inferior to often in neg. form"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to have the runs; to have diarrhea See also 腹が下る, also written as 瀉る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to pass (in stool); to be discharged from the body "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to depreciate oneself; to be humble Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降る 【くだる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "山",
+                            "やま"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "下った",
+                            "くだ"
+                        ],
+                        [
+                            "ところ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "学校",
+                            "がっこう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ]
+                    ],
+                    "translation": "There is a school down the mountain."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "懲役",
+                            "ちょうえき"
+                        ],
+                        [
+                            "十",
+                            "じゅう"
+                        ],
+                        [
+                            "年",
+                            "ねん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "女房",
+                            "にょうぼう"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "三年",
+                            "さんねん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "刑",
+                            "けい"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "下った",
+                            "くだ"
+                        ]
+                    ],
+                    "translation": "He was given ten years and his wife three."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "こう"
+                ],
+                [
+                    "伏",
+                    "ふく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. surrender; capitulation; submission "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. yield Engineering"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Surrender (military) Surrender is when soldiers, naval craft, nations or other... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降服 【こうふく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "降服: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. surrender; capitulation; submission "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. yield Engineering"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Surrender (military) Surrender is when soldiers, naval craft, nations or other... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降服 【こうふく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "降服: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "こう"
+                ],
+                [
+                    "雪",
+                    "せつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. snowfall; snow "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. snowfall; snow "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "こう"
+                ],
+                [
+                    "格",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. demotion; relegation; downgrading Antonym: 昇格"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. demotion; relegation; downgrading Antonym: 昇格"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "こう"
+                ],
+                [
+                    "雨",
+                    "う"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rainfall; rain "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. rainfall; rain "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "こう"
+                ],
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "量",
+                    "りょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. amount of precipitation; precipitation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. amount of precipitation; precipitation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "下",
+                    "くだ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to make a decision; to draw a conclusion 問題は誰が決定を下すかということだ。The question is who will make the decision."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to give a judgement; to hand down a verdict; to pass a sentence; to give an order これらの議論で問題になっている評決は、１９９４年のランダー裁判で下されたものである。The verdict at issue in these discussions is the one brought in the Lander's trial in 1994."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to let go down; to lower "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to do oneself; to do by oneself See also 手を下す手の下しようが無い。There's nothing to be done about it."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "5. to beat; to defeat "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "6. to have loose bowels; to have diarrhea "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "7. to pass (in stool); to discharge from the body "
+                },
+                {
+                    "type": "Suffix, Godan verb with 'su' ending",
+                    "meaning": "8. to do in one go; to do to the end without stopping after -masu stem of verb"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降す 【くだす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to make a decision; to draw a conclusion 問題は誰が決定を下すかということだ。The question is who will make the decision."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to give a judgement; to hand down a verdict; to pass a sentence; to give an order これらの議論で問題になっている評決は、１９９４年のランダー裁判で下されたものである。The verdict at issue in these discussions is the one brought in the Lander's trial in 1994."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to let go down; to lower "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to do oneself; to do by oneself See also 手を下す手の下しようが無い。There's nothing to be done about it."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "5. to beat; to defeat "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "6. to have loose bowels; to have diarrhea "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "7. to pass (in stool); to discharge from the body "
+                },
+                {
+                    "type": "Suffix, Godan verb with 'su' ending",
+                    "meaning": "8. to do in one go; to do to the end without stopping after -masu stem of verb"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降す 【くだす】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "問題",
+                            "もんだい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "誰",
+                            "だれ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "決定",
+                            "けってい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "下す",
+                            "くだ"
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "いう",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "The question is who will make the decision."
+                },
+                {
+                    "sentence": [
+                        [
+                            "これらの",
+                            null
+                        ],
+                        [
+                            "議論",
+                            "ぎろん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "問題",
+                            "もんだい"
+                        ],
+                        [
+                            "になっている",
+                            null
+                        ],
+                        [
+                            "評決",
+                            "ひょうけつ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "年",
+                            "ねん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "裁判",
+                            "さいばん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "下された",
+                            "くだ"
+                        ],
+                        [
+                            "ものである",
+                            null
+                        ]
+                    ],
+                    "translation": "The verdict at issue in these discussions is the one brought in the Lander's trial in 1994."
+                },
+                {
+                    "sentence": [
+                        [
+                            "手",
+                            "て"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "下し",
+                            "くだ"
+                        ],
+                        [
+                            "よう",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "無い",
+                            "な"
+                        ]
+                    ],
+                    "translation": "There's nothing to be done about it."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "こう"
+                ],
+                [
+                    "参",
+                    "さん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. surrender; submission; capitulation 海賊達には降参する以外に道はなかった。The pirates had no choice but to surrender."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. being defeated (e.g. by a problem); giving up; giving in "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. surrender; submission; capitulation 海賊達には降参する以外に道はなかった。The pirates had no choice but to surrender."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. being defeated (e.g. by a problem); giving up; giving in "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "海賊",
+                            "かいぞく"
+                        ],
+                        [
+                            "達",
+                            "たち"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "降参",
+                            "こうさん"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "以外",
+                            "いがい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "道",
+                            "みち"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "なかった",
+                            null
+                        ]
+                    ],
+                    "translation": "The pirates had no choice but to surrender."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "ふ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "注",
+                    "そそ"
+                ],
+                [
+                    "ぐ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'gu' ending, Intransitive verb",
+                    "meaning": "1. to rain incessantly; to downpour "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降りそそぐ 【ふりそそぐ】、降注ぐ 【ふりそそぐ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "こう"
+                ],
+                [
+                    "下",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. descent; fall; drop; (atmospheric) depression "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. passing down (of an order, decree, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "ふ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "積",
+                    "つ"
+                ],
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending",
+                    "meaning": "1. to fall and pile up (e.g. snow); to lie thick "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降積もる 【ふりつもる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "ふ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to fall continuously (of rain, snow, etc.); to fall hard; to fall heavily; to pour down "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降り頻る 【ふりしきる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "降り頻る: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "ふ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "始",
+                    "はじ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to begin to fall (rain, etc.) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "降りはじめる 【ふりはじめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "降",
+                    "ふ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "続",
+                    "つづ"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "1. to continue to rain or snow "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "降三杉",
+                "たかみすぎ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Takamisugi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "降井",
+                "ふるい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Furui "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Furuyo "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "以",
+                    "い"
+                ],
+                [
+                    "降",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. on and after; from ... onward; since "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "已降 【いこう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "已降: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "霜",
+                    "しも"
+                ],
+                [
+                    "降",
+                    "ふ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. speckled with white; salt-and-pepper (pattern, fabric, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. marbling (of beef) See also 霜降り肉"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. (of fish, chicken, shellfish, etc.) blanching by exposure to boiling and then icy water Abbreviation, See also 霜降り作り日本の牛は広範囲に霜降りがある。In Japan beef has a high degree of marbled fat."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. formation of frost orig. meaning"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Shuangjiang (solar term) Date and Time year begin end 辛巳 2001-10-23 08:25 2001-11-... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "霜降 【しもふり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "日本",
+                            "にほん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "牛",
+                            "うし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "広範囲に",
+                            "こうはんい"
+                        ],
+                        [
+                            "霜降り",
+                            "しもふ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ]
+                    ],
+                    "translation": "In Japan beef has a high degree of marbled fat."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "雨",
+                    "あめ"
+                ],
+                [
+                    "降",
+                    "ふ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rainfall; rainy weather "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. rainy; wet ある雨降りの朝、目が覚めてみると有名になっていた。One rainy morning I woke up to find myself famous."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "雨ふり 【あめふり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "雨降りの",
+                            "あめふ"
+                        ],
+                        [
+                            "朝",
+                            "あさ"
+                        ],
+                        [
+                            "目が覚めて",
+                            "めがさ"
+                        ],
+                        [
+                            "みる",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "有名",
+                            "ゆうめい"
+                        ],
+                        [
+                            "になっていた",
+                            null
+                        ]
+                    ],
+                    "translation": "One rainy morning I woke up to find myself famous."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "飛",
+                    "と"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "下",
+                    "お"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to jump down; to jump off; to jump from; to jump out of "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飛び降りる 【とびおりる】、跳び降りる 【とびおりる】、飛降りる 【とびおりる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "乗",
+                    "の"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "降",
+                    "お"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. getting on and off (a vehicle); boarding and alighting "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "土",
+                    "ど"
+                ],
+                [
+                    "砂",
+                    "しゃ"
+                ],
+                [
+                    "降",
+                    "ぶ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. downpour; pouring rain; heavy rain; pelting rain; cloudburst "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "どしゃ降り 【どしゃぶり】、ドシャ降り 【ドシャぶり】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

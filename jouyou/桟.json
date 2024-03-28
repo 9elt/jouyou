@@ -1,0 +1,921 @@
+{
+    "kanji": "桟",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "scaffold",
+        "cleat",
+        "frame",
+        "jetty",
+        "bolt (door)"
+    ],
+    "kun": [
+        "かけはし"
+    ],
+    "on": [
+        "サン",
+        "セン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.11495412844036697,
+            0.36211009174311926,
+            "c",
+            0.01,
+            0.006972477064220183,
+            0.038623853211009175,
+            0.004311926605504587,
+            0.050366972477064224,
+            0.002752293577981651,
+            "c",
+            0.041100917431192666,
+            -0.005504587155963302,
+            0.12128440366972477,
+            -0.018807339449541282,
+            0.1728440366972477,
+            -0.028256880733944955,
+            "c",
+            0.011467889908256881,
+            -0.0021100917431192663,
+            0.027614678899082565,
+            -0.005045871559633028,
+            0.04036697247706422,
+            -0.0028440366972477065
+        ],
+        [
+            "M",
+            0.26706422018348625,
+            0.14908256880733944,
+            "c",
+            0.01091743119266055,
+            0.01091743119266055,
+            0.014128440366972478,
+            0.024036697247706424,
+            0.014128440366972478,
+            0.038256880733944953,
+            "c",
+            0,
+            0.0074311926605504595,
+            0.0003669724770642202,
+            0.4488073394495413,
+            -0.00009174311926605505,
+            0.6188073394495414,
+            "c",
+            -0.00009174311926605505,
+            0.028899082568807338,
+            -0.00009174311926605505,
+            0.05,
+            -0.00009174311926605505,
+            0.05963302752293578
+        ],
+        [
+            "M",
+            0.2746788990825688,
+            0.364954128440367,
+            "c",
+            0,
+            0.011192660550458715,
+            -0.012844036697247705,
+            0.04926605504587156,
+            -0.01669724770642202,
+            0.058440366972477065,
+            "c",
+            -0.04238532110091743,
+            0.09963302752293578,
+            -0.07321100917431193,
+            0.14844036697247706,
+            -0.14458715596330274,
+            0.24706422018348623
+        ],
+        [
+            "M",
+            0.3093577981651376,
+            0.4142201834862385,
+            "c",
+            0.01981651376146789,
+            0.013394495412844036,
+            0.05238532110091743,
+            0.04844036697247707,
+            0.06908256880733946,
+            0.07431192660550458
+        ],
+        [
+            "M",
+            0.44027522935779817,
+            0.2811926605504587,
+            "c",
+            0.024128440366972478,
+            0.004403669724770642,
+            0.04376146788990825,
+            0.0037614678899082566,
+            0.06339449541284403,
+            0.0009174311926605505,
+            "c",
+            0.06302752293577982,
+            -0.008990825688073394,
+            0.15522935779816516,
+            -0.028256880733944955,
+            0.22458715596330275,
+            -0.04302752293577982,
+            "c",
+            0.01871559633027523,
+            -0.0039449541284403665,
+            0.03431192660550459,
+            -0.006330275229357797,
+            0.05146788990825688,
+            -0.004311926605504587
+        ],
+        [
+            "M",
+            0.4493577981651376,
+            0.4079816513761468,
+            "c",
+            0.020275229357798165,
+            0.008256880733944955,
+            0.04990825688073395,
+            0.005137614678899083,
+            0.07018348623853211,
+            -0.0009174311926605505,
+            "c",
+            0.06422018348623854,
+            -0.01944954128440367,
+            0.1559633027522936,
+            -0.04467889908256881,
+            0.22477064220183487,
+            -0.052110091743119265,
+            "c",
+            0.017155963302752295,
+            -0.001834862385321101,
+            0.03055045871559633,
+            -0.002752293577981651,
+            0.04715596330275229,
+            -0.002752293577981651
+        ],
+        [
+            "M",
+            0.41183486238532113,
+            0.546697247706422,
+            "c",
+            0.024587155963302753,
+            0.008807339449541284,
+            0.0526605504587156,
+            0.0047706422018348625,
+            0.07697247706422018,
+            -0.0016513761467889907,
+            "c",
+            0.08339449541284404,
+            -0.022110091743119266,
+            0.2210091743119266,
+            -0.05532110091743119,
+            0.33467889908256876,
+            -0.06605504587155964,
+            "c",
+            0.01926605504587156,
+            -0.001834862385321101,
+            0.04229357798165138,
+            -0.003027522935779817,
+            0.05871559633027523,
+            -0.0002752293577981651
+        ],
+        [
+            "M",
+            0.5502752293577982,
+            0.11467889908256881,
+            "c",
+            0.014128440366972478,
+            0.016422018348623852,
+            0.019908256880733943,
+            0.03247706422018349,
+            0.022935779816513763,
+            0.06788990825688074,
+            "c",
+            0.024311926605504585,
+            0.2830275229357798,
+            0.0908256880733945,
+            0.5422018348623854,
+            0.25146788990825686,
+            0.6656880733944954,
+            "c",
+            0.05201834862385321,
+            0.04,
+            0.04761467889908257,
+            0.0001834862385321101,
+            0.04055045871559633,
+            -0.07275229357798164
+        ],
+        [
+            "M",
+            0.7793577981651376,
+            0.5438532110091743,
+            "c",
+            0.0009174311926605505,
+            0.006972477064220183,
+            -0.001926605504587156,
+            0.015963302752293577,
+            -0.006513761467889908,
+            0.025596330275229357,
+            "c",
+            -0.030917431192660553,
+            0.06467889908256881,
+            -0.14330275229357797,
+            0.18623853211009175,
+            -0.34357798165137615,
+            0.2691743119266055
+        ],
+        [
+            "M",
+            0.7007339449541284,
+            0.10779816513761468,
+            "c",
+            0.034403669724770644,
+            0.015688073394495412,
+            0.08935779816513761,
+            0.05165137614678899,
+            0.10541284403669725,
+            0.07853211009174313
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "桟",
+                    "えつり"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sheathing (under thatched roofing) Abbreviation"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. lath (used as a foundation for a mud plaster wall) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. decorative rafters (of alternating wood and bamboo) See also 桟竹"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. frame (i.e. of a sliding door) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. crosspiece; bar "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. sliding wooden bolt (for holding a door or window shut) See also 猿"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. rung (of a ladder) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. frame (i.e. of a sliding door) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. crosspiece; bar "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. sliding wooden bolt (for holding a door or window shut) See also 猿"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. rung (of a ladder) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. sheathing (under thatched roofing) Abbreviation"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. lath (used as a foundation for a mud plaster wall) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. decorative rafters (of alternating wood and bamboo) See also 桟竹"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "懸",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "橋",
+                    "はし"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. temporary (suspension) bridge; makeshift bridge "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bridge (between cultures, generations, etc.); link; go-between; intermediary "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. walkway (constructed on a cliff face); plank path "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掛け橋 【かけはし】、かけ橋 【かけはし】、架け橋 【かけはし】、懸橋 【かけはし】、掛橋 【かけはし】、梯 【かけはし】、桟 【かけはし】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. temporary (suspension) bridge; makeshift bridge "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bridge (between cultures, generations, etc.); link; go-between; intermediary "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. walkway (constructed on a cliff face); plank path "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "掛け橋 【かけはし】、かけ橋 【かけはし】、架け橋 【かけはし】、懸橋 【かけはし】、掛橋 【かけはし】、梯 【かけはし】、桟 【かけはし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "桟",
+                    "さん"
+                ],
+                [
+                    "橋",
+                    "ばし"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wharf; bridge; jetty; pier "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Pier A pier is a raised structure, including bridge and buildi... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "桟橋 【さんきょう】、棧橋 【さんばし】、棧橋 【さんきょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "棧橋: Out-dated kanji or kanji usage. 棧橋: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. wharf; bridge; jetty; pier "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Pier A pier is a raised structure, including bridge and buildi... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "桟橋 【さんきょう】、棧橋 【さんばし】、棧橋 【さんきょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "棧橋: Out-dated kanji or kanji usage. 棧橋: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "桟",
+                    "さじき"
+                ],
+                [
+                    "敷",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dress circle (of a theatre); (first) balcony; box "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. stands (seating for spectators) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "桟敷 【さんじき】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. dress circle (of a theatre); (first) balcony; box "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. stands (seating for spectators) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "桟敷 【さんじき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "桟",
+                    "さん"
+                ],
+                [
+                    "俵",
+                    "だわら"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. straw lid covering either end of a rice container "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. straw lid covering either end of a rice container "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "桟",
+                    "さん"
+                ],
+                [
+                    "留",
+                    "とめ"
+                ],
+                [
+                    "縞",
+                    "じま"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. striped cotton fabric imported from Sao Tome, also copied in Japan "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "サントメ縞 【サントメじま】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. striped cotton fabric imported from Sao Tome, also copied in Japan "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "サントメ縞 【サントメじま】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "桟",
+                    "さん"
+                ],
+                [
+                    "瓦",
+                    "がわら"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pantile "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. pantile "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "桟",
+                    "さん"
+                ],
+                [
+                    "唐",
+                    "から"
+                ],
+                [
+                    "戸",
+                    "ど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. panelled wooden door See also 板唐戸"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. panelled wooden door See also 板唐戸"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "桟",
+                    "えつりだけ"
+                ],
+                [
+                    "竹",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sheathing (under thatched roofing) See also 桟 えつり"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. decorative rafters (of alternating wood and bamboo) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. sheathing (under thatched roofing) See also 桟 えつり"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. decorative rafters (of alternating wood and bamboo) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "桟",
+                    "さん"
+                ],
+                [
+                    "道",
+                    "どう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. plank path (on a steep mountainside, cliff face, etc.); walkway "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. plank path (on a steep mountainside, cliff face, etc.); walkway "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "桟",
+                    "さん"
+                ],
+                [
+                    "戸",
+                    "ど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. batten door; battened door; ledged door; strong door with crosspieces placed on the reverse side "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. batten door; battened door; ledged door; strong door with crosspieces placed on the reverse side "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "桟",
+                    "さん"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to nail a crosspiece (to) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "桟を打ちつける 【さんをうちつける】"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to nail a crosspiece (to) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "桟を打ちつける 【さんをうちつける】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "桟",
+                "かけはし"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kakehashi "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kakehashi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "桟一",
+                "さんいち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. San'ichi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "ぼ",
+                    null
+                ],
+                [
+                    "桟",
+                    "さじき"
+                ],
+                [
+                    "敷",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. being kept uninformed; being cut off; out of the loop Sensitive"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. upper gallery (where one can't hear); blind seat Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "聾桟敷 【つんぼさじき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "井",
+                    "じょう"
+                ],
+                [
+                    "桟",
+                    "さじき"
+                ],
+                [
+                    "敷",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gallery (in a theatre); upper gallery; cheap seats; nosebleed section; the gods Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "天井棧敷 【てんじょうさじき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "障",
+                    "しょう"
+                ],
+                [
+                    "子",
+                    "じ"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "桟",
+                    "さん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. frame of a shoji (paper sliding-door) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浮",
+                    "う"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "桟",
+                    "さん"
+                ],
+                [
+                    "橋",
+                    "ばし"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. floating pier "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "浮桟橋 【うきさんばし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窓",
+                    "まど"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "桟",
+                    "さん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. window frame; window sill "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "横",
+                    "よこ"
+                ],
+                [
+                    "桟",
+                    "ざん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. horizontal bar; crosspiece; crossbar; crossrail; rung (of a ladder) "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

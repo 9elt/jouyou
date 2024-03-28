@@ -1,0 +1,946 @@
+{
+    "kanji": "偵",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "spy"
+    ],
+    "kun": [
+        "テイ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.3073394495412844,
+            0.1641284403669725,
+            "c",
+            0.0011926605504587156,
+            0.010825688073394495,
+            0.0029357798165137615,
+            0.024587155963302753,
+            -0.0011009174311926604,
+            0.037614678899082564,
+            "C",
+            0.2798165137614679,
+            0.286697247706422,
+            0.20642201834862386,
+            0.43577981651376146,
+            0.11293577981651376,
+            0.5570642201834862
+        ],
+        [
+            "M",
+            0.25027522935779817,
+            0.3876146788990826,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.011559633027522935,
+            0.0226605504587156,
+            0.011559633027522935,
+            0.03422018348623853,
+            "c",
+            0,
+            0.0973394495412844,
+            -0.0002752293577981651,
+            0.2867889908256881,
+            -0.0003669724770642202,
+            0.39697247706422023,
+            "c",
+            0,
+            0.025045871559633028,
+            0,
+            0.04596330275229358,
+            0,
+            0.06073394495412844
+        ],
+        [
+            "M",
+            0.5940366972477065,
+            0.11357798165137616,
+            "c",
+            0.011376146788990826,
+            0.011376146788990826,
+            0.014128440366972478,
+            0.025137614678899085,
+            0.014128440366972478,
+            0.04091743119266055,
+            "c",
+            0,
+            0.008715596330275228,
+            0.00045871559633027525,
+            0.14366972477064222,
+            0.00045871559633027525,
+            0.20137614678899082
+        ],
+        [
+            "M",
+            0.6196330275229358,
+            0.23009174311926603,
+            "c",
+            0.027889908256880733,
+            -0.004403669724770642,
+            0.13495412844036697,
+            -0.024770642201834864,
+            0.15678899082568806,
+            -0.02651376146788991,
+            "c",
+            0.014862385321100919,
+            -0.0011926605504587156,
+            0.024587155963302753,
+            0,
+            0.03577981651376147,
+            0
+        ],
+        [
+            "M",
+            0.46256880733944955,
+            0.3636697247706422,
+            "c",
+            0.008899082568807339,
+            0.008899082568807339,
+            0.010458715596330274,
+            0.019541284403669725,
+            0.010458715596330274,
+            0.03128440366972477,
+            "c",
+            0,
+            0.0363302752293578,
+            0.0003669724770642202,
+            0.2063302752293578,
+            0.0005504587155963302,
+            0.30660550458715596,
+            "c",
+            0.00009174311926605505,
+            0.024770642201834864,
+            -0.0011009174311926604,
+            0.03541284403669725,
+            -0.0011009174311926604,
+            0.04954128440366973
+        ],
+        [
+            "M",
+            0.48155963302752297,
+            0.38,
+            "c",
+            0.026055045871559632,
+            -0.0022935779816513763,
+            0.20110091743119268,
+            -0.02201834862385321,
+            0.2592660550458716,
+            -0.028899082568807338,
+            "c",
+            0.030458715596330274,
+            -0.003577981651376147,
+            0.05,
+            -0.001926605504587156,
+            0.04954128440366973,
+            0.031926605504587154,
+            "c",
+            -0.0005504587155963302,
+            0.036788990825688074,
+            -0.00009174311926605505,
+            0.19853211009174312,
+            0.0002752293577981651,
+            0.2901834862385321,
+            "c",
+            0.00009174311926605505,
+            0.03669724770642202,
+            0.0001834862385321101,
+            0.06174311926605505,
+            0.0001834862385321101,
+            0.06238532110091743
+        ],
+        [
+            "M",
+            0.4851376146788991,
+            0.4851376146788991,
+            "c",
+            0.05192660550458716,
+            -0.004403669724770642,
+            0.2489908256880734,
+            -0.023944954128440367,
+            0.29357798165137616,
+            -0.025412844036697246
+        ],
+        [
+            "M",
+            0.4851376146788991,
+            0.6089908256880734,
+            "c",
+            0.07779816513761469,
+            -0.0081651376146789,
+            0.2113761467889908,
+            -0.021559633027522937,
+            0.29385321100917433,
+            -0.0255045871559633
+        ],
+        [
+            "M",
+            0.48357798165137617,
+            0.7292660550458715,
+            "c",
+            0.08266055045871559,
+            -0.008073394495412844,
+            0.22,
+            -0.017798165137614678,
+            0.29541284403669726,
+            -0.02073394495412844
+        ],
+        [
+            "M",
+            0.553302752293578,
+            0.7687155963302753,
+            "c",
+            0.0017431192660550458,
+            0.009908256880733945,
+            -0.0017431192660550458,
+            0.019174311926605504,
+            -0.009724770642201836,
+            0.02688073394495413,
+            "c",
+            -0.024220183486238535,
+            0.023394495412844035,
+            -0.09146788990825688,
+            0.07275229357798164,
+            -0.13990825688073394,
+            0.10128440366972476
+        ],
+        [
+            "M",
+            0.694954128440367,
+            0.7775229357798165,
+            "c",
+            0.06073394495412844,
+            0.03302752293577982,
+            0.1324770642201835,
+            0.09440366972477063,
+            0.14908256880733944,
+            0.12477064220183486
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "察",
+                    "さつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. scouting; reconnaissance "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Reconnaissance Reconnaissance is the military term for exploring beyond ... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. scouting; reconnaissance "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Reconnaissance Reconnaissance is the military term for exploring beyond ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "察",
+                    "さつ"
+                ],
+                [
+                    "衛",
+                    "えい"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reconnaissance satellite; spy satellite "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Spy satellite A spy satellite (officially referred to as a reconnaissan... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. reconnaissance satellite; spy satellite "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Spy satellite A spy satellite (officially referred to as a reconnaissan... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "察",
+                    "さつ"
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reconnaissance plane; spy plane "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Surveillance aircraft A surveillance aircraft is an aircraft used for surveilla... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. reconnaissance plane; spy plane "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Surveillance aircraft A surveillance aircraft is an aircraft used for surveilla... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "察",
+                    "さつ"
+                ],
+                [
+                    "飛",
+                    "ひ"
+                ],
+                [
+                    "行",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. surveillance flight "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. surveillance flight "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. spying out; discovering (by covert investigation) Obsolete term"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. spying out; discovering (by covert investigation) Obsolete term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "察",
+                    "さつ"
+                ],
+                [
+                    "要",
+                    "よう"
+                ],
+                [
+                    "員",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. player put on starting list to be replaced by another when the opponent's pitcher is known Baseball"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. player put on starting list to be replaced by another when the opponent's pitcher is known Baseball"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "察",
+                    "さつ"
+                ],
+                [
+                    "隊",
+                    "たい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. scouting party; patrol "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. scouting party; patrol "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偵",
+                    null
+                ],
+                [
+                    "察",
+                    null
+                ],
+                [
+                    "戦",
+                    null
+                ],
+                [
+                    "闘",
+                    null
+                ],
+                [
+                    "車",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Reconnaissance vehicle A reconnaissance vehicle, also known as a scout vehicle, ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偵",
+                    null
+                ],
+                [
+                    "察",
+                    null
+                ],
+                [
+                    "艦",
+                    null
+                ],
+                [
+                    "隊",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "ア",
+                    null
+                ],
+                [
+                    "メ",
+                    null
+                ],
+                [
+                    "リ",
+                    null
+                ],
+                [
+                    "カ",
+                    null
+                ],
+                [
+                    "海",
+                    null
+                ],
+                [
+                    "軍",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Scouting Fleet The Scouting Fleet was part of the United States Fleet in... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "偵",
+                "さだ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sada "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sadaji "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sadazumi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. detective; investigator; sleuth "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. detective work; secret investigation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Detective A detective or investigator is an investigator, either a ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "小",
+                    "しょう"
+                ],
+                [
+                    "説",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. detective story "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "私",
+                    "し"
+                ],
+                [
+                    "立",
+                    "りつ"
+                ],
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. private detective "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "名",
+                    "めい"
+                ],
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. great detective "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "内",
+                    "ない"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. secret investigation; private enquiry; private inquiry; reconnaissance; scouting "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "務",
+                    "む"
+                ],
+                [
+                    "所",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. detective bureau; detective agency; investigation firm "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "業",
+                    "ぎょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. detective work; detective industry "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "社",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. detective agency "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "団",
+                    "だん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. detective team "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. study group; club "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ],
+                [
+                    "察",
+                    "さつ"
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. surveillance drone; unmanned reconnaissance plane "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "密",
+                    "みっ"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spy; secret agent See also スパイ"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. spying "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "迷",
+                    "めい"
+                ],
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. inept detective Jocular, humorous term, See also 名探偵, pun on 名探偵"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "安",
+                    "あん"
+                ],
+                [
+                    "楽",
+                    "らく"
+                ],
+                [
+                    "椅",
+                    "い"
+                ],
+                [
+                    "子",
+                    "す"
+                ],
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "偵",
+                    "てい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. armchair detective See also アームチェアディテクティブ"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Armchair detective Armchair detective is a term used for a fictional investi... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

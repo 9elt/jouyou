@@ -1,0 +1,1719 @@
+{
+    "kanji": "条",
+    "grade": 5,
+    "jlpt": 1,
+    "meanings": [
+        "article",
+        "clause",
+        "counter for articles",
+        "clauses",
+        "paragraphs",
+        "etc.",
+        "twig",
+        "item",
+        "stripe",
+        "streak"
+    ],
+    "kun": [
+        "えだ",
+        "すじ"
+    ],
+    "on": [
+        "ジョウ",
+        "チョウ",
+        "デキ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.42146788990825684,
+            0.11009174311926606,
+            "c",
+            0.0005504587155963302,
+            0.005229357798165137,
+            0.0011926605504587156,
+            0.013486238532110091,
+            -0.0011009174311926604,
+            0.021009174311926605,
+            "c",
+            -0.01330275229357798,
+            0.04422018348623853,
+            -0.08954128440366972,
+            0.13669724770642203,
+            -0.19394495412844037,
+            0.1961467889908257
+        ],
+        [
+            "M",
+            0.43201834862385324,
+            0.17697247706422017,
+            "c",
+            0.0029357798165137615,
+            0.0002752293577981651,
+            0.015596330275229357,
+            0.0008256880733944953,
+            0.023853211009174313,
+            -0.0007339449541284404,
+            "c",
+            0.040733944954128444,
+            -0.0076146788990825685,
+            0.11807339449541283,
+            -0.024495412844036696,
+            0.15743119266055047,
+            -0.03155963302752293,
+            "c",
+            0.026972477064220183,
+            -0.0047706422018348625,
+            0.034770642201834866,
+            0.016972477064220184,
+            0.027798165137614676,
+            0.030091743119266053,
+            "C",
+            0.5802752293577982,
+            0.2889908256880734,
+            0.40825688073394495,
+            0.4541284403669725,
+            0.1743119266055046,
+            0.5298165137614679
+        ],
+        [
+            "M",
+            0.36926605504587157,
+            0.24770642201834864,
+            "C",
+            0.42201834862385323,
+            0.264954128440367,
+            0.6020183486238533,
+            0.41394495412844035,
+            0.7607339449541285,
+            0.46816513761467893,
+            "c",
+            0.024403669724770642,
+            0.00834862385321101,
+            0.04174311926605504,
+            0.016972477064220184,
+            0.06422018348623854,
+            0.020458715596330276
+        ],
+        [
+            "M",
+            0.1628440366972477,
+            0.6100917431192661,
+            "c",
+            0.028623853211009177,
+            0.005688073394495413,
+            0.04954128440366973,
+            0.004036697247706422,
+            0.07229357798165137,
+            0.0025688073394495416,
+            "c",
+            0.10577981651376146,
+            -0.007064220183486239,
+            0.35633027522935784,
+            -0.02220183486238532,
+            0.4953211009174312,
+            -0.030091743119266053,
+            "c",
+            0.027155963302752294,
+            -0.001559633027522936,
+            0.05486238532110092,
+            -0.0007339449541284404,
+            0.08146788990825689,
+            0.0045871559633027525
+        ],
+        [
+            "M",
+            0.48623853211009177,
+            0.463302752293578,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.013761467889908258,
+            0.024036697247706424,
+            0.013761467889908258,
+            0.03669724770642202,
+            "c",
+            0,
+            0.03954128440366972,
+            0,
+            0.21100917431192662,
+            0,
+            0.3394495412844037,
+            "c",
+            0,
+            0.03403669724770642,
+            0.0005504587155963302,
+            0.05385321100917431,
+            0,
+            0.06651376146788991
+        ],
+        [
+            "M",
+            0.463302752293578,
+            0.6050458715596331,
+            "c",
+            -0.0045871559633027525,
+            0.021100917431192658,
+            -0.016422018348623852,
+            0.0344954128440367,
+            -0.03339449541284404,
+            0.05412844036697248,
+            "c",
+            -0.0726605504587156,
+            0.08403669724770642,
+            -0.19357798165137616,
+            0.17651376146788988,
+            -0.2922935779816514,
+            0.21926605504587154
+        ],
+        [
+            "M",
+            0.5229357798165137,
+            0.6055045871559633,
+            "c",
+            0.0381651376146789,
+            0.027981651376146787,
+            0.19091743119266052,
+            0.14522935779816515,
+            0.2575229357798165,
+            0.19293577981651377,
+            "c",
+            0.020642201834862386,
+            0.014770642201834864,
+            0.03834862385321101,
+            0.023761467889908256,
+            0.06357798165137614,
+            0.034770642201834866
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "筋",
+                    "すじ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. muscle; tendon; sinew "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. vein; artery "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. fiber; fibre; string "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. line; stripe; streak "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. reason; logic See also 筋が通るきみが言っていることは筋があまりよく通っていない。There isn't much logic in what you're saying."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. plot; storyline その小説の筋はわからない。I don't understand this novel's plot."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. lineage; descent "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. school (e.g. of scholarship or arts) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. aptitude; talent "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. source (of information, etc.); circle; channel 私は去年、それを別の筋から聞いた。I heard about it from another source last year."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "11. well-informed person (in a transaction) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "12. logical move (in go, shogi, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "13. ninth vertical line Shogi"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "14. seam on a helmet "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "15. gristly fish paste (made of muscle, tendons, skin, etc.) Abbreviation, See also 筋蒲鉾"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "16. social position; status Archaic"
+                },
+                {
+                    "type": "Noun, used as a suffix, Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "17. on (a river, road, etc.); along "
+                },
+                {
+                    "type": "Suffix, Counter",
+                    "meaning": "18. counter for long thin things; counter for roads or blocks when giving directions "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "19. street (in Osaka) Only applies to 筋"
+                },
+                {
+                    "type": "Suffix, Counter",
+                    "meaning": "20. (Edo period) counter for hundreds of mon (obsolete unit of currency) Archaic"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "21. Suji Suji may refer to: Suji, Kilimanjaro, a small village in ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "条 【すじ】、スジ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. muscle; tendon; sinew "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. vein; artery "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. fiber; fibre; string "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. line; stripe; streak "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. reason; logic See also 筋が通るきみが言っていることは筋があまりよく通っていない。There isn't much logic in what you're saying."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. plot; storyline その小説の筋はわからない。I don't understand this novel's plot."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. lineage; descent "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. school (e.g. of scholarship or arts) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. aptitude; talent "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. source (of information, etc.); circle; channel 私は去年、それを別の筋から聞いた。I heard about it from another source last year."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "11. well-informed person (in a transaction) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "12. logical move (in go, shogi, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "13. ninth vertical line Shogi"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "14. seam on a helmet "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "15. gristly fish paste (made of muscle, tendons, skin, etc.) Abbreviation, See also 筋蒲鉾"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "16. social position; status Archaic"
+                },
+                {
+                    "type": "Noun, used as a suffix, Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "17. on (a river, road, etc.); along "
+                },
+                {
+                    "type": "Suffix, Counter",
+                    "meaning": "18. counter for long thin things; counter for roads or blocks when giving directions "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "19. street (in Osaka) Only applies to 筋"
+                },
+                {
+                    "type": "Suffix, Counter",
+                    "meaning": "20. (Edo period) counter for hundreds of mon (obsolete unit of currency) Archaic"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "21. Suji Suji may refer to: Suji, Kilimanjaro, a small village in ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "条 【すじ】、スジ"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "きみ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "言っている",
+                            "い"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "筋",
+                            "すじ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あまり",
+                            null
+                        ],
+                        [
+                            "よく",
+                            null
+                        ],
+                        [
+                            "通っていない",
+                            "とお"
+                        ]
+                    ],
+                    "translation": "There isn't much logic in what you're saying."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "小説",
+                            "しょうせつ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "筋",
+                            "すじ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "わからない",
+                            null
+                        ]
+                    ],
+                    "translation": "I don't understand this novel's plot."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "去年",
+                            "きょねん"
+                        ],
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "別の",
+                            "べつ"
+                        ],
+                        [
+                            "筋",
+                            "すじ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "聞いた",
+                            "き"
+                        ]
+                    ],
+                    "translation": "I heard about it from another source last year."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Counter",
+                    "meaning": "1. article (in a document); clause; section; provision 非暴力というのは私の信仰の第１条だ。Non-violence is the first article of my faith."
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "2. counter for lines, stripes, streaks, rays, etc. "
+                },
+                {
+                    "type": "Conjunction",
+                    "meaning": "3. although; though as とは言い条"
+                },
+                {
+                    "type": "Conjunction",
+                    "meaning": "4. since; as; because; inasmuch as used in letters"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. jō; north-south division of an imperial city consisting of west-east streets and their corresponding wards (in the jō-bō system) Historical term, See also 条坊制"
+                },
+                {
+                    "type": "Noun, Counter",
+                    "meaning": "1. article (in a document); clause; section; provision 非暴力というのは私の信仰の第１条だ。Non-violence is the first article of my faith."
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "2. counter for lines, stripes, streaks, rays, etc. "
+                },
+                {
+                    "type": "Conjunction",
+                    "meaning": "3. although; though as とは言い条"
+                },
+                {
+                    "type": "Conjunction",
+                    "meaning": "4. since; as; because; inasmuch as used in letters"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. jō; north-south division of an imperial city consisting of west-east streets and their corresponding wards (in the jō-bō system) Historical term, See also 条坊制"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "非",
+                            "ひ"
+                        ],
+                        [
+                            "暴力",
+                            "ぼうりょく"
+                        ],
+                        [
+                            "というのは",
+                            null
+                        ],
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "信仰",
+                            "しんこう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "第",
+                            "だい"
+                        ],
+                        [
+                            "条",
+                            "じょう"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "Non-violence is the first article of my faith."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "件",
+                    "くだり"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. passage; paragraph Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "条 【くだり】、行 【くだり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "約",
+                    "やく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. treaty; pact; convention; agreement "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Treaty A treaty is an express agreement under international law ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. treaty; pact; convention; agreement "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Treaty A treaty is an express agreement under international law ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. condition; term; requirement; qualification; prerequisite "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. condition; term; requirement; qualification; prerequisite "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "項",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. clause; article; stipulations "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. clause; article; stipulations "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. conditional; qualified; with conditions attached "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "条件付 【じょうけんつき】"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. conditional; qualified; with conditions attached "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "条件付 【じょうけんつき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. text (of a law, treaty, contract, etc.); provisions "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. text (of a law, treaty, contract, etc.); provisions "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ],
+                [
+                    "付",
+                    "つき"
+                ],
+                [
+                    "採",
+                    "さい"
+                ],
+                [
+                    "録",
+                    "ろく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conditional acceptance 学生が英文論文誌に論文を投稿して、「条件付採録」になっています。The student submitted a paper to an English-language journal, and the result was \"conditional acceptance\"."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "条件付き採録 【じょうけんつきさいろく】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "学生",
+                            "がくせい"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "英文",
+                            "えいぶん"
+                        ],
+                        [
+                            "論文誌",
+                            "ろんぶんし"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "論文",
+                            "ろんぶん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "投稿",
+                            "とうこう"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "条件付採録",
+                            "じょうけんつきさいろく"
+                        ],
+                        [
+                            "になっています",
+                            null
+                        ]
+                    ],
+                    "translation": "The student submitted a paper to an English-language journal, and the result was \"conditional acceptance\"."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "例",
+                    "れい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. regulations; rules "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (local) regulation; ordinance; bylaw; law Only applies to 条例"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. By-law By-law (sometimes also spelled bylaw, by law or byelaw) c... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "条令 【じょうれい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "理",
+                    "り"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reason "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ],
+                [
+                    "闘",
+                    "とう"
+                ],
+                [
+                    "争",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. negotiation of conditions "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ],
+                [
+                    "反",
+                    "はん"
+                ],
+                [
+                    "射",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conditioned reflex Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "痕",
+                    "こん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. linear mark; abrasion; scratch; streak "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Streak (mineralogy) The streak (also called \"powder color\") of a mineral is t... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "鰭",
+                    "き"
+                ],
+                [
+                    "綱",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Actinopterygii (class of the ray-finned fishes) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Actinopterygii The Actinopterygii, or ray-finned fishes, constitute a cl... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "すじ"
+                ],
+                [
+                    "海",
+                    "いるか"
+                ],
+                [
+                    "豚",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. striped dolphin (Stenella coeruleoalba) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Striped dolphin The Striped Dolphin (Stenella coeruleoalba) is an extensi... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "スジイルカ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conditional mood Grammar"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Conditional mood In linguistics, the conditional mood is the inflectional ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conditional sentence Grammar"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. conditional statement Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Conditional "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ],
+                [
+                    "づ",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conditioning "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "条件付け 【じょうけんづけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "岐",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conditional branch Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "条",
+                "えだ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Eda "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "条",
+                "こえだ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Koeda "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "条",
+                "じょう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Jou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "案",
+                    "あん"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "定",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. just as one thought; as usual; sure enough "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "案の条 【あんのじょう】、案の上 【あんのじょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "案の条: Irregular kanji usage. 案の上: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. creed; belief; conviction; article of faith "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Creed A creed is a statement of belief—usually a statement of f... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いち"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one line; one streak; one stripe; one ray (of light); one wisp (of smoke) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. one item (in an itemized form); one clause; one passage (in a book) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. one matter (affair, event, case, incident) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Ichijō "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "発",
+                    "ばね"
+                ],
+                [
+                    "条",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spring (device) Usually written using kana aloneそのばね１個で車の全重量を支えている。That one spring carries the whole weight of the car."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. spring (in one's legs); bounce Usually written using kana alone, Only applies to ばね, Only applies to バネ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. springboard; impetus Usually written using kana alone, Only applies to ばね, Only applies to バネ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "発条 【ぜんまい】、弾機 【ばね】、弾機 【ぜんまい】、撥条 【ばね】、撥条 【ぜんまい】、バネ"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ばね: Gikun (meaning as reading) or jukujikun (special kanji reading). ぜんまい: Gikun (meaning as reading) or jukujikun (special kanji reading). ばね: Gikun (meaning as reading) or jukujikun (special kanji reading). ぜんまい: Gikun (meaning as reading) or jukujikun (special kanji reading). ばね: Gikun (meaning as reading) or jukujikun (special kanji reading). 撥条: Rarely-used kanji form. ぜんまい: Gikun (meaning as reading) or jukujikun (special kanji reading). 撥条: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "ばね",
+                            null
+                        ],
+                        [
+                            "１個",
+                            "いっこ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "車",
+                            "くるま"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "全",
+                            "ぜん"
+                        ],
+                        [
+                            "重量",
+                            "じゅうりょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "支えている",
+                            "ささえ"
+                        ]
+                    ],
+                    "translation": "That one spring carries the whole weight of the car."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "労",
+                    "ろう"
+                ],
+                [
+                    "働",
+                    "どう"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. working conditions "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. unconditional "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "ひと"
+                ],
+                [
+                    "筋",
+                    "すじ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one line; one stretch (e.g. of road); one strand (e.g. of hair); one beam (e.g. of light); one ray; one length (e.g. of rope) 涙が一筋頬を流れた。A tear ran down her cheek."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun, used as a suffix",
+                    "meaning": "2. earnest; resolute; intent; devoted; single-minded "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. one bloodline; one clan Archaic"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "4. ordinary; common Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "一条 【ひとすじ】、ひと筋 【ひとすじ】、一すじ 【ひとすじ】、ひと条 【ひとすじ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "涙",
+                            "なみだ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "一筋",
+                            "ひとすじ"
+                        ],
+                        [
+                            "頬",
+                            "ほお"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "流れた",
+                            "なが"
+                        ]
+                    ],
+                    "translation": "A tear ran down her cheek."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "検",
+                    "けん"
+                ],
+                [
+                    "索",
+                    "さく"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. search criteria Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "必",
+                    "ひつ"
+                ],
+                [
+                    "要",
+                    "よう"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. necessary condition; requirement See also 十分条件"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悪",
+                    "あく"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "件",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. unfavorable conditions; unfavourable conditions "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "金",
+                    "きん"
+                ],
+                [
+                    "科",
+                    "か"
+                ],
+                [
+                    "玉",
+                    "ぎょく"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. golden rule (basic principle ensuring success in some activity) Yojijukugo (four character compound), See also 黄金律"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "せい"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "旗",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Stars and Stripes (US flag) 合衆国の国旗は星条旗と呼ばれる。The national flag of the USA is called the Stars and Stripes."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Star-Spangled Banner (US anthem) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "合衆国",
+                            "がっしゅうこく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "国旗",
+                            "こっき"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "星条旗",
+                            "せいじょうき"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "呼ばれる",
+                            "よ"
+                        ]
+                    ],
+                    "translation": "The national flag of the USA is called the Stars and Stripes."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "平",
+                    "へい"
+                ],
+                [
+                    "和",
+                    "わ"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "約",
+                    "やく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. peace treaty "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Peace treaty A peace treaty is an agreement between two or more hostil... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

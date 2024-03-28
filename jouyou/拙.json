@@ -1,0 +1,941 @@
+{
+    "kanji": "拙",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "bungling",
+        "clumsy",
+        "unskillful"
+    ],
+    "kun": [
+        "つたな.い"
+    ],
+    "on": [
+        "セツ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.13761467889908258,
+            0.361651376146789,
+            "c",
+            0.020642201834862386,
+            0.006513761467889908,
+            0.03889908256880734,
+            0.005963302752293578,
+            0.05623853211009174,
+            0.003669724770642202,
+            "c",
+            0.04458715596330275,
+            -0.0057798165137614675,
+            0.11064220183486238,
+            -0.017889908256880735,
+            0.1730275229357798,
+            -0.02651376146788991,
+            "c",
+            0.009724770642201836,
+            -0.0013761467889908255,
+            0.020825688073394497,
+            -0.002752293577981651,
+            0.031467889908256885,
+            -0.001559633027522936
+        ],
+        [
+            "M",
+            0.2891743119266055,
+            0.14220183486238533,
+            "c",
+            0.010825688073394495,
+            0.010825688073394495,
+            0.016146788990825688,
+            0.027522935779816515,
+            0.016146788990825688,
+            0.05064220183486238,
+            "c",
+            0,
+            0.13972477064220185,
+            -0.00009174311926605505,
+            0.4812844036697248,
+            -0.00009174311926605505,
+            0.5862385321100917,
+            "c",
+            0,
+            0.13073394495412843,
+            -0.05798165137614679,
+            0.03238532110091743,
+            -0.07128440366972477,
+            0.01834862385321101
+        ],
+        [
+            "M",
+            0.13990825688073394,
+            0.6123853211009175,
+            "c",
+            0.009174311926605505,
+            0.008073394495412844,
+            0.020642201834862386,
+            0.008073394495412844,
+            0.0389908256880734,
+            -0.0022935779816513763,
+            "C",
+            0.23073394495412844,
+            0.5809174311926606,
+            0.29128440366972475,
+            0.5504587155963303,
+            0.3761467889908257,
+            0.5022935779816514
+        ],
+        [
+            "M",
+            0.6257798165137614,
+            0.15027522935779816,
+            "c",
+            0.011009174311926604,
+            0.011009174311926604,
+            0.013853211009174311,
+            0.025137614678899085,
+            0.013853211009174311,
+            0.039449541284403665,
+            "c",
+            0,
+            0.007889908256880733,
+            0.0002752293577981651,
+            0.5084403669724771,
+            0.0002752293577981651,
+            0.5877981651376146
+        ],
+        [
+            "M",
+            0.4868807339449541,
+            0.3697247706422018,
+            "c",
+            0.005045871559633028,
+            0.008715596330275228,
+            0.008532110091743119,
+            0.01908256880733945,
+            0.006146788990825688,
+            0.031009174311926603,
+            "c",
+            -0.004220183486238533,
+            0.021376146788990826,
+            -0.0081651376146789,
+            0.04752293577981651,
+            -0.017706422018348624,
+            0.08798165137614679,
+            "c",
+            -0.006605504587155963,
+            0.028073394495412844,
+            -0.006330275229357797,
+            0.03293577981651376,
+            0.0226605504587156,
+            0.02706422018348624,
+            "c",
+            0.09036697247706421,
+            -0.018073394495412842,
+            0.1946788990825688,
+            -0.029541284403669727,
+            0.29706422018348627,
+            -0.0318348623853211
+        ],
+        [
+            "M",
+            0.8174311926605504,
+            0.3287155963302752,
+            "c",
+            0.007155963302752294,
+            0.014220183486238533,
+            0.008256880733944955,
+            0.027981651376146787,
+            0.006055045871559634,
+            0.04256880733944954,
+            "c",
+            -0.005688073394495413,
+            0.037614678899082564,
+            -0.005963302752293578,
+            0.0481651376146789,
+            -0.014587155963302753,
+            0.09467889908256881,
+            "c",
+            -0.0022935779816513763,
+            0.012568807339449543,
+            -0.005137614678899083,
+            0.027614678899082565,
+            -0.008532110091743119,
+            0.04623853211009174
+        ],
+        [
+            "M",
+            0.4674311926605505,
+            0.6662385321100918,
+            "c",
+            0.005045871559633028,
+            0.00926605504587156,
+            0.006146788990825688,
+            0.020366972477064222,
+            0.003853211009174312,
+            0.031009174311926603,
+            "c",
+            -0.006788990825688073,
+            0.030917431192660553,
+            -0.011834862385321101,
+            0.05403669724770642,
+            -0.023853211009174313,
+            0.0998165137614679,
+            "c",
+            -0.0057798165137614675,
+            0.02201834862385321,
+            -0.0045871559633027525,
+            0.030733944954128442,
+            0.020366972477064222,
+            0.023853211009174313,
+            "C",
+            0.5836697247706422,
+            0.7889908256880734,
+            0.7155963302752294,
+            0.7763302752293578,
+            0.8195412844036697,
+            0.7708256880733945
+        ],
+        [
+            "M",
+            0.8422018348623853,
+            0.6156880733944954,
+            "c",
+            0.0076146788990825685,
+            0.010458715596330274,
+            0.0076146788990825685,
+            0.024220183486238535,
+            0.005596330275229358,
+            0.04027522935779816,
+            "c",
+            -0.004954128440366972,
+            0.039449541284403665,
+            -0.00963302752293578,
+            0.0655045871559633,
+            -0.014862385321100919,
+            0.10137614678899083,
+            "c",
+            -0.0023853211009174312,
+            0.016422018348623852,
+            -0.005045871559633028,
+            0.03394495412844037,
+            -0.008256880733944955,
+            0.05385321100917431
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "拙",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. poor; unskillful; clumsy Archaic"
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "2. I; me Humble (kenjougo) language, Male term or language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "速",
+                    "そく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. rough-and-ready; knocked-up; hasty; slipshod; slapdash Antonym: 巧遅"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. rough-and-ready; knocked-up; hasty; slipshod; slapdash Antonym: 巧遅"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せつ"
+                ],
+                [
+                    "劣",
+                    "れつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. clumsy; unskillful "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. clumsy; unskillful "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "守",
+                    "しゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor defense; poor defence Sports"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor defense; poor defence Sports"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せつ"
+                ],
+                [
+                    "悪",
+                    "あく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. poor (tasting); low quality; bad situation "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. poor (tasting); low quality; bad situation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "筆",
+                    "ぴつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor handwriting; humble reference to one's own handwriting Humble (kenjougo) language"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor handwriting; humble reference to one's own handwriting Humble (kenjougo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. I; me Humble (kenjougo) language, Archaic, Male term or language, primarily used by samurai"
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. I; me Humble (kenjougo) language, Archaic, Male term or language, primarily used by samurai"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せつ"
+                ],
+                [
+                    "意",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. my thoughts; my opinions; my feelings Humble (kenjougo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "著",
+                    "ちょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. my book; my (humble) work; a little thing of mine Humble (kenjougo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せつ"
+                ],
+                [
+                    "技",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor skill "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (one's own) skill Humble (kenjougo) language"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor skill "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (one's own) skill Humble (kenjougo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "攻",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. poor offense; poor attacking play Sports"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. poor offense; poor attacking play Sports"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "稿",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. my manuscript Humble (kenjougo) language"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. my manuscript Humble (kenjougo) language"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "評論家",
+                            "ひょうろんか"
+                        ],
+                        [
+                            "昨今",
+                            "さっこん"
+                        ],
+                        [
+                            "世界情勢",
+                            "せかいじょうせい"
+                        ],
+                        [
+                            "一通り",
+                            "ひととお"
+                        ],
+                        [
+                            "後",
+                            "あと"
+                        ],
+                        [
+                            "詳細",
+                            "しょうさい"
+                        ],
+                        [
+                            "拙稿",
+                            "せっこう"
+                        ],
+                        [
+                            "幸い",
+                            "さいわ"
+                        ],
+                        [
+                            "結んだ",
+                            "むす"
+                        ]
+                    ],
+                    "translation": "After giving his opinion on the current world situation, the critic concluded, “If you are interested in learning more details about this issue, I hope you will read my article.”"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "句",
+                    "く"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. unskilled haiku poem; clumsy haiku Humble (kenjougo) language, See also 俳句"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. unskilled haiku poem; clumsy haiku Humble (kenjougo) language, See also 俳句"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せつ"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor writing "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor writing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "策",
+                    "さく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor policy; poor plan; unwise measure "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (one's own) plan Humble (kenjougo) language"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor policy; poor plan; unwise measure "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (one's own) plan Humble (kenjougo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "つたな"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. poor-quality; shoddy; crude Usually written using kana alone"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. unskillful; inexpert; maladroit; inept; foolish; clumsy See also 不味い"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. unlucky "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "拙い 【まずい】"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. poor-quality; shoddy; crude Usually written using kana alone"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. unskillful; inexpert; maladroit; inept; foolish; clumsy See also 不味い"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. unlucky "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "拙い 【まずい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せつ"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor argument Humble (kenjougo) language"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. my argument "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せつ"
+                ],
+                [
+                    "訳",
+                    "やく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor translation; clumsy translation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. my translation Humble (kenjougo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "宅",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's home; one's humble abode Humble (kenjougo) language"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's home; one's humble abode Humble (kenjougo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "作",
+                    "さく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor work; humble reference to one's own work Humble (kenjougo) language"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor work; humble reference to one's own work Humble (kenjougo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "拙",
+                "せつ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Setsu "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Setsuzou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "拙",
+                "つたな"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Tsutana "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "稚",
+                    "ち"
+                ],
+                [
+                    "拙",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. unskillful; childish; immature; naive; artless; clumsy; crude "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巧",
+                    "こう"
+                ],
+                [
+                    "拙",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. skill; workmanship; dexterity; quality "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拙",
+                    "せっ"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. my book; my (humble) work Humble (kenjougo) language, See also 拙著"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "迂",
+                    "う"
+                ],
+                [
+                    "拙",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. poor and careless way of living Archaic, Male term or language"
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "2. I; me; my humble self Humble (kenjougo) language, Archaic, Male term or language, See also 迂叟 うそう"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "古",
+                    "こ"
+                ],
+                [
+                    "拙",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. artless but attractive in a quaint sense "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

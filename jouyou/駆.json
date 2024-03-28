@@ -1,0 +1,1527 @@
+{
+    "kanji": "駆",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "drive",
+        "run",
+        "gallop",
+        "advance",
+        "inspire",
+        "impel"
+    ],
+    "kun": [
+        "か.ける",
+        "か.る"
+    ],
+    "on": [
+        "ク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1558715596330275,
+            0.15018348623853212,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.011376146788990826,
+            0.018440366972477064,
+            0.011376146788990826,
+            0.03330275229357798,
+            "c",
+            0,
+            0.06743119266055045,
+            -0.0029357798165137615,
+            0.2213761467889908,
+            -0.003853211009174312,
+            0.3165137614678899,
+            "c",
+            -0.0001834862385321101,
+            0.021559633027522937,
+            -0.0016513761467889907,
+            0.0389908256880734,
+            -0.005137614678899083,
+            0.06192660550458716
+        ],
+        [
+            "M",
+            0.1744954128440367,
+            0.16293577981651378,
+            "c",
+            0.06238532110091743,
+            -0.006422018348623853,
+            0.14559633027522936,
+            -0.017431192660550456,
+            0.1904587155963303,
+            -0.023394495412844035,
+            "c",
+            0.012110091743119267,
+            -0.0016513761467889907,
+            0.04119266055045872,
+            -0.006788990825688073,
+            0.0528440366972477,
+            -0.0013761467889908255
+        ],
+        [
+            "M",
+            0.2803669724770642,
+            0.16807339449541284,
+            "c",
+            0.006880733944954129,
+            0.006880733944954129,
+            0.008807339449541284,
+            0.015321100917431192,
+            0.008715596330275228,
+            0.02587155963302752,
+            "c",
+            -0.0001834862385321101,
+            0.10761467889908258,
+            0,
+            0.23954128440366973,
+            0,
+            0.3287155963302752
+        ],
+        [
+            "M",
+            0.17779816513761468,
+            0.30045871559633025,
+            "c",
+            0.04706422018348624,
+            -0.004128440366972477,
+            0.13999999999999999,
+            -0.019633027522935782,
+            0.18238532110091743,
+            -0.0263302752293578,
+            "c",
+            0.012385321100917432,
+            -0.001926605504587156,
+            0.02981651376146789,
+            -0.0057798165137614675,
+            0.04449541284403669,
+            -0.0029357798165137615
+        ],
+        [
+            "M",
+            0.17669724770642203,
+            0.42311926605504585,
+            "c",
+            0.048532110091743116,
+            -0.0045871559633027525,
+            0.14009174311926606,
+            -0.015137614678899082,
+            0.18339449541284403,
+            -0.020550458715596333,
+            "c",
+            0.012568807339449543,
+            -0.001559633027522936,
+            0.03211009174311927,
+            -0.005871559633027523,
+            0.0453211009174312,
+            -0.0025688073394495416
+        ],
+        [
+            "M",
+            0.17192660550458713,
+            0.5518348623853211,
+            "c",
+            0.06321100917431192,
+            -0.008256880733944955,
+            0.1743119266055046,
+            -0.026238532110091743,
+            0.20577981651376145,
+            -0.028715596330275227,
+            "c",
+            0.03055045871559633,
+            -0.0023853211009174312,
+            0.044311926605504585,
+            0.011376146788990826,
+            0.0408256880733945,
+            0.054587155963302755,
+            "C",
+            0.41091743119266055,
+            0.6724770642201835,
+            0.393302752293578,
+            0.7661467889908258,
+            0.36009174311926606,
+            0.8256880733944955,
+            "c",
+            -0.04357798165137615,
+            0.0779816513761468,
+            -0.06256880733944954,
+            0.01293577981651376,
+            -0.07073394495412844,
+            0.0012844036697247708
+        ],
+        [
+            "M",
+            0.11697247706422019,
+            0.6628440366972477,
+            "c",
+            0.0011009174311926604,
+            0.06422018348623854,
+            -0.01724770642201835,
+            0.09862385321100918,
+            -0.028899082568807338,
+            0.1244954128440367
+        ],
+        [
+            "M",
+            0.1743119266055046,
+            0.6319266055045871,
+            "c",
+            0.007706422018348624,
+            0.02642201834862385,
+            0.014220183486238533,
+            0.05963302752293578,
+            0.015963302752293577,
+            0.10660550458715595
+        ],
+        [
+            "M",
+            0.2408256880733945,
+            0.6227522935779816,
+            "c",
+            0.004403669724770642,
+            0.01165137614678899,
+            0.020091743119266054,
+            0.05018348623853211,
+            0.02201834862385321,
+            0.08825688073394494
+        ],
+        [
+            "M",
+            0.31155963302752293,
+            0.6055045871559633,
+            "c",
+            0.007889908256880733,
+            0.023211009174311924,
+            0.016422018348623852,
+            0.04357798165137615,
+            0.023669724770642202,
+            0.0779816513761468
+        ],
+        [
+            "M",
+            0.4853211009174312,
+            0.1746788990825688,
+            "c",
+            0.020091743119266054,
+            0.004128440366972477,
+            0.04146788990825688,
+            0.0009174311926605505,
+            0.06165137614678899,
+            -0.0009174311926605505,
+            "c",
+            0.09128440366972476,
+            -0.00834862385321101,
+            0.17614678899082567,
+            -0.017614678899082567,
+            0.2545871559633027,
+            -0.024862385321100917,
+            "c",
+            0.016605504587155963,
+            -0.001559633027522936,
+            0.037981651376146786,
+            -0.006513761467889908,
+            0.05431192660550459,
+            -0.0011009174311926604
+        ],
+        [
+            "M",
+            0.7703669724770642,
+            0.2661467889908257,
+            "c",
+            0.0033944954128440367,
+            0.011467889908256881,
+            0.006697247706422018,
+            0.02018348623853211,
+            0.0016513761467889907,
+            0.04055045871559633,
+            "c",
+            -0.04155963302752294,
+            0.16697247706422016,
+            -0.09889908256880733,
+            0.31486238532110095,
+            -0.20853211009174313,
+            0.43064220183486235
+        ],
+        [
+            "M",
+            0.5756880733944955,
+            0.3555045871559633,
+            "c",
+            0.10256880733944954,
+            0.06311926605504586,
+            0.19623853211009173,
+            0.20311926605504588,
+            0.24486238532110094,
+            0.31862385321100917
+        ],
+        [
+            "M",
+            0.5035779816513761,
+            0.1818348623853211,
+            "c",
+            0.008715596330275228,
+            0.008715596330275228,
+            0.011467889908256881,
+            0.02,
+            0.011467889908256881,
+            0.0336697247706422,
+            "c",
+            0,
+            0.1306422018348624,
+            0,
+            0.5469724770642201,
+            0,
+            0.5770642201834862,
+            "c",
+            0,
+            0.028073394495412844,
+            0.005045871559633028,
+            0.03880733944954129,
+            0.03311926605504587,
+            0.03458715596330275,
+            "c",
+            0.08761467889908257,
+            -0.013119266055045872,
+            0.223302752293578,
+            -0.023394495412844035,
+            0.31293577981651377,
+            -0.023577981651376145,
+            "c",
+            0.021100917431192658,
+            -0.00009174311926605505,
+            0.03889908256880734,
+            0.001559633027522936,
+            0.051834862385321104,
+            0.006146788990825688
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to run; to dash; to race ぱたぱたと足跡を立てて、エントランスへと駆けてゆく。With a pitter-patter of footsteps she runs off to the entrance."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to gallop (on horseback); to canter "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to advance (against one's enemy); to charge (on horseback) Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駈ける 【かける】"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to run; to dash; to race ぱたぱたと足跡を立てて、エントランスへと駆けてゆく。With a pitter-patter of footsteps she runs off to the entrance."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to gallop (on horseback); to canter "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to advance (against one's enemy); to charge (on horseback) Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駈ける 【かける】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ぱたぱたと",
+                            null
+                        ],
+                        [
+                            "足跡",
+                            "あしあと"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "立てて",
+                            "た"
+                        ],
+                        [
+                            "エントランス",
+                            null
+                        ],
+                        [
+                            "へと",
+                            null
+                        ],
+                        [
+                            "駆けて",
+                            null
+                        ],
+                        [
+                            "ゆく",
+                            null
+                        ]
+                    ],
+                    "translation": "With a pitter-patter of footsteps she runs off to the entrance."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "落",
+                    "お"
+                ],
+                [
+                    "ち",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. elopement; running away with a lover "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Elopement (marriage) To elope, most literally, merely means to run away and to... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆落ち 【かけおち】、駈け落ち 【かけおち】、駈落ち 【かけおち】、欠け落ち 【かけおち】、欠落ち 【かけおち】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. elopement; running away with a lover "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Elopement (marriage) To elope, most literally, merely means to run away and to... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆落ち 【かけおち】、駈け落ち 【かけおち】、駈落ち 【かけおち】、欠け落ち 【かけおち】、欠落ち 【かけおち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to run to; to come running; to rush (someplace); to hasten "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆け付ける 【かけつける】、駆付ける 【かけつける】"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to run to; to come running; to rush (someplace); to hasten "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆け付ける 【かけつける】、駆付ける 【かけつける】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "引",
+                    "ひ"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. bargaining; haggling "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. tactics; strategy; maneuvering; diplomacy 外交の駆け引きでは、とても彼には及ばない。I am no match for him in diplomatic shrewdness."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. (tactical) advance or retreat of troops orig. meaning"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "懸け引き 【かけひき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "懸け引き: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. bargaining; haggling "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. tactics; strategy; maneuvering; diplomacy 外交の駆け引きでは、とても彼には及ばない。I am no match for him in diplomatic shrewdness."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. (tactical) advance or retreat of troops orig. meaning"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "懸け引き 【かけひき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "懸け引き: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "外交",
+                            "がいこう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "駆け引き",
+                            "かけひ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "とても",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "には及ばない",
+                            "にはおよ"
+                        ]
+                    ],
+                    "translation": "I am no match for him in diplomatic shrewdness."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "く"
+                ],
+                [
+                    "使",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. using freely; making full use of; having a good command of "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. working (someone) hard; driving (someone) on "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. using freely; making full use of; having a good command of "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. working (someone) hard; driving (someone) on "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "く"
+                ],
+                [
+                    "除",
+                    "じょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. extermination (of pests); eradication; stamping out (e.g. a social evil) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. extermination (of pests); eradication; stamping out (e.g. a social evil) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to run into; to rush into 雨が降り始めたので、私は家に駆け込んだ。Since it began raining, I ran into the house."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to (run and) seek refuge in; to take shelter in "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "かけ込む 【かけこむ】、駆けこむ 【かけこむ】、駈け込む 【かけこむ】、駆込む 【かけこむ】、駈けこむ 【かけこむ】"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to run into; to rush into 雨が降り始めたので、私は家に駆け込んだ。Since it began raining, I ran into the house."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to (run and) seek refuge in; to take shelter in "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "かけ込む 【かけこむ】、駆けこむ 【かけこむ】、駈け込む 【かけこむ】、駆込む 【かけこむ】、駈けこむ 【かけこむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "雨",
+                            "あめ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "降り始めた",
+                            "ふりはじ"
+                        ],
+                        [
+                            "ので",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "家",
+                            "いえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "駆け込んだ",
+                            "かけこ"
+                        ]
+                    ],
+                    "translation": "Since it began raining, I ran into the house."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "立",
+                    "た"
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to flush out (a hare, fox, etc.); to drive out; to beat out; to start also written as 狩り立てる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to drive (cattle, sheep, etc.); to urge on; to spur (a horse) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to drive (to do); to urge; to spur on; to push; to impel 空腹が彼を盗みに駆り立てた。Hunger drove him to steal."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to flush out (a hare, fox, etc.); to drive out; to beat out; to start also written as 狩り立てる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to drive (cattle, sheep, etc.); to urge on; to spur (a horse) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to drive (to do); to urge; to spur on; to push; to impel 空腹が彼を盗みに駆り立てた。Hunger drove him to steal."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "空腹",
+                            "くうふく"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "盗み",
+                            "ぬす"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "駆り立てた",
+                            "かりた"
+                        ]
+                    ],
+                    "translation": "Hunger drove him to steal."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to run off; to break into a run; to start running "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆けだす 【かけだす】、駈け出す 【かけだす】、駆出す 【かけだす】、駈出す 【かけだす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to run off; to break into a run; to start running "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆けだす 【かけだす】、駈け出す 【かけだす】、駆出す 【かけだす】、駈出す 【かけだす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to spur on; to urge forward; to impel "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to drive at high speed (e.g. a car) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駈る 【かる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to spur on; to urge forward; to impel "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to drive at high speed (e.g. a car) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駈る 【かる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "寄",
+                    "よ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to run up to; to rush over "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駈け寄る 【かけよる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "駈け寄る: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to run up to; to rush over "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駈け寄る 【かけよる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "駈け寄る: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "く"
+                ],
+                [
+                    "逐",
+                    "ちく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. expulsion; driving out; driving away; extermination "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. expulsion; driving out; driving away; extermination "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "回",
+                    "まわ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to run around; to bustle about "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駈け回る 【かけまわる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "駈け回る: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to run around; to bustle about "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駈け回る 【かけまわる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "駈け回る: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "抜",
+                    "ぬ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to run through (a crowd, gate, etc.); to sweep through (e.g. of news through a city) 銀行スキャンダルは国会議事堂をかけぬけました。A banking scandal is sweeping across Capitol Hill."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to run past (someone) from behind; to overtake "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆けぬける 【かけぬける】、駆抜ける 【かけぬける】、駈け抜ける 【かけぬける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "駈け抜ける: Rarely-used kanji form."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to run through (a crowd, gate, etc.); to sweep through (e.g. of news through a city) 銀行スキャンダルは国会議事堂をかけぬけました。A banking scandal is sweeping across Capitol Hill."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to run past (someone) from behind; to overtake "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆けぬける 【かけぬける】、駆抜ける 【かけぬける】、駈け抜ける 【かけぬける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "駈け抜ける: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "銀行",
+                            "ぎんこう"
+                        ],
+                        [
+                            "スキャンダル",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "国会議事堂",
+                            "こっかいぎじどう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "かけぬけました",
+                            null
+                        ]
+                    ],
+                    "translation": "A banking scandal is sweeping across Capitol Hill."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. novice; beginner "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. starting to run; running off; running away See also 駆け出す かけだす"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆出し 【かけだし】、駈け出し 【かけだし】"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. novice; beginner "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. starting to run; running off; running away See also 駆け出す かけだす"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆出し 【かけだし】、駈け出し 【かけだし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "三",
+                    "さん"
+                ],
+                [
+                    "杯",
+                    "ばい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. three cups of sake which latecomers to a party are made to drink さあ、駆けつけ三杯、威勢よくぱっといきましょう。Anybody who shows up late has to chug!"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. three cups of sake which latecomers to a party are made to drink さあ、駆けつけ三杯、威勢よくぱっといきましょう。Anybody who shows up late has to chug!"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "さあ",
+                            null
+                        ],
+                        [
+                            "駆けつけ三杯",
+                            "かけつけさんばい"
+                        ],
+                        [
+                            "威勢よく",
+                            "いせい"
+                        ],
+                        [
+                            "ぱっと",
+                            null
+                        ],
+                        [
+                            "いきましょう",
+                            null
+                        ]
+                    ],
+                    "translation": "Anybody who shows up late has to chug!"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "巡",
+                    "めぐ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to run about; to rush about "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆けめぐる 【かけめぐる】、駆巡る 【かけめぐる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to run about; to rush about "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆けめぐる 【かけめぐる】、駆巡る 【かけめぐる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翔",
+                    "かけ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to soar; to fly usu. 翔る. 翔ける, 一段 is unorthodox."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to run; to dash usu. 駆ける"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆ける 【かける】、翔ける 【かける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "翔ける: Irregular okurigana usage."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to soar; to fly usu. 翔る. 翔ける, 一段 is unorthodox."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to run; to dash usu. 駆ける"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆ける 【かける】、翔ける 【かける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "翔ける: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "足",
+                    "あし"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. running fast; double time "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cantering also 駈歩"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. doing things in a hurry "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駆足 【かけあし】、駈け足 【かけあし】、駈足 【かけあし】、かけ足 【かけあし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "か"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "こ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. (foot) race; sprint Colloquial, Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "駈けっこ 【かけっこ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "駈けっこ: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "駆",
+                "かける"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kakeru "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kakeru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "追",
+                    "お"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to chase; to run after; to pursue See also 追っ掛ける"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "追い掛ける 【おいかける】、追い駆ける 【おいかける】、追掛ける 【おいかける】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "先",
+                    "さき"
+                ],
+                [
+                    "駆",
+                    "が"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. pioneer; leader; taking the initiative; forerunner; harbinger; herald クロッカスは春の先駆けである。The crocus is a forerunner of spring."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. leading an attack; charging ahead of others (towards the enemy) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "魁 【さきがけ】、先駈け 【さきがけ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "先駈け: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "クロッカス",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "春",
+                            "はる"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "先駆け",
+                            "さきが"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "The crocus is a forerunner of spring."
+                }
+            ]
+        }
+    ]
+}

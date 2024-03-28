@@ -1,0 +1,1405 @@
+{
+    "kanji": "翻",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "flip",
+        "turn over",
+        "wave",
+        "flutter",
+        "change (mind)"
+    ],
+    "kun": [
+        "ひるがえ.る",
+        "ひるがえ.す"
+    ],
+    "on": [
+        "ホン",
+        "ハン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.401651376146789,
+            0.12844036697247707,
+            "c",
+            -0.0014678899082568807,
+            0.010275229357798166,
+            -0.0057798165137614675,
+            0.016055045871559634,
+            -0.013944954128440367,
+            0.020642201834862386,
+            "c",
+            -0.04944954128440367,
+            0.027522935779816515,
+            -0.11018348623853211,
+            0.05045871559633028,
+            -0.21110091743119266,
+            0.08027522935779817
+        ],
+        [
+            "M",
+            0.1812844036697248,
+            0.273302752293578,
+            "c",
+            0.01981651376146789,
+            0.012110091743119267,
+            0.04963302752293578,
+            0.04623853211009174,
+            0.054587155963302755,
+            0.06504587155963303
+        ],
+        [
+            "M",
+            0.44522935779816514,
+            0.21788990825688073,
+            "c",
+            0.0009174311926605505,
+            0.006880733944954129,
+            -0.0006422018348623854,
+            0.013211009174311925,
+            -0.0045871559633027525,
+            0.018990825688073393,
+            "c",
+            -0.01036697247706422,
+            0.022477064220183487,
+            -0.02651376146788991,
+            0.048256880733944955,
+            -0.05559633027522935,
+            0.07779816513761469
+        ],
+        [
+            "M",
+            0.14238532110091742,
+            0.39559633027522934,
+            "c",
+            0.020366972477064222,
+            0.0047706422018348625,
+            0.043486238532110096,
+            0.003577981651376147,
+            0.06403669724770643,
+            0.0002752293577981651,
+            "c",
+            0.061467889908256884,
+            -0.009816513761467891,
+            0.16587155963302752,
+            -0.03311926605504587,
+            0.21807339449541285,
+            -0.04293577981651376,
+            "c",
+            0.013669724770642202,
+            -0.0025688073394495416,
+            0.027339449541284404,
+            -0.004311926605504587,
+            0.04064220183486238,
+            -0.003577981651376147
+        ],
+        [
+            "M",
+            0.3155963302752293,
+            0.22018348623853212,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.009174311926605505,
+            0.014954128440366971,
+            0.009174311926605505,
+            0.03,
+            "c",
+            0,
+            0.035229357798165134,
+            0.0008256880733944953,
+            0.15816513761467887,
+            0.0003669724770642202,
+            0.2544954128440367,
+            "c",
+            -0.00009174311926605505,
+            0.016238532110091745,
+            -0.00009174311926605505,
+            0.031376146788990825,
+            -0.00009174311926605505,
+            0.04477064220183486
+        ],
+        [
+            "M",
+            0.3119266055045872,
+            0.3853211009174312,
+            "c",
+            0,
+            0.013761467889908258,
+            -0.006146788990825688,
+            0.027798165137614676,
+            -0.019357798165137614,
+            0.046330275229357794,
+            "C",
+            0.2428440366972477,
+            0.5014678899082569,
+            0.16495412844036697,
+            0.5785321100917431,
+            0.09174311926605505,
+            0.6146788990825688
+        ],
+        [
+            "M",
+            0.36357798165137617,
+            0.4206422018348624,
+            "c",
+            0.033211009174311926,
+            0.012844036697247705,
+            0.07449541284403668,
+            0.04724770642201835,
+            0.09541284403669725,
+            0.07577981651376146
+        ],
+        [
+            "M",
+            0.16770642201834862,
+            0.6074311926605505,
+            "c",
+            0.006605504587155963,
+            0.011743119266055046,
+            0.010825688073394495,
+            0.019174311926605504,
+            0.012110091743119267,
+            0.033486238532110094,
+            "c",
+            0.0047706422018348625,
+            0.05403669724770642,
+            0.007064220183486239,
+            0.11587155963302753,
+            0.010183486238532111,
+            0.18018348623853211,
+            "c",
+            0.0007339449541284404,
+            0.014403669724770642,
+            0.001559633027522936,
+            0.02834862385321101,
+            0.0025688073394495416,
+            0.04128440366972477
+        ],
+        [
+            "M",
+            0.18779816513761466,
+            0.6212844036697247,
+            "c",
+            0.08256880733944955,
+            -0.010825688073394495,
+            0.16293577981651378,
+            -0.02642201834862385,
+            0.2181651376146789,
+            -0.03293577981651376,
+            "c",
+            0.03357798165137615,
+            -0.0039449541284403665,
+            0.05302752293577982,
+            -0.0011009174311926604,
+            0.04963302752293578,
+            0.03660550458715597,
+            "c",
+            -0.003853211009174312,
+            0.042477064220183484,
+            -0.007706422018348624,
+            0.10724770642201835,
+            -0.016972477064220184,
+            0.1671559633027523,
+            "c",
+            -0.0023853211009174312,
+            0.015412844036697248,
+            -0.004954128440366972,
+            0.03018348623853211,
+            -0.0077981651376146785,
+            0.0436697247706422
+        ],
+        [
+            "M",
+            0.30715596330275224,
+            0.6173394495412845,
+            "c",
+            0.006238532110091744,
+            0.006238532110091744,
+            0.0081651376146789,
+            0.016055045871559634,
+            0.0081651376146789,
+            0.02743119266055046,
+            "c",
+            -0.00009174311926605505,
+            0.0536697247706422,
+            -0.0010091743119266055,
+            0.1618348623853211,
+            -0.0010091743119266055,
+            0.1793577981651376
+        ],
+        [
+            "M",
+            0.1961467889908257,
+            0.7224770642201835,
+            "c",
+            0.023761467889908256,
+            -0.0021100917431192663,
+            0.22192660550458718,
+            -0.02587155963302752,
+            0.24155963302752292,
+            -0.02587155963302752
+        ],
+        [
+            "M",
+            0.2010091743119266,
+            0.8438532110091743,
+            "c",
+            0.06504587155963303,
+            -0.004403669724770642,
+            0.14889908256880735,
+            -0.01834862385321101,
+            0.2213761467889908,
+            -0.019541284403669725
+        ],
+        [
+            "M",
+            0.5162385321100917,
+            0.23311926605504588,
+            "c",
+            0.013577981651376147,
+            0.003119266055045872,
+            0.025045871559633028,
+            0.003119266055045872,
+            0.0373394495412844,
+            0.0010091743119266055,
+            "c",
+            0.03981651376146789,
+            -0.006972477064220183,
+            0.06724770642201836,
+            -0.015229357798165137,
+            0.07917431192660551,
+            -0.017798165137614678,
+            "c",
+            0.01981651376146789,
+            -0.004128440366972477,
+            0.03403669724770642,
+            0.005045871559633028,
+            0.03403669724770642,
+            0.026238532110091743,
+            "c",
+            0,
+            0.02348623853211009,
+            -0.0003669724770642202,
+            0.4688073394495413,
+            -0.0003669724770642202,
+            0.5808256880733945,
+            "c",
+            0,
+            0.0853211009174312,
+            -0.06100917431192661,
+            0.010642201834862385,
+            -0.06779816513761468,
+            0.003669724770642202
+        ],
+        [
+            "M",
+            0.5265137614678899,
+            0.3612844036697248,
+            "c",
+            0.022935779816513763,
+            0.012201834862385321,
+            0.05917431192660551,
+            0.050366972477064224,
+            0.06486238532110092,
+            0.06935779816513761
+        ],
+        [
+            "M",
+            0.5289908256880733,
+            0.6203669724770643,
+            "c",
+            0.014587155963302753,
+            0.0057798165137614675,
+            0.023761467889908256,
+            0,
+            0.031743119266055046,
+            -0.00963302752293578,
+            "c",
+            0.004678899082568807,
+            -0.005688073394495413,
+            0.028623853211009177,
+            -0.03311926605504587,
+            0.048532110091743116,
+            -0.06036697247706422
+        ],
+        [
+            "M",
+            0.7176146788990826,
+            0.2118348623853211,
+            "c",
+            0.015137614678899082,
+            0.004954128440366972,
+            0.030733944954128442,
+            0.005229357798165137,
+            0.04422018348623853,
+            0.0033027522935779813,
+            "c",
+            0.02834862385321101,
+            -0.004036697247706422,
+            0.0653211009174312,
+            -0.012110091743119267,
+            0.07743119266055046,
+            -0.013394495412844036,
+            "c",
+            0.019724770642201832,
+            -0.0021100917431192663,
+            0.03403669724770642,
+            0.0081651376146789,
+            0.03403669724770642,
+            0.026238532110091743,
+            "c",
+            0,
+            0.008623853211009174,
+            -0.0005504587155963302,
+            0.47036697247706427,
+            -0.0005504587155963302,
+            0.5823853211009175,
+            "c",
+            0,
+            0.10027522935779816,
+            -0.05862385321100917,
+            0.014587155963302753,
+            -0.06541284403669724,
+            0.0076146788990825685
+        ],
+        [
+            "M",
+            0.7408256880733946,
+            0.3612844036697248,
+            "c",
+            0.022935779816513763,
+            0.011376146788990826,
+            0.05917431192660551,
+            0.04688073394495413,
+            0.06486238532110092,
+            0.06458715596330275
+        ],
+        [
+            "M",
+            0.7363302752293579,
+            0.5980733944954129,
+            "c",
+            0.011376146788990826,
+            0.005137614678899083,
+            0.02165137614678899,
+            0.005596330275229358,
+            0.03211009174311927,
+            -0.0033027522935779813,
+            "c",
+            0.006238532110091744,
+            -0.005229357798165137,
+            0.04568807339449542,
+            -0.038623853211009175,
+            0.07330275229357798,
+            -0.0653211009174312
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "翻",
+                    "ハン"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Counter",
+                    "meaning": "1. han; fan; unit that doubles the score of a hand Mahjong"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "翻 【ファン】、飜 【ハン】、飜 【ファン】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "零",
+                    "こぼ"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. waste-water container (tea ceremony) See also 建水, See also 水翻し みずこぼし"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "溢し 【こぼし】、翻し 【こぼし】、翻 【こぼし】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "翻: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "訳",
+                    "やく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. translation 彼女はそれを一語一語翻訳した。She translated it word for word."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. deciphering; decoding "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. translation Biology"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Translation Translation is the communication of the meaning of a sour... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飜訳 【ほんやく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "飜訳: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. translation 彼女はそれを一語一語翻訳した。She translated it word for word."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. deciphering; decoding "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. translation Biology"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Translation Translation is the communication of the meaning of a sour... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飜訳 【ほんやく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "飜訳: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "一語一語",
+                            "いちごいちご"
+                        ],
+                        [
+                            "翻訳",
+                            "ほんやく"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "She translated it word for word."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "零",
+                    "こぼ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to spill; to drop; to shed (tears) Usually written using kana alone私はコーヒーをじゅうたんにこぼしてしまった。I spilled my coffee on the carpet."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to grumble (about); to complain (of) Usually written using kana alone父は交通騒音について不平をこぼした。My father complained about the traffic noise."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to let (one's feelings) show Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "溢す 【こぼす】、翻す 【こぼす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "翻す: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to spill; to drop; to shed (tears) Usually written using kana alone私はコーヒーをじゅうたんにこぼしてしまった。I spilled my coffee on the carpet."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to grumble (about); to complain (of) Usually written using kana alone父は交通騒音について不平をこぼした。My father complained about the traffic noise."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to let (one's feelings) show Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "溢す 【こぼす】、翻す 【こぼす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "翻す: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "コーヒー",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "じゅうたん",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "こぼして",
+                            null
+                        ],
+                        [
+                            "しまった",
+                            null
+                        ]
+                    ],
+                    "translation": "I spilled my coffee on the carpet."
+                },
+                {
+                    "sentence": [
+                        [
+                            "父",
+                            "ちち"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "交通",
+                            "こうつう"
+                        ],
+                        [
+                            "騒音",
+                            "そうおん"
+                        ],
+                        [
+                            "について",
+                            null
+                        ],
+                        [
+                            "不平",
+                            "ふへい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "こぼした",
+                            null
+                        ]
+                    ],
+                    "translation": "My father complained about the traffic noise."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ひるがえ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to turn over "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to change (one's mind); to reverse (one's decision); to take back (one's words); to retract (one's testimony, confession, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to fly (a flag); to let (a skirt, cape, etc.) flap in the wind; to let flutter "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飜す 【ひるがえす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "飜す: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to turn over "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to change (one's mind); to reverse (one's decision); to take back (one's words); to retract (one's testimony, confession, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to fly (a flag); to let (a skirt, cape, etc.) flap in the wind; to let flutter "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飜す 【ひるがえす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "飜す: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "弄",
+                    "ろう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. having at one's mercy; trifling with; toying with; playing with; making a fool of; leading around by the nose; tossing about (a ship); buffeting "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飜弄 【ほんろう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "飜弄: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. having at one's mercy; trifling with; toying with; playing with; making a fool of; leading around by the nose; tossing about (a ship); buffeting "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飜弄 【ほんろう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "飜弄: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ひるがえ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to flutter (in the wind); to wave; to flap; to fly "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to turn over; to flip over "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to suddenly change (attitude, opinion, etc.); to suddenly switch; to alter; to flip "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飜る 【ひるがえる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to flutter (in the wind); to wave; to flap; to fly "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to turn over; to flip over "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to suddenly change (attitude, opinion, etc.); to suddenly switch; to alter; to flip "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飜る 【ひるがえる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "訳",
+                    "やく"
+                ],
+                [
+                    "家",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. translator "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. translator "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "訳",
+                    "やく"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. translator "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. translator "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "訳",
+                    "やく"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. translation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. translation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "意",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. changing one's mind "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. changing one's mind "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "案",
+                    "あん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. adaptation (of a novel, play, etc.) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. adaptation (of a novel, play, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "ど",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "つ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'tsu' ending",
+                    "meaning": "1. to turn a somersault "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "翻筋斗打つ 【もんどりうつ】"
+                },
+                {
+                    "type": "Godan verb with 'tsu' ending",
+                    "meaning": "1. to turn a somersault "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "翻筋斗打つ 【もんどりうつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "まんぼう"
+                ],
+                [
+                    "車",
+                    null
+                ],
+                [
+                    "魚",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ocean sunfish (Mola mola) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ocean sunfish The ocean sunfish, Mola mola, or common mola, is the heav... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "マンボウ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ocean sunfish (Mola mola) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ocean sunfish The ocean sunfish, Mola mola, or common mola, is the heav... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "マンボウ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "訳",
+                    "やく"
+                ],
+                [
+                    "研",
+                    "けん"
+                ],
+                [
+                    "究",
+                    "きゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. translation studies "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Translation studies Translation studies is an interdiscipline containing elem... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. translation studies "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Translation studies Translation studies is an interdiscipline containing elem... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "訳",
+                    "やく"
+                ],
+                [
+                    "借",
+                    "しゃく"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. loan translation; calque "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Calque In linguistics, a calque or loan translation is a word or... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. loan translation; calque "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Calque In linguistics, a calque or loan translation is a word or... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "字",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. transliteration "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Transliteration Transliteration is a subset of the science of hermeneutic... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. transliteration "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Transliteration Transliteration is a subset of the science of hermeneutic... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "然",
+                    "ぜん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb taking the 'to' particle, 'taru' adjective",
+                    "meaning": "1. suddenly; all of a sudden "
+                },
+                {
+                    "type": "Adverb taking the 'to' particle, 'taru' adjective",
+                    "meaning": "2. flying (of a flag, etc.); waving; fluttering "
+                },
+                {
+                    "type": "Adverb taking the 'to' particle, 'taru' adjective",
+                    "meaning": "1. suddenly; all of a sudden "
+                },
+                {
+                    "type": "Adverb taking the 'to' particle, 'taru' adjective",
+                    "meaning": "2. flying (of a flag, etc.); waving; fluttering "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "倒",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. turning upside-down Rare term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "然",
+                    "ぜん"
+                ],
+                [
+                    "大",
+                    "たい"
+                ],
+                [
+                    "悟",
+                    "ご"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. suddenly seeing the light; it suddenly dawning upon one Yojijukugo (four character compound), See also 豁然大悟"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "翻",
+                "はぱき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Hapaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "機",
+                    "き"
+                ],
+                [
+                    "械",
+                    "かい"
+                ],
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "訳",
+                    "やく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. machine translation; mechanical translation; automatic translation Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Machine translation Machine translation, sometimes referred to by the abbrevi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "にっぽんちてきざいさんほんやくきょうかい"
+                ],
+                [
+                    "本",
+                    null
+                ],
+                [
+                    "知",
+                    null
+                ],
+                [
+                    "的",
+                    null
+                ],
+                [
+                    "財",
+                    null
+                ],
+                [
+                    "産",
+                    null
+                ],
+                [
+                    "翻",
+                    null
+                ],
+                [
+                    "訳",
+                    null
+                ],
+                [
+                    "協",
+                    null
+                ],
+                [
+                    "会",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Nippon Intellectual Property Translation Association; NIPTA Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Nippon Intellectual Property Translation Association; NIPTA "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翩",
+                    "へん"
+                ],
+                [
+                    "翻",
+                    "ぽん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. fluttering (flag, etc.); flapping; waving "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "翻",
+                    "ほん"
+                ],
+                [
+                    "印",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. reprinting; reissuing See also 翻刻"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

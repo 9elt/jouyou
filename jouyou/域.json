@@ -1,0 +1,988 @@
+{
+    "kanji": "域",
+    "grade": 6,
+    "jlpt": 2,
+    "meanings": [
+        "range",
+        "region",
+        "limits",
+        "stage",
+        "level"
+    ],
+    "kun": [
+        "イキ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.10779816513761468,
+            0.3911926605504587,
+            "c",
+            0.013761467889908258,
+            0.004495412844036697,
+            0.02926605504587156,
+            0.003577981651376147,
+            0.04128440366972477,
+            0.002201834862385321,
+            "c",
+            0.047706422018348627,
+            -0.005229357798165137,
+            0.12761467889908257,
+            -0.021559633027522937,
+            0.1720183486238532,
+            -0.031009174311926603,
+            "c",
+            0.01128440366972477,
+            -0.0023853211009174312,
+            0.024036697247706424,
+            -0.0016513761467889907,
+            0.02981651376146789,
+            0.00009174311926605505
+        ],
+        [
+            "M",
+            0.23504587155963302,
+            0.1720183486238532,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.01110091743119266,
+            0.020458715596330276,
+            0.01110091743119266,
+            0.02981651376146789,
+            "c",
+            0,
+            0.06651376146788991,
+            0.0002752293577981651,
+            0.3348623853211009,
+            0.0002752293577981651,
+            0.4334862385321101
+        ],
+        [
+            "M",
+            0.1208256880733945,
+            0.7132110091743119,
+            "c",
+            0.0076146788990825685,
+            0.004403669724770642,
+            0.021743119266055048,
+            0.004678899082568807,
+            0.035688073394495416,
+            -0.006330275229357797,
+            "C",
+            0.20825688073394494,
+            0.6661467889908257,
+            0.2968807339449541,
+            0.5957798165137614,
+            0.3486238532110092,
+            0.555045871559633
+        ],
+        [
+            "M",
+            0.38311926605504587,
+            0.31128440366972476,
+            "c",
+            0.02284403669724771,
+            0.0029357798165137615,
+            0.043119266055045874,
+            0.0005504587155963302,
+            0.06192660550458716,
+            -0.0028440366972477065,
+            "c",
+            0.07954128440366973,
+            -0.014403669724770642,
+            0.22908256880733943,
+            -0.04091743119266055,
+            0.30045871559633025,
+            -0.0453211009174312,
+            "c",
+            0.014678899082568808,
+            -0.0009174311926605505,
+            0.02348623853211009,
+            0.0017431192660550458,
+            0.030917431192660553,
+            0.003577981651376147
+        ],
+        [
+            "M",
+            0.38036697247706425,
+            0.43376146788990827,
+            "c",
+            0.006330275229357797,
+            0.006330275229357797,
+            0.009541284403669725,
+            0.014678899082568808,
+            0.010550458715596329,
+            0.023853211009174313,
+            "c",
+            0.0032110091743119264,
+            0.02743119266055046,
+            0.010091743119266056,
+            0.06807339449541285,
+            0.014954128440366971,
+            0.10403669724770642,
+            "c",
+            0.0013761467889908255,
+            0.010183486238532111,
+            0.002752293577981651,
+            0.019724770642201832,
+            0.004036697247706422,
+            0.028256880733944955
+        ],
+        [
+            "M",
+            0.3993577981651376,
+            0.4467889908256881,
+            "c",
+            0.0363302752293578,
+            -0.005412844036697248,
+            0.0828440366972477,
+            -0.013486238532110091,
+            0.1201834862385321,
+            -0.019633027522935782,
+            "c",
+            0.02908256880733945,
+            -0.004862385321100918,
+            0.03513761467889908,
+            0.0003669724770642202,
+            0.02926605504587156,
+            0.029357798165137616,
+            "c",
+            -0.004678899082568807,
+            0.022935779816513763,
+            -0.009541284403669725,
+            0.04559633027522936,
+            -0.017889908256880735,
+            0.08587155963302752
+        ],
+        [
+            "M",
+            0.41706422018348627,
+            0.5694495412844037,
+            "c",
+            0.024862385321100917,
+            -0.003027522935779817,
+            0.05972477064220183,
+            -0.011009174311926604,
+            0.09458715596330276,
+            -0.018256880733944953,
+            "c",
+            0.009816513761467891,
+            -0.002018348623853211,
+            0.024128440366972478,
+            -0.0037614678899082566,
+            0.03376146788990826,
+            -0.005137614678899083
+        ],
+        [
+            "M",
+            0.3646788990825688,
+            0.7225688073394496,
+            "c",
+            0.010275229357798166,
+            0.006788990825688073,
+            0.01871559633027523,
+            0.007155963302752294,
+            0.03504587155963303,
+            -0.0029357798165137615,
+            "c",
+            0.045504587155963304,
+            -0.028073394495412844,
+            0.12064220183486239,
+            -0.07807339449541284,
+            0.1661467889908257,
+            -0.10614678899082569
+        ],
+        [
+            "M",
+            0.5596330275229358,
+            0.12614678899082568,
+            "c",
+            0.01330275229357798,
+            0.015412844036697248,
+            0.015504587155963302,
+            0.02660550458715596,
+            0.019357798165137614,
+            0.05972477064220183,
+            "c",
+            0.03,
+            0.25788990825688074,
+            0.09651376146788991,
+            0.5159633027522936,
+            0.26073394495412844,
+            0.6357798165137615,
+            "c",
+            0.04990825688073395,
+            0.03642201834862385,
+            0.044862385321100914,
+            0.013486238532110091,
+            0.038256880733944953,
+            -0.05477064220183486
+        ],
+        [
+            "M",
+            0.7646788990825688,
+            0.40018348623853206,
+            "c",
+            0.0006422018348623854,
+            0.008990825688073394,
+            0.00009174311926605505,
+            0.02128440366972477,
+            -0.0034862385321100917,
+            0.03394495412844037,
+            "c",
+            -0.020366972477064222,
+            0.07155963302752294,
+            -0.1026605504587156,
+            0.24541284403669725,
+            -0.21697247706422018,
+            0.34788990825688076
+        ],
+        [
+            "M",
+            0.6903669724770642,
+            0.13073394495412843,
+            "c",
+            0.027798165137614676,
+            0.01293577981651376,
+            0.07220183486238532,
+            0.042477064220183484,
+            0.08513761467889908,
+            0.06467889908256881
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. region; limits; stage; level "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. region; limits; stage; level "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "域",
+                    "いき"
+                ],
+                [
+                    "外",
+                    "がい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. outside the area "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. outside the area "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "域",
+                    "いき"
+                ],
+                [
+                    "内",
+                    "ない"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. inside the area "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. inside the area "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "域",
+                    "いき"
+                ],
+                [
+                    "内",
+                    "ない"
+                ],
+                [
+                    "貿",
+                    "ぼう"
+                ],
+                [
+                    "易",
+                    "えき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. regional trade; intra-trade "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "域",
+                    "いき"
+                ],
+                [
+                    "外",
+                    "がい"
+                ],
+                [
+                    "適",
+                    "てき"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. extraterritorial application (e.g. of a law); extraterritoriality "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "域",
+                    null
+                ],
+                [
+                    "内",
+                    null
+                ],
+                [
+                    "統",
+                    null
+                ],
+                [
+                    "一",
+                    null
+                ],
+                [
+                    "決",
+                    null
+                ],
+                [
+                    "済",
+                    null
+                ],
+                [
+                    "シ",
+                    null
+                ],
+                [
+                    "ス",
+                    null
+                ],
+                [
+                    "テ",
+                    null
+                ],
+                [
+                    "ム",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. SUCRE The SUCRE is a proposed regional currency to be used in c... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "域",
+                "あまん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Aman "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Arisa "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "域",
+                "さかい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Sakai "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. area; region; district; locality "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Region This article is about the geographic sense of the term. F... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "流",
+                    "りゅう"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. drainage basin; catchment basin; river basin; watershed; valley "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Drainage basin ]] A drainage basin is an extent or an area of land where... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "区",
+                    "く"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. area; zone; district; quarter; section; limits; boundary 駐車禁止区域に車を止めてはいけません。You must not park your car in a no parking zone."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "駐車禁止",
+                            "ちゅうしゃきんし"
+                        ],
+                        [
+                            "区域",
+                            "くいき"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "車",
+                            "くるま"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "止めて",
+                            "と"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いけません",
+                            null
+                        ]
+                    ],
+                    "translation": "You must not park your car in a no parking zone."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "領",
+                    "りょう"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. area; domain; territory; field; range; region; regime "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. waters; water area "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Body of water A body of water or waterbody (often spelled water body) i... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "域",
+                    "いき"
+                ],
+                [
+                    "社",
+                    "しゃ"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. regional community "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. area of ocean "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "管",
+                    "かん"
+                ],
+                [
+                    "理",
+                    "り"
+                ],
+                [
+                    "区",
+                    "く"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. controlled access location "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "禁",
+                    "きん"
+                ],
+                [
+                    "煙",
+                    "えん"
+                ],
+                [
+                    "区",
+                    "く"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. no smoking area "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "域",
+                    "いき"
+                ],
+                [
+                    "色",
+                    "しょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. regional colour (color); regional flavour (flavor) インドは地域色豊かな食文化があります。India has a cuisine rich in regional flavour."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "インド",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "地域色",
+                            "ちいきしょく"
+                        ],
+                        [
+                            "豊かな",
+                            "ゆた"
+                        ],
+                        [
+                            "食文化",
+                            "しょくぶんか"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あります",
+                            null
+                        ]
+                    ],
+                    "translation": "India has a cuisine rich in regional flavour."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "変",
+                    "へん"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. domain; range Mathematics"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "域",
+                    "いき"
+                ],
+                [
+                    "住",
+                    "じゅう"
+                ],
+                [
+                    "民",
+                    "みん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. local resident "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "音",
+                    "おん"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. range (of a voice or instrument); register; compass "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Range (music) In music, the range of a musical instrument is the distan... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "西",
+                    "せい"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. western regions of China "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Western Regions The Western Regions or Xiyu was a historical name specifi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "全",
+                    "ぜん"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the whole area; the entire region; all parts (of) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. the whole field (of study); every field; the whole gamut "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "大雨",
+                            "おおあめ"
+                        ],
+                        [
+                            "川",
+                            "かわ"
+                        ],
+                        [
+                            "氾濫",
+                            "はんらん"
+                        ],
+                        [
+                            "市内全域",
+                            "しないぜんいき"
+                        ]
+                    ],
+                    "translation": "Heavy rains caused the river to overflow, and the damage spread throughout the city."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "聖",
+                    "せい"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. sacred precincts; sanctuary; consecrated ground; holy ground "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. issue that is regarded as being off-limits; matter that is not up for discussion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "戦",
+                    "せん"
+                ],
+                [
+                    "域",
+                    "いき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. war area; battlefield; theater; theatre Military"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

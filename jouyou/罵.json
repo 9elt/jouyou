@@ -1,0 +1,806 @@
+{
+    "kanji": "罵",
+    "grade": 10,
+    "jlpt": null,
+    "meanings": [
+        "abuse",
+        "insult"
+    ],
+    "kun": [
+        "ののし.る"
+    ],
+    "on": [
+        "バ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2034862385321101,
+            0.12220183486238533,
+            "c",
+            0.0021100917431192663,
+            0.002477064220183486,
+            0.004220183486238533,
+            0.004495412844036697,
+            0.005137614678899083,
+            0.007522935779816513,
+            "c",
+            0.007247706422018349,
+            0.024220183486238535,
+            0.02256880733944954,
+            0.09972477064220182,
+            0.027522935779816515,
+            0.14321100917431193
+        ],
+        [
+            "M",
+            0.21990825688073393,
+            0.13862385321100917,
+            "c",
+            0.05385321100917431,
+            -0.007247706422018349,
+            0.5273394495412844,
+            -0.034678899082568805,
+            0.5519266055045872,
+            -0.03788990825688073,
+            "c",
+            0.008990825688073394,
+            -0.0011926605504587156,
+            0.021100917431192658,
+            0.0081651376146789,
+            0.01871559633027523,
+            0.0218348623853211,
+            "c",
+            -0.005045871559633028,
+            0.028440366972477066,
+            -0.017339449541284403,
+            0.0811926605504587,
+            -0.030733944954128442,
+            0.12174311926605504
+        ],
+        [
+            "M",
+            0.39458715596330274,
+            0.12944954128440367,
+            "c",
+            0.0013761467889908255,
+            0.016146788990825688,
+            0.01128440366972477,
+            0.09045871559633027,
+            0.01275229357798165,
+            0.10853211009174311
+        ],
+        [
+            "M",
+            0.5875229357798166,
+            0.11504587155963301,
+            "c",
+            -0.0013761467889908255,
+            0.026238532110091743,
+            -0.008440366972477065,
+            0.09477064220183486,
+            -0.01128440366972477,
+            0.11091743119266055
+        ],
+        [
+            "M",
+            0.23954128440366973,
+            0.2510091743119266,
+            "C",
+            0.29357798165137616,
+            0.24770642201834864,
+            0.676605504587156,
+            0.22247706422018348,
+            0.7630275229357798,
+            0.22357798165137616
+        ],
+        [
+            "M",
+            0.273302752293578,
+            0.34339449541284406,
+            "c",
+            0.0039449541284403665,
+            0.0028440366972477065,
+            0.0081651376146789,
+            0.018807339449541282,
+            0.0081651376146789,
+            0.023853211009174313,
+            "c",
+            0,
+            0.05064220183486238,
+            -0.004128440366972477,
+            0.2408256880733945,
+            -0.006513761467889908,
+            0.3206422018348624
+        ],
+        [
+            "M",
+            0.2930275229357798,
+            0.3510091743119266,
+            "c",
+            0.09660550458715596,
+            -0.009908256880733945,
+            0.30788990825688073,
+            -0.02532110091743119,
+            0.39100917431192656,
+            -0.028623853211009177,
+            "c",
+            0.014587155963302753,
+            -0.0005504587155963302,
+            0.0389908256880734,
+            0.00045871559633027525,
+            0.046330275229357794,
+            0.001926605504587156
+        ],
+        [
+            "M",
+            0.48642201834862386,
+            0.3571559633027523,
+            "c",
+            0.0039449541284403665,
+            0.0028440366972477065,
+            0.01165137614678899,
+            0.016055045871559634,
+            0.01165137614678899,
+            0.021009174311926605,
+            "c",
+            0,
+            0.050733944954128446,
+            0.00045871559633027525,
+            0.21275229357798167,
+            -0.001926605504587156,
+            0.29256880733944957
+        ],
+        [
+            "M",
+            0.2887155963302752,
+            0.45908256880733944,
+            "c",
+            0.09660550458715596,
+            -0.009908256880733945,
+            0.3053211009174312,
+            -0.025596330275229357,
+            0.37844036697247707,
+            -0.03018348623853211,
+            "c",
+            0.014587155963302753,
+            -0.0009174311926605505,
+            0.0389908256880734,
+            0.00045871559633027525,
+            0.046330275229357794,
+            0.001926605504587156
+        ],
+        [
+            "M",
+            0.2908256880733945,
+            0.5660550458715596,
+            "c",
+            0.09660550458715596,
+            -0.009908256880733945,
+            0.3415596330275229,
+            -0.024678899082568807,
+            0.3830275229357798,
+            -0.03018348623853211,
+            "c",
+            0.014495412844036697,
+            -0.001926605504587156,
+            0.0389908256880734,
+            0.0005504587155963302,
+            0.046330275229357794,
+            0.001926605504587156
+        ],
+        [
+            "M",
+            0.275045871559633,
+            0.6891743119266055,
+            "c",
+            0.11944954128440366,
+            -0.012568807339449543,
+            0.43376146788990827,
+            -0.026972477064220183,
+            0.5005504587155963,
+            -0.03431192660550459,
+            "C",
+            0.8073394495412844,
+            0.6513761467889908,
+            0.8238532110091743,
+            0.6688990825688073,
+            0.8201834862385322,
+            0.6975229357798165,
+            "c",
+            -0.010550458715596329,
+            0.08229357798165138,
+            -0.02660550458715596,
+            0.1304587155963303,
+            -0.06100917431192661,
+            0.17174311926605504,
+            "c",
+            -0.054220183486238534,
+            0.06504587155963303,
+            -0.05733944954128441,
+            0.01834862385321101,
+            -0.07972477064220183,
+            -0.009357798165137614
+        ],
+        [
+            "M",
+            0.1904587155963303,
+            0.7492660550458716,
+            "C",
+            0.17660550458715596,
+            0.8027522935779816,
+            0.1651376146788991,
+            0.8440366972477065,
+            0.1361467889908257,
+            0.8874311926605505
+        ],
+        [
+            "M",
+            0.3052293577981652,
+            0.7542201834862384,
+            "c",
+            0.02311926605504587,
+            0.02,
+            0.04504587155963303,
+            0.07504587155963302,
+            0.05082568807339449,
+            0.10614678899082569
+        ],
+        [
+            "M",
+            0.4536697247706422,
+            0.7273394495412844,
+            "c",
+            0.019724770642201832,
+            0.01926605504587156,
+            0.0510091743119266,
+            0.07935779816513762,
+            0.055963302752293574,
+            0.10935779816513762
+        ],
+        [
+            "M",
+            0.6000000000000001,
+            0.7135779816513762,
+            "c",
+            0.018256880733944953,
+            0.013944954128440367,
+            0.04715596330275229,
+            0.05733944954128441,
+            0.05174311926605504,
+            0.07908256880733944
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "罵",
+                    "ののし"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to abuse (verbally); to curse at; to shout abuse at; to speak ill of "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to abuse (verbally); to curse at; to shout abuse at; to speak ill of "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "罵",
+                    "ば"
+                ],
+                [
+                    "倒",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. (verbal) abuse; denunciation; disparagement; vilification; scathing criticism "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. (verbal) abuse; denunciation; disparagement; vilification; scathing criticism "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "罵",
+                    "ののし"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. abuse; curse; swearing; insult "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. abuse; curse; swearing; insult "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "罵",
+                    "ば"
+                ],
+                [
+                    "詈",
+                    "り"
+                ],
+                [
+                    "讒",
+                    "ざん"
+                ],
+                [
+                    "謗",
+                    "ぼう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. reviling; vilification; abusive language; lashing someone using abusive language; speaking abusively of someone Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. reviling; vilification; abusive language; lashing someone using abusive language; speaking abusively of someone Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "罵",
+                    "ば"
+                ],
+                [
+                    "詈",
+                    "り"
+                ],
+                [
+                    "雑",
+                    "ぞう"
+                ],
+                [
+                    "言",
+                    "ごん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. all manner of (verbal) abuse; all kinds of names; abusive language; torrent of abuse; stream of insults Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ばり雑言 【ばりぞうごん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. all manner of (verbal) abuse; all kinds of names; abusive language; torrent of abuse; stream of insults Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ばり雑言 【ばりぞうごん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "罵",
+                    "ば"
+                ],
+                [
+                    "詈",
+                    "り"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. (verbal) abuse; abusive language See also 罵詈雑言"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. (verbal) abuse; abusive language See also 罵詈雑言"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "罵",
+                    "ば"
+                ],
+                [
+                    "声",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shout of abuse; jeers; boos "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. shout of abuse; jeers; boos "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "罵",
+                    "ののし"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "言",
+                    "こと"
+                ],
+                [
+                    "葉",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. abusive language; expletive; swear word; curse word "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ののしり言葉 【ののしりことば】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. abusive language; expletive; swear word; curse word "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ののしり言葉 【ののしりことば】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "罵",
+                    "ば"
+                ],
+                [
+                    "言",
+                    "げん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (verbal) abuse; abusive language "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (verbal) abuse; abusive language "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "罵",
+                    "ののし"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "1. to insult each other; to trade insults; to abuse each other verbally "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "罵りあう 【ののしりあう】"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "1. to insult each other; to trade insults; to abuse each other verbally "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "罵りあう 【ののしりあう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "罵",
+                "うすは"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Usuha "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Usuba "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "卑",
+                    "ひ"
+                ],
+                [
+                    "罵",
+                    "ば"
+                ],
+                [
+                    "語",
+                    "ご"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pejorative term; derogatory word; invective Rare term, See also 軽蔑語"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "面",
+                    "めん"
+                ],
+                [
+                    "罵",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. abusing someone to his (her) face "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "罵",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. abuse; invective; denunciation; sharp criticism "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叱",
+                    "しつ"
+                ],
+                [
+                    "罵",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. angry scolding; abusive criticism "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "𠮟罵 【しつば】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嘲",
+                    "ちょう"
+                ],
+                [
+                    "罵",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. (verbal) abuse; insulting remark; taunt "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "面",
+                    "めん"
+                ],
+                [
+                    "罵",
+                    "ば"
+                ],
+                [
+                    "罵",
+                    "ば"
+                ],
+                [
+                    "倒",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. abuse "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悪",
+                    "あく"
+                ],
+                [
+                    "罵",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. curse; vilification "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "冷",
+                    "れい"
+                ],
+                [
+                    "罵",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. sneer; scoffing; abuse "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漫",
+                    "まん"
+                ],
+                [
+                    "罵",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. revilement; derision "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

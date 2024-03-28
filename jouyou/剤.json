@@ -1,0 +1,836 @@
+{
+    "kanji": "剤",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "dose",
+        "medicine",
+        "drug"
+    ],
+    "kun": [
+        "かる",
+        "けず.る"
+    ],
+    "on": [
+        "ザイ",
+        "スイ",
+        "セイ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.3495412844036697,
+            0.13073394495412843,
+            "c",
+            0.0081651376146789,
+            0.0081651376146789,
+            0.013486238532110091,
+            0.01724770642201835,
+            0.013486238532110091,
+            0.030825688073394496,
+            "c",
+            0,
+            0.016146788990825688,
+            -0.00009174311926605505,
+            0.03660550458715597,
+            -0.0006422018348623854,
+            0.062018348623853206
+        ],
+        [
+            "M",
+            0.14036697247706423,
+            0.2506422018348624,
+            "c",
+            0.023669724770642202,
+            0.006238532110091744,
+            0.046055045871559626,
+            0.004128440366972477,
+            0.07064220183486239,
+            0.0016513761467889907,
+            "c",
+            0.08100917431192661,
+            -0.0081651376146789,
+            0.2322018348623853,
+            -0.027889908256880733,
+            0.31880733944954126,
+            -0.03431192660550459,
+            "c",
+            0.019357798165137614,
+            -0.0014678899082568807,
+            0.0389908256880734,
+            -0.004678899082568807,
+            0.05972477064220183,
+            0.002018348623853211
+        ],
+        [
+            "M",
+            0.4455045871559633,
+            0.25990825688073393,
+            "c",
+            -0.0005504587155963302,
+            0.009724770642201836,
+            -0.0005504587155963302,
+            0.018073394495412842,
+            -0.007339449541284404,
+            0.02688073394495413,
+            "C",
+            0.38073394495412843,
+            0.3612844036697248,
+            0.27522935779816515,
+            0.44146788990825686,
+            0.1301834862385321,
+            0.4939449541284404
+        ],
+        [
+            "M",
+            0.23073394495412844,
+            0.3164220183486239,
+            "c",
+            0.14770642201834863,
+            0.024128440366972478,
+            0.2556880733944954,
+            0.08798165137614679,
+            0.33605504587155965,
+            0.15211009174311926
+        ],
+        [
+            "M",
+            0.23926605504587153,
+            0.48596330275229355,
+            "c",
+            0.006055045871559634,
+            0.006055045871559634,
+            0.00944954128440367,
+            0.0163302752293578,
+            0.00944954128440367,
+            0.02642201834862385,
+            "C",
+            0.2486238532110092,
+            0.7431192660550459,
+            0.22018348623853212,
+            0.7992660550458716,
+            0.14981651376146787,
+            0.87
+        ],
+        [
+            "M",
+            0.2595412844036697,
+            0.5664220183486238,
+            "c",
+            0.06788990825688074,
+            -0.004954128440366972,
+            0.16743119266055045,
+            -0.017064220183486238,
+            0.22706422018348624,
+            -0.019541284403669725
+        ],
+        [
+            "M",
+            0.2519266055045872,
+            0.6784403669724771,
+            "c",
+            0.06339449541284403,
+            -0.007522935779816513,
+            0.17155963302752292,
+            -0.01944954128440367,
+            0.23376146788990826,
+            -0.021559633027522937
+        ],
+        [
+            "M",
+            0.48651376146788994,
+            0.4730275229357798,
+            "c",
+            0.0076146788990825685,
+            0.0076146788990825685,
+            0.01073394495412844,
+            0.01669724770642202,
+            0.01073394495412844,
+            0.02688073394495413,
+            "c",
+            0,
+            0.0218348623853211,
+            -0.00009174311926605505,
+            0.22064220183486238,
+            -0.0002752293577981651,
+            0.31889908256880733,
+            "c",
+            -0.00009174311926605505,
+            0.028807339449541284,
+            -0.0001834862385321101,
+            0.04899082568807339,
+            -0.0002752293577981651,
+            0.053577981651376144
+        ],
+        [
+            "M",
+            0.6607339449541284,
+            0.25073394495412843,
+            "c",
+            0.008990825688073394,
+            0.008440366972477065,
+            0.016146788990825688,
+            0.019908256880733943,
+            0.016146788990825688,
+            0.039174311926605504,
+            "c",
+            0,
+            0.09477064220183486,
+            0.0014678899082568807,
+            0.21752293577981652,
+            0.00045871559633027525,
+            0.2903669724770642,
+            "c",
+            -0.0003669724770642202,
+            0.02981651376146789,
+            -0.0007339449541284404,
+            0.053302752293577976,
+            -0.0007339449541284404,
+            0.06651376146788991
+        ],
+        [
+            "M",
+            0.8144036697247706,
+            0.1314678899082569,
+            "c",
+            0.011559633027522935,
+            0.011559633027522935,
+            0.016146788990825688,
+            0.026788990825688072,
+            0.016146788990825688,
+            0.046055045871559626,
+            "c",
+            0,
+            0.13357798165137616,
+            -0.00009174311926605505,
+            0.5840366972477063,
+            -0.00009174311926605505,
+            0.6295412844036697,
+            "c",
+            0,
+            0.12055045871559633,
+            -0.06614678899082568,
+            0.013761467889908258,
+            -0.07990825688073395,
+            0.0022935779816513763
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "1. medicine; agent; (chemical) substance; drug; dose "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "1. medicine; agent; (chemical) substance; drug; dose "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "剤",
+                    "ざい"
+                ],
+                [
+                    "形",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dosage form "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Dosage form Dosage forms are a mixture of active drug components and ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "剤型 【ざいけい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "剤藤",
+                "さいとう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Saitou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "洗",
+                    "せん"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. detergent; cleanser; cleaning agent; washing material "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Detergent A detergent is a surfactant or a mixture of surfactants w... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "薬",
+                    "やく"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ],
+                [
+                    "師",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pharmacist; chemist "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Pharmacist Pharmacists are healthcare professionals who practice in ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "殺",
+                    "さっ"
+                ],
+                [
+                    "虫",
+                    "ちゅう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. insecticide; pesticide "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Insecticide An insecticide is a pesticide used against insects. They ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "鎮",
+                    "ちん"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. analgesic; painkiller; sedative; tranquilizer; tranquiliser "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Analgesic An analgesic (also known as a painkiller) is any member o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "錠",
+                    "じょう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pill; lozenge; tablet "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tablet (pharmacy) A tablet is a pharmaceutical dosage form. It comprises a ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溶",
+                    "よう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. solvent; solution; flux "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. hot charge Only applies to 溶材"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "溶材 【ようざい】、熔剤 【ようざい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "調",
+                    "ちょう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. making up a prescription; dispensing medicine; preparing medicine "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "排",
+                    "はい"
+                ],
+                [
+                    "卵",
+                    "らん"
+                ],
+                [
+                    "誘",
+                    "ゆう"
+                ],
+                [
+                    "発",
+                    "はつ"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ovulation-inducing drug Pharmacology"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "除",
+                    "じょ"
+                ],
+                [
+                    "草",
+                    "そう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. herbicide "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Herbicide Herbicides, also commonly known as weedkillers, are pesti... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "接",
+                    "せっ"
+                ],
+                [
+                    "着",
+                    "ちゃく"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. adhesive; glue "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Adhesive An adhesive or stick on is a material, usually in a liqui... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "潤",
+                    "じゅん"
+                ],
+                [
+                    "滑",
+                    "かつ"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lubricant "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Lubricant A lubricant is a substance introduced to reduce friction ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "起",
+                    "き"
+                ],
+                [
+                    "爆",
+                    "ばく"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. detonator; priming; primer "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. trigger; impetus; spark "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "除",
+                    "じょ"
+                ],
+                [
+                    "草",
+                    "そう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ],
+                [
+                    "耐",
+                    "たい"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. herbicide resistance; herbicide resistant "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "鎮",
+                    "ちん"
+                ],
+                [
+                    "静",
+                    "せい"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sedative; tranquilizer; tranquiliser "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "清",
+                    "せい"
+                ],
+                [
+                    "涼",
+                    "りょう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. refreshment; something refreshing; welcome relief; breath of fresh air "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. tonic; refreshing medicine "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "かく"
+                ],
+                [
+                    "醒",
+                    "せい"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stimulant (e.g. psychoactive drugs like methamphetamine, ritalin, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Stimulant Stimulants (also referred to as psychostimulants) are psy... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚せい剤 【かくせいざい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "防",
+                    "ぼう"
+                ],
+                [
+                    "虫",
+                    "ちゅう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. insect repellent "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Mothball Mothballs are small balls of chemical pesticide and deodo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "臭",
+                    "しゅう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. deodorant; deodorizer; air freshener "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Air freshener Air fresheners are consumer products used in homes or com... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "精",
+                    "せい"
+                ],
+                [
+                    "神",
+                    "しん"
+                ],
+                [
+                    "安",
+                    "あん"
+                ],
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tranquilizer; tranquiliser "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tranquilizer A tranquilizer, or tranquilliser, is a drug that induces ... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

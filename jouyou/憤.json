@@ -1,0 +1,993 @@
+{
+    "kanji": "憤",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "aroused",
+        "resent",
+        "be indignant",
+        "anger"
+    ],
+    "kun": [
+        "いきどお.る"
+    ],
+    "on": [
+        "フン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.15972477064220184,
+            0.3256880733944954,
+            "c",
+            0,
+            0.06394495412844037,
+            -0.046055045871559626,
+            0.15834862385321102,
+            -0.05807339449541284,
+            0.17660550458715596
+        ],
+        [
+            "M",
+            0.30752293577981654,
+            0.24155963302752292,
+            "c",
+            0.02201834862385321,
+            0.01275229357798165,
+            0.05678899082568808,
+            0.052477064220183486,
+            0.062293577981651374,
+            0.07229357798165137
+        ],
+        [
+            "M",
+            0.23275229357798166,
+            0.11238532110091744,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.013394495412844036,
+            0.0218348623853211,
+            0.013394495412844036,
+            0.03669724770642202,
+            "c",
+            0,
+            0.007981651376146788,
+            0.0007339449541284404,
+            0.4945871559633027,
+            0.0003669724770642202,
+            0.6880733944954128,
+            "c",
+            -0.00009174311926605505,
+            0.03293577981651376,
+            -0.00009174311926605505,
+            0.0571559633027523,
+            -0.00009174311926605505,
+            0.06880733944954129
+        ],
+        [
+            "M",
+            0.44495412844036697,
+            0.19972477064220184,
+            "c",
+            0.017064220183486238,
+            0.004954128440366972,
+            0.03311926605504587,
+            0.003119266055045872,
+            0.05045871559633028,
+            0.0008256880733944953,
+            "c",
+            0.05504587155963303,
+            -0.007064220183486239,
+            0.16596330275229357,
+            -0.022477064220183487,
+            0.23155963302752292,
+            -0.02688073394495413,
+            "c",
+            0.018440366972477064,
+            -0.0012844036697247708,
+            0.03688073394495413,
+            -0.0021100917431192663,
+            0.05513761467889908,
+            0.0011009174311926604
+        ],
+        [
+            "M",
+            0.5957798165137614,
+            0.08944954128440367,
+            "c",
+            0.007706422018348624,
+            0.007706422018348624,
+            0.010183486238532111,
+            0.014862385321100919,
+            0.010183486238532111,
+            0.027522935779816515,
+            "c",
+            0,
+            0.03788990825688073,
+            0,
+            0.10275229357798164,
+            -0.0007339449541284404,
+            0.14908256880733944,
+            "c",
+            -0.0001834862385321101,
+            0.012568807339449543,
+            -0.0003669724770642202,
+            0.023669724770642202,
+            -0.0007339449541284404,
+            0.03211009174311927
+        ],
+        [
+            "M",
+            0.3523853211009174,
+            0.35844036697247705,
+            "c",
+            0.01834862385321101,
+            0.0074311926605504595,
+            0.04559633027522936,
+            0.0047706422018348625,
+            0.06504587155963303,
+            0.002752293577981651,
+            "c",
+            0.10366972477064221,
+            -0.01091743119266055,
+            0.31981651376146786,
+            -0.03660550458715597,
+            0.4254128440366972,
+            -0.04201834862385321,
+            "c",
+            0.020642201834862386,
+            -0.0011009174311926604,
+            0.04137614678899083,
+            -0.0021100917431192663,
+            0.06155963302752294,
+            0.0028440366972477065
+        ],
+        [
+            "M",
+            0.4952293577981651,
+            0.2677064220183486,
+            "c",
+            0.008715596330275228,
+            0.009357798165137614,
+            0.009357798165137614,
+            0.020091743119266054,
+            0.010091743119266056,
+            0.03165137614678899,
+            "c",
+            0.0037614678899082566,
+            0.05834862385321101,
+            0.006146788990825688,
+            0.08137614678899081,
+            0.007155963302752294,
+            0.11229357798165138
+        ],
+        [
+            "M",
+            0.7525688073394495,
+            0.23743119266055046,
+            "c",
+            0.003027522935779817,
+            0.011009174311926604,
+            0.0033944954128440367,
+            0.01889908256880734,
+            0.0006422018348623854,
+            0.03,
+            "c",
+            -0.012385321100917432,
+            0.04990825688073395,
+            -0.01871559633027523,
+            0.07110091743119266,
+            -0.032844036697247704,
+            0.12073394495412844
+        ],
+        [
+            "M",
+            0.4798165137614679,
+            0.44697247706422016,
+            "c",
+            0.008532110091743119,
+            0.008532110091743119,
+            0.008715596330275228,
+            0.017522935779816513,
+            0.008715596330275228,
+            0.031376146788990825,
+            "c",
+            0,
+            0.04458715596330275,
+            0.0011009174311926604,
+            0.15293577981651377,
+            0.0011009174311926604,
+            0.2471559633027523,
+            "c",
+            0,
+            0.0181651376146789,
+            -0.00009174311926605505,
+            0.035596330275229356,
+            -0.0011009174311926604,
+            0.042844036697247706
+        ],
+        [
+            "M",
+            0.49605504587155963,
+            0.4576146788990826,
+            "c",
+            0.022293577981651377,
+            -0.0010091743119266055,
+            0.171651376146789,
+            -0.01908256880733945,
+            0.22412844036697246,
+            -0.0255045871559633,
+            "c",
+            0.028807339449541284,
+            -0.003577981651376147,
+            0.04541284403669725,
+            -0.0010091743119266055,
+            0.044954128440366975,
+            0.030091743119266053,
+            "c",
+            -0.0007339449541284404,
+            0.04559633027522936,
+            0.00009174311926605505,
+            0.1671559633027523,
+            0.00009174311926605505,
+            0.23743119266055046,
+            "c",
+            0,
+            0.016055045871559634,
+            -0.0002752293577981651,
+            0.050917431192660546,
+            -0.0002752293577981651,
+            0.052752293577981654
+        ],
+        [
+            "M",
+            0.5004587155963303,
+            0.550091743119266,
+            "c",
+            0.06605504587155964,
+            -0.008807339449541284,
+            0.20137614678899082,
+            -0.024862385321100917,
+            0.25394495412844037,
+            -0.02642201834862385
+        ],
+        [
+            "M",
+            0.5002752293577982,
+            0.6459633027522935,
+            "c",
+            0.08339449541284404,
+            -0.00944954128440367,
+            0.18779816513761466,
+            -0.023211009174311924,
+            0.25440366972477063,
+            -0.02853211009174312
+        ],
+        [
+            "M",
+            0.49926605504587157,
+            0.7454128440366973,
+            "C",
+            0.5894495412844036,
+            0.7339449541284404,
+            0.6697247706422018,
+            0.7247706422018348,
+            0.7546788990825688,
+            0.7172477064220184
+        ],
+        [
+            "M",
+            0.5546788990825688,
+            0.7933027522935779,
+            "c",
+            0.0003669724770642202,
+            0.011743119266055046,
+            -0.0045871559633027525,
+            0.019908256880733943,
+            -0.013761467889908258,
+            0.027339449541284404,
+            "c",
+            -0.027706422018348623,
+            0.022477064220183487,
+            -0.09935779816513761,
+            0.0663302752293578,
+            -0.15477064220183487,
+            0.09293577981651377
+        ],
+        [
+            "M",
+            0.6937614678899083,
+            0.7833027522935779,
+            "c",
+            0.06091743119266055,
+            0.03431192660550459,
+            0.1328440366972477,
+            0.09660550458715596,
+            0.14944954128440366,
+            0.12660550458715597
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "憤",
+                    "ふん"
+                ],
+                [
+                    "慨",
+                    "がい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. indignation; resentment "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. indignation; resentment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憤",
+                    "いきどお"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. resentment; indignation; anger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. resentment; indignation; anger "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憤",
+                    "ふん"
+                ],
+                [
+                    "死",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. dying in a fit of anger or indignation "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. dying in a fit of anger or indignation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憤",
+                    "ふん"
+                ],
+                [
+                    "激",
+                    "げき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. fury; flying into a rage; outrage "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. fury; flying into a rage; outrage "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憤",
+                    "いきどお"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be angry; to resent; to be enraged; to be indignant "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to fret (esp. of a young child); to be fretful; to be peevish Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "憤る 【むずがる】、憤る 【むつかる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "憤る: Rarely-used kanji form. 憤る: Rarely-used kanji form. 憤る: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be angry; to resent; to be enraged; to be indignant "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憤",
+                    "いきどお"
+                ],
+                [
+                    "ろ",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. infuriating; maddening; exasperating; angry; furious; irritated Formal or literary term"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. infuriating; maddening; exasperating; angry; furious; irritated Formal or literary term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憤",
+                    "ふん"
+                ],
+                [
+                    "然",
+                    "ぜん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. angry; indignant; wrathful; enraged "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "忿然 【ふんぜん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憤",
+                    "ふん"
+                ],
+                [
+                    "懣",
+                    "まん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (pent-up) anger; indignation; resentment; irritation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "忿懣 【ふんまん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "忿懣: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (pent-up) anger; indignation; resentment; irritation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "忿懣 【ふんまん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "忿懣: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憤",
+                    "ふん"
+                ],
+                [
+                    "悶",
+                    "もん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. anger; resentment; indignation; chagrin; irritation Archaic, See also 憤懣"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. anger; resentment; indignation; chagrin; irritation Archaic, See also 憤懣"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憤",
+                    "ふん"
+                ],
+                [
+                    "青",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fenqing; leftist Chinese youth (usu. nationalistic) Sensitive"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fenqing Fenqing, or \"FQ\" (abbreviation), which is itself an abbre... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憤",
+                    "ふん"
+                ],
+                [
+                    "怒",
+                    "ぬ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no', Suru verb, Intransitive verb",
+                    "meaning": "1. anger; rage; resentment; indignation; exasperation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "憤怒 【ふんど】、忿怒 【ふんぬ】、忿怒 【ふんど】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "憤",
+                "ふくい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Fukui "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Fukuichi "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Fukuyasu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "発",
+                    "はっ"
+                ],
+                [
+                    "奮",
+                    "ぷん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. being roused; being stimulated; being inspired; being spurred on "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "発憤 【はっぷん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "鬱",
+                    "うっ"
+                ],
+                [
+                    "憤",
+                    "ぷん"
+                ],
+                [
+                    "晴",
+                    "は"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. venting one's pent-up anger; venting one's frustration; letting off steam たまには酒にでも酔ってはじけて日頃の鬱憤晴らしたほうがいいんじゃないか。Isn't it better to get drunk and cut loose once in a while and blow off the tension of daily frustration?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "うっぷん晴らし 【うっぷんはらし】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "たまに",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "酒",
+                            "さけ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "でも",
+                            null
+                        ],
+                        [
+                            "酔って",
+                            "よ"
+                        ],
+                        [
+                            "はじけて",
+                            null
+                        ],
+                        [
+                            "日頃",
+                            "ひごろ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "鬱憤晴らした",
+                            "うっぷんは"
+                        ],
+                        [
+                            "ほうがいい",
+                            null
+                        ],
+                        [
+                            "ん",
+                            null
+                        ],
+                        [
+                            "じゃないか",
+                            null
+                        ]
+                    ],
+                    "translation": "Isn't it better to get drunk and cut loose once in a while and blow off the tension of daily frustration?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "鬱",
+                    "うっ"
+                ],
+                [
+                    "憤",
+                    "ぷん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. resentment; grudge; pent-up anger; frustration; bitterness "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "うっ憤 【うっぷん】、欝憤 【うっぷん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "欝憤: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "余",
+                    "よ"
+                ],
+                [
+                    "憤",
+                    "ふん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pent-up anger; rage "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悲",
+                    "ひ"
+                ],
+                [
+                    "憤",
+                    "ふん"
+                ],
+                [
+                    "慷",
+                    "こう"
+                ],
+                [
+                    "慨",
+                    "がい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. indignant lamentation over the evils of the times Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悲",
+                    "ひ"
+                ],
+                [
+                    "憤",
+                    "ふん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. indignation; resentment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "激",
+                    "げき"
+                ],
+                [
+                    "憤",
+                    "ふん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. resentment; indignation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "憤",
+                    "ふん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. strong indignation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "公",
+                    "こう"
+                ],
+                [
+                    "憤",
+                    "ふん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. public indignation; anger (as a citizen) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "私",
+                    "し"
+                ],
+                [
+                    "憤",
+                    "ふん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. personal grudge "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "義",
+                    "ぎ"
+                ],
+                [
+                    "憤",
+                    "ふん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. righteous indignation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憂",
+                    "ゆう"
+                ],
+                [
+                    "憤",
+                    "ふん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. grief and anger "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,899 @@
+{
+    "kanji": "賄",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "bribe",
+        "board",
+        "supply",
+        "finance"
+    ],
+    "kun": [
+        "まかな.う"
+    ],
+    "on": [
+        "ワイ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1628440366972477,
+            0.18146788990825688,
+            "c",
+            0.00908256880733945,
+            0.008990825688073394,
+            0.01275229357798165,
+            0.021743119266055048,
+            0.01275229357798165,
+            0.03660550458715597,
+            "c",
+            0,
+            0.011834862385321101,
+            -0.0007339449541284404,
+            0.28908256880733946,
+            -0.00045871559633027525,
+            0.4080733944954128,
+            "c",
+            0.00009174311926605505,
+            0.030091743119266053,
+            0.0001834862385321101,
+            0.05,
+            0.00045871559633027525,
+            0.05302752293577982
+        ],
+        [
+            "M",
+            0.18339449541284403,
+            0.1998165137614679,
+            "c",
+            0.0163302752293578,
+            -0.0016513761467889907,
+            0.12045871559633028,
+            -0.01834862385321101,
+            0.15963302752293576,
+            -0.021559633027522937,
+            "c",
+            0.020550458715596333,
+            -0.0016513761467889907,
+            0.03577981651376147,
+            0.007889908256880733,
+            0.03577981651376147,
+            0.03504587155963303,
+            "c",
+            0,
+            0.041926605504587156,
+            0.0003669724770642202,
+            0.27,
+            0.0005504587155963302,
+            0.38412844036697247,
+            "c",
+            0.00009174311926605505,
+            0.03880733944954129,
+            0.00009174311926605505,
+            0.0644954128440367,
+            0.00009174311926605505,
+            0.06513761467889909
+        ],
+        [
+            "M",
+            0.18532110091743118,
+            0.34981651376146794,
+            "c",
+            0.03871559633027523,
+            -0.005596330275229358,
+            0.1348623853211009,
+            -0.0163302752293578,
+            0.1842201834862385,
+            -0.021009174311926605
+        ],
+        [
+            "M",
+            0.18458715596330277,
+            0.49559633027522937,
+            "c",
+            0.056972477064220185,
+            -0.006605504587155963,
+            0.12715596330275228,
+            -0.01651376146788991,
+            0.18504587155963304,
+            -0.02
+        ],
+        [
+            "M",
+            0.18706422018348626,
+            0.6475229357798165,
+            "c",
+            0.044954128440366975,
+            -0.006788990825688073,
+            0.12770642201834861,
+            -0.016146788990825688,
+            0.18504587155963304,
+            -0.018807339449541282
+        ],
+        [
+            "M",
+            0.2261467889908257,
+            0.6968807339449541,
+            "c",
+            0.0029357798165137615,
+            0.010642201834862385,
+            -0.00009174311926605505,
+            0.01798165137614679,
+            -0.005596330275229358,
+            0.02596330275229358,
+            "c",
+            -0.024678899082568807,
+            0.03596330275229358,
+            -0.06825688073394495,
+            0.08091743119266055,
+            -0.10357798165137613,
+            0.10853211009174311
+        ],
+        [
+            "M",
+            0.3140366972477064,
+            0.6873394495412845,
+            "c",
+            0.037614678899082564,
+            0.03577981651376147,
+            0.08201834862385321,
+            0.10055045871559634,
+            0.09229357798165139,
+            0.13192660550458715
+        ],
+        [
+            "M",
+            0.6326605504587155,
+            0.12091743119266055,
+            "c",
+            0.0037614678899082566,
+            0.011009174311926604,
+            0.0037614678899082566,
+            0.016788990825688074,
+            0.0011009174311926604,
+            0.031192660550458714,
+            "c",
+            -0.01926605504587156,
+            0.1065137614678899,
+            -0.06963302752293578,
+            0.2527522935779817,
+            -0.19605504587155964,
+            0.3748623853211009
+        ],
+        [
+            "M",
+            0.44495412844036697,
+            0.2859633027522936,
+            "c",
+            0.01944954128440367,
+            0.0076146788990825685,
+            0.05339449541284404,
+            0.006697247706422018,
+            0.07211009174311928,
+            0.0037614678899082566,
+            "c",
+            0.07926605504587156,
+            -0.012477064220183487,
+            0.23770642201834863,
+            -0.04091743119266055,
+            0.32697247706422017,
+            -0.047981651376146794,
+            "c",
+            0.02128440366972477,
+            -0.0016513761467889907,
+            0.04376146788990825,
+            -0.004128440366972477,
+            0.06412844036697248,
+            0.003577981651376147
+        ],
+        [
+            "M",
+            0.5679816513761468,
+            0.4171559633027523,
+            "c",
+            0.00908256880733945,
+            0.00908256880733945,
+            0.009357798165137614,
+            0.01862385321100917,
+            0.009357798165137614,
+            0.02981651376146789,
+            "c",
+            0,
+            0.005596330275229358,
+            -0.0003669724770642202,
+            0.27321100917431196,
+            -0.00045871559633027525,
+            0.3946788990825688,
+            "c",
+            0,
+            0.03220183486238532,
+            0.00009174311926605505,
+            0.048348623853211,
+            0,
+            0.051559633027522936
+        ],
+        [
+            "M",
+            0.5844036697247706,
+            0.4307339449541285,
+            "c",
+            0.016605504587155963,
+            -0.001559633027522936,
+            0.1546788990825688,
+            -0.02284403669724771,
+            0.1943119266055046,
+            -0.028899082568807338,
+            "c",
+            0.02651376146788991,
+            -0.0039449541284403665,
+            0.04091743119266055,
+            0.002477064220183486,
+            0.04091743119266055,
+            0.03128440366972477,
+            "c",
+            0,
+            0.03706422018348624,
+            -0.00009174311926605505,
+            0.27724770642201835,
+            -0.00009174311926605505,
+            0.4168807339449541,
+            "c",
+            0,
+            0.09844036697247707,
+            -0.04899082568807339,
+            0.024128440366972478,
+            -0.05522935779816513,
+            0.015504587155963302
+        ],
+        [
+            "M",
+            0.5866972477064221,
+            0.5659633027522936,
+            "c",
+            0.06385321100917431,
+            -0.01036697247706422,
+            0.16825688073394496,
+            -0.021376146788990826,
+            0.22431192660550459,
+            -0.02660550458715596
+        ],
+        [
+            "M",
+            0.5913761467889908,
+            0.6980733944954128,
+            "c",
+            0.04981651376146789,
+            -0.005137614678899083,
+            0.15889908256880733,
+            -0.016055045871559634,
+            0.21651376146788992,
+            -0.019541284403669725
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "賂",
+                    "まいない"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bribe "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "賄 【まいない】、賂い 【まいない】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bribe "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "賄 【まいない】、賂い 【まいない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "賄",
+                    "まかな"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to supply (goods, money, etc.); to cover (costs); to pay; to finance; to maintain (e.g. a family) Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to give board; to provide meals Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to supply (goods, money, etc.); to cover (costs); to pay; to finance; to maintain (e.g. a family) Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to give board; to provide meals Usually written using kana alone"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "賄",
+                    "わい"
+                ],
+                [
+                    "賂",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bribe; sweetener; douceur "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bribery Bribery, is an act of implying money or gift giving that ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ワイロ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bribe; sweetener; douceur "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bribery Bribery, is an act of implying money or gift giving that ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ワイロ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. with meals; meals inclusive "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "賄い付き 【まかないつき】"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. with meals; meals inclusive "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "賄い付き 【まかないつき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "賄",
+                    "まかな"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. boarding; board; meals; catering; cook See also 賄う まかなう"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. boarding; board; meals; catering; cook See also 賄う まかなう"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "賄",
+                    "まかな"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "婦",
+                    "ふ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. female cook "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. female cook "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "料",
+                    "りょう"
+                ],
+                [
+                    "理",
+                    "り"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. meals prepared for employees (e.g. of a restaurant); staff meals "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "賄い料理 【まかないりょうり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. meals prepared for employees (e.g. of a restaurant); staff meals "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "賄い料理 【まかないりょうり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "賄",
+                    "まかな"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "方",
+                    "かた"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kitchen manager; chef; cook "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "賄方 【まかないかた】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "賄方: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. kitchen manager; chef; cook "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "賄方 【まかないかた】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "賄方: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "賄",
+                "はすだ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Hasuda "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "賄",
+                "よもぎだ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Yomogida "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "収",
+                    "しゅう"
+                ],
+                [
+                    "賄",
+                    "わい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. accepting bribes; corruption; graft "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "贈",
+                    "ぞう"
+                ],
+                [
+                    "賄",
+                    "わい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. bribery; graft "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "贈",
+                    "ぞう"
+                ],
+                [
+                    "収",
+                    "しゅう"
+                ],
+                [
+                    "賄",
+                    "わい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bribery; corruption "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "贈",
+                    "ぞう"
+                ],
+                [
+                    "賄",
+                    "わい"
+                ],
+                [
+                    "罪",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. crime of bribery "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "あ",
+                    null
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "収",
+                    "しゅう"
+                ],
+                [
+                    "賄",
+                    "わい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. influence peddling "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "斡旋収賄 【あっせんしゅうわい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "収",
+                    "しゅう"
+                ],
+                [
+                    "賄",
+                    "わい"
+                ],
+                [
+                    "罪",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (the crime of) bribery "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "三",
+                    "さん"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "賄",
+                    "まかな"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. with three meals served "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "三食まかない付き 【さんしょくまかないつき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "収",
+                    "しゅう"
+                ],
+                [
+                    "賄",
+                    "わい"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "件",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bribery case; bribery scandal; graft case "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "じゅ"
+                ],
+                [
+                    "託",
+                    "たく"
+                ],
+                [
+                    "収",
+                    "しゅう"
+                ],
+                [
+                    "賄",
+                    "わい"
+                ],
+                [
+                    "罪",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (the crime of) bribery "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "需",
+                    "じゅ"
+                ],
+                [
+                    "要",
+                    "よう"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "賄",
+                    "まかな"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "1. to meet the demand "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

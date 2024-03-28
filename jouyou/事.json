@@ -1,0 +1,1685 @@
+{
+    "kanji": "事",
+    "grade": 3,
+    "jlpt": 4,
+    "meanings": [
+        "matter",
+        "thing",
+        "fact",
+        "business",
+        "reason",
+        "possibly"
+    ],
+    "kun": [
+        "こと",
+        "つか.う",
+        "つか.える"
+    ],
+    "on": [
+        "ジ",
+        "ズ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.13073394495412843,
+            0.22889908256880734,
+            "c",
+            0.01688073394495413,
+            0.004954128440366972,
+            0.047981651376146794,
+            0.006238532110091744,
+            0.06486238532110092,
+            0.004954128440366972,
+            "c",
+            0.15385321100917432,
+            -0.011376146788990826,
+            0.42559633027522936,
+            -0.03889908256880734,
+            0.6144036697247707,
+            -0.03880733944954129,
+            "c",
+            0.028256880733944955,
+            0,
+            0.04513761467889908,
+            0.0023853211009174312,
+            0.05926605504587156,
+            0.004862385321100918
+        ],
+        [
+            "M",
+            0.27990825688073395,
+            0.3140366972477064,
+            "c",
+            0.0032110091743119264,
+            0.0021100917431192663,
+            0.006513761467889908,
+            0.003853211009174312,
+            0.007889908256880733,
+            0.006422018348623853,
+            "c",
+            0.009541284403669725,
+            0.017889908256880735,
+            0.017431192660550456,
+            0.06293577981651377,
+            0.024220183486238535,
+            0.09889908256880733,
+            "c",
+            0.001559633027522936,
+            0.008073394495412844,
+            0.0021100917431192663,
+            0.01110091743119266,
+            0.0032110091743119264,
+            0.0163302752293578
+        ],
+        [
+            "M",
+            0.3022018348623853,
+            0.3211926605504587,
+            "c",
+            0.07623853211009175,
+            -0.00926605504587156,
+            0.2981651376146789,
+            -0.02706422018348624,
+            0.37688073394495414,
+            -0.03293577981651376,
+            "c",
+            0.022293577981651377,
+            -0.0016513761467889907,
+            0.03495412844036697,
+            0.012201834862385321,
+            0.027889908256880733,
+            0.03293577981651376,
+            "c",
+            -0.006697247706422018,
+            0.019633027522935782,
+            -0.013944954128440367,
+            0.041926605504587156,
+            -0.022752293577981652,
+            0.06642201834862385
+        ],
+        [
+            "M",
+            0.3236697247706422,
+            0.4175229357798165,
+            "c",
+            0.038623853211009175,
+            -0.002752293577981651,
+            0.24880733944954128,
+            -0.017706422018348624,
+            0.34266055045871563,
+            -0.024587155963302753,
+            "c",
+            0.01330275229357798,
+            -0.0010091743119266055,
+            0.027522935779816515,
+            -0.003119266055045872,
+            0.03844036697247707,
+            -0.00009174311926605505
+        ],
+        [
+            "M",
+            0.25229357798165136,
+            0.5127522935779817,
+            "c",
+            0.022935779816513763,
+            0.006788990825688073,
+            0.03853211009174312,
+            0.00926605504587156,
+            0.05963302752293578,
+            0.007981651376146788,
+            "c",
+            0.12376146788990826,
+            -0.007706422018348624,
+            0.26155963302752294,
+            -0.019633027522935782,
+            0.36458715596330277,
+            -0.026788990825688072,
+            "c",
+            0.034128440366972476,
+            -0.0023853211009174312,
+            0.05467889908256881,
+            0.0074311926605504595,
+            0.04577981651376147,
+            0.043944954128440364,
+            "c",
+            -0.01110091743119266,
+            0.04559633027522936,
+            -0.023853211009174313,
+            0.07119266055045871,
+            -0.03889908256880734,
+            0.1546788990825688
+        ],
+        [
+            "M",
+            0.1353211009174312,
+            0.6238532110091743,
+            "c",
+            0.02522935779816514,
+            0.006880733944954129,
+            0.043486238532110096,
+            0.005963302752293578,
+            0.07045871559633027,
+            0.0039449541284403665,
+            "c",
+            0.21045871559633028,
+            -0.015504587155963302,
+            0.3985321100917431,
+            -0.02926605504587156,
+            0.5911009174311928,
+            -0.038256880733944953,
+            "c",
+            0.029908256880733942,
+            -0.0013761467889908255,
+            0.054220183486238534,
+            0.0016513761467889907,
+            0.06779816513761468,
+            0.003669724770642202
+        ],
+        [
+            "M",
+            0.25229357798165136,
+            0.7325688073394495,
+            "c",
+            0.01834862385321101,
+            0.003669724770642202,
+            0.03220183486238532,
+            0.0047706422018348625,
+            0.045871559633027525,
+            0.003669724770642202,
+            "c",
+            0.12614678899082568,
+            -0.009908256880733945,
+            0.24311926605504589,
+            -0.02587155963302752,
+            0.3577981651376147,
+            -0.02981651376146789,
+            "c",
+            0.01834862385321101,
+            -0.0006422018348623854,
+            0.02981651376146789,
+            0,
+            0.04357798165137615,
+            0.002018348623853211
+        ],
+        [
+            "M",
+            0.4841284403669725,
+            0.09247706422018348,
+            "c",
+            0.01330275229357798,
+            0.01330275229357798,
+            0.018440366972477064,
+            0.024495412844036696,
+            0.018440366972477064,
+            0.046055045871559626,
+            "c",
+            0,
+            0.13357798165137616,
+            -0.00009174311926605505,
+            0.6643119266055045,
+            -0.00009174311926605505,
+            0.7098165137614679,
+            "c",
+            0,
+            0.08862385321100917,
+            -0.04504587155963303,
+            0.031376146788990825,
+            -0.07990825688073395,
+            0.0022935779816513763
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "事",
+                    "こと"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. thing; matter Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. incident; occurrence; event; something serious; trouble; crisis Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. circumstances; situation; state of affairs Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. work; business; affair Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to Usually written using kana alone"
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "6. nominalizing suffix Usually written using kana alone, See also 事 ごと彼は居空きとして知られ、日中でも家に忍び込んで貴重品を盗むことで評判となっていた。He was known as a burglar of houses where occupants are present and had a reputation for sneaking in and stealing valuables even during the day."
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "7. pretending to ...; playing make-believe ... Usually written using kana alone, See also 事 ごと"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. alias; also known as; otherwise known as; or Usually written using kana alone, as AことB (A = alias, B = real name)"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. necessity; need Usually written using kana alone, as 〜ことはない"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. you should ...; I advise that you ...; it's important to ... Usually written using kana alone, as 〜ことだ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "縡 【こと】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "縡: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "1. nominalizing suffix See also 事 こと"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. pretending to ...; playing make-believe ... See also 事 こと"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. individual concrete phenomenon (as opposed to a general principle) Buddhism, See also 理"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. thing; matter Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. incident; occurrence; event; something serious; trouble; crisis Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. circumstances; situation; state of affairs Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. work; business; affair Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to Usually written using kana alone"
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "6. nominalizing suffix Usually written using kana alone, See also 事 ごと彼は居空きとして知られ、日中でも家に忍び込んで貴重品を盗むことで評判となっていた。He was known as a burglar of houses where occupants are present and had a reputation for sneaking in and stealing valuables even during the day."
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "7. pretending to ...; playing make-believe ... Usually written using kana alone, See also 事 ごと"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. alias; also known as; otherwise known as; or Usually written using kana alone, as AことB (A = alias, B = real name)"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. necessity; need Usually written using kana alone, as 〜ことはない"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. you should ...; I advise that you ...; it's important to ... Usually written using kana alone, as 〜ことだ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "縡 【こと】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "縡: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "居空き",
+                            "いあ"
+                        ],
+                        [
+                            "として",
+                            null
+                        ],
+                        [
+                            "知られ",
+                            "し"
+                        ],
+                        [
+                            "日中",
+                            "にっちゅう"
+                        ],
+                        [
+                            "でも",
+                            null
+                        ],
+                        [
+                            "家",
+                            "いえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "忍び込んで",
+                            "しのびこ"
+                        ],
+                        [
+                            "貴重品",
+                            "きちょうひん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "盗む",
+                            "ぬす"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "評判",
+                            "ひょうばん"
+                        ],
+                        [
+                            "となっていた",
+                            null
+                        ]
+                    ],
+                    "translation": "He was known as a burglar of houses where occupants are present and had a reputation for sneaking in and stealing valuables even during the day."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "故",
+                    "こ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. accident; incident; trouble "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. circumstances; reasons "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Accident lines]]An accident or mishap is an unforeseen and unplann... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "事故 【ことゆえ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ことゆえ: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. accident; incident; trouble "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. circumstances; reasons "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Accident lines]]An accident or mishap is an unforeseen and unplann... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "事故 【ことゆえ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ことゆえ: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "実",
+                    "じつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Noun",
+                    "meaning": "1. fact; truth; reality "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fact A fact (derived from the Latin factum, see below) is some... Read more"
+                },
+                {
+                    "type": "Adverb (fukushi), Noun",
+                    "meaning": "1. fact; truth; reality "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fact A fact (derived from the Latin factum, see below) is some... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "務",
+                    "む"
+                ],
+                [
+                    "所",
+                    "しょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. office "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. office "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "件",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. event; affair; incident; case; plot; trouble; scandal "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. event; affair; incident; case; plot; trouble; scandal "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "態",
+                    "たい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. situation; (present) state of affairs; circumstances often with a negative connotation"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "事体 【じたい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. situation; (present) state of affairs; circumstances often with a negative connotation"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "事体 【じたい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "情",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. circumstances; conditions; situation; reasons; state of affairs "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "務",
+                    "む"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. office work; clerical work; administration; business; affairs "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "業",
+                    "ぎょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. business; enterprise; venture; (commercial) activity; (business) operation; industry "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (social) project; undertaking; enterprise; work; activity; program; service 彼女は社会福祉事業に従事している。She is engaged in social work."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "社会福祉",
+                            "しゃかいふくし"
+                        ],
+                        [
+                            "事業",
+                            "じぎょう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "従事",
+                            "じゅうじ"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "She is engaged in social work."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "こと"
+                ],
+                [
+                    "柄",
+                    "がら"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. matter; thing; affair; circumstance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "事がら 【ことがら】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "項",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. matter; item; facts "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "前",
+                    "ぜん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. prior; beforehand; in advance; before the fact; ex ante See also 事後, often as 事前に"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仕",
+                    "つか"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to serve; to work for; to attend "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "事える 【つかえる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "務",
+                    "む"
+                ],
+                [
+                    "員",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. clerk; office worker; office staff "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "実",
+                    "じつ"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no', Adverb (fukushi)",
+                    "meaning": "1. as a matter of fact; actually; effectively; in reality; in effect "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "例",
+                    "れい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. example; precedent; case "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "務",
+                    "む"
+                ],
+                [
+                    "室",
+                    "しつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. office (room) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "務",
+                    "む"
+                ],
+                [
+                    "局",
+                    "きょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. secretariat; executive office "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "事",
+                "こと"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Koto "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kotozaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "事",
+                "つかえ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Tsukae "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仕",
+                    "し"
+                ],
+                [
+                    "事",
+                    "ごと"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. work; job; labor; labour; business; task; assignment; occupation; employment 「あなたは仕事が気に入っていると思います」「いやそれどころか、嫌いです」\"I think you like your job.\" \"On the contrary, I hate it.\""
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. work Physics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Work "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "気に入っている",
+                            "きに"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "思います",
+                            "おも"
+                        ],
+                        [
+                            "いや",
+                            null
+                        ],
+                        [
+                            "それどころか",
+                            null
+                        ],
+                        [
+                            "嫌い",
+                            "きら"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "\"I think you like your job.\" \"On the contrary, I hate it.\""
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "食",
+                    "しょく"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. meal; dinner あなたのロボットは食事の支度、掃除、皿洗いその他の家事ができるでしょう。Your robot will prepare meals, clean, wash dishes, and perform other household tasks."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. diet 彼女はやせるために食事を制限した。She went on a reducing diet."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Meal For the coarsely ground flour, see flour. Part of a serie... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ロボット",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "食事",
+                            "しょくじ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "支度",
+                            "したく"
+                        ],
+                        [
+                            "掃除",
+                            "そうじ"
+                        ],
+                        [
+                            "皿洗い",
+                            "さらあら"
+                        ],
+                        [
+                            "その他",
+                            "そのほか"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "家事",
+                            "かじ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "できる",
+                            null
+                        ],
+                        [
+                            "でしょう",
+                            null
+                        ]
+                    ],
+                    "translation": "Your robot will prepare meals, clean, wash dishes, and perform other household tasks."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "やせる",
+                            null
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "食事",
+                            "しょくじ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "制限",
+                            "せいげん"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "She went on a reducing diet."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "記",
+                    "き"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. article; news story; report; account "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Article (publishing) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "家",
+                    "か"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. housework; domestic chores 私達は、家事を分担することで合意した。We agreed to share the housework."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. family affairs; household matters "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Housekeeping Housekeeping is the act of cleaning the rooms and furnish... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私達",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "家事",
+                            "かじ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "分担",
+                            "ぶんたん"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "合意",
+                            "ごうい"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "We agreed to share the housework."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. prefectural governor "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Governor A governor (from French gouverneur) is a governing offici... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "百",
+                    "ひゃっかじてん"
+                ],
+                [
+                    "科",
+                    null
+                ],
+                [
+                    "事",
+                    null
+                ],
+                [
+                    "典",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. encyclopedia; encyclopaedia "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Encyclopedia An encyclopedia (also spelled encyclopaedia or encyclopæd... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "百科辞典 【ひゃっかじてん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "返",
+                    "へん"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. reply; answer; response "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "返辞 【へんじ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "火",
+                    "か"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fire; conflagration "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. important; serious; crucial あなたの親切な言葉は大事に心に刻みつけておきます。I'll treasure your kind words."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. valuable; precious 彼は私たちにとって大事な人だ。He is precious to us."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. serious matter; major incident; matter of grave concern; crisis See also 大事 おおごと"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. great undertaking; great enterprise; great thing "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "5. safe; OK See also だいじょうぶ, Tochigi dialect"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "親切な",
+                            "しんせつ"
+                        ],
+                        [
+                            "言葉",
+                            "ことば"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "大事に",
+                            "だいじ"
+                        ],
+                        [
+                            "心",
+                            "こころ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "刻みつけて",
+                            "きざ"
+                        ],
+                        [
+                            "おきます",
+                            null
+                        ]
+                    ],
+                    "translation": "I'll treasure your kind words."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私たち",
+                            "わたし"
+                        ],
+                        [
+                            "にとって",
+                            null
+                        ],
+                        [
+                            "大事な",
+                            "だいじ"
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "He is precious to us."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "軍",
+                    "ぐん"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. military affairs "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Military A military is an organization authorized by its greater s... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tasks; things to do; errand; business (to take care of); affairs; engagement "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "ぶ"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. safety; security; peace; quiet 彼の無事を知らされて、部長は安堵のため息をついた。Informed of his safety, the manager breathed a sigh of relief."
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. safely; without incident; successfully See also 無事に積み荷は無事届きました。The shipment has reached us safely."
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "3. good health "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. inaction; ennui Obsolete term"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "無事",
+                            "ぶじ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "知らされて",
+                            "し"
+                        ],
+                        [
+                            "部長",
+                            "ぶちょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "安堵",
+                            "あんど"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ため息をついた",
+                            "ためいき"
+                        ]
+                    ],
+                    "translation": "Informed of his safety, the manager breathed a sigh of relief."
+                },
+                {
+                    "sentence": [
+                        [
+                            "積み荷",
+                            "つみに"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "無事",
+                            "ぶじ"
+                        ],
+                        [
+                            "届きました",
+                            "とど"
+                        ]
+                    ],
+                    "translation": "The shipment has reached us safely."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "物",
+                    "もの"
+                ],
+                [
+                    "事",
+                    "ごと"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. things; everything "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "物ごと 【ものごと】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "出",
+                    "で"
+                ],
+                [
+                    "来",
+                    "き"
+                ],
+                [
+                    "事",
+                    "ごと"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. incident; affair; happening; event "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

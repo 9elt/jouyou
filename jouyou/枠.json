@@ -1,0 +1,1157 @@
+{
+    "kanji": "枠",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "frame",
+        "framework",
+        "spindle",
+        "spool",
+        "bounding-box",
+        "(kokuji)"
+    ],
+    "kun": [
+        "わく"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.1218348623853211,
+            0.3598165137614679,
+            "c",
+            0.01926605504587156,
+            0.0037614678899082566,
+            0.04678899082568807,
+            0.004495412844036697,
+            0.06055045871559633,
+            0.0025688073394495416,
+            "c",
+            0.06422018348623854,
+            -0.009174311926605505,
+            0.14908256880733944,
+            -0.016055045871559634,
+            0.21706422018348623,
+            -0.02642201834862385,
+            "c",
+            0.008440366972477065,
+            -0.0012844036697247708,
+            0.02256880733944954,
+            -0.0033944954128440367,
+            0.03422018348623853,
+            0
+        ],
+        [
+            "M",
+            0.2968807339449541,
+            0.12844036697247707,
+            "c",
+            0.009816513761467891,
+            0.009816513761467891,
+            0.011834862385321101,
+            0.02522935779816514,
+            0.011834862385321101,
+            0.042844036697247706,
+            "c",
+            0,
+            0.03844036697247707,
+            0.0003669724770642202,
+            0.5420183486238532,
+            0.0003669724770642202,
+            0.638348623853211,
+            "c",
+            0,
+            0.037614678899082564,
+            -0.0002752293577981651,
+            0.06871559633027523,
+            -0.0005504587155963302,
+            0.0779816513761468
+        ],
+        [
+            "M",
+            0.3022018348623853,
+            0.36036697247706423,
+            "c",
+            0,
+            0.015779816513761466,
+            -0.008807339449541284,
+            0.03605504587155964,
+            -0.016146788990825688,
+            0.05311926605504587,
+            "c",
+            -0.042844036697247706,
+            0.0998165137614679,
+            -0.08761467889908257,
+            0.1793577981651376,
+            -0.1726605504587156,
+            0.28458715596330275
+        ],
+        [
+            "M",
+            0.3313761467889908,
+            0.42201834862385323,
+            "c",
+            0.02256880733944954,
+            0.014220183486238533,
+            0.06926605504587156,
+            0.0779816513761468,
+            0.08825688073394494,
+            0.10550458715596331
+        ],
+        [
+            "M",
+            0.611467889908257,
+            0.1111926605504587,
+            "c",
+            0.005504587155963302,
+            0.011467889908256881,
+            0.005871559633027523,
+            0.020825688073394497,
+            0.004311926605504587,
+            0.03339449541284404,
+            "c",
+            -0.016055045871559634,
+            0.12715596330275228,
+            -0.04357798165137615,
+            0.23844036697247706,
+            -0.14990825688073395,
+            0.33798165137614683
+        ],
+        [
+            "M",
+            0.46,
+            0.23110091743119268,
+            "c",
+            0.018256880733944953,
+            0.006238532110091744,
+            0.04238532110091743,
+            0.003027522935779817,
+            0.05513761467889908,
+            0.0007339449541284404,
+            "c",
+            0.046697247706422015,
+            -0.008440366972477065,
+            0.1534862385321101,
+            -0.03293577981651376,
+            0.18880733944954126,
+            -0.041100917431192666,
+            "c",
+            0.0255045871559633,
+            -0.005871559633027523,
+            0.044311926605504585,
+            0.0011926605504587156,
+            0.039174311926605504,
+            0.032293577981651375,
+            "c",
+            -0.0057798165137614675,
+            0.03495412844036697,
+            -0.01036697247706422,
+            0.06247706422018348,
+            -0.014495412844036697,
+            0.1234862385321101,
+            "c",
+            -0.005137614678899083,
+            0.07522935779816513,
+            0.009908256880733945,
+            0.09045871559633027,
+            0.07247706422018349,
+            0.09045871559633027,
+            "c",
+            0.07045871559633027,
+            0,
+            0.08440366972477063,
+            -0.007889908256880733,
+            0.08440366972477063,
+            -0.06045871559633027
+        ],
+        [
+            "M",
+            0.4288990825688073,
+            0.6281651376146788,
+            "c",
+            0.024036697247706424,
+            0.004862385321100918,
+            0.048348623853211,
+            0.003669724770642202,
+            0.06651376146788991,
+            0.0011009174311926604,
+            "c",
+            0.10321100917431193,
+            -0.014587155963302753,
+            0.2506422018348624,
+            -0.029174311926605506,
+            0.3337614678899083,
+            -0.03486238532110091,
+            "c",
+            0.023577981651376145,
+            -0.0016513761467889907,
+            0.04293577981651376,
+            -0.0006422018348623854,
+            0.0653211009174312,
+            0.0074311926605504595
+        ],
+        [
+            "M",
+            0.638532110091743,
+            0.46376146788990824,
+            "c",
+            0.010275229357798166,
+            0.010275229357798166,
+            0.013027522935779816,
+            0.023669724770642202,
+            0.013027522935779816,
+            0.03954128440366972,
+            "c",
+            0,
+            0.005045871559633028,
+            0.0006422018348623854,
+            0.23366972477064218,
+            0.0007339449541284404,
+            0.34073394495412845,
+            "c",
+            0,
+            0.030642201834862385,
+            0.00009174311926605505,
+            0.05128440366972477,
+            0,
+            0.053944954128440366
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. frame; framework "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. border; box "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. limit; restriction; quota "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "4. category; bracket; class "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "5. time slot (in a broadcasting schedule) "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "6. stream; livestream; live stream; live (online) broadcast Internet slang, See also 歌枠"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. spool (of thread); reel "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "8. Structural system The term structural system or structural frame in structu... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "框 【わく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "框: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. frame; framework "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. border; box "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. limit; restriction; quota "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "4. category; bracket; class "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "5. time slot (in a broadcasting schedule) "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "6. stream; livestream; live stream; live (online) broadcast Internet slang, See also 歌枠"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. spool (of thread); reel "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "8. Structural system The term structural system or structural frame in structu... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "框 【わく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "框: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "組",
+                    "ぐ"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. frame "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. framework; outline ここでの問題は、社会のトレンドを概観できるような枠組みを創出することである。The question here is one of creating the framework with which we can outline the social trend."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "枠組 【わくぐみ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. frame "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. framework; outline ここでの問題は、社会のトレンドを概観できるような枠組みを創出することである。The question here is one of creating the framework with which we can outline the social trend."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "枠組 【わくぐみ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "問題",
+                            "もんだい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "社会",
+                            "しゃかい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "トレンド",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "概観",
+                            "がいかん"
+                        ],
+                        [
+                            "できる",
+                            null
+                        ],
+                        [
+                            "ような",
+                            null
+                        ],
+                        [
+                            "枠組み",
+                            "わくぐ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "創出",
+                            "そうしゅつ"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "The question here is one of creating the framework with which we can outline the social trend."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "内",
+                    "ない"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. within the limits (framework, boundaries, price, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. within the limits (framework, boundaries, price, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "外",
+                    "がい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. (beyond the) limits; scope; boundary See also 枠 わく"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. (beyond the) limits; scope; boundary See also 枠 わく"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "物",
+                    "もの"
+                ],
+                [
+                    "語",
+                    "がたり"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. frame story; frame narrative; frame tale "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Frame story A frame story (also frame tale, frame narrative, etc. ) i... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. frame story; frame narrative; frame tale "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Frame story A frame story (also frame tale, frame narrative, etc. ) i... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. frame-shaped; frame-like "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "線",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grid-line (e.g. in spreadsheet); enclosing line "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "番",
+                    "ばん"
+                ],
+                [
+                    "連",
+                    "れん"
+                ],
+                [
+                    "勝",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bracket win; bracket quinella Horse racing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "は",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ru' ending",
+                    "meaning": "1. to be stereotypical "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "枠に嵌まる 【わくにはまる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "連",
+                    "れん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bracket win; bracket quinella Horse racing, Abbreviation, See also 枠番連勝"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "乙",
+                    "おつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. thanks for streaming Internet slang, Usually written using kana alone, See also うぽつ, See also 枠, See also 乙, from 枠取り (live streaming) and 乙 (お疲れ様); usu. on live streaming sites"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "枠おつ 【わくおつ】、わこつ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to set a frame; to frame "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "枠",
+                    "わく"
+                ],
+                [
+                    "形",
+                    "がた"
+                ],
+                [
+                    "ア",
+                    null
+                ],
+                [
+                    "ン",
+                    null
+                ],
+                [
+                    "テ",
+                    null
+                ],
+                [
+                    "ナ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. frame antenna Rare term, See also ループアンテナ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "枠型アンテナ 【わくがたアンテナ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "枠",
+                "はすお"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Hasuo "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "枠元",
+                "わくもと"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Wakumoto "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "枠女",
+                "いおな"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Iona "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "抜",
+                    "ばっ"
+                ],
+                [
+                    "粋",
+                    "すい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. extract; excerpt; selection "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "抜萃 【ばっすい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "抜萃: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "窓",
+                    "まど"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. window frame; sash "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "型",
+                    "かた"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. formwork; shuttering; mold; mould; form "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Formwork Formwork is the term given to either temporary or permane... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "行",
+                    "ぎょう"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. line box Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "飾",
+                    "かざ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. decorated frame; decorative surrounds "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "文",
+                    "もじわく"
+                ],
+                [
+                    "字",
+                    null
+                ],
+                [
+                    "枠",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. character body Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "おお"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. general framework "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "参",
+                    "さん"
+                ],
+                [
+                    "加",
+                    "か"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. limit on participation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "きり"
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. clip rectangle Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "黒",
+                    "くろ"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. mourning borders "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "太",
+                    "ふと"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. thick-bordered box or table (in forms, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "糸",
+                    "いと"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reel; spool "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "紙",
+                    "し"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. filing margin (in engineering drawing) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "別",
+                    "べつ"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. additional; extraordinary; outside the norms; special case "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "社",
+                    "しゃ"
+                ],
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "枠",
+                    "わく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. special consideration for non-traditional (older) students "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1360 @@
+{
+    "kanji": "柳",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "willow"
+    ],
+    "kun": [
+        "やなぎ"
+    ],
+    "on": [
+        "リュウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.11495412844036697,
+            0.3368807339449541,
+            "c",
+            0.020366972477064222,
+            0.004862385321100918,
+            0.04642201834862385,
+            0.0032110091743119264,
+            0.05954128440366973,
+            0.0012844036697247708,
+            "c",
+            0.04302752293577982,
+            -0.006422018348623853,
+            0.11256880733944953,
+            -0.0226605504587156,
+            0.15926605504587155,
+            -0.0318348623853211,
+            "c",
+            0.01110091743119266,
+            -0.002201834862385321,
+            0.0263302752293578,
+            -0.003577981651376147,
+            0.037981651376146786,
+            -0.002477064220183486
+        ],
+        [
+            "M",
+            0.26247706422018346,
+            0.15137614678899083,
+            "c",
+            0.009816513761467891,
+            0.009816513761467891,
+            0.011834862385321101,
+            0.02522935779816514,
+            0.011834862385321101,
+            0.042844036697247706,
+            "c",
+            0,
+            0.05229357798165138,
+            0.0003669724770642202,
+            0.5775229357798165,
+            0.0003669724770642202,
+            0.6108256880733944,
+            "c",
+            0,
+            0.01834862385321101,
+            0,
+            0.05614678899082569,
+            -0.0006422018348623854,
+            0.07568807339449542
+        ],
+        [
+            "M",
+            0.2700917431192661,
+            0.3351376146788991,
+            "c",
+            0,
+            0.013486238532110091,
+            -0.005412844036697248,
+            0.027339449541284404,
+            -0.009174311926605505,
+            0.03788990825688073,
+            "c",
+            -0.040091743119266054,
+            0.11495412844036697,
+            -0.07862385321100918,
+            0.1831192660550459,
+            -0.14522935779816515,
+            0.28376146788990825
+        ],
+        [
+            "M",
+            0.2910091743119266,
+            0.4096330275229358,
+            "c",
+            0.02238532110091743,
+            0.013486238532110091,
+            0.06100917431192661,
+            0.05137614678899082,
+            0.07825688073394495,
+            0.08348623853211008
+        ],
+        [
+            "M",
+            0.5362385321100918,
+            0.11926605504587157,
+            "c",
+            0.0009174311926605505,
+            0.007064220183486239,
+            -0.0021100917431192663,
+            0.014495412844036697,
+            -0.005871559633027523,
+            0.019908256880733943,
+            "c",
+            -0.023394495412844035,
+            0.03403669724770642,
+            -0.04807339449541285,
+            0.05834862385321101,
+            -0.09348623853211009,
+            0.09825688073394497
+        ],
+        [
+            "M",
+            0.4254128440366972,
+            0.26155963302752294,
+            "c",
+            0.008623853211009174,
+            0.008623853211009174,
+            0.009724770642201836,
+            0.019357798165137614,
+            0.009724770642201836,
+            0.03431192660550459,
+            "c",
+            0,
+            0.02981651376146789,
+            -0.0057798165137614675,
+            0.2600917431192661,
+            -0.0057798165137614675,
+            0.28642201834862385,
+            "c",
+            0,
+            0.027798165137614676,
+            0.0029357798165137615,
+            0.04238532110091743,
+            0.028990825688073395,
+            0.02073394495412844,
+            "c",
+            0.0218348623853211,
+            -0.0181651376146789,
+            0.049724770642201835,
+            -0.04449541284403669,
+            0.09844036697247707,
+            -0.08238532110091744
+        ],
+        [
+            "M",
+            0.5543119266055047,
+            0.23330275229357797,
+            "c",
+            0.009908256880733945,
+            0.009908256880733945,
+            0.01330275229357798,
+            0.022752293577981652,
+            0.013577981651376147,
+            0.04403669724770642,
+            "c",
+            0.004311926605504587,
+            0.3385321100917431,
+            -0.0002752293577981651,
+            0.4853211009174312,
+            -0.14330275229357797,
+            0.5933944954128441
+        ],
+        [
+            "M",
+            0.6563302752293578,
+            0.21091743119266054,
+            "c",
+            0.012293577981651376,
+            0.004678899082568807,
+            0.02944954128440367,
+            0.005137614678899083,
+            0.04889908256880734,
+            0.0011009174311926604,
+            "c",
+            0.02908256880733945,
+            -0.006055045871559634,
+            0.08155963302752293,
+            -0.017155963302752295,
+            0.10220183486238532,
+            -0.021100917431192658,
+            "c",
+            0.030458715596330274,
+            -0.005871559633027523,
+            0.0526605504587156,
+            0.007522935779816513,
+            0.0526605504587156,
+            0.04064220183486238,
+            "c",
+            0,
+            0.06238532110091743,
+            -0.0011926605504587156,
+            0.2214678899082569,
+            -0.010183486238532111,
+            0.35899082568807344,
+            "c",
+            -0.006880733944954129,
+            0.1056880733944954,
+            -0.06247706422018348,
+            0.018990825688073393,
+            -0.06697247706422019,
+            0.015045871559633026
+        ],
+        [
+            "M",
+            0.6725688073394496,
+            0.22119266055045872,
+            "c",
+            0.009541284403669725,
+            0.009541284403669725,
+            0.011926605504587157,
+            0.02192660550458716,
+            0.011926605504587157,
+            0.037981651376146786,
+            "c",
+            0,
+            0.10697247706422018,
+            0.0005504587155963302,
+            0.41192660550458715,
+            -0.0002752293577981651,
+            0.5539449541284404,
+            "c",
+            -0.0002752293577981651,
+            0.03853211009174312,
+            -0.00045871559633027525,
+            0.06605504587155964,
+            -0.0007339449541284404,
+            0.07568807339449542
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "柳",
+                    "やなぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. willow (any tree of genus Salix) 柳の枝に雪折れなし。Oaks may fall when reeds stand the storm."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. weeping willow (Salix babylonica) Only applies to やなぎ, Only applies to ヤナギ, See also 枝垂れ柳"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Willow Willows, sallows, and osiers form the genus Salix, around... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "楊 【やなぎ】、楊柳 【やなぎ】、楊柳 【ようりゅう】、ヤナギ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Chinese \"Willow\" constellation (one of the 28 mansions) Astronomy, See also 二十八宿, See also 朱雀 すざく"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. willow (any tree of genus Salix) 柳の枝に雪折れなし。Oaks may fall when reeds stand the storm."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. weeping willow (Salix babylonica) Only applies to やなぎ, Only applies to ヤナギ, See also 枝垂れ柳"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Willow Willows, sallows, and osiers form the genus Salix, around... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "楊 【やなぎ】、楊柳 【やなぎ】、楊柳 【ようりゅう】、ヤナギ"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "柳",
+                            "やなぎ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "枝",
+                            "えだ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "雪折れ",
+                            "ゆきお"
+                        ],
+                        [
+                            "なし",
+                            null
+                        ]
+                    ],
+                    "translation": "Oaks may fall when reeds stand the storm."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "やなぎ"
+                ],
+                [
+                    "刃",
+                    "ば"
+                ],
+                [
+                    "包",
+                    "ぼう"
+                ],
+                [
+                    "丁",
+                    "ちょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kitchen knife for sashimi "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. kitchen knife for sashimi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "やなぎ"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "風",
+                    "かぜ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. handling things without making waves; taking in one's stride "
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. handling things without making waves; taking in one's stride "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ぬ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "星",
+                    "ぼし"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Chinese \"Willow\" constellation (one of the 28 mansions) See also 柳 りゅう"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Willow (Chinese constellation) The Willow mansion is one of the Twenty-eight mansions of... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "柳宿 【ぬりこぼし】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Chinese \"Willow\" constellation (one of the 28 mansions) See also 柳 りゅう"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Willow (Chinese constellation) The Willow mansion is one of the Twenty-eight mansions of... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "柳宿 【ぬりこぼし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "ししゃも"
+                ],
+                [
+                    "葉",
+                    null
+                ],
+                [
+                    "魚",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shishamo smelt (Spirinchus lanceolatus) Usually written using kana alone, From Ainu “susuhamu”"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shishamo is a saltwater fish about 15 centimeters in length. It is... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "シシャモ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. shishamo smelt (Spirinchus lanceolatus) Usually written using kana alone, From Ainu “susuhamu”"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shishamo is a saltwater fish about 15 centimeters in length. It is... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "シシャモ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "りゅう"
+                ],
+                [
+                    "眉",
+                    "び"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. beautiful eyebrows "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "柳び 【りゅうび】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "りゅう"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. willow twig "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "やながわなべ"
+                ],
+                [
+                    "川",
+                    null
+                ],
+                [
+                    "鍋",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. loach stew; loaches boiled in soy sauce with stewed eggs and slivered burdock root Food, cooking, See also 泥鰌"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "やなぎ"
+                ],
+                [
+                    "下",
+                    "げ"
+                ],
+                [
+                    "駄",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. low geta made of willow "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "やなぎ"
+                ],
+                [
+                    "多",
+                    "だ"
+                ],
+                [
+                    "留",
+                    "る"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. The Willow Barrel (collection of Edo-period senryu) (abbr); Haifu Yanagidaru Work of art, literature, music, etc. name"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "りゅう"
+                ],
+                [
+                    "緑",
+                    "りょく"
+                ],
+                [
+                    "花",
+                    "か"
+                ],
+                [
+                    "紅",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. red blossoms and green willows; beautiful scenery of spring; natural beauty; beauty of nature Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "やなぎ"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "下",
+                    "した"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "泥",
+                    "どじょう"
+                ],
+                [
+                    "鰌",
+                    null
+                ],
+                [
+                    "は",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. a fox is not taken twice in the same snare; there are no birds in last year's nest; there aren't always loach under the willow tree; good luck does not always repeat itself Proverb"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "柳の下に何時も泥鰌は居ない 【やなぎのしたにいつもどじょうはいない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "りゅう"
+                ],
+                [
+                    "巷",
+                    "こう"
+                ],
+                [
+                    "花",
+                    "か"
+                ],
+                [
+                    "街",
+                    "がい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. red-light district; pleasure quarter Archaic, Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "りゅう"
+                ],
+                [
+                    "暗",
+                    "あん"
+                ],
+                [
+                    "花",
+                    "か"
+                ],
+                [
+                    "明",
+                    "めい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. beautiful scenery of spring Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. red-light district "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "やなぎ"
+                ],
+                [
+                    "蓼",
+                    "たで"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. water pepper (Persicaria hydropiper) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ヤナギタデ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "りゅう"
+                ],
+                [
+                    "橋",
+                    "きょう"
+                ],
+                [
+                    "新",
+                    "しん"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Ryūkyō Shinshi (book by Narushima Ryūhoku concerning the Yanigabashi pleasure quarters) Work of art, literature, music, etc. name"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "やなぎ"
+                ],
+                [
+                    "樽",
+                    "だる"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lacquered sake barrel (often used at weddings and other celebratory events) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "家内喜多留 【やなぎだる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "家内喜多留: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "りゅう"
+                ],
+                [
+                    "江",
+                    "こう"
+                ],
+                [
+                    "人",
+                    "じん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Liujiang man; one of the earliest modern humans found in East Asia "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "柳",
+                    "やなぎ"
+                ],
+                [
+                    "刃",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kitchen knife for sashimi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "柳",
+                "たかやな"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Takayana "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tama "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "柳",
+                "てるお"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Teruo "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "川",
+                    "せん"
+                ],
+                [
+                    "柳",
+                    "りゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. senryū; comic haiku; humorous seventeen-mora poem "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Senryū is a Japanese form of short poetry similar to haiku in co... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "青",
+                    "あお"
+                ],
+                [
+                    "柳",
+                    "やぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. green willow (i.e. one that has budded) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. meat of the trough shell (Mactra chinensis) Only applies to あおやぎ, See also バカ貝"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "青柳 【あおやなぎ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宇",
+                    null
+                ],
+                [
+                    "柳",
+                    null
+                ],
+                [
+                    "貝",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Uruguay Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "宇柳具 【ウルグアイ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "宇柳貝: Ateji (phonetic) reading, Rarely-used kanji form. 宇柳具: Ateji (phonetic) reading, Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "花",
+                    "か"
+                ],
+                [
+                    "柳",
+                    "りゅう"
+                ],
+                [
+                    "界",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. red-light district; pleasure quarters; world of the geisha; demimonde "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "檉",
+                    "ぎょりゅう"
+                ],
+                [
+                    "柳",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Tamarix chinensis; Chinese tamarisk Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tamarix The genus Tamarix (tamarisk, salt cedar) is composed of a... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ギョリュウ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "熊",
+                    "くま"
+                ],
+                [
+                    "柳",
+                    "やなぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Berchemia racemosa (species of flowering plant related to buckthorn) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Berchemia racemosa Berchemia racemosa is a shrub in the genus Berchemia."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "クマヤナギ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "猫",
+                    "ねこ"
+                ],
+                [
+                    "柳",
+                    "やなぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rosegold pussy willow (Salix gracilistyla) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Salix gracilistyla Salix gracilistyla is a species of willow native to Japan... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ネコヤナギ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "西",
+                    "せい"
+                ],
+                [
+                    "洋",
+                    "よう"
+                ],
+                [
+                    "箱",
+                    "はこ"
+                ],
+                [
+                    "柳",
+                    "やなぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Lombardy poplar (Populus nigra var. italica) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Populus nigra Populus nigra, the black poplar, is a species of cottonwo... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "セイヨウハコヤナギ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "だ",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "柳",
+                    "やなぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. weeping willow (Salix babylonica) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Salix babylonica Salix babylonica is a species of willow native to dry are... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "枝垂れ柳 【しだれやなぎ】、垂れ柳 【しだれやなぎ】、シダレヤナギ"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "垂れ柳: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "誹",
+                    "はい"
+                ],
+                [
+                    "風",
+                    "ふう"
+                ],
+                [
+                    "柳",
+                    "やなぎ"
+                ],
+                [
+                    "多",
+                    "だ"
+                ],
+                [
+                    "留",
+                    "る"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. The Willow Barrel (collection of Edo-period senryu); Haifu Yanagidaru Work of art, literature, music, etc. name"
+                },
+                {
+                    "type": "Full name",
+                    "meaning": "2. Haifuu Yanagidaru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "糸",
+                    "いと"
+                ],
+                [
+                    "柳",
+                    "やなぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. weeping willow "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "花",
+                    "はな"
+                ],
+                [
+                    "柳",
+                    "やぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Hanayagi school of Japanese dancing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "振",
+                    "ふり"
+                ],
+                [
+                    "袖",
+                    "そで"
+                ],
+                [
+                    "柳",
+                    "やなぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Salix leucopithecia (species of willow) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "フリソデヤナギ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "絹",
+                    "きぬ"
+                ],
+                [
+                    "柳",
+                    "やなぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Salix kinuyanagi (species of willow) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "キヌヤナギ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "常",
+                    "ときわぎょりゅう"
+                ],
+                [
+                    "磐",
+                    null
+                ],
+                [
+                    "御",
+                    null
+                ],
+                [
+                    "柳",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. beefwood (Casuarina equisetifolia) Usually written using kana alone, Rare term, See also 木麻黄"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "トキワギョリュウ"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

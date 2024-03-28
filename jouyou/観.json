@@ -1,0 +1,1862 @@
+{
+    "kanji": "観",
+    "grade": 4,
+    "jlpt": 3,
+    "meanings": [
+        "outlook",
+        "look",
+        "appearance",
+        "condition",
+        "view"
+    ],
+    "kun": [
+        "み.る",
+        "しめ.す"
+    ],
+    "on": [
+        "カン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.28623853211009176,
+            0.11403669724770642,
+            "c",
+            0.00045871559633027525,
+            0.005412844036697248,
+            0.0023853211009174312,
+            0.014587155963302753,
+            -0.0009174311926605505,
+            0.02192660550458716,
+            "C",
+            0.2591743119266055,
+            0.1926605504587156,
+            0.22018348623853212,
+            0.25688073394495414,
+            0.12513761467889908,
+            0.33394495412844033
+        ],
+        [
+            "M",
+            0.24770642201834864,
+            0.25229357798165136,
+            "c",
+            0.009174311926605505,
+            0.0011009174311926604,
+            0.01651376146788991,
+            0.002018348623853211,
+            0.02981651376146789,
+            0.0005504587155963302,
+            "c",
+            0.048532110091743116,
+            -0.005412844036697248,
+            0.1324770642201835,
+            -0.02311926605504587,
+            0.15137614678899083,
+            -0.025779816513761468,
+            "c",
+            0.011376146788990826,
+            -0.0016513761467889907,
+            0.022935779816513763,
+            -0.0022935779816513763,
+            0.034403669724770644,
+            0
+        ],
+        [
+            "M",
+            0.11009174311926606,
+            0.39807339449541285,
+            "c",
+            0.017798165137614678,
+            0.007247706422018349,
+            0.04458715596330275,
+            0.006513761467889908,
+            0.06302752293577982,
+            0.004220183486238533,
+            "c",
+            0.06999999999999999,
+            -0.008899082568807339,
+            0.18376146788990827,
+            -0.027889908256880733,
+            0.25688073394495414,
+            -0.04036697247706422,
+            "c",
+            0.020091743119266054,
+            -0.0033944954128440367,
+            0.04477064220183486,
+            -0.007522935779816513,
+            0.060825688073394495,
+            -0.004036697247706422
+        ],
+        [
+            "M",
+            0.31018348623853215,
+            0.2798165137614679,
+            "c",
+            0.0010091743119266055,
+            0.008899082568807339,
+            0.001559633027522936,
+            0.01908256880733945,
+            -0.0008256880733944953,
+            0.028807339449541284,
+            "C",
+            0.2798165137614679,
+            0.4288990825688073,
+            0.19376146788990828,
+            0.5653211009174312,
+            0.10660550458715595,
+            0.6422018348623854
+        ],
+        [
+            "M",
+            0.2263302752293578,
+            0.5163302752293578,
+            "c",
+            0.005412844036697248,
+            0.005412844036697248,
+            0.006880733944954129,
+            0.012660550458715595,
+            0.006880733944954129,
+            0.023761467889908256,
+            "c",
+            0,
+            0.07541284403669725,
+            -0.00009174311926605505,
+            0.22110091743119267,
+            -0.0001834862385321101,
+            0.3028440366972477,
+            "c",
+            0,
+            0.0218348623853211,
+            0,
+            0.03908256880733945,
+            0,
+            0.04926605504587156
+        ],
+        [
+            "M",
+            0.39623853211009175,
+            0.39908256880733944,
+            "c",
+            0.0003669724770642202,
+            0.004495412844036697,
+            0.0002752293577981651,
+            0.010550458715596329,
+            -0.0011926605504587156,
+            0.014311926605504588,
+            "c",
+            -0.00963302752293578,
+            0.023577981651376145,
+            -0.014311926605504588,
+            0.036788990825688074,
+            -0.031009174311926603,
+            0.06678899082568808
+        ],
+        [
+            "M",
+            0.23990825688073394,
+            0.505045871559633,
+            "c",
+            0.04229357798165138,
+            -0.005504587155963302,
+            0.14559633027522936,
+            -0.019174311926605504,
+            0.2028440366972477,
+            -0.02706422018348624,
+            "c",
+            0.017798165137614678,
+            -0.002477064220183486,
+            0.031192660550458714,
+            -0.004403669724770642,
+            0.03688073394495413,
+            -0.005321100917431192
+        ],
+        [
+            "M",
+            0.3608256880733945,
+            0.5087155963302753,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.01165137614678899,
+            0.018807339449541282,
+            0.01165137614678899,
+            0.027706422018348623,
+            "c",
+            0,
+            0.050091743119266056,
+            -0.0012844036697247708,
+            0.18715596330275228,
+            -0.0012844036697247708,
+            0.2689908256880734
+        ],
+        [
+            "M",
+            0.2428440366972477,
+            0.6045871559633028,
+            "c",
+            0.03963302752293578,
+            -0.0045871559633027525,
+            0.13724770642201836,
+            -0.015688073394495412,
+            0.19192660550458718,
+            -0.022293577981651377,
+            "c",
+            0.017522935779816513,
+            -0.0021100917431192663,
+            0.03055045871559633,
+            -0.0037614678899082566,
+            0.03605504587155964,
+            -0.004495412844036697
+        ],
+        [
+            "M",
+            0.24339449541284405,
+            0.7107339449541284,
+            "c",
+            0.042477064220183484,
+            -0.0039449541284403665,
+            0.14339449541284405,
+            -0.01908256880733945,
+            0.19834862385321103,
+            -0.027155963302752294,
+            "c",
+            0.016422018348623852,
+            -0.0023853211009174312,
+            0.028715596330275227,
+            -0.004128440366972477,
+            0.034128440366972476,
+            -0.0047706422018348625
+        ],
+        [
+            "M",
+            0.24321100917431193,
+            0.8267889908256881,
+            "c",
+            0.046697247706422015,
+            -0.0034862385321100917,
+            0.14275229357798166,
+            -0.012477064220183487,
+            0.19724770642201836,
+            -0.01834862385321101,
+            "c",
+            0.017706422018348624,
+            -0.001926605504587156,
+            0.031009174311926603,
+            -0.0034862385321100917,
+            0.03688073394495413,
+            -0.004495412844036697
+        ],
+        [
+            "M",
+            0.5411926605504588,
+            0.17110091743119266,
+            "c",
+            0.00963302752293578,
+            0.00963302752293578,
+            0.011926605504587157,
+            0.021100917431192658,
+            0.011926605504587157,
+            0.03376146788990826,
+            "c",
+            0,
+            0.010183486238532111,
+            -0.0016513761467889907,
+            0.2485321100917431,
+            -0.0022935779816513763,
+            0.34440366972477066,
+            "c",
+            -0.0001834862385321101,
+            0.023211009174311924,
+            -0.0002752293577981651,
+            0.038073394495412846,
+            -0.0002752293577981651,
+            0.03935779816513762
+        ],
+        [
+            "M",
+            0.5596330275229358,
+            0.18394495412844036,
+            "c",
+            0.018440366972477064,
+            -0.0012844036697247708,
+            0.13587155963302752,
+            -0.020275229357798165,
+            0.18577981651376146,
+            -0.027614678899082565,
+            "c",
+            0.02981651376146789,
+            -0.004403669724770642,
+            0.049174311926605506,
+            -0.0016513761467889907,
+            0.04844036697247707,
+            0.031743119266055046,
+            "c",
+            -0.0011009174311926604,
+            0.04926605504587156,
+            -0.0012844036697247708,
+            0.2122018348623853,
+            -0.0012844036697247708,
+            0.33366972477064216,
+            "c",
+            0,
+            0.014036697247706422,
+            0,
+            0.027614678899082565,
+            0,
+            0.04027522935779816
+        ],
+        [
+            "M",
+            0.5638532110091743,
+            0.3131192660550459,
+            "c",
+            0.042844036697247706,
+            -0.0045871559633027525,
+            0.17357798165137617,
+            -0.024128440366972478,
+            0.21596330275229356,
+            -0.027981651376146787
+        ],
+        [
+            "M",
+            0.5611009174311926,
+            0.4362385321100917,
+            "c",
+            0.06394495412844037,
+            -0.00963302752293578,
+            0.14880733944954128,
+            -0.022293577981651377,
+            0.21844036697247704,
+            -0.028165137614678898
+        ],
+        [
+            "M",
+            0.5667889908256881,
+            0.556697247706422,
+            "c",
+            0.09146788990825688,
+            -0.00963302752293578,
+            0.1544954128440367,
+            -0.018807339449541282,
+            0.2138532110091743,
+            -0.023577981651376145
+        ],
+        [
+            "M",
+            0.6174311926605505,
+            0.5988990825688073,
+            "c",
+            0.00045871559633027525,
+            0.007155963302752294,
+            0.0011009174311926604,
+            0.018440366972477064,
+            -0.0010091743119266055,
+            0.028623853211009177,
+            "c",
+            -0.015504587155963302,
+            0.07440366972477064,
+            -0.05798165137614679,
+            0.17761467889908256,
+            -0.16458715596330276,
+            0.26376146788990823
+        ],
+        [
+            "M",
+            0.7006422018348625,
+            0.581743119266055,
+            "c",
+            0.007889908256880733,
+            0.007889908256880733,
+            0.011559633027522935,
+            0.019174311926605504,
+            0.011559633027522935,
+            0.0326605504587156,
+            "c",
+            0,
+            0.04128440366972477,
+            -0.0037614678899082566,
+            0.11495412844036697,
+            -0.0037614678899082566,
+            0.1734862385321101,
+            "c",
+            0,
+            0.07339449541284404,
+            0.010550458715596329,
+            0.08770642201834863,
+            0.09311926605504588,
+            0.08770642201834863,
+            "c",
+            0.07678899082568806,
+            0,
+            0.08825688073394494,
+            -0.010825688073394495,
+            0.08825688073394494,
+            -0.06128440366972477
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. look; appearance "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. spectacle; sight "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. observation meditation Buddhism"
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "4. outlook on ...; view of ... これがアメリカ人から見た日本観です。This is Japan as Americans see it."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. look; appearance "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. spectacle; sight "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. observation meditation Buddhism"
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "4. outlook on ...; view of ... これがアメリカ人から見た日本観です。This is Japan as Americans see it."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "これ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "アメリカ人",
+                            "アメリカじん"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "見た",
+                            "み"
+                        ],
+                        [
+                            "日本",
+                            "にほん"
+                        ],
+                        [
+                            "観",
+                            "かん"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "This is Japan as Americans see it."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "客",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spectator; audience "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Audience An audience is a group of people who participate in a sho... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "観客 【かんかく】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. spectator; audience "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Audience An audience is a group of people who participate in a sho... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "観客 【かんかく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "光",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. sightseeing; tourism "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tourism Tourism is travel for recreational, leisure or business p... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. sightseeing; tourism "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tourism Tourism is travel for recreational, leisure or business p... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "見",
+                    "み"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to see; to look; to watch; to view; to observe １０ページの５行目をみなさい。Let's begin with the fifth line on page 10."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to examine; to look over; to assess; to check; to judge 頭がくらくらしているので、深く考えずにいい加減なことを書いてみる。My head is swimming, so I'll try writing any old stuff without any deep thought."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to look after; to attend to; to take care of; to keep an eye on See also 看る私も親の面倒とか見られないですね。I can't look after my parents and such either."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to experience; to meet with (misfortune, success, etc.) 映画を観に行かない？Would you like to take in a movie?"
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "5. to try ...; to have a go at ...; to give ... a try Usually written using kana alone, after the -te form of a verb私たちはお互いを理解してみるべきだ。We should try to understand one another."
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "6. to see (that) ...; to find (that) ... Usually written using kana alone, as 〜てみると, 〜てみたら, 〜てみれば, etc."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "観る 【みる】、視る 【みる】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to see; to look; to watch; to view; to observe １０ページの５行目をみなさい。Let's begin with the fifth line on page 10."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to examine; to look over; to assess; to check; to judge 頭がくらくらしているので、深く考えずにいい加減なことを書いてみる。My head is swimming, so I'll try writing any old stuff without any deep thought."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to look after; to attend to; to take care of; to keep an eye on See also 看る私も親の面倒とか見られないですね。I can't look after my parents and such either."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to experience; to meet with (misfortune, success, etc.) 映画を観に行かない？Would you like to take in a movie?"
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "5. to try ...; to have a go at ...; to give ... a try Usually written using kana alone, after the -te form of a verb私たちはお互いを理解してみるべきだ。We should try to understand one another."
+                },
+                {
+                    "type": "Auxiliary verb, Ichidan verb",
+                    "meaning": "6. to see (that) ...; to find (that) ... Usually written using kana alone, as 〜てみると, 〜てみたら, 〜てみれば, etc."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "観る 【みる】、視る 【みる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ページ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "行",
+                            "ぎょう"
+                        ],
+                        [
+                            "目",
+                            "め"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "み",
+                            null
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "Let's begin with the fifth line on page 10."
+                },
+                {
+                    "sentence": [
+                        [
+                            "頭",
+                            "あたま"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "くらくら",
+                            null
+                        ],
+                        [
+                            "している",
+                            null
+                        ],
+                        [
+                            "ので",
+                            null
+                        ],
+                        [
+                            "深く",
+                            "ふか"
+                        ],
+                        [
+                            "考えず",
+                            "かんが"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "いい加減な",
+                            "いいかげん"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "書いて",
+                            "か"
+                        ],
+                        [
+                            "みる",
+                            null
+                        ]
+                    ],
+                    "translation": "My head is swimming, so I'll try writing any old stuff without any deep thought."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "親",
+                            "おや"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "面倒",
+                            "めんどう"
+                        ],
+                        [
+                            "とか",
+                            null
+                        ],
+                        [
+                            "見られない",
+                            "み"
+                        ],
+                        [
+                            "です",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "I can't look after my parents and such either."
+                },
+                {
+                    "sentence": [
+                        [
+                            "映画",
+                            "えいが"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "観",
+                            "み"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "行かない",
+                            "い"
+                        ]
+                    ],
+                    "translation": "Would you like to take in a movie?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "私たち",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "お互い",
+                            "おたが"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "理解",
+                            "りかい"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "みる",
+                            null
+                        ],
+                        [
+                            "べき",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "We should try to understand one another."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "念",
+                    "ねん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. idea; notion; concept; conception 幸福の観念はきわめて抽象的だ。The idea of happiness is extremely abstract."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. sense (e.g. of duty) 彼女には義務の観念が無い。She has no sense of duty."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. resignation (to one's fate); acceptance; preparedness もう助からないものと観念した。I gave up all hope of survival."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. observation and contemplation; meditation Buddhism"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Idea An idea is a concept or mental impression. Very often, id... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. idea; notion; concept; conception 幸福の観念はきわめて抽象的だ。The idea of happiness is extremely abstract."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. sense (e.g. of duty) 彼女には義務の観念が無い。She has no sense of duty."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. resignation (to one's fate); acceptance; preparedness もう助からないものと観念した。I gave up all hope of survival."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. observation and contemplation; meditation Buddhism"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Idea An idea is a concept or mental impression. Very often, id... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "幸福",
+                            "こうふく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "観念",
+                            "かんねん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "きわめて",
+                            null
+                        ],
+                        [
+                            "抽象的",
+                            "ちゅうしょうてき"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "The idea of happiness is extremely abstract."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "義務",
+                            "ぎむ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "観念",
+                            "かんねん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "無い",
+                            "な"
+                        ]
+                    ],
+                    "translation": "She has no sense of duty."
+                },
+                {
+                    "sentence": [
+                        [
+                            "もう",
+                            null
+                        ],
+                        [
+                            "助からない",
+                            "たす"
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "観念",
+                            "かんねん"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "I gave up all hope of survival."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "測",
+                    "そく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. observation; survey; measurement "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. opinion; prediction; thinking "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Observation Observation is either an activity of a living being, such... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. observation; survey; measurement "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. opinion; prediction; thinking "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Observation Observation is either an activity of a living being, such... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "察",
+                    "さつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. observation; survey; watching "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. observation; survey; watching "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "点",
+                    "てん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. point of view; viewpoint; standpoint; perspective; angle "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. point of view; viewpoint; standpoint; perspective; angle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "衆",
+                    "しゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spectators; onlookers; members of the audience "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. spectators; onlookers; members of the audience "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "戦",
+                    "せん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. watching a (sports) game; spectating; observing (military operations) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. watching a (sports) game; spectating; observing (military operations) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "劇",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. theatre-going; theater-going "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "賞",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. admiration; appreciation; enjoyment; viewing (for pleasure) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "光",
+                    "こう"
+                ],
+                [
+                    "客",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tourist "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "念",
+                    "ねん"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. conceptual; ideational; notional "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. theoretical; academic 彼の福祉の概念はかなり観念的だ。His notion of welfare is pretty abstract."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "福祉",
+                            "ふくし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "概念",
+                            "がいねん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "かなり",
+                            null
+                        ],
+                        [
+                            "観念的",
+                            "かんねんてき"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "His notion of welfare is pretty abstract."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "光",
+                    "こう"
+                ],
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tourist attraction; sight-seeing area "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tourist attraction A tourist attraction is a place of interest where tourist... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "覧",
+                    "らん"
+                ],
+                [
+                    "車",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Ferris wheel "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ferris wheel A Ferris wheel (also known as an observation wheel or big... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "覧",
+                    "らん"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. viewing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "光",
+                    "こう"
+                ],
+                [
+                    "案",
+                    "あん"
+                ],
+                [
+                    "内",
+                    "ない"
+                ],
+                [
+                    "所",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tourist information center; tourist information centre "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "察",
+                    "さつ"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. observer "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "察",
+                    "さつ"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. powers of observation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "観",
+                "あきら"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Akira "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "観",
+                "かん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname, Given name, gender not specified",
+                    "meaning": "1. Kan "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kansaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "直",
+                    "ちょっかん"
+                ],
+                [
+                    "感",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. intuition; instinct; hunch "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Intuition (psychology) Intuition is the ability to acquire knowledge without inf... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "直観 【ちょっかん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "楽",
+                    "らっかん"
+                ],
+                [
+                    "観",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. optimism; taking an optimistic view Antonym: 悲観"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "外",
+                    "がい"
+                ],
+                [
+                    "観",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. outward appearance; exterior appearance; outward show; looks "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悲",
+                    "ひ"
+                ],
+                [
+                    "観",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. pessimism; (taking a) gloomy view; discouragement; despondency; despair; disappointment Antonym: 楽観"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "主",
+                    "しゅ"
+                ],
+                [
+                    "観",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. subjectivity; subject (philosophical); ego "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. one's personal opinion; one's own idea いろいろ考えてみると私の主観ですが、プレゼントはどれだけ気持ちがこめられているかで価値がかわってくるのだと思います。All things considered, and it's just my opinion but, I think that the value of a present changes depending on how much thought is put into it."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "いろいろ",
+                            null
+                        ],
+                        [
+                            "考えて",
+                            "かんが"
+                        ],
+                        [
+                            "みる",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "主観",
+                            "しゅかん"
+                        ],
+                        [
+                            "です",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "プレゼント",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "どれだけ",
+                            null
+                        ],
+                        [
+                            "気持ち",
+                            "きも"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "こめられている",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "価値",
+                            "かち"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "かわって",
+                            null
+                        ],
+                        [
+                            "くる",
+                            null
+                        ],
+                        [
+                            "のだ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "思います",
+                            "おも"
+                        ]
+                    ],
+                    "translation": "All things considered, and it's just my opinion but, I think that the value of a present changes depending on how much thought is put into it."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "生",
+                    "せい"
+                ],
+                [
+                    "観",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's view of life; attitude toward life; outlook "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Life stance A person's life stance, or lifestance, is their relation ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "人生感 【じんせいかん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "人生感: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "価",
+                    "か"
+                ],
+                [
+                    "値",
+                    "ち"
+                ],
+                [
+                    "観",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sense of values; values; value system "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Value (personal and cultural) A personal or cultural value is an absolute or relative e... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "世",
+                    "せ"
+                ],
+                [
+                    "界",
+                    "かい"
+                ],
+                [
+                    "観",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. worldview; outlook on the world; Weltanschauung それぞれの文化には首尾一貫した世界観がある。Cultures have a coherent view of the world."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. setting (for a fictional work); world; universe "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. World view A comprehensive world view (or worldview) is the fundamen... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "それぞれ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "文化",
+                            "ぶんか"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "首尾",
+                            "しゅび"
+                        ],
+                        [
+                            "一貫",
+                            "いっかん"
+                        ],
+                        [
+                            "した",
+                            null
+                        ],
+                        [
+                            "世界観",
+                            "せかいかん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ]
+                    ],
+                    "translation": "Cultures have a coherent view of the world."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "客",
+                    "きゃっかんてき"
+                ],
+                [
+                    "観",
+                    null
+                ],
+                [
+                    "的",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. objective Antonym: 主観的"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "客観的 【かっかんてき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "景",
+                    "けい"
+                ],
+                [
+                    "観",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. scenery "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

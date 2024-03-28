@@ -1,0 +1,908 @@
+{
+    "kanji": "栓",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "plug",
+        "bolt",
+        "cork",
+        "bung",
+        "stopper"
+    ],
+    "kun": [
+        "セン"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.10577981651376146,
+            0.366697247706422,
+            "c",
+            0.011834862385321101,
+            0.008256880733944955,
+            0.046330275229357794,
+            0.003577981651376147,
+            0.05954128440366973,
+            0.002201834862385321,
+            "c",
+            0.05064220183486238,
+            -0.005045871559633028,
+            0.13761467889908258,
+            -0.015871559633027523,
+            0.19055045871559634,
+            -0.02146788990825688,
+            "c",
+            0.008532110091743119,
+            -0.0009174311926605505,
+            0.02201834862385321,
+            -0.002201834862385321,
+            0.027339449541284404,
+            0
+        ],
+        [
+            "M",
+            0.2555963302752294,
+            0.12614678899082568,
+            "c",
+            0.012660550458715595,
+            0.012660550458715595,
+            0.01871559633027523,
+            0.027522935779816515,
+            0.01871559633027523,
+            0.049724770642201835,
+            "c",
+            0,
+            0.028990825688073395,
+            -0.00009174311926605505,
+            0.4378899082568807,
+            -0.0002752293577981651,
+            0.6245871559633027,
+            "c",
+            -0.00009174311926605505,
+            0.053944954128440366,
+            -0.00009174311926605505,
+            0.08935779816513761,
+            -0.0001834862385321101,
+            0.09174311926605505
+        ],
+        [
+            "M",
+            0.2609174311926606,
+            0.36954128440366973,
+            "c",
+            0,
+            0.014587155963302753,
+            -0.006880733944954129,
+            0.04018348623853211,
+            -0.01330275229357798,
+            0.056972477064220185,
+            "c",
+            -0.037706422018348625,
+            0.09926605504587156,
+            -0.07330275229357798,
+            0.1651376146788991,
+            -0.1388073394495413,
+            0.25770642201834865
+        ],
+        [
+            "M",
+            0.2910091743119266,
+            0.4371559633027523,
+            "C",
+            0.3128440366972477,
+            0.45174311926605504,
+            0.3521100917431193,
+            0.5091743119266054,
+            0.3669724770642202,
+            0.5458715596330275
+        ],
+        [
+            "M",
+            0.6173394495412845,
+            0.11697247706422019,
+            "c",
+            0.0006422018348623854,
+            0.007706422018348624,
+            -0.0013761467889908255,
+            0.020642201834862386,
+            -0.005871559633027523,
+            0.031009174311926603,
+            "c",
+            -0.04036697247706422,
+            0.0928440366972477,
+            -0.09660550458715596,
+            0.19027522935779814,
+            -0.22247706422018348,
+            0.29926605504587156
+        ],
+        [
+            "M",
+            0.6238532110091743,
+            0.17082568807339452,
+            "c",
+            0.038256880733944953,
+            0.04807339449541285,
+            0.10779816513761468,
+            0.11577981651376146,
+            0.17944954128440366,
+            0.18073394495412842,
+            "c",
+            0.02908256880733945,
+            0.0263302752293578,
+            0.0526605504587156,
+            0.04688073394495413,
+            0.08522935779816512,
+            0.06752293577981652
+        ],
+        [
+            "M",
+            0.4648623853211009,
+            0.46009174311926604,
+            "c",
+            0.021376146788990826,
+            0.0032110091743119264,
+            0.040091743119266054,
+            0.001559633027522936,
+            0.05559633027522935,
+            -0.0005504587155963302,
+            "c",
+            0.04376146788990825,
+            -0.006055045871559634,
+            0.12669724770642202,
+            -0.013486238532110091,
+            0.1904587155963303,
+            -0.018256880733944953,
+            "c",
+            0.017706422018348624,
+            -0.0012844036697247708,
+            0.03339449541284404,
+            -0.0032110091743119264,
+            0.05238532110091743,
+            0.0003669724770642202
+        ],
+        [
+            "M",
+            0.6092660550458715,
+            0.47073394495412846,
+            "c",
+            0.008256880733944955,
+            0.011376146788990826,
+            0.010550458715596329,
+            0.021192660550458715,
+            0.010550458715596329,
+            0.03422018348623853,
+            "c",
+            0,
+            0.06385321100917431,
+            -0.0001834862385321101,
+            0.24495412844036696,
+            -0.0001834862385321101,
+            0.3384403669724771
+        ],
+        [
+            "M",
+            0.4490825688073395,
+            0.6529357798165137,
+            "c",
+            0.016972477064220184,
+            0.005412844036697248,
+            0.03577981651376147,
+            0.0028440366972477065,
+            0.05311926605504587,
+            0.0010091743119266055,
+            "c",
+            0.07522935779816513,
+            -0.008073394495412844,
+            0.14798165137614677,
+            -0.013669724770642202,
+            0.23541284403669724,
+            -0.02192660550458716,
+            "c",
+            0.018440366972477064,
+            -0.0017431192660550458,
+            0.038256880733944953,
+            -0.004220183486238533,
+            0.056330275229357796,
+            0.0013761467889908255
+        ],
+        [
+            "M",
+            0.37477064220183487,
+            0.8572477064220183,
+            "c",
+            0.01853211009174312,
+            0.006330275229357797,
+            0.041926605504587156,
+            0.005137614678899083,
+            0.06339449541284403,
+            0.003853211009174312,
+            "c",
+            0.1388073394495413,
+            -0.007981651376146788,
+            0.23082568807339449,
+            -0.015412844036697248,
+            0.37596330275229356,
+            -0.020917431192660547,
+            "c",
+            0.02256880733944954,
+            -0.0008256880733944953,
+            0.04889908256880734,
+            0.0022935779816513763,
+            0.07018348623853211,
+            0.011743119266055046
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stopper; cork; plug; bung "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. tap; faucet; stopcock "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. stopper; cork; plug; bung "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. tap; faucet; stopcock "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "栓",
+                    "せん"
+                ],
+                [
+                    "抜",
+                    "ぬ"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bottle opener; corkscrew "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bottle opener A bottle opener is a device that enables the removal of m... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "栓抜 【せんぬき】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bottle opener; corkscrew "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bottle opener A bottle opener is a device that enables the removal of m... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "栓抜 【せんぬき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "栓",
+                    "せん"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "木",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. castor aralia (Kalopanax septemlobus); prickly castor oil tree Usually written using kana alone, See also 針桐"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "栓木 【せんのき】、センノキ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "栓",
+                    "せん"
+                ],
+                [
+                    "子",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. embolus Medicine"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "栓",
+                    "せん"
+                ],
+                [
+                    "塞",
+                    "そく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. embolus Medicine, See also 塞栓"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "栓",
+                    "せん"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "抜",
+                    "ぬ"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ku' ending",
+                    "meaning": "1. to uncork a bottle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "栓山",
+                "くぎやま"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kugiyama "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "栓沢",
+                "せんのきさわ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Sennokisawa "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Sennokizawa "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "元",
+                    "もと"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stopcock (gas, water); main valve; main tap; stop tap "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "血",
+                    "けっ"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. thrombus; blood clot "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Thrombus A thrombus, or blood clot, is the final product of the bl... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "脳",
+                    "のう"
+                ],
+                [
+                    "血",
+                    "けっ"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cerebral thrombosis "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "火",
+                    "か"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fire hydrant "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fire hydrant A fire hydrant (also known colloquially as a fire plug in... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "脂",
+                    "し"
+                ],
+                [
+                    "肪",
+                    "ぼう"
+                ],
+                [
+                    "塞",
+                    "そく"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fat embolism "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fat embolism A fat embolism is a type of embolism that is often caused... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "血",
+                    "けっ"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. thrombosis "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Thrombosis Thrombosis is the formation of a blood clot inside a bloo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "角",
+                    "かく"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. blackhead Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Blackhead A blackhead (medically known as an open comedo, plural co... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "塞",
+                    "そく"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. embolus; abnormal substance (i.e. air) circulating in the blood "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Embolism In medicine, an embolism (plural embolisms; from the Gree... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "耳",
+                    "みみ"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. earplug (for protection against noise or water) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Earplug An earplug is a device that is meant to be inserted in th... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "自",
+                    "じ"
+                ],
+                [
+                    "動",
+                    "どう"
+                ],
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. automatic faucet; hands-free tap "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. faucet; water tap "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "道",
+                    "どう"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. water spigot; tap "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "共",
+                    "とも"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stopper "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "びん"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bottle stopper "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "接",
+                    "せっ"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. connector; plug "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "音",
+                    "おん"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. organ stop "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "共",
+                    "きょう"
+                ],
+                [
+                    "同",
+                    "どう"
+                ],
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. common faucet "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "点",
+                    "てん"
+                ],
+                [
+                    "火",
+                    "か"
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spark plug "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

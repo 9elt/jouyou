@@ -1,0 +1,1546 @@
+{
+    "kanji": "巻",
+    "grade": 6,
+    "jlpt": 2,
+    "meanings": [
+        "scroll",
+        "volume",
+        "book",
+        "part",
+        "roll up",
+        "wind up",
+        "tie",
+        "coil",
+        "counter for texts (or book scrolls)"
+    ],
+    "kun": [
+        "ま.く",
+        "まき",
+        "ま.き"
+    ],
+    "on": [
+        "カン",
+        "ケン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.27541284403669725,
+            0.15440366972477063,
+            "c",
+            0.030917431192660553,
+            0.01926605504587156,
+            0.07522935779816513,
+            0.07449541284403668,
+            0.08293577981651376,
+            0.10440366972477065
+        ],
+        [
+            "M",
+            0.6676146788990825,
+            0.11825688073394496,
+            "c",
+            0.0010091743119266055,
+            0.008715596330275228,
+            0.0012844036697247708,
+            0.017706422018348624,
+            -0.003027522935779817,
+            0.025137614678899085,
+            "c",
+            -0.020091743119266054,
+            0.03431192660550459,
+            -0.054587155963302755,
+            0.08403669724770642,
+            -0.1089908256880734,
+            0.14293577981651376
+        ],
+        [
+            "M",
+            0.25688073394495414,
+            0.3430275229357798,
+            "c",
+            0.022935779816513763,
+            0.004495412844036697,
+            0.03908256880733945,
+            0.0033027522935779813,
+            0.057431192660550454,
+            0.0005504587155963302,
+            "c",
+            0.08128440366972477,
+            -0.012201834862385321,
+            0.231651376146789,
+            -0.03422018348623853,
+            0.311743119266055,
+            -0.041834862385321095,
+            "c",
+            0.020366972477064222,
+            -0.001926605504587156,
+            0.03972477064220183,
+            -0.0037614678899082566,
+            0.05972477064220183,
+            0.0011009174311926604
+        ],
+        [
+            "M",
+            0.13990825688073394,
+            0.4834862385321101,
+            "c",
+            0.02724770642201835,
+            0.009724770642201836,
+            0.06348623853211009,
+            0.006330275229357797,
+            0.0918348623853211,
+            0.0032110091743119264,
+            "c",
+            0.10825688073394496,
+            -0.012018348623853212,
+            0.3660550458715596,
+            -0.041926605504587156,
+            0.5090825688073395,
+            -0.04926605504587156,
+            "c",
+            0.03,
+            -0.001559633027522936,
+            0.059816513761467884,
+            -0.0029357798165137615,
+            0.08944954128440367,
+            0.0033944954128440367
+        ],
+        [
+            "M",
+            0.481651376146789,
+            0.0963302752293578,
+            "c",
+            0.0033944954128440367,
+            0.011467889908256881,
+            0.005688073394495413,
+            0.0218348623853211,
+            0.002660550458715596,
+            0.03642201834862385,
+            "C",
+            0.45889908256880735,
+            0.25412844036697246,
+            0.38073394495412843,
+            0.5779816513761468,
+            0.1353211009174312,
+            0.7018348623853211
+        ],
+        [
+            "M",
+            0.5,
+            0.3256880733944954,
+            "c",
+            0.06055045871559633,
+            0.0663302752293578,
+            0.19440366972477066,
+            0.2038532110091743,
+            0.26825688073394494,
+            0.27541284403669725,
+            "c",
+            0.025412844036697246,
+            0.024587155963302753,
+            0.05174311926605504,
+            0.0526605504587156,
+            0.08495412844036697,
+            0.0663302752293578
+        ],
+        [
+            "M",
+            0.3488073394495413,
+            0.6105504587155963,
+            "c",
+            0.010183486238532111,
+            0.005963302752293578,
+            0.02587155963302752,
+            0.006055045871559634,
+            0.0408256880733945,
+            0.0039449541284403665,
+            "c",
+            0.041926605504587156,
+            -0.0057798165137614675,
+            0.15055045871559633,
+            -0.025045871559633028,
+            0.18513761467889908,
+            -0.030642201834862385,
+            "c",
+            0.021743119266055048,
+            -0.0034862385321100917,
+            0.031743119266055046,
+            0.003669724770642202,
+            0.0263302752293578,
+            0.0263302752293578,
+            "c",
+            -0.003027522935779817,
+            0.01275229357798165,
+            -0.009724770642201836,
+            0.04779816513761468,
+            -0.01669724770642202,
+            0.08330275229357799
+        ],
+        [
+            "M",
+            0.328256880733945,
+            0.7210091743119267,
+            "c",
+            0.007706422018348624,
+            0.004862385321100918,
+            0.01862385321100917,
+            0.0076146788990825685,
+            0.03165137614678899,
+            0.006422018348623853,
+            "c",
+            0.0544954128440367,
+            -0.005321100917431192,
+            0.14293577981651376,
+            -0.015963302752293577,
+            0.2088073394495413,
+            -0.022293577981651377,
+            "c",
+            0.01128440366972477,
+            -0.0011009174311926604,
+            0.02073394495412844,
+            -0.002201834862385321,
+            0.031192660550458714,
+            -0.0005504587155963302
+        ],
+        [
+            "M",
+            0.3405504587155963,
+            0.7296330275229358,
+            "c",
+            0.006788990825688073,
+            0.006788990825688073,
+            0.009724770642201836,
+            0.01669724770642202,
+            0.00963302752293578,
+            0.02688073394495413,
+            "c",
+            -0.0001834862385321101,
+            0.029724770642201838,
+            0.0002752293577981651,
+            0.043119266055045874,
+            0.0002752293577981651,
+            0.07009174311926605,
+            "c",
+            0,
+            0.06559633027522936,
+            0.006146788990825688,
+            0.07724770642201835,
+            0.16073394495412843,
+            0.07724770642201835,
+            "c",
+            0.1493577981651376,
+            0,
+            0.1646788990825688,
+            -0.013944954128440367,
+            0.1646788990825688,
+            -0.08
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "巻",
+                    "まき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. roll (e.g. of cloth) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. winding (e.g. watch) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. volume (of book) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. speeding up "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. heel (of a Japanese sandal) Rare term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き 【まき】"
+                },
+                {
+                    "type": "Noun, Counter",
+                    "meaning": "1. volume (of book); reel (of film) "
+                },
+                {
+                    "type": "Noun, Counter",
+                    "meaning": "2. scroll (of books or paintings); roll (paper, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. roll (e.g. of cloth) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. winding (e.g. watch) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. volume (of book) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. speeding up "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. heel (of a Japanese sandal) Rare term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き 【まき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to wind; to coil; to roll; to wear (e.g. turban, scarf) "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "2. to envelope; to shroud usu. 巻かれる"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "3. to outflank; to skirt "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "4. to link (verse) See also 付合 つけあい"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "5. to move ahead (three hours, etc.); to move up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "捲く 【まく】"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to wind; to coil; to roll; to wear (e.g. turban, scarf) "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "2. to envelope; to shroud usu. 巻かれる"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "3. to outflank; to skirt "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "4. to link (verse) See also 付合 つけあい"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "5. to move ahead (three hours, etc.); to move up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "捲く 【まく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "まき"
+                ],
+                [
+                    "物",
+                    "もの"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. makimono; handscroll; rolled book "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. roll of cloth (for making a kimono) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. scarf; stole usu. written as 巻きもの"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. makizushi; rolled sushi Food, cooking, See also 巻き寿司, usu. written as 巻きもの"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Makimono A Makimono is a Japanese hand scroll, an ink-and-brush pa... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き物 【まきもの】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. makimono; handscroll; rolled book "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. roll of cloth (for making a kimono) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. scarf; stole usu. written as 巻きもの"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. makizushi; rolled sushi Food, cooking, See also 巻き寿司, usu. written as 巻きもの"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Makimono A Makimono is a Japanese hand scroll, an ink-and-brush pa... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き物 【まきもの】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to roll up; to enfold; to swallow up ボートは急流に巻き込まれた。The boat was sucked in."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to involve; to drag into 交通渋滞に巻き込まれたんだ。I was caught in a traffic jam."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "捲き込む 【まきこむ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "捲き込む: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to roll up; to enfold; to swallow up ボートは急流に巻き込まれた。The boat was sucked in."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to involve; to drag into 交通渋滞に巻き込まれたんだ。I was caught in a traffic jam."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "捲き込む 【まきこむ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "捲き込む: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ボート",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "急流",
+                            "きゅうりゅう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "巻き込まれた",
+                            "まきこ"
+                        ]
+                    ],
+                    "translation": "The boat was sucked in."
+                },
+                {
+                    "sentence": [
+                        [
+                            "交通渋滞",
+                            "こうつうじゅうたい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "巻き込まれたんだ",
+                            "まきこ"
+                        ]
+                    ],
+                    "translation": "I was caught in a traffic jam."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "かん"
+                ],
+                [
+                    "末",
+                    "まつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. end of a book "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. end of a book "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "添",
+                    "ぞ"
+                ],
+                [
+                    "え",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. getting mixed up in; getting embroiled in; involvement; entanglement; by-blow See also 巻き添えを食う"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻添え 【まきぞえ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. getting mixed up in; getting embroiled in; involvement; entanglement; by-blow See also 巻き添えを食う"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻添え 【まきぞえ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "起",
+                    "お"
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to create (a sensation); to cause (a commotion); to give rise to (controversy) 彼の大胆な計画は大きな論争を巻き起こした。His bold plan gave rise to much controversy."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to raise (a cloud of dust); to kick up (dust) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "捲き起こす 【まきおこす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "捲き起こす: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to create (a sensation); to cause (a commotion); to give rise to (controversy) 彼の大胆な計画は大きな論争を巻き起こした。His bold plan gave rise to much controversy."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to raise (a cloud of dust); to kick up (dust) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "捲き起こす 【まきおこす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "捲き起こす: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "大胆な",
+                            "だいたん"
+                        ],
+                        [
+                            "計画",
+                            "けいかく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "大きな",
+                            "おお"
+                        ],
+                        [
+                            "論争",
+                            "ろんそう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "巻き起こした",
+                            "まきお"
+                        ]
+                    ],
+                    "translation": "His bold plan gave rise to much controversy."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to roll up; to hoist; to heave up "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to take away; to rip off (e.g. money from someone) トムは時々、彼のお客をだましてお金をまきあげる。Tom sometimes rips off his customers."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to blow up (dust) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き揚げる 【まきあげる】、捲き上げる 【まきあげる】、巻上げる 【まきあげる】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to roll up; to hoist; to heave up "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to take away; to rip off (e.g. money from someone) トムは時々、彼のお客をだましてお金をまきあげる。Tom sometimes rips off his customers."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to blow up (dust) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き揚げる 【まきあげる】、捲き上げる 【まきあげる】、巻上げる 【まきあげる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "時々",
+                            "ときどき"
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "客",
+                            "きゃく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "だまして",
+                            null
+                        ],
+                        [
+                            "お金",
+                            "おかね"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "まきあげる",
+                            null
+                        ]
+                    ],
+                    "translation": "Tom sometimes rips off his customers."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "髪",
+                    "がみ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. curly hair; curled hair "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻髪 【まきがみ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. curly hair; curled hair "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻髪 【まきがみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to wind around; to wrap around; to coil around "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き付ける 【まきつける】、巻付ける 【まきつける】、巻つける 【まきつける】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to wind around; to wrap around; to coil around "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き付ける 【まきつける】、巻付ける 【まきつける】、巻つける 【まきつける】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "返",
+                    "かえ"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rally; recovery; comeback; rollback "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. winding (thread, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Rollback In political science, rollback is the strategy of forcing... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻返し 【まきかえし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "まき"
+                ],
+                [
+                    "尺",
+                    "じゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tape measure "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き尺 【まきじゃく】、巻きじゃく 【まきじゃく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "貝",
+                    "がい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. snail; spiral shell "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻貝 【まきがい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "まき"
+                ],
+                [
+                    "紙",
+                    "がみ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rolled letter paper "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. roll of paper "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き紙 【まきがみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "網",
+                    "あみ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. purse seine; round haul net Fishing"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き網 【まきあみ】、巻網 【まきあみ】、旋網 【まきあみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "かん"
+                ],
+                [
+                    "頭",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. beginning (of a book, magazine, etc.); opening page "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. beginning (of a matter); start "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "タ",
+                    null
+                ],
+                [
+                    "バ",
+                    null
+                ],
+                [
+                    "コ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cigarette; cigar "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻タバコ 【まきタバコ】、巻き煙草 【まきたばこ】、巻煙草 【まきたばこ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "けん"
+                ],
+                [
+                    "雲",
+                    "うん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cirrus (cloud) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cirrus cloud Cirrus clouds are a genus of atmospheric clouds generally... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "絹雲 【けんうん】、巻雲 【まきぐも】、巻き雲 【まきぐも】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巻",
+                    "まき"
+                ],
+                [
+                    "藁",
+                    "わら"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. straw post for training sword strikes, karate punches and arrow hits "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Makiwara The makiwara is a padded striking post used as a training... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "巻き藁 【まきわら】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "巻",
+                "かん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kan "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "巻",
+                "まき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place, Family or surname, Female given name",
+                    "meaning": "1. Maki "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Makigahana "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to surround; to encircle; to enclose "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取巻く 【とりまく】、取りまく 【とりまく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渦",
+                    "うず"
+                ],
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. whirlpool; maelstrom; vortex; eddy; swirl "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. spiral (shape, pattern) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Spiral In mathematics, a spiral is a curve which emanates from a... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "渦巻 【うずまき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "竜",
+                    "たつ"
+                ],
+                [
+                    "巻",
+                    "まき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tornado; whirlwind; waterspout; twister "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Tatsumaki "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Tornado A tornado is a violently rotating column of air that is i... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "龍巻 【たつまき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "龍巻: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "葉",
+                    "は"
+                ],
+                [
+                    "巻",
+                    "まき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cigar See also 葉巻きタバコ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "葉巻き 【はまき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. followers; hangers-on "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取巻き 【とりまき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渦",
+                    "うず"
+                ],
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "1. to whirl; to eddy; to swirl; to curl (smoke) "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "2. to be all jumbled together (feelings, thoughts, etc.) "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "3. to surge; to sweep "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "うず巻く 【うずまく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "息",
+                    "いき"
+                ],
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "1. to rage; to storm (at); to be furious かんかんになって息巻いている。He is fuming that they will be sorry for it some day."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "2. to enthuse; to speak enthusiastically; to speak with vigour; to get worked up "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "かんかん",
+                            null
+                        ],
+                        [
+                            "になって",
+                            null
+                        ],
+                        [
+                            "息巻いている",
+                            "いきま"
+                        ]
+                    ],
+                    "translation": "He is fuming that they will be sorry for it some day."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "巻",
+                    "ま"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. nightclothes; nightwear; sleepwear; pyjamas; pajamas; nightgown; nightdress "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝間着 【ねまき】、寝巻 【ねまき】、寝衣 【ねまき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "寝衣: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "鉢",
+                    "はち"
+                ],
+                [
+                    "巻",
+                    "まき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. headband Usually written using kana alone"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Hachimaki "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Hachimaki A hachimaki (鉢巻) is a stylized headband in Japanese cultu... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "鉢巻き 【はちまき】、ハチマキ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "第",
+                    "だい"
+                ],
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "巻",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. volume 1; first volume "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

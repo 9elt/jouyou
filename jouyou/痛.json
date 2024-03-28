@@ -1,0 +1,1455 @@
+{
+    "kanji": "痛",
+    "grade": 6,
+    "jlpt": 3,
+    "meanings": [
+        "pain",
+        "hurt",
+        "damage",
+        "bruise"
+    ],
+    "kun": [
+        "いた.い",
+        "いた.む",
+        "いた.ましい",
+        "いた.める"
+    ],
+    "on": [
+        "ツウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.5051376146788991,
+            0.10440366972477065,
+            "c",
+            0.008899082568807339,
+            0.008899082568807339,
+            0.011559633027522935,
+            0.02284403669724771,
+            0.011559633027522935,
+            0.03577981651376147,
+            "c",
+            0,
+            0.007247706422018349,
+            -0.0006422018348623854,
+            0.04211009174311926,
+            -0.0006422018348623854,
+            0.06844036697247706
+        ],
+        [
+            "M",
+            0.23972477064220182,
+            0.23605504587155965,
+            "c",
+            0.02522935779816514,
+            0.005963302752293578,
+            0.0544954128440367,
+            0.0057798165137614675,
+            0.08018348623853211,
+            0.0032110091743119264,
+            "c",
+            0.1444954128440367,
+            -0.014495412844036697,
+            0.3154128440366973,
+            -0.03394495412844037,
+            0.44036697247706424,
+            -0.043486238532110096,
+            "c",
+            0.02532110091743119,
+            -0.001926605504587156,
+            0.050733944954128446,
+            -0.0032110091743119264,
+            0.07568807339449542,
+            0.0021100917431192663
+        ],
+        [
+            "M",
+            0.26825688073394494,
+            0.24541284403669725,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.013119266055045872,
+            0.01944954128440367,
+            0.01293577981651376,
+            0.03330275229357798,
+            "c",
+            -0.0014678899082568807,
+            0.15357798165137612,
+            0.01,
+            0.43568807339449545,
+            -0.12935779816513762,
+            0.5742201834862386
+        ],
+        [
+            "M",
+            0.13302752293577982,
+            0.3532110091743119,
+            "c",
+            0.025137614678899085,
+            0.0181651376146789,
+            0.06192660550458716,
+            0.06880733944954129,
+            0.07110091743119266,
+            0.10321100917431193
+        ],
+        [
+            "M",
+            0.10825688073394496,
+            0.6190825688073395,
+            "c",
+            0.011009174311926604,
+            0.007064220183486239,
+            0.02348623853211009,
+            0.004495412844036697,
+            0.034403669724770644,
+            -0.0037614678899082566,
+            "c",
+            0.038073394495412846,
+            -0.028715596330275227,
+            0.05495412844036698,
+            -0.04504587155963303,
+            0.09816513761467889,
+            -0.08321100917431193
+        ],
+        [
+            "M",
+            0.39559633027522934,
+            0.32706422018348624,
+            "c",
+            0.017064220183486238,
+            0.006605504587155963,
+            0.035321100917431195,
+            0.005412844036697248,
+            0.052935779816513755,
+            0.0028440366972477065,
+            "c",
+            0.05064220183486238,
+            -0.0074311926605504595,
+            0.19477064220183488,
+            -0.03055045871559633,
+            0.2529357798165138,
+            -0.03935779816513762,
+            "c",
+            0.027798165137614676,
+            -0.004220183486238533,
+            0.03596330275229358,
+            0.013577981651376147,
+            0.017798165137614678,
+            0.030091743119266053,
+            "c",
+            -0.009908256880733945,
+            0.008990825688073394,
+            -0.0873394495412844,
+            0.07724770642201835,
+            -0.12321100917431192,
+            0.10706422018348624
+        ],
+        [
+            "M",
+            0.5194495412844037,
+            0.3853211009174312,
+            "c",
+            0.02256880733944954,
+            0.00926605504587156,
+            0.0808256880733945,
+            0.044862385321100914,
+            0.09146788990825688,
+            0.0689908256880734
+        ],
+        [
+            "M",
+            0.40082568807339447,
+            0.48935779816513764,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.010275229357798166,
+            0.01862385321100917,
+            0.010275229357798166,
+            0.030917431192660553,
+            "c",
+            0,
+            0.020275229357798165,
+            -0.0003669724770642202,
+            0.21128440366972479,
+            -0.0005504587155963302,
+            0.3145871559633027,
+            "c",
+            0,
+            0.02669724770642202,
+            -0.00009174311926605505,
+            0.04752293577981651,
+            -0.00009174311926605505,
+            0.05807339449541284
+        ],
+        [
+            "M",
+            0.4191743119266055,
+            0.5007339449541284,
+            "c",
+            0.0510091743119266,
+            -0.004403669724770642,
+            0.25972477064220184,
+            -0.03357798165137615,
+            0.31972477064220184,
+            -0.04137614678899083,
+            "c",
+            0.030091743119266053,
+            -0.0039449541284403665,
+            0.04862385321100917,
+            0.0074311926605504595,
+            0.04862385321100917,
+            0.036146788990825685,
+            "c",
+            0,
+            0.04862385321100917,
+            -0.001834862385321101,
+            0.2444954128440367,
+            -0.001834862385321101,
+            0.33669724770642206,
+            "c",
+            0,
+            0.096697247706422,
+            -0.05376146788990826,
+            0.013669724770642202,
+            -0.06467889908256881,
+            0.009816513761467891
+        ],
+        [
+            "M",
+            0.4191743119266055,
+            0.6137614678899083,
+            "c",
+            0.08880733944954128,
+            -0.010550458715596329,
+            0.2585321100917431,
+            -0.03238532110091743,
+            0.3596330275229358,
+            -0.0363302752293578
+        ],
+        [
+            "M",
+            0.4189908256880734,
+            0.7359633027522936,
+            "c",
+            0.05504587155963303,
+            -0.006513761467889908,
+            0.2713761467889908,
+            -0.03293577981651376,
+            0.3577064220183486,
+            -0.035871559633027524
+        ],
+        [
+            "M",
+            0.5789908256880734,
+            0.5061467889908257,
+            "c",
+            0.008440366972477065,
+            0.008440366972477065,
+            0.01,
+            0.02018348623853211,
+            0.01,
+            0.03155963302752293,
+            "c",
+            0,
+            0.05,
+            -0.0010091743119266055,
+            0.17623853211009174,
+            -0.0012844036697247708,
+            0.2879816513761468,
+            "c",
+            -0.00009174311926605505,
+            0.01926605504587156,
+            -0.00009174311926605505,
+            0.0373394495412844,
+            -0.00009174311926605505,
+            0.0536697247706422
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": null,
+                    "meaning": "1. ouch; ow; that hurt "
+                },
+                {
+                    "type": "Noun, used as a suffix, Noun",
+                    "meaning": "1. pain; ache; -algia "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pain; ache; soreness; grief; distress esp. 痛みここにしつこい痛みがあります。I have a persistent pain here."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. damage; injury; wear; bruise; break esp. 傷みモモの皮は傷みやすい。The skin of peaches bruises easily."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Pain (philosophy) Philosophy of pain may be about suffering in general or m... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷み 【いたみ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. pain; ache; soreness; grief; distress esp. 痛みここにしつこい痛みがあります。I have a persistent pain here."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. damage; injury; wear; bruise; break esp. 傷みモモの皮は傷みやすい。The skin of peaches bruises easily."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Pain (philosophy) Philosophy of pain may be about suffering in general or m... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷み 【いたみ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "しつこい",
+                            null
+                        ],
+                        [
+                            "痛み",
+                            "いた"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あります",
+                            null
+                        ]
+                    ],
+                    "translation": "I have a persistent pain here."
+                },
+                {
+                    "sentence": [
+                        [
+                            "モモ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "皮",
+                            "かわ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "傷み",
+                            null
+                        ],
+                        [
+                            "やすい",
+                            null
+                        ]
+                    ],
+                    "translation": "The skin of peaches bruises easily."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. painful; sore 噛むと痛いですか。Does it hurt when you chew?"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. cringy; embarrassing Colloquial"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "甚い 【いたい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "甚い: Rarely-used kanji form."
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Ikarimoto "
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. painful; sore 噛むと痛いですか。Does it hurt when you chew?"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. cringy; embarrassing Colloquial"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "甚い 【いたい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "甚い: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "噛む",
+                            "か"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "痛い",
+                            "いた"
+                        ],
+                        [
+                            "ですか",
+                            null
+                        ]
+                    ],
+                    "translation": "Does it hurt when you chew?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "感",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. feeling keenly; fully realizing "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. feeling keenly; fully realizing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to hurt; to ache; to feel a pain esp. 痛む彼はいま歯が痛むのでよくかむことができない。He can't chew well, because he has a toothache now."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to be injured; to be spoiled (e.g. food); to be damaged esp. 傷む傷むのを防ぐために、遠海で捕獲した魚は直ちに冷却される。To avoid spoiling, fish caught far out at sea are immediately cooled or even frozen."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷む 【いたむ】"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to hurt; to ache; to feel a pain esp. 痛む彼はいま歯が痛むのでよくかむことができない。He can't chew well, because he has a toothache now."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to be injured; to be spoiled (e.g. food); to be damaged esp. 傷む傷むのを防ぐために、遠海で捕獲した魚は直ちに冷却される。To avoid spoiling, fish caught far out at sea are immediately cooled or even frozen."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷む 【いたむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いま",
+                            null
+                        ],
+                        [
+                            "歯",
+                            "は"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "痛む",
+                            "いた"
+                        ],
+                        [
+                            "ので",
+                            null
+                        ],
+                        [
+                            "よく",
+                            null
+                        ],
+                        [
+                            "かむ",
+                            null
+                        ],
+                        [
+                            "ことができない",
+                            null
+                        ]
+                    ],
+                    "translation": "He can't chew well, because he has a toothache now."
+                },
+                {
+                    "sentence": [
+                        [
+                            "傷む",
+                            "いた"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "防ぐ",
+                            "ふせ"
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "遠海",
+                            "えんかい"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "捕獲",
+                            "ほかく"
+                        ],
+                        [
+                            "した",
+                            null
+                        ],
+                        [
+                            "魚",
+                            "さかな"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "直ちに",
+                            "ただ"
+                        ],
+                        [
+                            "冷却",
+                            "れいきゃく"
+                        ],
+                        [
+                            "される",
+                            null
+                        ]
+                    ],
+                    "translation": "To avoid spoiling, fish caught far out at sea are immediately cooled or even frozen."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to hurt; to injure; to cause pain usu. 痛める"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to harm; to damage; to spoil usu. 傷める"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to worry; to bother; to be grieved over; to afflict usu. 痛める"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to cause financial loss; to hurt one's pocket usu. 痛める"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷める 【いためる】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to hurt; to injure; to cause pain usu. 痛める"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to harm; to damage; to spoil usu. 傷める"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to worry; to bother; to be grieved over; to afflict usu. 痛める"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to cause financial loss; to hurt one's pocket usu. 痛める"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷める 【いためる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "切",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. keen; acute; heartfelt "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. keen; acute; heartfelt "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "風",
+                    "ふう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. gout "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gout Gout (also known as podagra when it involves the big toe)... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. gout "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gout Gout (also known as podagra when it involves the big toe)... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ],
+                [
+                    "手",
+                    "で"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. serious wound "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. hard blow 彼の死は我が社にとって大きな痛手であった。His death was a great loss to our firm."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷手 【いたで】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "傷手: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. serious wound "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. hard blow 彼の死は我が社にとって大きな痛手であった。His death was a great loss to our firm."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷手 【いたで】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "傷手: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "死",
+                            "し"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "我が社",
+                            null
+                        ],
+                        [
+                            "にとって",
+                            null
+                        ],
+                        [
+                            "大きな",
+                            "おお"
+                        ],
+                        [
+                            "痛手",
+                            "いたで"
+                        ],
+                        [
+                            "であった",
+                            null
+                        ]
+                    ],
+                    "translation": "His death was a great loss to our firm."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. pitiful; heartbreaking; heartrending; touching; tragic; sad; hurtful "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷ましい 【いたましい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "傷ましい: Rarely-used kanji form."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. pitiful; heartbreaking; heartrending; touching; tragic; sad; hurtful "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷ましい 【いたましい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "傷ましい: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "目",
+                    "め"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. painful experience "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "止",
+                    "ど"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. painkiller "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be greatly obliged; to be very sorry "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "傷み入る 【いたみいる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "傷み入る: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. severe attack; hard blow "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "いた"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. extremely; exceedingly; deeply Usually written using kana alone私は彼のスピーチにいたく感動した。I was deeply impressed by his speech."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. painfully Only applies to 痛く"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "甚く 【いたく】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "スピーチ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "いたく",
+                            null
+                        ],
+                        [
+                            "感動",
+                            "かんどう"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "I was deeply impressed by his speech."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "恨",
+                    "こん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. deep regret; great sorrow; bitter grief "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "烈",
+                    "れつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. severe; bitter; scathing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "打",
+                    "だ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. hard blow; crushing blow; severe attack "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "惜",
+                    "せき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. deep regret "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "頭",
+                    "ず"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. headache "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Headache A headache or cephalalgia is pain anywhere in the region ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "苦",
+                    "く"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pain; agony; suffering; distress; torment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "腰",
+                    "よう"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lower back pain; lumbago "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Low back pain Low back pain or lumbago is a common musculoskeletal diso... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "鎮",
+                    "ちん"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. analgesic; painkiller; sedative; tranquilizer; tranquiliser "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Analgesic An analgesic (also known as a painkiller) is any member o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "神",
+                    "しん"
+                ],
+                [
+                    "経",
+                    "けい"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. nerve pain; neuralgia "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Neuralgia Neuralgia is pain in one or more nerves that occurs witho... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陣",
+                    "じん"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. labour pains; labor pains; birth pains; contractions "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "歯",
+                    "し"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. toothache "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "歯痛 【はいた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "激",
+                    "げき"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sharp pain; acute pain; intense pain "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "劇痛 【げきつう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "劇痛: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "胃",
+                    "い"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stomach-ache; stomach pain; gastralgia "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "腹",
+                    "ふく"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stomach ache; abdominal pain "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Abdominal pain Abdominal pain (or stomach ache) can be one of the sympto... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "腹痛 【はらいた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "偏",
+                    "へん"
+                ],
+                [
+                    "頭",
+                    "ず"
+                ],
+                [
+                    "痛",
+                    "つう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. migraine "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Migraine Migraine is a chronic disorder characterized by moderate ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "偏頭痛 【へんとうつう】、片頭痛 【へんずつう】、片頭痛 【へんとうつう】、片頭痛 【かたずつう】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1003 @@
+{
+    "kanji": "臆",
+    "grade": 10,
+    "jlpt": null,
+    "meanings": [
+        "timidity",
+        "heart",
+        "mind",
+        "fear",
+        "cowardly"
+    ],
+    "kun": [
+        "むね",
+        "おくする"
+    ],
+    "on": [
+        "オク",
+        "ヨク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.17055045871559632,
+            0.18155963302752293,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.00908256880733945,
+            0.017798165137614678,
+            0.009174311926605505,
+            0.026788990825688072,
+            "c",
+            0.0025688073394495416,
+            0.24009174311926607,
+            0.010642201834862385,
+            0.4911926605504587,
+            -0.08798165137614679,
+            0.661743119266055
+        ],
+        [
+            "M",
+            0.18660550458715597,
+            0.2010091743119266,
+            "c",
+            0.05192660550458716,
+            -0.011834862385321101,
+            0.08174311926605504,
+            -0.01871559633027523,
+            0.11788990825688073,
+            -0.02348623853211009,
+            "c",
+            0.024403669724770642,
+            -0.0033027522935779813,
+            0.030642201834862385,
+            0.005963302752293578,
+            0.030642201834862385,
+            0.025412844036697246,
+            "c",
+            0,
+            0.030825688073394496,
+            0,
+            0.41825688073394496,
+            0,
+            0.593302752293578,
+            "c",
+            0,
+            0.12036697247706421,
+            -0.05174311926605504,
+            0.03394495412844037,
+            -0.06743119266055045,
+            0.01944954128440367
+        ],
+        [
+            "M",
+            0.18660550458715597,
+            0.38137614678899084,
+            "c",
+            0.05302752293577982,
+            -0.009816513761467891,
+            0.08596330275229357,
+            -0.014862385321100919,
+            0.13678899082568807,
+            -0.018990825688073393
+        ],
+        [
+            "M",
+            0.18385321100917432,
+            0.5551376146788991,
+            "c",
+            0.04779816513761468,
+            -0.005871559633027523,
+            0.09137614678899084,
+            -0.010458715596330274,
+            0.14706422018348625,
+            -0.016238532110091745
+        ],
+        [
+            "M",
+            0.5834862385321101,
+            0.12798165137614678,
+            "c",
+            0.009541284403669725,
+            0.009541284403669725,
+            0.014036697247706422,
+            0.022293577981651377,
+            0.014036697247706422,
+            0.032018348623853214,
+            "c",
+            0,
+            0.03495412844036697,
+            -0.00009174311926605505,
+            0.03596330275229358,
+            -0.00009174311926605505,
+            0.06587155963302752
+        ],
+        [
+            "M",
+            0.4396330275229358,
+            0.25211009174311927,
+            "c",
+            0.018807339449541282,
+            0.0014678899082568807,
+            0.03743119266055046,
+            0.00045871559633027525,
+            0.055963302752293574,
+            -0.003027522935779817,
+            "c",
+            0.06165137614678899,
+            -0.007889908256880733,
+            0.1626605504587156,
+            -0.02311926605504587,
+            0.22688073394495414,
+            -0.031376146788990825,
+            "c",
+            0.020366972477064222,
+            -0.002660550458715596,
+            0.03972477064220183,
+            -0.004220183486238533,
+            0.06,
+            -0.0003669724770642202
+        ],
+        [
+            "M",
+            0.4954128440366973,
+            0.28550458715596333,
+            "c",
+            0.030458715596330274,
+            0.02669724770642202,
+            0.04256880733944954,
+            0.053577981651376144,
+            0.04697247706422018,
+            0.07339449541284404
+        ],
+        [
+            "M",
+            0.6972477064220184,
+            0.2545871559633027,
+            "c",
+            0.001559633027522936,
+            0.010550458715596329,
+            0,
+            0.01724770642201835,
+            -0.0028440366972477065,
+            0.02532110091743119,
+            "c",
+            -0.010458715596330274,
+            0.03,
+            -0.024954128440366975,
+            0.05788990825688073,
+            -0.03504587155963303,
+            0.07440366972477064
+        ],
+        [
+            "M",
+            0.39302752293577986,
+            0.40761467889908254,
+            "c",
+            0.02522935779816514,
+            0.002752293577981651,
+            0.05018348623853211,
+            0.0013761467889908255,
+            0.07495412844036697,
+            -0.0039449541284403665,
+            "c",
+            0.11495412844036697,
+            -0.01651376146788991,
+            0.22027522935779817,
+            -0.035229357798165134,
+            0.3256880733944954,
+            -0.04697247706422018,
+            "c",
+            0.025045871559633028,
+            -0.0034862385321100917,
+            0.050091743119266056,
+            -0.0047706422018348625,
+            0.07541284403669725,
+            -0.003669724770642202
+        ],
+        [
+            "M",
+            0.46376146788990824,
+            0.4840366972477064,
+            "c",
+            0.006605504587155963,
+            0.006605504587155963,
+            0.00926605504587156,
+            0.021192660550458715,
+            0.010275229357798166,
+            0.02724770642201835,
+            "c",
+            0.004495412844036697,
+            0.027339449541284404,
+            0.015596330275229357,
+            0.09568807339449541,
+            0.02192660550458716,
+            0.13559633027522935,
+            "c",
+            0.0029357798165137615,
+            0.015779816513761466,
+            0.005045871559633028,
+            0.03165137614678899,
+            0.006238532110091744,
+            0.04761467889908257
+        ],
+        [
+            "M",
+            0.48018348623853213,
+            0.49403669724770644,
+            "c",
+            0.021192660550458715,
+            -0.003669724770642202,
+            0.2101834862385321,
+            -0.035321100917431195,
+            0.24614678899082568,
+            -0.04036697247706422,
+            "c",
+            0.02908256880733945,
+            -0.004036697247706422,
+            0.0408256880733945,
+            0.011743119266055046,
+            0.03715596330275229,
+            0.03834862385321101,
+            "c",
+            -0.004220183486238533,
+            0.031009174311926603,
+            -0.01128440366972477,
+            0.08055045871559632,
+            -0.01926605504587156,
+            0.12513761467889908,
+            "c",
+            -0.002752293577981651,
+            0.015688073394495412,
+            -0.005688073394495413,
+            0.030642201834862385,
+            -0.008623853211009174,
+            0.04403669724770642
+        ],
+        [
+            "M",
+            0.4952293577981651,
+            0.5797247706422018,
+            "c",
+            0.028623853211009177,
+            -0.004036697247706422,
+            0.22174311926605506,
+            -0.03220183486238532,
+            0.25412844036697246,
+            -0.03669724770642202
+        ],
+        [
+            "M",
+            0.5114678899082569,
+            0.6658715596330275,
+            "c",
+            0.04229357798165138,
+            -0.005963302752293578,
+            0.1643119266055046,
+            -0.019357798165137614,
+            0.2189908256880734,
+            -0.026972477064220183
+        ],
+        [
+            "M",
+            0.4395412844036697,
+            0.7645871559633027,
+            "c",
+            0.0021100917431192663,
+            0.014587155963302753,
+            -0.020550458715596333,
+            0.08247706422018349,
+            -0.03724770642201834,
+            0.1089908256880734
+        ],
+        [
+            "M",
+            0.5130275229357798,
+            0.7505504587155963,
+            "c",
+            0.06495412844036698,
+            0.09577981651376147,
+            0.11559633027522935,
+            0.12568807339449542,
+            0.27577981651376143,
+            0.1326605504587156,
+            "c",
+            0.09440366972477063,
+            0.004128440366972477,
+            0.0873394495412844,
+            -0.02311926605504587,
+            0.012018348623853212,
+            -0.06779816513761468
+        ],
+        [
+            "M",
+            0.6502752293577981,
+            0.7259633027522935,
+            "c",
+            0.021743119266055048,
+            0.040091743119266054,
+            0.04688073394495413,
+            0.04440366972477064,
+            0.05311926605504587,
+            0.016972477064220184
+        ],
+        [
+            "M",
+            0.8285321100917431,
+            0.6834862385321101,
+            "c",
+            0.03220183486238532,
+            0.014770642201834864,
+            0.05513761467889908,
+            0.03605504587155964,
+            0.08275229357798165,
+            0.08174311926605504
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "病",
+                    "びょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. cowardly; timid; easily frightened "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "憶病 【おくびょう】、おく病 【おくびょう】"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. cowardly; timid; easily frightened "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "憶病 【おくびょう】、おく病 【おくびょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "病",
+                    "びょう"
+                ],
+                [
+                    "者",
+                    "もの"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coward; wimp "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. coward; wimp "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "面",
+                    "めん"
+                ],
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. brazenly; shamelessly; unashamedly; unabashedly; impudently; audaciously "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆面も無く 【おくめんもなく】"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. brazenly; shamelessly; unashamedly; unabashedly; impudently; audaciously "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆面も無く 【おくめんもなく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suru verb - special class, Intransitive verb",
+                    "meaning": "1. to be hesitant; to feel timid "
+                },
+                {
+                    "type": "Suru verb - special class, Intransitive verb",
+                    "meaning": "1. to be hesitant; to feel timid "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憶",
+                    "おく"
+                ],
+                [
+                    "測",
+                    "そく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. guess; speculation; supposition "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆測 【おくそく】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. guess; speculation; supposition "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆測 【おくそく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憶",
+                    "おく"
+                ],
+                [
+                    "念",
+                    "ねん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (a) thought one will never forget; something one will always remember "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆念 【おくねん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (a) thought one will never forget; something one will always remember "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆念 【おくねん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "病",
+                    "びょう"
+                ],
+                [
+                    "神",
+                    "がみ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. timidity-causing god; god of cowardice; god of panic "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. timidity-causing god; god of cowardice; god of panic "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to be hesitant; to feel timid See also 臆する"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to be hesitant; to feel timid See also 臆する"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "病",
+                    "びょう"
+                ],
+                [
+                    "風",
+                    "かぜ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. loss of nerve "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. loss of nerve "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憶",
+                    "おく"
+                ],
+                [
+                    "断",
+                    "だん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. jumping to hasty conclusions; conjecture "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆断 【おくだん】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. jumping to hasty conclusions; conjecture "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆断 【おくだん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おっけん"
+                ],
+                [
+                    "見",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conjecture "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "憶見 【おっけん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. conjecture "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "憶見 【おっけん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "憶",
+                    "おく"
+                ],
+                [
+                    "説",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hypothesis; speculation; surmise; conjecture "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆説 【おくせつ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. hypothesis; speculation; surmise; conjecture "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆説 【おくせつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "度",
+                    "たく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. guessing; speculation; supposition; hypothesis Rare term"
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. guessing; speculation; supposition; hypothesis Rare term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "面",
+                    "めん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. timid face See also 臆面もなく, usu. as 臆面もなく"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. timid face See also 臆面もなく, usu. as 臆面もなく"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "面",
+                    "めん"
+                ],
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. bold; audacious; impudent; unashamed; unabashed "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆面も無い 【おくめんもない】"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. bold; audacious; impudent; unashamed; unabashed "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "臆面も無い 【おくめんもない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "病",
+                    "びょう"
+                ],
+                [
+                    "風",
+                    "かぜ"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "吹",
+                    "ふ"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to become scared; to have an attack of nerves; to have a yellow streak; to chicken out; to run out of courage "
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to become scared; to have an attack of nerves; to have a yellow streak; to chicken out; to run out of courage "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "臆",
+                "おく"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Oku "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Okura "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Okura "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "怖",
+                    "お"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "ず",
+                    null
+                ],
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "ず",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. fearlessly "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "胸",
+                    "きょう"
+                ],
+                [
+                    "臆",
+                    "おく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's inmost thoughts (feelings) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "揣",
+                    "し"
+                ],
+                [
+                    "摩",
+                    "ま"
+                ],
+                [
+                    "臆",
+                    "おく"
+                ],
+                [
+                    "測",
+                    "そく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. conjectures and surmises; speculation; giving one's imagination full play without any ground Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "揣摩憶測 【しまおくそく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "剛",
+                    "ごう"
+                ],
+                [
+                    "臆",
+                    "おく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bravery and cowardice "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1564 @@
+{
+    "kanji": "寝",
+    "grade": 10,
+    "jlpt": 3,
+    "meanings": [
+        "lie down",
+        "sleep",
+        "rest",
+        "bed",
+        "remain unsold"
+    ],
+    "kun": [
+        "ね.る",
+        "ね.かす",
+        "い.ぬ",
+        "みたまや",
+        "や.める"
+    ],
+    "on": [
+        "シン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.464954128440367,
+            0.10321100917431193,
+            "c",
+            0.010183486238532111,
+            0.0033027522935779813,
+            0.024770642201834864,
+            0.019633027522935782,
+            0.024495412844036696,
+            0.02926605504587156,
+            "c",
+            -0.0007339449541284404,
+            0.03018348623853211,
+            -0.0007339449541284404,
+            0.044954128440366975,
+            -0.0008256880733944953,
+            0.07247706422018349
+        ],
+        [
+            "M",
+            0.23091743119266056,
+            0.2214678899082569,
+            "c",
+            0,
+            0.030825688073394496,
+            -0.024862385321100917,
+            0.11577981651376146,
+            -0.036238532110091745,
+            0.13633027522935778
+        ],
+        [
+            "M",
+            0.24293577981651376,
+            0.23577981651376145,
+            "c",
+            0.07376146788990826,
+            -0.0076146788990825685,
+            0.45330275229357797,
+            -0.04889908256880734,
+            0.5130275229357798,
+            -0.05174311926605504,
+            "c",
+            0.09348623853211009,
+            -0.0045871559633027525,
+            0.01981651376146789,
+            0.0555045871559633,
+            -0.0034862385321100917,
+            0.07192660550458715
+        ],
+        [
+            "M",
+            0.30844036697247706,
+            0.3165137614678899,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.01110091743119266,
+            0.020642201834862386,
+            0.01110091743119266,
+            0.03669724770642202,
+            "c",
+            0,
+            0.006055045871559634,
+            0.0003669724770642202,
+            0.3405504587155963,
+            0.0003669724770642202,
+            0.4873394495412844,
+            "c",
+            0,
+            0.03954128440366972,
+            0,
+            0.06541284403669724,
+            -0.00009174311926605505,
+            0.06770642201834862
+        ],
+        [
+            "M",
+            0.1743119266055046,
+            0.4380733944954128,
+            "c",
+            0.027522935779816515,
+            0.016605504587155963,
+            0.07110091743119266,
+            0.06825688073394495,
+            0.0779816513761468,
+            0.09403669724770643
+        ],
+        [
+            "M",
+            0.14908256880733944,
+            0.7344036697247707,
+            "c",
+            0.012660550458715595,
+            0.005321100917431192,
+            0.0255045871559633,
+            0.0017431192660550458,
+            0.03688073394495413,
+            -0.006972477064220183,
+            "c",
+            0.03302752293577982,
+            -0.02568807339449541,
+            0.06614678899082568,
+            -0.05706422018348624,
+            0.0961467889908257,
+            -0.08972477064220183
+        ],
+        [
+            "M",
+            0.46174311926605505,
+            0.31027522935779817,
+            "c",
+            0.014770642201834864,
+            0.006972477064220183,
+            0.032844036697247704,
+            0.005229357798165137,
+            0.048532110091743116,
+            0.0037614678899082566,
+            "c",
+            0.04559633027522936,
+            -0.004403669724770642,
+            0.17660550458715596,
+            -0.02018348623853211,
+            0.18541284403669725,
+            -0.0218348623853211,
+            "c",
+            0.01036697247706422,
+            -0.001834862385321101,
+            0.022110091743119266,
+            0.005412844036697248,
+            0.020825688073394497,
+            0.01853211009174312,
+            "c",
+            -0.003853211009174312,
+            0.04091743119266055,
+            -0.008532110091743119,
+            0.09027522935779816,
+            -0.012385321100917432,
+            0.1277981651376147,
+            "c",
+            -0.002018348623853211,
+            0.019633027522935782,
+            -0.003853211009174312,
+            0.03605504587155964,
+            -0.005137614678899083,
+            0.04623853211009174
+        ],
+        [
+            "M",
+            0.473302752293578,
+            0.39165137614678897,
+            "c",
+            0.01036697247706422,
+            0.005688073394495413,
+            0.031376146788990825,
+            0.006055045871559634,
+            0.0426605504587156,
+            0.005045871559633028,
+            "c",
+            0.06761467889908257,
+            -0.006055045871559634,
+            0.1111926605504587,
+            -0.010183486238532111,
+            0.1908256880733945,
+            -0.01871559633027523
+        ],
+        [
+            "M",
+            0.47036697247706427,
+            0.4812844036697248,
+            "c",
+            0.013577981651376147,
+            0.006055045871559634,
+            0.030825688073394496,
+            0.006146788990825688,
+            0.04458715596330275,
+            0.004862385321100918,
+            "c",
+            0.0653211009174312,
+            -0.006146788990825688,
+            0.09862385321100918,
+            -0.01165137614678899,
+            0.17752293577981654,
+            -0.02018348623853211
+        ],
+        [
+            "M",
+            0.41853211009174307,
+            0.5527522935779816,
+            "c",
+            -0.0009174311926605505,
+            0.030825688073394496,
+            -0.014495412844036697,
+            0.09477064220183486,
+            -0.022293577981651377,
+            0.11311926605504587
+        ],
+        [
+            "M",
+            0.4256880733944954,
+            0.5745871559633028,
+            "c",
+            0.1201834862385321,
+            -0.018440366972477064,
+            0.23256880733944957,
+            -0.03330275229357798,
+            0.3432110091743119,
+            -0.04036697247706422,
+            "c",
+            0.09844036697247707,
+            -0.006238532110091744,
+            0.014220183486238533,
+            0.05495412844036698,
+            0.005045871559633028,
+            0.0636697247706422
+        ],
+        [
+            "M",
+            0.4745871559633027,
+            0.6622935779816513,
+            "c",
+            0.01036697247706422,
+            0.0017431192660550458,
+            0.011743119266055046,
+            0.004495412844036697,
+            0.03247706422018349,
+            0.0017431192660550458,
+            "c",
+            0.018256880733944953,
+            -0.0023853211009174312,
+            0.12513761467889908,
+            -0.023944954128440367,
+            0.16045871559633026,
+            -0.03036697247706422,
+            "c",
+            0.02256880733944954,
+            -0.004128440366972477,
+            0.03715596330275229,
+            0.006697247706422018,
+            0.024495412844036696,
+            0.029541284403669727,
+            "C",
+            0.630183486238532,
+            0.7745871559633029,
+            0.5249541284403669,
+            0.8564220183486237,
+            0.4111926605504587,
+            0.8990825688073395
+        ],
+        [
+            "M",
+            0.46275229357798164,
+            0.7027522935779816,
+            "c",
+            0.030642201834862385,
+            0.004220183486238533,
+            0.17311926605504588,
+            0.10339449541284404,
+            0.2884403669724771,
+            0.16073394495412843,
+            "c",
+            0.027522935779816515,
+            0.013669724770642202,
+            0.0481651376146789,
+            0.024128440366972478,
+            0.0781651376146789,
+            0.031467889908256885
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sleep "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝 【しん】、寝 【い】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "い: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Nidan verb (lower class) with 'nu' ending (archaic), Intransitive verb",
+                    "meaning": "1. to lie down; to go to bed; to go to sleep Archaic, See also 寝る"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. sleep "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝 【しん】、寝 【い】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "い: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to sleep (lying down) See also 眠る赤ん坊は１日中寝ていた。The baby was sleeping all day long."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to go to bed; to lie in bed 寝る前に歯を磨きなさい。Brush your teeth before going to bed."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to lie down 少年は春の日差しを浴びて仰向けに寝ていた。The boy lay on his back, basking in the spring sunshine."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to sleep (with someone, i.e. have intercourse) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to lie flat (e.g. of hair) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "6. to lie idle (of funds, stock, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "7. to ferment (of soy sauce, miso, etc.) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寐る 【ねる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "寐る: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to sleep (lying down) See also 眠る赤ん坊は１日中寝ていた。The baby was sleeping all day long."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to go to bed; to lie in bed 寝る前に歯を磨きなさい。Brush your teeth before going to bed."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to lie down 少年は春の日差しを浴びて仰向けに寝ていた。The boy lay on his back, basking in the spring sunshine."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to sleep (with someone, i.e. have intercourse) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to lie flat (e.g. of hair) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "6. to lie idle (of funds, stock, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "7. to ferment (of soy sauce, miso, etc.) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寐る 【ねる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "寐る: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "赤ん坊",
+                            "あかんぼう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "１日中",
+                            "いちにちじゅう"
+                        ],
+                        [
+                            "寝ていた",
+                            "ね"
+                        ]
+                    ],
+                    "translation": "The baby was sleeping all day long."
+                },
+                {
+                    "sentence": [
+                        [
+                            "寝る",
+                            "ね"
+                        ],
+                        [
+                            "前",
+                            "まえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "歯を磨き",
+                            "はをみが"
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "Brush your teeth before going to bed."
+                },
+                {
+                    "sentence": [
+                        [
+                            "少年",
+                            "しょうねん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "春",
+                            "はる"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "日差し",
+                            "ひざ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "浴びて",
+                            "あ"
+                        ],
+                        [
+                            "仰向け",
+                            "あおむ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "寝ていた",
+                            "ね"
+                        ]
+                    ],
+                    "translation": "The boy lay on his back, basking in the spring sunshine."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "坊",
+                    "ぼう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. sleeping in late; oversleeping "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. late riser; sleepyhead "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. sleeping in late; oversleeping "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. late riser; sleepyhead "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "しん"
+                ],
+                [
+                    "台",
+                    "だい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bed; couch "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝台 【ねだい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bed; couch "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝台 【ねだい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to put to bed; to let sleep 彼女は子供をそっと寝かせた。She laid the child down gently."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to lay (something) down; to put on its side 机の上に寝かせて置くと転がって落ちることがあるので、試験管立てに立てておく。If you leave them lying on the desk they may roll off, so stand them in the test-tube rack."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to let (money, goods, etc.) lie idle; to set aside unused; to let (stock) lie unsold "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to (let) ferment; to (let) age; to let (dough) rise; to lay down (wine) ブランデーを、カシのたるにねかせる。Age brandy in oak casks."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to put to bed; to let sleep 彼女は子供をそっと寝かせた。She laid the child down gently."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to lay (something) down; to put on its side 机の上に寝かせて置くと転がって落ちることがあるので、試験管立てに立てておく。If you leave them lying on the desk they may roll off, so stand them in the test-tube rack."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to let (money, goods, etc.) lie idle; to set aside unused; to let (stock) lie unsold "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to (let) ferment; to (let) age; to let (dough) rise; to lay down (wine) ブランデーを、カシのたるにねかせる。Age brandy in oak casks."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "子供",
+                            "こども"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "そっと",
+                            null
+                        ],
+                        [
+                            "寝かせた",
+                            "ね"
+                        ]
+                    ],
+                    "translation": "She laid the child down gently."
+                },
+                {
+                    "sentence": [
+                        [
+                            "机",
+                            "つくえ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "上",
+                            "うえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "寝かせて",
+                            "ね"
+                        ],
+                        [
+                            "置く",
+                            "お"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "転がって",
+                            "ころ"
+                        ],
+                        [
+                            "落ちる",
+                            "お"
+                        ],
+                        [
+                            "ことがある",
+                            null
+                        ],
+                        [
+                            "ので",
+                            null
+                        ],
+                        [
+                            "試験管立て",
+                            "しけんかんた"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "立てて",
+                            "た"
+                        ],
+                        [
+                            "おく",
+                            null
+                        ]
+                    ],
+                    "translation": "If you leave them lying on the desk they may roll off, so stand them in the test-tube rack."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ブランデー",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "カシ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "たる",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ねかせる",
+                            null
+                        ]
+                    ],
+                    "translation": "Age brandy in oak casks."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "しん"
+                ],
+                [
+                    "室",
+                    "しつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bedroom "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bedroom A bedroom is a private room where people usually sleep fo... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bedroom "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bedroom A bedroom is a private room where people usually sleep fo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "言",
+                    "ごと"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. talking in one's sleep; somniloquy 就寝中、寝言が多いのです。I talk in my sleep very often."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. nonsense; gibberish "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Somniloquy Somniloquy or sleep-talking is a parasomnia that refers t... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. talking in one's sleep; somniloquy 就寝中、寝言が多いのです。I talk in my sleep very often."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. nonsense; gibberish "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Somniloquy Somniloquy or sleep-talking is a parasomnia that refers t... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "就寝",
+                            "しゅうしん"
+                        ],
+                        [
+                            "中",
+                            "ちゅう"
+                        ],
+                        [
+                            "寝言",
+                            "ねごと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "多い",
+                            "おお"
+                        ],
+                        [
+                            "のです",
+                            null
+                        ]
+                    ],
+                    "translation": "I talk in my sleep very often."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "しん"
+                ],
+                [
+                    "具",
+                    "ぐ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bedding; bedclothes "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bedding; bedclothes "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "1. to go to bed; to go to sleep; to fall asleep 私は１０時ごろ寝ついた。I went to sleep about 10 o'clock."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "2. to be laid up (with a cold); to be ill in bed 父はまだ病気で寝ついている。My father is still ill in bed."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝つく 【ねつく】"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "1. to go to bed; to go to sleep; to fall asleep 私は１０時ごろ寝ついた。I went to sleep about 10 o'clock."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Intransitive verb",
+                    "meaning": "2. to be laid up (with a cold); to be ill in bed 父はまだ病気で寝ついている。My father is still ill in bed."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝つく 【ねつく】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "時",
+                            "じ"
+                        ],
+                        [
+                            "ごろ",
+                            null
+                        ],
+                        [
+                            "寝ついた",
+                            "ねつ"
+                        ]
+                    ],
+                    "translation": "I went to sleep about 10 o'clock."
+                },
+                {
+                    "sentence": [
+                        [
+                            "父",
+                            "ちち"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "まだ",
+                            null
+                        ],
+                        [
+                            "病気",
+                            "びょうき"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "寝ついている",
+                            "ねつ"
+                        ]
+                    ],
+                    "translation": "My father is still ill in bed."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "過",
+                    "す"
+                ],
+                [
+                    "ご",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to oversleep "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "1. to oversleep "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "転",
+                    "ころ"
+                ],
+                [
+                    "ぶ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'bu' ending, Intransitive verb",
+                    "meaning": "1. to lie down; to throw oneself down See also 寝転がる ねころがる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝ころぶ 【ねころぶ】"
+                },
+                {
+                    "type": "Godan verb with 'bu' ending, Intransitive verb",
+                    "meaning": "1. to lie down; to throw oneself down See also 寝転がる ねころがる"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝ころぶ 【ねころぶ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "床",
+                    "どこ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bed; berth; crib; cot; kip; bedroom "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝どこ 【ねどこ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bed; berth; crib; cot; kip; bedroom "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝どこ 【ねどこ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "返",
+                    "がえ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. turning over in bed; rolling over; tossing and turning See also 寝返りを打つ彼女がベッドで寝返りばかりうっている。She is tossing and turning in bed."
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. betrayal; double-crossing こいつ、さっきまで俺の相棒だったのに、もう寝返りやがった。This rat, up until just now he was my partner and now he's gone and turned on me."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. turning over in bed; rolling over; tossing and turning See also 寝返りを打つ彼女がベッドで寝返りばかりうっている。She is tossing and turning in bed."
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. betrayal; double-crossing こいつ、さっきまで俺の相棒だったのに、もう寝返りやがった。This rat, up until just now he was my partner and now he's gone and turned on me."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ベッド",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "寝返り",
+                            "ねがえ"
+                        ],
+                        [
+                            "ばかり",
+                            null
+                        ],
+                        [
+                            "うっている",
+                            null
+                        ]
+                    ],
+                    "translation": "She is tossing and turning in bed."
+                },
+                {
+                    "sentence": [
+                        [
+                            "こいつ",
+                            null
+                        ],
+                        [
+                            "さっき",
+                            null
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "俺",
+                            "おれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "相棒",
+                            "あいぼう"
+                        ],
+                        [
+                            "だった",
+                            null
+                        ],
+                        [
+                            "のに",
+                            null
+                        ],
+                        [
+                            "もう",
+                            null
+                        ],
+                        [
+                            "寝返り",
+                            "ねがえ"
+                        ],
+                        [
+                            "やがった",
+                            null
+                        ]
+                    ],
+                    "translation": "This rat, up until just now he was my partner and now he's gone and turned on me."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "ぼ",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to be still half asleep; to be half awake; to be not yet quite awake "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝惚ける 【ねぼける】"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to be still half asleep; to be half awake; to be not yet quite awake "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝惚ける 【ねぼける】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to put to bed; to let sleep See also 寝かせる"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to lay (something) down; to put on its side "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to let (money, goods, etc.) lie idle; to set aside unused; to let (stock) lie unsold "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to (let) ferment; to (let) age; to let (dough) rise; to lay down (wine) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to put to bed; to let sleep See also 寝かせる"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to lay (something) down; to put on its side "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to let (money, goods, etc.) lie idle; to set aside unused; to let (stock) lie unsold "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to (let) ferment; to (let) age; to let (dough) rise; to lay down (wine) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "不",
+                    "ぶ"
+                ],
+                [
+                    "足",
+                    "そく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. lack of sleep; insufficient sleep "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. lack of sleep; insufficient sleep "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to fall fast asleep "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to be confined to one's bed; to be laid up "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "寝こむ 【ねこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "そ",
+                    null
+                ],
+                [
+                    "べ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to sprawl; to lie sprawled; to stretch oneself out; to lie relaxed on one's side "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "苦",
+                    "ぐる"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. unable to sleep well "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "寝入谷",
+                "ねいりだん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Neiridan "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Nejime "
+                },
+                {
+                    "type": "Male given name",
+                    "meaning": "1. Netarou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ひる"
+                ],
+                [
+                    "寝",
+                    "ね"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. (afternoon) nap; sleeping during the day; siesta "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Hirune "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Nap A nap is a short period of sleep, typically taken during ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昼寐 【ひるね】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "昼寐: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "朝",
+                    "あさ"
+                ],
+                [
+                    "寝",
+                    "ね"
+                ],
+                [
+                    "坊",
+                    "ぼう"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. sleeping late in the morning; sleeping in; lie-in; oversleeping "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. late riser; person who is bad at getting up in the morning "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "就",
+                    "しゅう"
+                ],
+                [
+                    "寝",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. going to bed; retiring (for the night) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "早",
+                    "はや"
+                ],
+                [
+                    "寝",
+                    "ね"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. go to bed early "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

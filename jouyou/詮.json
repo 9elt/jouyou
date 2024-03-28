@@ -1,0 +1,843 @@
+{
+    "kanji": "詮",
+    "grade": 10,
+    "jlpt": null,
+    "meanings": [
+        "discussion",
+        "methods called for",
+        "selection",
+        "result"
+    ],
+    "kun": [
+        "せん.ずる",
+        "かい",
+        "あき.らか"
+    ],
+    "on": [
+        "セン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2236697247706422,
+            0.1444954128440367,
+            "c",
+            0.020642201834862386,
+            0.013761467889908258,
+            0.053302752293577976,
+            0.056605504587155964,
+            0.058440366972477065,
+            0.0779816513761468
+        ],
+        [
+            "M",
+            0.10431192660550458,
+            0.3126605504587156,
+            "c",
+            0.0057798165137614675,
+            0.0021100917431192663,
+            0.027889908256880733,
+            0.002477064220183486,
+            0.0336697247706422,
+            0.0021100917431192663,
+            "c",
+            0.07155963302752294,
+            -0.003853211009174312,
+            0.1648623853211009,
+            -0.024495412844036696,
+            0.21688073394495413,
+            -0.0263302752293578,
+            "c",
+            0.00963302752293578,
+            -0.0003669724770642202,
+            0.024220183486238535,
+            0.0010091743119266055,
+            0.028990825688073395,
+            0.0021100917431192663
+        ],
+        [
+            "M",
+            0.1626605504587156,
+            0.4317431192660551,
+            "c",
+            0.0034862385321100917,
+            0.0011009174311926604,
+            0.024862385321100917,
+            0.0011926605504587156,
+            0.028440366972477066,
+            0.0011009174311926604,
+            "c",
+            0.03642201834862385,
+            -0.0012844036697247708,
+            0.08990825688073395,
+            -0.014311926605504588,
+            0.12577981651376147,
+            -0.014220183486238533,
+            "c",
+            0.0057798165137614675,
+            0,
+            0.03018348623853211,
+            0.0005504587155963302,
+            0.03311926605504587,
+            0.0011009174311926604
+        ],
+        [
+            "M",
+            0.1718348623853211,
+            0.5534862385321101,
+            "c",
+            0.003119266055045872,
+            0.0011009174311926604,
+            0.02220183486238532,
+            0.0011926605504587156,
+            0.025412844036697246,
+            0.0011009174311926604,
+            "c",
+            0.03256880733944954,
+            -0.0011926605504587156,
+            0.0855045871559633,
+            -0.019357798165137614,
+            0.11752293577981651,
+            -0.019174311926605504,
+            "c",
+            0.005229357798165137,
+            0,
+            0.026972477064220183,
+            0.0005504587155963302,
+            0.029541284403669727,
+            0.0010091743119266055
+        ],
+        [
+            "M",
+            0.15724770642201835,
+            0.6642201834862386,
+            "c",
+            0.0032110091743119264,
+            0.0033027522935779813,
+            0.006880733944954129,
+            0.005963302752293578,
+            0.007889908256880733,
+            0.01036697247706422,
+            "c",
+            0.00908256880733945,
+            0.038623853211009175,
+            0.020642201834862386,
+            0.11963302752293577,
+            0.02981651376146789,
+            0.17623853211009174
+        ],
+        [
+            "M",
+            0.1679816513761468,
+            0.6777064220183486,
+            "c",
+            0.059082568807339454,
+            -0.0081651376146789,
+            0.12366972477064221,
+            -0.01926605504587156,
+            0.17816513761467892,
+            -0.027522935779816515,
+            "c",
+            0.013669724770642202,
+            -0.002018348623853211,
+            0.02192660550458716,
+            0.009541284403669725,
+            0.02,
+            0.01889908256880734,
+            "c",
+            -0.0081651376146789,
+            0.0389908256880734,
+            -0.015229357798165137,
+            0.07541284403669725,
+            -0.029724770642201838,
+            0.1401834862385321
+        ],
+        [
+            "M",
+            0.19697247706422016,
+            0.8261467889908256,
+            "c",
+            0.04403669724770642,
+            -0.004954128440366972,
+            0.09724770642201834,
+            -0.008899082568807339,
+            0.15770642201834864,
+            -0.016605504587155963
+        ],
+        [
+            "M",
+            0.6100917431192661,
+            0.18577981651376146,
+            "c",
+            0.0006422018348623854,
+            0.006880733944954129,
+            0.0023853211009174312,
+            0.018073394495412842,
+            -0.0012844036697247708,
+            0.027614678899082565,
+            "C",
+            0.5862385321100917,
+            0.2724770642201835,
+            0.5088990825688073,
+            0.3979816513761468,
+            0.3853211009174312,
+            0.47724770642201836
+        ],
+        [
+            "M",
+            0.5527522935779816,
+            0.12155963302752294,
+            "c",
+            0.0181651376146789,
+            0.006055045871559634,
+            0.030825688073394496,
+            0.014770642201834864,
+            0.03752293577981651,
+            0.021743119266055048,
+            "c",
+            0.06614678899082568,
+            0.06908256880733946,
+            0.1946788990825688,
+            0.22220183486238532,
+            0.23770642201834863,
+            0.25963302752293577,
+            "c",
+            0.016055045871559634,
+            0.013944954128440367,
+            0.03669724770642202,
+            0.02,
+            0.052752293577981654,
+            0.023944954128440367
+        ],
+        [
+            "M",
+            0.46990825688073395,
+            0.4578899082568807,
+            "c",
+            0.006330275229357797,
+            0.0045871559633027525,
+            0.026972477064220183,
+            0.0016513761467889907,
+            0.03339449541284404,
+            0.0002752293577981651,
+            "c",
+            0.02981651376146789,
+            -0.006238532110091744,
+            0.15779816513761466,
+            -0.018807339449541282,
+            0.22954128440366972,
+            -0.023577981651376145,
+            "c",
+            0.009816513761467891,
+            -0.0006422018348623854,
+            0.01862385321100917,
+            0.0009174311926605505,
+            0.02669724770642202,
+            0.0047706422018348625
+        ],
+        [
+            "M",
+            0.6122935779816513,
+            0.47174311926605506,
+            "c",
+            0.006788990825688073,
+            0.011376146788990826,
+            0.006788990825688073,
+            0.0181651376146789,
+            0.006788990825688073,
+            0.02724770642201835,
+            "c",
+            0,
+            0.06348623853211009,
+            0.0033944954128440367,
+            0.26165137614678896,
+            0.0017431192660550458,
+            0.32513761467889907
+        ],
+        [
+            "M",
+            0.47036697247706427,
+            0.6376146788990825,
+            "c",
+            0.006880733944954129,
+            0.004403669724770642,
+            0.029724770642201838,
+            0.002660550458715596,
+            0.03688073394495413,
+            0.001926605504587156,
+            "c",
+            0.0736697247706422,
+            -0.007706422018348624,
+            0.1438532110091743,
+            -0.014587155963302753,
+            0.23036697247706422,
+            -0.02256880733944954,
+            "c",
+            0.008623853211009174,
+            -0.0008256880733944953,
+            0.027614678899082565,
+            -0.001834862385321101,
+            0.04055045871559633,
+            0.0021100917431192663
+        ],
+        [
+            "M",
+            0.41458715596330276,
+            0.8396330275229358,
+            "c",
+            0.005688073394495413,
+            0.002477064220183486,
+            0.03504587155963303,
+            0.00045871559633027525,
+            0.04467889908256881,
+            0,
+            "c",
+            0.1163302752293578,
+            -0.004862385321100918,
+            0.22990825688073394,
+            -0.021192660550458715,
+            0.3733944954128441,
+            -0.02724770642201835,
+            "c",
+            0.015412844036697248,
+            -0.0006422018348623854,
+            0.03394495412844037,
+            0.004128440366972477,
+            0.041651376146788995,
+            0.007981651376146788
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "甲",
+                    "かい"
+                ],
+                [
+                    "斐",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. effect; result; worth; use; avail See also 甲斐 がい"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Kai (former province located in present-day Yamanashi Prefecture) Historical term, Only applies to 甲斐"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詮 【かい】、効 【かい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詮: Rarely-used kanji form. 効: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. effect; result; worth; use; avail See also 甲斐 がい"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Kai (former province located in present-day Yamanashi Prefecture) Historical term, Only applies to 甲斐"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詮 【かい】、効 【かい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詮: Rarely-used kanji form. 効: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詮",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. way; method; means See also 詮方 せんかた, from 為む"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. effect; result; benefit; help; worth; use See also 詮 かい"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詮: Ateji (phonetic) reading."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. way; method; means See also 詮方 せんかた, from 為む"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. effect; result; benefit; help; worth; use See also 詮 かい"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詮: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "選",
+                    "せん"
+                ],
+                [
+                    "考",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. selection; choice; screening "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "銓衡 【せんこう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "銓衡: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. selection; choice; screening "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "銓衡 【せんこう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "銓衡: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詮",
+                    "せん"
+                ],
+                [
+                    "索",
+                    "さく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. inquiry into; enquiry into; prying (into); investigation; search; exploration "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. inquiry into; enquiry into; prying (into); investigation; search; exploration "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詮",
+                    "せん"
+                ],
+                [
+                    "索",
+                    "さく"
+                ],
+                [
+                    "好",
+                    "ず"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. curiosity; inquisitiveness "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. nosy person; busybody "
+                },
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. curiosity; inquisitiveness "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. nosy person; busybody "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詮",
+                    "せん"
+                ],
+                [
+                    "無",
+                    "な"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. unavoidable; no help for "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詮ない 【せんない】"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. unavoidable; no help for "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詮ない 【せんない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "為",
+                    "せんすべ"
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "術",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (proper) methods "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詮術 【せんすべ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詮術: Ateji (phonetic) reading."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. (proper) methods "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詮術 【せんすべ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詮術: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詮",
+                    null
+                ],
+                [
+                    "方",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. way; method; means; resource; course See also 仕方"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "せん方 【せんかた】、為ん方 【せんかた】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詮方: Ateji (phonetic) reading. 為ん方: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. way; method; means; resource; course See also 仕方"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "せん方 【せんかた】、為ん方 【せんかた】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詮方: Ateji (phonetic) reading. 為ん方: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詮",
+                    "せん"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. discussion; deliberation; consideration "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. investigation (into a suspect); inquiry; enquiry; examination; questioning "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. discussion; deliberation; consideration "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. investigation (into a suspect); inquiry; enquiry; examination; questioning "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詮",
+                    "せん"
+                ],
+                [
+                    "ず",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ],
+                [
+                    "所",
+                    "ところ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. after all; in the end; in short; given due consideration; when all is said and done See also 所詮 しょせん"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. after all; in the end; in short; given due consideration; when all is said and done See also 所詮 しょせん"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詮",
+                    "せ"
+                ],
+                [
+                    "方",
+                    "んかた"
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. cannot be helped; unavoidable; inevitable; (there's) nothing one can do; having no choice Dated term, See also 仕方ない"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "せん方ない 【せんかたない】、為ん方ない 【せんかたない】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詮方ない: Ateji (phonetic) reading. 為ん方ない: Rarely-used kanji form."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. cannot be helped; unavoidable; inevitable; (there's) nothing one can do; having no choice Dated term, See also 仕方ない"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "せん方ない 【せんかたない】、為ん方ない 【せんかたない】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "詮方ない: Ateji (phonetic) reading. 為ん方ない: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詮",
+                    "せん"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "立",
+                    "だ"
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. thorough discussion; careful consideration; rigorous investigation "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. thorough discussion; careful consideration; rigorous investigation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "詮",
+                "あきら"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Akira "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Akitake "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "詮",
+                "さとる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Satoru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "所",
+                    "しょ"
+                ],
+                [
+                    "詮",
+                    "せん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. after all; in the end; anyway "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. (cannot) possibly; (not) at all; (not) by any means; (not) ever with neg. sentence"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "所詮 【そせん】、所せん 【しょせん】、所せん 【そせん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "そせん: Out-dated or obsolete kana usage. そせん: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

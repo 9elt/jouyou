@@ -1,0 +1,926 @@
+{
+    "kanji": "舶",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "liner",
+        "ship"
+    ],
+    "kun": [
+        "ハク"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.3206422018348624,
+            0.12614678899082568,
+            "c",
+            0.001559633027522936,
+            0.010275229357798166,
+            -0.0008256880733944953,
+            0.01862385321100917,
+            -0.006880733944954129,
+            0.0318348623853211,
+            "C",
+            0.30275229357798167,
+            0.18238532110091743,
+            0.2958715596330275,
+            0.19954128440366972,
+            0.26146788990825687,
+            0.25229357798165136
+        ],
+        [
+            "M",
+            0.18944954128440367,
+            0.26807339449541284,
+            "c",
+            0.01091743119266055,
+            0.01091743119266055,
+            0.011009174311926604,
+            0.02522935779816514,
+            0.011467889908256881,
+            0.03981651376146789,
+            "C",
+            0.21100917431192662,
+            0.6055045871559633,
+            0.1926605504587156,
+            0.786697247706422,
+            0.13302752293577982,
+            0.8761467889908257
+        ],
+        [
+            "M",
+            0.20871559633027523,
+            0.28724770642201836,
+            "c",
+            0.052752293577981654,
+            -0.012018348623853212,
+            0.1406422018348624,
+            -0.02963302752293578,
+            0.17522935779816515,
+            -0.03669724770642202,
+            "c",
+            0.019724770642201832,
+            -0.004036697247706422,
+            0.03302752293577982,
+            0.006330275229357797,
+            0.03302752293577982,
+            0.034403669724770644,
+            "c",
+            0,
+            0.020366972477064222,
+            0.00045871559633027525,
+            0.5104587155963303,
+            0.00045871559633027525,
+            0.5396330275229357,
+            "c",
+            0,
+            0.0853211009174312,
+            -0.04954128440366973,
+            0.017798165137614678,
+            -0.056422018348623856,
+            0.012293577981651376
+        ],
+        [
+            "M",
+            0.2798165137614679,
+            0.3359633027522936,
+            "c",
+            0.014128440366972478,
+            0.0163302752293578,
+            0.04275229357798165,
+            0.0526605504587156,
+            0.052752293577981654,
+            0.07908256880733944
+        ],
+        [
+            "M",
+            0.3032110091743119,
+            0.5012844036697248,
+            "c",
+            0.008899082568807339,
+            0.008899082568807339,
+            0.011009174311926604,
+            0.021009174311926605,
+            0.011009174311926604,
+            0.0326605504587156,
+            "c",
+            0,
+            0.030275229357798163,
+            0.0009174311926605505,
+            0.08678899082568808,
+            0.0009174311926605505,
+            0.14036697247706423,
+            "c",
+            0,
+            0.019541284403669725,
+            0,
+            0.02981651376146789,
+            0,
+            0.04504587155963303
+        ],
+        [
+            "M",
+            0.10550458715596331,
+            0.536697247706422,
+            "c",
+            0.008073394495412844,
+            0.013761467889908258,
+            0.019724770642201832,
+            0.013486238532110091,
+            0.03211009174311927,
+            0.009174311926605505,
+            "c",
+            0.052752293577981654,
+            -0.01834862385321101,
+            0.2591743119266055,
+            -0.08605504587155964,
+            0.32339449541284404,
+            -0.10550458715596331
+        ],
+        [
+            "M",
+            0.676605504587156,
+            0.13761467889908258,
+            "c",
+            0.0011926605504587156,
+            0.010275229357798166,
+            -0.0010091743119266055,
+            0.017614678899082567,
+            -0.0033944954128440367,
+            0.023761467889908256,
+            "c",
+            -0.019541284403669725,
+            0.04963302752293578,
+            -0.04128440366972477,
+            0.10816513761467889,
+            -0.08431192660550459,
+            0.17541284403669727
+        ],
+        [
+            "M",
+            0.5269724770642201,
+            0.35256880733944956,
+            "c",
+            0.010275229357798166,
+            0.010275229357798166,
+            0.012385321100917432,
+            0.0226605504587156,
+            0.012385321100917432,
+            0.03853211009174312,
+            "c",
+            0,
+            0.018256880733944953,
+            0.004311926605504587,
+            0.2555045871559633,
+            0.0076146788990825685,
+            0.38183486238532105,
+            "c",
+            0.0005504587155963302,
+            0.02201834862385321,
+            0.0009174311926605505,
+            0.04091743119266055,
+            0.0009174311926605505,
+            0.05504587155963303
+        ],
+        [
+            "M",
+            0.5469724770642201,
+            0.36688073394495413,
+            "c",
+            0.03688073394495413,
+            -0.005871559633027523,
+            0.18935779816513762,
+            -0.029357798165137616,
+            0.24678899082568806,
+            -0.037614678899082564,
+            "c",
+            0.027981651376146787,
+            -0.004036697247706422,
+            0.04844036697247707,
+            0.0017431192660550458,
+            0.04844036697247707,
+            0.0355045871559633,
+            "c",
+            0,
+            0.03752293577981651,
+            -0.0011926605504587156,
+            0.25229357798165136,
+            -0.005596330275229358,
+            0.3921100917431193,
+            "c",
+            -0.0006422018348623854,
+            0.01981651376146789,
+            -0.0012844036697247708,
+            0.038256880733944953,
+            -0.001926605504587156,
+            0.0544954128440367
+        ],
+        [
+            "M",
+            0.5489908256880734,
+            0.5643119266055046,
+            "c",
+            0.07256880733944954,
+            -0.00926605504587156,
+            0.23770642201834863,
+            -0.028073394495412844,
+            0.2812844036697248,
+            -0.028073394495412844
+        ],
+        [
+            "M",
+            0.5569724770642202,
+            0.7952293577981652,
+            "c",
+            0.07137614678899083,
+            -0.006422018348623853,
+            0.19302752293577982,
+            -0.017064220183486238,
+            0.26908256880733944,
+            -0.02
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "舶",
+                    "つむ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. large ship Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "舶",
+                    "はく"
+                ],
+                [
+                    "来",
+                    "らい"
+                ],
+                [
+                    "品",
+                    "ひん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. imported article; foreign-made article; imported goods; foreign goods "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. imported article; foreign-made article; imported goods; foreign goods "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "舶",
+                    "はく"
+                ],
+                [
+                    "来",
+                    "らい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. imported; foreign-made "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. imported; foreign-made "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "舶",
+                    "はく"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun or verb acting prenominally",
+                    "meaning": "1. marine; for shipping; for vessels "
+                },
+                {
+                    "type": "Noun or verb acting prenominally",
+                    "meaning": "1. marine; for shipping; for vessels "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "舶",
+                    "はく"
+                ],
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "機",
+                    "き"
+                ],
+                [
+                    "関",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. marine engine "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. marine engine "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "舶",
+                    "はく"
+                ],
+                [
+                    "載",
+                    "さい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. ocean transportation; importation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. ocean transportation; importation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "舶伝",
+                "はくでん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Hakuden "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Hakua "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Hakurai "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. vessel; ship; shipping; seacraft "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ],
+                [
+                    "技",
+                    "ぎ"
+                ],
+                [
+                    "術",
+                    "じゅつ"
+                ],
+                [
+                    "研",
+                    "けん"
+                ],
+                [
+                    "究",
+                    "きゅう"
+                ],
+                [
+                    "所",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Ship Research Institute Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Ship Research Institute "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "にっぽんせんぱくゆしゅつくみあい"
+                ],
+                [
+                    "本",
+                    null
+                ],
+                [
+                    "船",
+                    null
+                ],
+                [
+                    "舶",
+                    null
+                ],
+                [
+                    "輸",
+                    null
+                ],
+                [
+                    "出",
+                    null
+                ],
+                [
+                    "組",
+                    null
+                ],
+                [
+                    "合",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japan Ship Exporter's Association Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Japan Ship Exporter's Association "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japan Ship Exporters' Association Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Japan Ship Exporters' Association "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "にっぽんこがたせんぱくけんさきこう"
+                ],
+                [
+                    "本",
+                    null
+                ],
+                [
+                    "小",
+                    null
+                ],
+                [
+                    "型",
+                    null
+                ],
+                [
+                    "船",
+                    null
+                ],
+                [
+                    "舶",
+                    null
+                ],
+                [
+                    "検",
+                    null
+                ],
+                [
+                    "査",
+                    null
+                ],
+                [
+                    "機",
+                    null
+                ],
+                [
+                    "構",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japan Craft Inspection Organization Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Japan Craft Inspection Organization "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "特",
+                    "とく"
+                ],
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ],
+                [
+                    "整",
+                    "せい"
+                ],
+                [
+                    "備",
+                    "び"
+                ],
+                [
+                    "公",
+                    "こう"
+                ],
+                [
+                    "団",
+                    "だん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Passenger Ship Corporation Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Passenger Ship Corporation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ],
+                [
+                    "整",
+                    "せい"
+                ],
+                [
+                    "備",
+                    "び"
+                ],
+                [
+                    "公",
+                    "こう"
+                ],
+                [
+                    "団",
+                    "だん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Maritime Credit Corporation Company name"
+                },
+                {
+                    "type": "Company",
+                    "meaning": "2. Maritime Credit Corporation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ],
+                [
+                    "登",
+                    "とう"
+                ],
+                [
+                    "録",
+                    "ろく"
+                ],
+                [
+                    "証",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ship's certificate; ship's registration "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ],
+                [
+                    "職",
+                    "しょく"
+                ],
+                [
+                    "員",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ship's personnel; ship's officers "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "巨",
+                    "きょ"
+                ],
+                [
+                    "舶",
+                    "はく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ocean liner "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ],
+                [
+                    "安",
+                    "あん"
+                ],
+                [
+                    "全",
+                    "ぜん"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Ship Safety Law (1933) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ],
+                [
+                    "保",
+                    "ほ"
+                ],
+                [
+                    "険",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hull insurance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ],
+                [
+                    "業",
+                    "ぎょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shipping industry "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ],
+                [
+                    "技",
+                    "ぎ"
+                ],
+                [
+                    "師",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. marine engineer "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "船",
+                    "せん"
+                ],
+                [
+                    "舶",
+                    "ぱく"
+                ],
+                [
+                    "工",
+                    "こう"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. marine engineering; naval architecture "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Naval architecture Naval architecture is an engineering discipline dealing w... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

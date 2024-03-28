@@ -1,0 +1,1506 @@
+{
+    "kanji": "顎",
+    "grade": 10,
+    "jlpt": null,
+    "meanings": [
+        "jaw",
+        "chin",
+        "gill"
+    ],
+    "kun": [
+        "あご",
+        "あぎと"
+    ],
+    "on": [
+        "ガク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.14330275229357797,
+            0.18091743119266054,
+            "c",
+            0.007064220183486239,
+            0.007064220183486239,
+            0.01165137614678899,
+            0.017798165137614678,
+            0.012385321100917432,
+            0.02128440366972477,
+            "c",
+            0.006055045871559634,
+            0.027155963302752294,
+            0.01128440366972477,
+            0.04963302752293578,
+            0.016605504587155963,
+            0.07990825688073395,
+            "c",
+            0.002018348623853211,
+            0.011467889908256881,
+            0.004036697247706422,
+            0.024128440366972478,
+            0.006146788990825688,
+            0.038623853211009175
+        ],
+        [
+            "M",
+            0.16293577981651378,
+            0.19018348623853212,
+            "c",
+            0.03385321100917431,
+            -0.011467889908256881,
+            0.06587155963302752,
+            -0.020917431192660547,
+            0.08963302752293578,
+            -0.026055045871559632,
+            "c",
+            0.01908256880733945,
+            -0.004128440366972477,
+            0.030091743119266053,
+            0.002201834862385321,
+            0.02669724770642202,
+            0.023027522935779813,
+            "c",
+            -0.004862385321100918,
+            0.029724770642201838,
+            -0.008532110091743119,
+            0.058990825688073394,
+            -0.015504587155963302,
+            0.09834862385321101
+        ],
+        [
+            "M",
+            0.1840366972477064,
+            0.30770642201834864,
+            "c",
+            0.024311926605504585,
+            -0.004403669724770642,
+            0.042201834862385317,
+            -0.0081651376146789,
+            0.06477064220183486,
+            -0.012293577981651376,
+            "c",
+            0.008807339449541284,
+            -0.001559633027522936,
+            0.01834862385321101,
+            -0.0032110091743119264,
+            0.02926605504587156,
+            -0.004954128440366972
+        ],
+        [
+            "M",
+            0.3302752293577982,
+            0.15807339449541286,
+            "c",
+            0.006972477064220183,
+            0.006972477064220183,
+            0.011009174311926604,
+            0.013853211009174311,
+            0.01275229357798165,
+            0.023669724770642202,
+            "c",
+            0.004862385321100918,
+            0.027798165137614676,
+            0.008073394495412844,
+            0.0481651376146789,
+            0.012660550458715595,
+            0.07743119266055046,
+            "c",
+            0.0017431192660550458,
+            0.01128440366972477,
+            0.0037614678899082566,
+            0.023853211009174313,
+            0.006146788990825688,
+            0.038623853211009175
+        ],
+        [
+            "M",
+            0.34165137614678903,
+            0.16963302752293577,
+            "c",
+            0.049724770642201835,
+            -0.010642201834862385,
+            0.08522935779816512,
+            -0.01889908256880734,
+            0.11055045871559634,
+            -0.02330275229357798,
+            "c",
+            0.01926605504587156,
+            -0.0033944954128440367,
+            0.028165137614678898,
+            0.006697247706422018,
+            0.023761467889908256,
+            0.02568807339449541,
+            "c",
+            -0.006330275229357797,
+            0.027614678899082565,
+            -0.017064220183486238,
+            0.0555045871559633,
+            -0.024311926605504585,
+            0.09385321100917432
+        ],
+        [
+            "M",
+            0.36752293577981654,
+            0.2871559633027523,
+            "c",
+            0.023211009174311924,
+            -0.003119266055045872,
+            0.04137614678899083,
+            -0.007981651376146788,
+            0.06944954128440367,
+            -0.012844036697247705,
+            "c",
+            0.008532110091743119,
+            -0.0014678899082568807,
+            0.017522935779816513,
+            -0.0029357798165137615,
+            0.027155963302752294,
+            -0.004403669724770642
+        ],
+        [
+            "M",
+            0.19706422018348624,
+            0.3912844036697248,
+            "c",
+            0.0163302752293578,
+            0.004311926605504587,
+            0.032844036697247704,
+            0.004862385321100918,
+            0.04954128440366973,
+            0.0014678899082568807,
+            "c",
+            0.037614678899082564,
+            -0.0057798165137614675,
+            0.08706422018348624,
+            -0.010825688073394495,
+            0.12605504587155963,
+            -0.017431192660550456,
+            "c",
+            0.015504587155963302,
+            -0.0025688073394495416,
+            0.030733944954128442,
+            -0.0039449541284403665,
+            0.04577981651376147,
+            0.00009174311926605505
+        ],
+        [
+            "M",
+            0.11697247706422019,
+            0.5021100917431193,
+            "c",
+            0.025045871559633028,
+            0.005688073394495413,
+            0.050091743119266056,
+            0.005321100917431192,
+            0.07568807339449542,
+            0.0014678899082568807,
+            "c",
+            0.08486238532110092,
+            -0.01275229357798165,
+            0.19137614678899081,
+            -0.023761467889908256,
+            0.2314678899082569,
+            -0.027339449541284404,
+            "c",
+            0.020825688073394497,
+            -0.004036697247706422,
+            0.04596330275229358,
+            -0.004862385321100918,
+            0.06660550458715596,
+            -0.00045871559633027525
+        ],
+        [
+            "M",
+            0.2840366972477064,
+            0.5055045871559634,
+            "c",
+            0.002660550458715596,
+            0.016238532110091745,
+            -0.003119266055045872,
+            0.02660550458715596,
+            -0.00908256880733945,
+            0.03541284403669725,
+            "c",
+            -0.00926605504587156,
+            0.013761467889908258,
+            -0.025045871559633028,
+            0.035871559633027524,
+            -0.04091743119266055,
+            0.05678899082568808,
+            "c",
+            -0.014036697247706422,
+            0.018440366972477064,
+            -0.0034862385321100917,
+            0.02853211009174312,
+            0.01091743119266055,
+            0.025779816513761468,
+            "c",
+            0.04752293577981651,
+            -0.00908256880733945,
+            0.0928440366972477,
+            -0.01944954128440367,
+            0.13688073394495412,
+            -0.02724770642201835,
+            "c",
+            0.0263302752293578,
+            -0.004678899082568807,
+            0.041651376146788995,
+            0.006330275229357797,
+            0.03779816513761468,
+            0.0344954128440367,
+            "c",
+            -0.007706422018348624,
+            0.05587155963302752,
+            -0.04376146788990825,
+            0.15422018348623853,
+            -0.08192660550458715,
+            0.20697247706422017,
+            "c",
+            -0.024678899082568807,
+            0.034128440366972476,
+            -0.03954128440366972,
+            0.03110091743119266,
+            -0.05807339449541284,
+            -0.001559633027522936
+        ],
+        [
+            "M",
+            0.5325688073394496,
+            0.1738532110091743,
+            "c",
+            0.02128440366972477,
+            0.0033027522935779813,
+            0.04256880733944954,
+            0.0033027522935779813,
+            0.06376146788990826,
+            0.00009174311926605505,
+            "c",
+            0.056605504587155964,
+            -0.005229357798165137,
+            0.15018348623853212,
+            -0.018073394495412842,
+            0.22697247706422016,
+            -0.02201834862385321,
+            "c",
+            0.023761467889908256,
+            -0.0012844036697247708,
+            0.04678899082568807,
+            -0.0034862385321100917,
+            0.06990825688073395,
+            0.0021100917431192663
+        ],
+        [
+            "M",
+            0.6754128440366973,
+            0.19311926605504587,
+            "c",
+            0.0006422018348623854,
+            0.00926605504587156,
+            -0.0002752293577981651,
+            0.01853211009174312,
+            -0.004862385321100918,
+            0.026788990825688072,
+            "c",
+            -0.013486238532110091,
+            0.024403669724770642,
+            -0.02348623853211009,
+            0.044311926605504585,
+            -0.03981651376146789,
+            0.06678899082568808
+        ],
+        [
+            "M",
+            0.5420183486238532,
+            0.3103669724770642,
+            "c",
+            0.008440366972477065,
+            0.008440366972477065,
+            0.01036697247706422,
+            0.019908256880733943,
+            0.01036697247706422,
+            0.031376146788990825,
+            "c",
+            0,
+            0.01834862385321101,
+            0,
+            0.20155963302752292,
+            0,
+            0.31422018348623854,
+            "c",
+            0,
+            0.035596330275229356,
+            0,
+            0.06412844036697248,
+            0,
+            0.0781651376146789
+        ],
+        [
+            "M",
+            0.5593577981651376,
+            0.31935779816513765,
+            "c",
+            0.0536697247706422,
+            -0.004678899082568807,
+            0.191651376146789,
+            -0.019724770642201832,
+            0.2320183486238532,
+            -0.023761467889908256,
+            "c",
+            0.029724770642201838,
+            -0.003027522935779817,
+            0.039449541284403665,
+            0.008899082568807339,
+            0.039449541284403665,
+            0.03055045871559633,
+            "c",
+            0,
+            0.01724770642201835,
+            -0.0008256880733944953,
+            0.20513761467889907,
+            -0.0012844036697247708,
+            0.31944954128440367,
+            "c",
+            -0.0001834862385321101,
+            0.042844036697247706,
+            -0.0002752293577981651,
+            0.07541284403669725,
+            -0.0002752293577981651,
+            0.08467889908256881
+        ],
+        [
+            "M",
+            0.5612844036697248,
+            0.4476146788990826,
+            "c",
+            0.05110091743119266,
+            -0.003853211009174312,
+            0.21100917431192662,
+            -0.01834862385321101,
+            0.2621100917431193,
+            -0.02201834862385321
+        ],
+        [
+            "M",
+            0.5609174311926606,
+            0.5805504587155963,
+            "c",
+            0.09385321100917432,
+            -0.010550458715596329,
+            0.17412844036697248,
+            -0.015137614678899082,
+            0.25807339449541283,
+            -0.02165137614678899
+        ],
+        [
+            "M",
+            0.5624770642201835,
+            0.7072477064220184,
+            "c",
+            0.059082568807339454,
+            -0.006513761467889908,
+            0.1863302752293578,
+            -0.014495412844036697,
+            0.25577981651376147,
+            -0.019541284403669725
+        ],
+        [
+            "M",
+            0.6279816513761468,
+            0.7522935779816514,
+            "c",
+            0,
+            0.012660550458715595,
+            -0.005504587155963302,
+            0.02348623853211009,
+            -0.013761467889908258,
+            0.031743119266055046,
+            "C",
+            0.5779816513761468,
+            0.82,
+            0.5447706422018349,
+            0.8509174311926605,
+            0.47706422018348627,
+            0.8990825688073395
+        ],
+        [
+            "M",
+            0.7513761467889909,
+            0.7588990825688073,
+            "c",
+            0.04899082568807339,
+            0.03422018348623853,
+            0.10926605504587156,
+            0.09871559633027523,
+            0.12266055045871559,
+            0.1287155963302752
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "顎",
+                    "あご"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. jaw; chin 私は彼のあごに１発食らわしてやった。I landed him a blow on the chin."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. barb (of a fishhook) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Jaw The jaw is any opposable articulated structure at the ent... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "頤 【あご】、腮 【あご】、顋 【あご】、齶 【あご】、腭 【あご】、顎 【がく】、腭 【がく】、アゴ"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "腮: Out-dated kanji or kanji usage. 顋: Out-dated kanji or kanji usage. 齶: Out-dated kanji or kanji usage. 腭: Out-dated kanji or kanji usage. 腭: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. jaw; chin 私は彼のあごに１発食らわしてやった。I landed him a blow on the chin."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. barb (of a fishhook) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Jaw The jaw is any opposable articulated structure at the ent... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "頤 【あご】、腮 【あご】、顋 【あご】、齶 【あご】、腭 【あご】、顎 【がく】、腭 【がく】、アゴ"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "腮: Out-dated kanji or kanji usage. 顋: Out-dated kanji or kanji usage. 齶: Out-dated kanji or kanji usage. 腭: Out-dated kanji or kanji usage. 腭: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "あご",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "発",
+                            "はつ"
+                        ],
+                        [
+                            "食らわして",
+                            "く"
+                        ],
+                        [
+                            "やった",
+                            null
+                        ]
+                    ],
+                    "translation": "I landed him a blow on the chin."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "あぎと"
+                ],
+                [
+                    "門",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chin; jaw Archaic, See also あご, esp. 顎門, 腭門, 顎"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. gills; branchia Archaic, See also えら, esp. 鰓, 腮"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "腭門 【あぎと】、顎 【あぎと】、鰓 【あぎと】、腮 【あぎと】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. chin; jaw Archaic, See also あご, esp. 顎門, 腭門, 顎"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. gills; branchia Archaic, See also えら, esp. 鰓, 腮"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "腭門 【あぎと】、顎 【あぎと】、鰓 【あぎと】、腮 【あぎと】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "あご"
+                ],
+                [
+                    "髭",
+                    "ひげ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. beard (esp. on the chin); goatee Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顎鬚 【あごひげ】、顎ひげ 【あごひげ】、アゴヒゲ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. beard (esp. on the chin); goatee Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顎鬚 【あごひげ】、顎ひげ 【あごひげ】、アゴヒゲ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "あ",
+                    null
+                ],
+                [
+                    "ご",
+                    null
+                ],
+                [
+                    "で",
+                    null
+                ],
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "1. to set someone to work in an arrogant fashion; to push someone around Idiomatic expression, See also 頤で人を使う「そっか。暇なら掃除しといて」「なんだそれ。兄貴をアゴで使うなよ」\"Oh? If you're free get the cleaning done.\" \"What's up with that? Don't order your brother around!\""
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "2. to chatter; to jaw; to jabber Slang"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "アゴで使う 【あごでつかう】、顎で使う 【あごでつかう】"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "1. to set someone to work in an arrogant fashion; to push someone around Idiomatic expression, See also 頤で人を使う「そっか。暇なら掃除しといて」「なんだそれ。兄貴をアゴで使うなよ」\"Oh? If you're free get the cleaning done.\" \"What's up with that? Don't order your brother around!\""
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "2. to chatter; to jaw; to jabber Slang"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "アゴで使う 【あごでつかう】、顎で使う 【あごでつかう】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "そっか",
+                            null
+                        ],
+                        [
+                            "暇",
+                            "ひま"
+                        ],
+                        [
+                            "なら",
+                            null
+                        ],
+                        [
+                            "掃除",
+                            "そうじ"
+                        ],
+                        [
+                            "し",
+                            null
+                        ],
+                        [
+                            "といて",
+                            null
+                        ],
+                        [
+                            "なんだ",
+                            null
+                        ],
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "兄貴",
+                            "あにき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "アゴで使う",
+                            null
+                        ],
+                        [
+                            "な",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "\"Oh? If you're free get the cleaning done.\" \"What's up with that? Don't order your brother around!\""
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "がく"
+                ],
+                [
+                    "動",
+                    "どう"
+                ],
+                [
+                    "脈",
+                    "みゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. maxillary artery "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Maxillary artery The maxillary artery (or internal maxillary artery in old... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. maxillary artery "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Maxillary artery The maxillary artery (or internal maxillary artery in old... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "あご"
+                ],
+                [
+                    "鬚",
+                    "ひげ"
+                ],
+                [
+                    "海",
+                    "あざらし"
+                ],
+                [
+                    "豹",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bearded seal (Erignathus barbatus) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bearded seal The bearded seal (Erignathus barbatus), also called the s... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "アゴヒゲアザラシ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bearded seal (Erignathus barbatus) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bearded seal The bearded seal (Erignathus barbatus), also called the s... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "アゴヒゲアザラシ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "がっかせん"
+                ],
+                [
+                    "下",
+                    null
+                ],
+                [
+                    "腺",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. submandibular gland; submaxillary gland "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Submandibular gland The paired submandibular glands (submaxillary glands) are... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. submandibular gland; submaxillary gland "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Submandibular gland The paired submandibular glands (submaxillary glands) are... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "がく"
+                ],
+                [
+                    "関",
+                    "かん"
+                ],
+                [
+                    "節",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. jaw joint; temporomandibular joint; TMJ Anatomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Temporomandibular joint The temporomandibular joint is the joint of the jaw and i... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. jaw joint; temporomandibular joint; TMJ Anatomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Temporomandibular joint The temporomandibular joint is the joint of the jaw and i... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "あご"
+                ],
+                [
+                    "沙",
+                    "はぜ"
+                ],
+                [
+                    "魚",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. forktongue goby (Chaenogobius annularis); chestnut goby Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顎鯊 【あごはぜ】、アゴハゼ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. forktongue goby (Chaenogobius annularis); chestnut goby Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顎鯊 【あごはぜ】、アゴハゼ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "あご"
+                ],
+                [
+                    "紐",
+                    "ひも"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chin strap "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. chin strap "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "あご"
+                ],
+                [
+                    "足",
+                    "あし"
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. paid expenses (meals and transport) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "あご足付き 【あごあしつき】"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. paid expenses (meals and transport) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "あご足付き 【あごあしつき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "がっきゃく"
+                ],
+                [
+                    "脚",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. maxilliped; gnathopod "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. maxilliped; gnathopod "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "あご"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "骨",
+                    "ほね"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. jawbone; mandible See also 顎骨"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "あごの骨 【あごのほね】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "あ",
+                    null
+                ],
+                [
+                    "ご",
+                    null
+                ],
+                [
+                    "割",
+                    "わ"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cleft chin "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顎割れ 【あごわれ】、アゴ割れ 【あごわれ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. cleft chin "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顎割れ 【あごわれ】、アゴ割れ 【あごわれ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "がく"
+                ],
+                [
+                    "口",
+                    "こう"
+                ],
+                [
+                    "虫",
+                    "ちゅう"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gnathostomiasis; larva migrans profundus Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gnathostomiasis Gnathostomiasis (also known as larva migrans profundus) i... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "がく"
+                ],
+                [
+                    "関",
+                    "かん"
+                ],
+                [
+                    "節",
+                    "せつ"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. temporomandibular joint disorder; temporomandibular joint dysfunction; TMD; TMJ Medicine"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Temporomandibular joint disorder Temporomandibular joint disorder, TMJD (in the medical li... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "あ",
+                    null
+                ],
+                [
+                    "ご",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "干",
+                    "ひ"
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ru' ending",
+                    "meaning": "1. to lose one's means of livelihood; to become unable to earn a living "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顎が干上がる 【あごがひあがる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "あご"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "ゃ",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ru' ending",
+                    "meaning": "1. to jerk one's chin; to nod toward; to point one's chin at See also 決る しゃくる"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "あ",
+                    null
+                ],
+                [
+                    "ご",
+                    null
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'su' ending",
+                    "meaning": "1. to be exhausted; to be worn out; to be done in Idiomatic expression"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "顎を出す 【あごをだす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "顎",
+                    "あご"
+                ],
+                [
+                    "ク",
+                    null
+                ],
+                [
+                    "イ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. suddenly lifting someone's face by their chin (in a domineering yet romantic fashion) Colloquial"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "アゴクイ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "顎谷",
+                "びしゃごだに"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Bishagodani "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "顎",
+                    "がく"
+                ],
+                [
+                    "類",
+                    "るい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. agnathans (jawless fishes of superclass Agnatha) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Agnatha Agnatha is a superclass of jawless fish in the phylum Cho... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "下",
+                    "か"
+                ],
+                [
+                    "顎",
+                    "がく"
+                ],
+                [
+                    "骨",
+                    "こつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. mandible; lower jawbone Anatomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Mandible In vertebrates, the mandible, lower jaw or jawbone is a b... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "顎",
+                    "がく"
+                ],
+                [
+                    "骨",
+                    "こつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. maxilla; upper jawbone Anatomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Maxilla The maxilla is a fusion of two bones along the palatal fi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "毛",
+                    "もう"
+                ],
+                [
+                    "顎",
+                    "がく"
+                ],
+                [
+                    "動",
+                    "どう"
+                ],
+                [
+                    "物",
+                    "ぶつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chaetognath (any worm of phylum Chaetognatha) See also 矢虫"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Chaetognatha Chaetognatha, meaning hair-jaws, and commonly known as ar... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "突",
+                    "とつ"
+                ],
+                [
+                    "顎",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. prognathism Medicine"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "顎",
+                    "がく"
+                ],
+                [
+                    "前",
+                    "ぜん"
+                ],
+                [
+                    "突",
+                    "とつ"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. maxillary prognathism Medicine"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "下",
+                    "した"
+                ],
+                [
+                    "顎",
+                    "あご"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lower jaw; mandible "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "下あご 【したあご】、下顎 【かがく】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

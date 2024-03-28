@@ -1,0 +1,815 @@
+{
+    "kanji": "叔",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "uncle",
+        "youth"
+    ],
+    "kun": [
+        "シュク"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.2897247706422018,
+            0.1388073394495413,
+            "c",
+            0.008715596330275228,
+            0.008715596330275228,
+            0.009357798165137614,
+            0.021743119266055048,
+            0.009357798165137614,
+            0.032844036697247704,
+            "c",
+            0,
+            0.0045871559633027525,
+            0.0001834862385321101,
+            0.21706422018348623,
+            0.0001834862385321101,
+            0.2629357798165138
+        ],
+        [
+            "M",
+            0.32422018348623854,
+            0.2870642201834862,
+            "c",
+            0.015137614678899082,
+            0,
+            0.07935779816513762,
+            -0.01926605504587156,
+            0.1234862385321101,
+            -0.02532110091743119,
+            "c",
+            0.015871559633027523,
+            -0.002201834862385321,
+            0.02284403669724771,
+            -0.0003669724770642202,
+            0.032293577981651375,
+            -0.001559633027522936
+        ],
+        [
+            "M",
+            0.1369724770642202,
+            0.4592660550458716,
+            "c",
+            0.018990825688073393,
+            0.006330275229357797,
+            0.03275229357798165,
+            0.0045871559633027525,
+            0.04862385321100917,
+            0.003027522935779817,
+            "c",
+            0.06779816513761468,
+            -0.006972477064220183,
+            0.16073394495412843,
+            -0.02651376146788991,
+            0.24073394495412842,
+            -0.041926605504587156,
+            "c",
+            0.008990825688073394,
+            -0.0017431192660550458,
+            0.027798165137614676,
+            -0.005229357798165137,
+            0.037614678899082564,
+            -0.0017431192660550458
+        ],
+        [
+            "M",
+            0.30174311926605507,
+            0.4758715596330275,
+            "c",
+            0.0006422018348623854,
+            0.0034862385321100917,
+            0.00926605504587156,
+            0.018256880733944953,
+            0.00926605504587156,
+            0.04055045871559633,
+            "c",
+            0,
+            0.11660550458715598,
+            0.0003669724770642202,
+            0.25504587155963304,
+            0.0003669724770642202,
+            0.29155963302752297,
+            "c",
+            0,
+            0.08275229357798165,
+            -0.05302752293577982,
+            0.011009174311926604,
+            -0.06403669724770643,
+            0.001834862385321101
+        ],
+        [
+            "M",
+            0.19779816513761467,
+            0.5821100917431193,
+            "c",
+            0.0005504587155963302,
+            0.009724770642201836,
+            0.0006422018348623854,
+            0.017889908256880735,
+            -0.002477064220183486,
+            0.02724770642201835,
+            "c",
+            -0.020458715596330276,
+            0.059908256880733944,
+            -0.05018348623853211,
+            0.12467889908256881,
+            -0.1046788990825688,
+            0.20027522935779815
+        ],
+        [
+            "M",
+            0.3938532110091743,
+            0.5601834862385321,
+            "c",
+            0.02660550458715596,
+            0.021559633027522937,
+            0.06862385321100918,
+            0.08871559633027523,
+            0.07522935779816513,
+            0.12229357798165137
+        ],
+        [
+            "M",
+            0.5412844036697247,
+            0.3111009174311926,
+            "c",
+            0.02220183486238532,
+            0.006880733944954129,
+            0.04119266055045872,
+            0.006238532110091744,
+            0.06412844036697248,
+            -0.00045871559633027525,
+            "c",
+            0.04302752293577982,
+            -0.012660550458715595,
+            0.1291743119266055,
+            -0.04091743119266055,
+            0.15715596330275228,
+            -0.05128440366972477,
+            "c",
+            0.028623853211009177,
+            -0.010550458715596329,
+            0.04697247706422018,
+            0.0009174311926605505,
+            0.036513761467889906,
+            0.0336697247706422,
+            "C",
+            0.7180733944954129,
+            0.546697247706422,
+            0.5986238532110092,
+            0.7477064220183486,
+            0.44174311926605503,
+            0.8486238532110092
+        ],
+        [
+            "M",
+            0.5211009174311927,
+            0.40412844036697243,
+            "c",
+            0.06100917431192661,
+            0.006788990825688073,
+            0.1623853211009174,
+            0.21513761467889908,
+            0.2573394495412844,
+            0.34550458715596327,
+            "c",
+            0.020091743119266054,
+            0.027614678899082565,
+            0.04715596330275229,
+            0.05651376146788991,
+            0.07330275229357798,
+            0.07605504587155963
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "伯",
+                    "おば"
+                ],
+                [
+                    "母",
+                    null
+                ],
+                [
+                    "さ",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. aunt Honorific or respectful (sonkeigo) language, Familiar language, Usually written using kana alone, 伯母さん is older than one's parent and 叔母さん is younger"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔母さん 【おばさん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. aunt Honorific or respectful (sonkeigo) language, Familiar language, Usually written using kana alone, 伯母さん is older than one's parent and 叔母さん is younger"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔母さん 【おばさん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叔",
+                    "おじ"
+                ],
+                [
+                    "父",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle See also 叔母 おば, 伯父 or 叔父 respectively can mean older or younger than one's parent"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "伯父 【おじ】、伯父 【はくふ】、叔父 【しゅくふ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle See also 叔母 おば, 伯父 or 叔父 respectively can mean older or younger than one's parent"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "伯父 【おじ】、伯父 【はくふ】、叔父 【しゅくふ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叔",
+                    "おば"
+                ],
+                [
+                    "母",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. aunt See also 伯父 おじ, 伯母 can mean older and 叔母 can mean younger than one's parent"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "伯母 【おば】、伯母 【はくぼ】、叔母 【しゅくぼ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. aunt See also 伯父 おじ, 伯母 can mean older and 叔母 can mean younger than one's parent"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "伯母 【おば】、伯母 【はくぼ】、叔母 【しゅくぼ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "伯",
+                    "おじ"
+                ],
+                [
+                    "父",
+                    null
+                ],
+                [
+                    "さ",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle Honorific or respectful (sonkeigo) language, Familiar language, Usually written using kana alone, 伯父さん is older than one's parent and 叔父さん is younger"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. old man; mister Familiar language, Usually written using kana alone, usu. 小父さん or おじさん; vocative"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. manybar goatfish (Parupeneus multifasciatus) Usually written using kana alone, usu. オジサン"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Parupeneus multifasciatus Parupeneus multifasciatus is a Goatfish from the Pacific ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔父さん 【おじさん】、小父さん 【おじさん】、オジサン、オジさん"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle Honorific or respectful (sonkeigo) language, Familiar language, Usually written using kana alone, 伯父さん is older than one's parent and 叔父さん is younger"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. old man; mister Familiar language, Usually written using kana alone, usu. 小父さん or おじさん; vocative"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. manybar goatfish (Parupeneus multifasciatus) Usually written using kana alone, usu. オジサン"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Parupeneus multifasciatus Parupeneus multifasciatus is a Goatfish from the Pacific ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔父さん 【おじさん】、小父さん 【おじさん】、オジサン、オジさん"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "阿",
+                    "お"
+                ],
+                [
+                    "叔",
+                    "とおじ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle (one's father's younger brother) Archaic, See also 伯父 えおじ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔父 【おとおじ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle (one's father's younger brother) Archaic, See also 伯父 えおじ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔父 【おとおじ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "伯",
+                    "おば"
+                ],
+                [
+                    "母",
+                    null
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "ゃ",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. auntie; older woman "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔母ちゃん 【おばちゃん】、小母ちゃん 【おばちゃん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. auntie; older woman "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔母ちゃん 【おばちゃん】、小母ちゃん 【おばちゃん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "伯",
+                    "おじご"
+                ],
+                [
+                    "父",
+                    null
+                ],
+                [
+                    "御",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle Humble (kenjougo) language, Polite (teineigo) language, See also 伯父, 伯父御 or 叔父御 can mean older or younger than one's parent"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔父御 【おじご】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle Humble (kenjougo) language, Polite (teineigo) language, See also 伯父, 伯父御 or 叔父御 can mean older or younger than one's parent"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔父御 【おじご】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叔",
+                    "おじ"
+                ],
+                [
+                    "父",
+                    null
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "ゃ",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. middle-aged man; uncle Usually written using kana alone, Familiar language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "伯父ちゃん 【おじちゃん】、小父ちゃん 【おじちゃん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. middle-aged man; uncle Usually written using kana alone, Familiar language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "伯父ちゃん 【おじちゃん】、小父ちゃん 【おじちゃん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叔",
+                    "しゅく"
+                ],
+                [
+                    "世",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. age of decline Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. age of decline Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "伯",
+                    "おじじゃひと"
+                ],
+                [
+                    "父",
+                    null
+                ],
+                [
+                    "者",
+                    null
+                ],
+                [
+                    "人",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle See also おじさん, 者 is ateji"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔父者人 【おじじゃひと】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle See also おじさん, 者 is ateji"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔父者人 【おじじゃひと】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "伯",
+                    null
+                ],
+                [
+                    "母",
+                    null
+                ],
+                [
+                    "者",
+                    null
+                ],
+                [
+                    "人",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. aunt Archaic, 者 is ateji"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔母者人 【おばじゃひと】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "伯母者人: Ateji (phonetic) reading. 叔母者人: Ateji (phonetic) reading."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. aunt Archaic, 者 is ateji"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "叔母者人 【おばじゃひと】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "伯母者人: Ateji (phonetic) reading. 叔母者人: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叔",
+                    "おじき"
+                ],
+                [
+                    "父",
+                    null
+                ],
+                [
+                    "貴",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle (younger than one's parent) Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. uncle (younger than one's parent) Honorific or respectful (sonkeigo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "叔",
+                    null
+                ],
+                [
+                    "孫",
+                    null
+                ],
+                [
+                    "通",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Shusun Tong Shusun Tong 叔孫通 (d. ca 188 CE) - official and ritual spec... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "叔",
+                "せき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Seki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "叔",
+                "はじめ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Hajime "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "叔",
+                "むねひろ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Munehiro "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "おお"
+                ],
+                [
+                    "叔",
+                    "おば"
+                ],
+                [
+                    "母",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grandaunt; great-aunt "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "大伯母 【おおおば】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "おお"
+                ],
+                [
+                    "叔",
+                    "おじ"
+                ],
+                [
+                    "父",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. granduncle "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "大伯父 【おおおじ】、従祖父 【おおおじ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "伯",
+                    "はく"
+                ],
+                [
+                    "叔",
+                    "しゅく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. brothers; one's father's brothers "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

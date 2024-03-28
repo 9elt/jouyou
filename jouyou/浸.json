@@ -1,0 +1,1446 @@
+{
+    "kanji": "浸",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "immersed",
+        "soak",
+        "dip",
+        "steep",
+        "moisten",
+        "wet",
+        "dunk"
+    ],
+    "kun": [
+        "ひた.す",
+        "ひた.る",
+        "つ.かる"
+    ],
+    "on": [
+        "シン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.20761467889908256,
+            0.15137614678899083,
+            "c",
+            0.03357798165137615,
+            0.014678899082568808,
+            0.08669724770642201,
+            0.06055045871559633,
+            0.09513761467889907,
+            0.08339449541284404
+        ],
+        [
+            "M",
+            0.1353211009174312,
+            0.3738532110091743,
+            "c",
+            0.033211009174311926,
+            0.014128440366972478,
+            0.08568807339449541,
+            0.05825688073394495,
+            0.09403669724770643,
+            0.08027522935779817
+        ],
+        [
+            "M",
+            0.13623853211009174,
+            0.8020183486238532,
+            "c",
+            0.012293577981651376,
+            0.006238532110091744,
+            0.02522935779816514,
+            0.004403669724770642,
+            0.03256880733944954,
+            -0.0076146788990825685,
+            "c",
+            0.0263302752293578,
+            -0.042844036697247706,
+            0.0526605504587156,
+            -0.09522935779816515,
+            0.07660550458715595,
+            -0.14990825688073395
+        ],
+        [
+            "M",
+            0.43238532110091743,
+            0.1518348623853211,
+            "c",
+            0.019357798165137614,
+            0.0077981651376146785,
+            0.03853211009174312,
+            0.005412844036697248,
+            0.058440366972477065,
+            0.0037614678899082566,
+            "c",
+            0.06697247706422019,
+            -0.005412844036697248,
+            0.2334862385321101,
+            -0.02220183486238532,
+            0.24440366972477065,
+            -0.023853211009174313,
+            "c",
+            0.013394495412844036,
+            -0.002018348623853211,
+            0.02853211009174312,
+            0.005871559633027523,
+            0.02688073394495413,
+            0.020275229357798165,
+            "c",
+            -0.005504587155963302,
+            0.049082568807339445,
+            -0.01908256880733945,
+            0.11605504587155964,
+            -0.024311926605504585,
+            0.15788990825688073,
+            "c",
+            -0.002018348623853211,
+            0.016238532110091745,
+            -0.003853211009174312,
+            0.029724770642201838,
+            -0.005229357798165137,
+            0.03880733944954129
+        ],
+        [
+            "M",
+            0.4253211009174312,
+            0.2503669724770642,
+            "c",
+            0.025412844036697246,
+            0.005321100917431192,
+            0.044954128440366975,
+            0.0017431192660550458,
+            0.06440366972477064,
+            0.00009174311926605505,
+            "c",
+            0.08697247706422019,
+            -0.007522935779816513,
+            0.13761467889908258,
+            -0.014220183486238533,
+            0.2508256880733945,
+            -0.020825688073394497
+        ],
+        [
+            "M",
+            0.42403669724770643,
+            0.34587155963302757,
+            "c",
+            0.01798165137614679,
+            0.00834862385321101,
+            0.041009174311926605,
+            0.004220183486238533,
+            0.059908256880733944,
+            0.002477064220183486,
+            "c",
+            0.08660550458715596,
+            -0.008073394495412844,
+            0.14513761467889907,
+            -0.015963302752293577,
+            0.24614678899082568,
+            -0.02522935779816514
+        ],
+        [
+            "M",
+            0.3876146788990826,
+            0.44036697247706424,
+            "c",
+            -0.0006422018348623854,
+            0.029357798165137616,
+            -0.014954128440366971,
+            0.10614678899082569,
+            -0.020091743119266054,
+            0.12357798165137615
+        ],
+        [
+            "M",
+            0.39724770642201834,
+            0.4565137614678899,
+            "c",
+            0.09706422018348623,
+            -0.00926605504587156,
+            0.2426605504587156,
+            -0.029908256880733942,
+            0.3921100917431193,
+            -0.03990825688073394,
+            "c",
+            0.11256880733944953,
+            -0.007522935779816513,
+            0.01889908256880734,
+            0.06596330275229358,
+            0.00834862385321101,
+            0.07568807339449542
+        ],
+        [
+            "M",
+            0.4603669724770642,
+            0.5599999999999999,
+            "c",
+            0.019633027522935782,
+            0.003577981651376147,
+            0.036146788990825685,
+            0.0025688073394495416,
+            0.05587155963302752,
+            -0.0009174311926605505,
+            "c",
+            0.0426605504587156,
+            -0.0074311926605504595,
+            0.13541284403669723,
+            -0.023944954128440367,
+            0.16394495412844037,
+            -0.030642201834862385,
+            "c",
+            0.03311926605504587,
+            -0.0077981651376146785,
+            0.04688073394495413,
+            0.007064220183486239,
+            0.02853211009174312,
+            0.03504587155963303,
+            "C",
+            0.6241284403669725,
+            0.6926605504587156,
+            0.5,
+            0.7992660550458716,
+            0.3688073394495413,
+            0.8555045871559633
+        ],
+        [
+            "M",
+            0.438348623853211,
+            0.6079816513761468,
+            "c",
+            0.059357798165137615,
+            0.0021100917431192663,
+            0.19357798165137616,
+            0.1328440366972477,
+            0.326605504587156,
+            0.2196330275229358,
+            "c",
+            0.02853211009174312,
+            0.01862385321100917,
+            0.04926605504587156,
+            0.02330275229357798,
+            0.08174311926605504,
+            0.03642201834862385
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "漬",
+                    "つ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to soak (in); to steep; to dip; to dunk 彼はスプーンをスープの中につけた。He dipped his spoon into the soup."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to pickle; to preserve (in salt, vinegar, etc.) Only applies to 漬ける"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "浸ける 【つける】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to soak (in); to steep; to dip; to dunk 彼はスプーンをスープの中につけた。He dipped his spoon into the soup."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to pickle; to preserve (in salt, vinegar, etc.) Only applies to 漬ける"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "浸ける 【つける】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "スプーン",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "スープ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "中",
+                            "なか"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "つけた",
+                            null
+                        ]
+                    ],
+                    "translation": "He dipped his spoon into the soup."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "染",
+                    "し"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to pierce; to penetrate; to soak in; to permeate Usually written using kana alone彼の忠告が骨身に染みた。His advice cut me to the quick."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to sting (wound or sensitive area, etc.); to smart; to twinge Usually written using kana alone, Only applies to 染みる, Only applies to 沁みる石けんが目にしみました。The soap hurt my eyes."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to be infected (with vice); to be steeped (with prejudice); to be influenced Usually written using kana alone"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to feel keenly; to make a deep impression Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "沁みる 【しみる】、滲みる 【しみる】、浸みる 【しみる】、泌みる 【しみる】"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to pierce; to penetrate; to soak in; to permeate Usually written using kana alone彼の忠告が骨身に染みた。His advice cut me to the quick."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to sting (wound or sensitive area, etc.); to smart; to twinge Usually written using kana alone, Only applies to 染みる, Only applies to 沁みる石けんが目にしみました。The soap hurt my eyes."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to be infected (with vice); to be steeped (with prejudice); to be influenced Usually written using kana alone"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to feel keenly; to make a deep impression Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "沁みる 【しみる】、滲みる 【しみる】、浸みる 【しみる】、泌みる 【しみる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "忠告",
+                            "ちゅうこく"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "骨身",
+                            "ほねみ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "染みた",
+                            null
+                        ]
+                    ],
+                    "translation": "His advice cut me to the quick."
+                },
+                {
+                    "sentence": [
+                        [
+                            "石けん",
+                            "せっ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "目",
+                            "め"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "しみました",
+                            null
+                        ]
+                    ],
+                    "translation": "The soap hurt my eyes."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "ひた"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to soak; to dip; to steep; to immerse "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to moisten; to wet "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漬す 【ひたす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "漬す: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to soak; to dip; to steep; to immerse "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to moisten; to wet "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漬す 【ひたす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "漬す: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "透",
+                    "とう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. permeation (of thought, ideology, culture, etc.); infiltration (e.g. of ideas); spread; penetration (e.g. into a market); pervasion "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. permeation (of a liquid, etc.); soaking; percolation "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. osmosis Chemistry, Biology"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Osmosis Osmosis is the net movement of solvent molecules through ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "滲透 【しんとう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "滲透: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. permeation (of thought, ideology, culture, etc.); infiltration (e.g. of ideas); spread; penetration (e.g. into a market); pervasion "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. permeation (of a liquid, etc.); soaking; percolation "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "3. osmosis Chemistry, Biology"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Osmosis Osmosis is the net movement of solvent molecules through ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "滲透 【しんとう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "滲透: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "水",
+                    "すい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. inundation; submersion; flood "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. inundation; submersion; flood "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "ひた"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be soaked in; to be flooded; to be submerged "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be immersed in (joy, memories, alcohol, etc.); to give oneself over to; to bask in 私はその場の幸福な雰囲気に浸っていた。I was immersed in the happy atmosphere of the occasion."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漬る 【ひたる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be soaked in; to be flooded; to be submerged "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be immersed in (joy, memories, alcohol, etc.); to give oneself over to; to bask in 私はその場の幸福な雰囲気に浸っていた。I was immersed in the happy atmosphere of the occasion."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漬る 【ひたる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "その場",
+                            "そのば"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "幸福な",
+                            "こうふく"
+                        ],
+                        [
+                            "雰囲気",
+                            "ふんいき"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "浸っていた",
+                            "ひた"
+                        ]
+                    ],
+                    "translation": "I was immersed in the happy atmosphere of the occasion."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "つ"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be submerged; to be soaked 少女はひざまで水につかった。The girl stood up to her knees in the water."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be pickled; to be well seasoned esp. 漬かる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to be totally immersed (in a condition, e.g. laziness) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漬かる 【つかる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be submerged; to be soaked 少女はひざまで水につかった。The girl stood up to her knees in the water."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be pickled; to be well seasoned esp. 漬かる"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to be totally immersed (in a condition, e.g. laziness) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漬かる 【つかる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "少女",
+                            "しょうじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ひざ",
+                            null
+                        ],
+                        [
+                            "まで",
+                            null
+                        ],
+                        [
+                            "水",
+                            "みず"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "つかった",
+                            null
+                        ]
+                    ],
+                    "translation": "The girl stood up to her knees in the water."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. erosion; corrosion Geology"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "浸蝕 【しんしょく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "浸蝕: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. erosion; corrosion Geology"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "浸蝕 【しんしょく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "浸蝕: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "ひた"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "物",
+                    "もの"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. boiled greens flavored with soy (flavoured) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. boiled greens flavored with soy (flavoured) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "礼",
+                    "れい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. baptism by immersion "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Immersion baptism Immersion baptism (also known as baptism by immersion or,... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. baptism by immersion "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Immersion baptism Immersion baptism (also known as baptism by immersion or,... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "透",
+                    "とう"
+                ],
+                [
+                    "探",
+                    "たん"
+                ],
+                [
+                    "傷",
+                    "しょう"
+                ],
+                [
+                    "検",
+                    "けん"
+                ],
+                [
+                    "査",
+                    "さ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. penetrant inspection; PI; penetrant examination; penetrant test "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Dye penetrant inspection Dye penetrant inspection (DPI), also called liquid penetr... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. penetrant inspection; PI; penetrant examination; penetrant test "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Dye penetrant inspection Dye penetrant inspection (DPI), also called liquid penetr... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "透",
+                    "とう"
+                ],
+                [
+                    "圧",
+                    "あつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. osmotic pressure "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Osmotic pressure Osmotic pressure is the pressure which needs to be applie... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. osmotic pressure "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Osmotic pressure Osmotic pressure is the pressure which needs to be applie... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "滲",
+                    "しん"
+                ],
+                [
+                    "炭",
+                    "たん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. carburizing; carburising; cementation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "浸炭 【しんたん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "潤",
+                    "じゅん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. infiltration (of a liquid); permeation "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. spread (of a political ideology, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "潤",
+                    "じゅん"
+                ],
+                [
+                    "性",
+                    "せい"
+                ],
+                [
+                    "腫",
+                    "しゅ"
+                ],
+                [
+                    "瘍",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. invasive tumor; invasive tumour "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "滲",
+                    "しん"
+                ],
+                [
+                    "入",
+                    "にゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. permeation "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. permeation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "入",
+                    "にゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. infiltration (e.g. of water); flooding "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "置",
+                    "お"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. soaking (dirty laundry, dishes etc., before washing) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "浸け置き 【つけおき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "出",
+                    "しゅつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Transitive verb",
+                    "meaning": "1. infiltration; permeation; exudation; percolation; effusion; extraction Chemistry"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "滲出 【しんしゅつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漬",
+                    "つ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "ぱ",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. leaving (something) to soak See also っぱなし"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "浸けっぱなし 【つけっぱなし】、漬けっ放し 【つけっぱなし】、浸けっ放し 【つけっぱなし】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. leaving (something) to soak See also っぱなし"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "浸けっぱなし 【つけっぱなし】、漬けっ放し 【つけっぱなし】、浸けっ放し 【つけっぱなし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "浸透実験池",
+                "しんとうじっけんいけ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Shintoujikken'ike "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "水",
+                    "みず"
+                ],
+                [
+                    "浸",
+                    "びた"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. submersion; inundation; being flooded "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "水びたし 【みずびたし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "浸",
+                    "びた"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to stay long; to hang around; to hang out; to frequent 親が仕事で忙しいのをいいことに子供が友達の家に入り浸ってしまっている。Since her parents were busy at work all the time, she spent a lot of her time at her friend's house."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be immersed (in water) for a long time; to soak "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "入りびたる 【いりびたる】、入浸る 【いりびたる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "親",
+                            "おや"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "忙しい",
+                            "いそが"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "いい",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "子供",
+                            "こども"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "友達",
+                            "ともだち"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "家",
+                            "いえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "入り浸って",
+                            "いりびた"
+                        ],
+                        [
+                            "しまっている",
+                            null
+                        ]
+                    ],
+                    "translation": "Since her parents were busy at work all the time, she spent a lot of her time at her friend's house."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "逆",
+                    "ぎゃく"
+                ],
+                [
+                    "浸",
+                    "しん"
+                ],
+                [
+                    "透",
+                    "とう"
+                ],
+                [
+                    "膜",
+                    "まく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reverse osmosis membrane "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Reverse osmosis Reverse osmosis (RO) is a membrane-technology filtration ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "浸",
+                    "ひた"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. boiled greens in bonito-flavoured soy sauce (vegetable side dish) Food, cooking, Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "お浸し 【おしたし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "酒",
+                    "さけ"
+                ],
+                [
+                    "浸",
+                    "びた"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. liquor-soaked "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. continuous drinking; daily drinking; binge drinking "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "酒浸り 【さかびたり】、酒びたり 【さけびたり】、酒びたり 【さかびたり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "浸",
+                    "びた"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. frequenting; staying around "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

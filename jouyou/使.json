@@ -1,0 +1,1617 @@
+{
+    "kanji": "使",
+    "grade": 3,
+    "jlpt": 4,
+    "meanings": [
+        "use",
+        "send on a mission",
+        "order",
+        "messenger",
+        "envoy",
+        "ambassador",
+        "cause"
+    ],
+    "kun": [
+        "つか.う",
+        "つか.い",
+        "-つか.い",
+        "-づか.い"
+    ],
+    "on": [
+        "シ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.29825688073394496,
+            0.16743119266055045,
+            "c",
+            0.0021100917431192663,
+            0.017339449541284403,
+            -0.0005504587155963302,
+            0.037706422018348625,
+            -0.007339449541284404,
+            0.05256880733944955,
+            "C",
+            0.2479816513761468,
+            0.3144954128440367,
+            0.19376146788990828,
+            0.41284403669724773,
+            0.09522935779816515,
+            0.518348623853211
+        ],
+        [
+            "M",
+            0.22504587155963304,
+            0.3922018348623853,
+            "c",
+            0.008440366972477065,
+            0.008440366972477065,
+            0.016055045871559634,
+            0.022935779816513763,
+            0.015963302752293577,
+            0.034403669724770644,
+            "c",
+            -0.0002752293577981651,
+            0.09779816513761468,
+            -0.001834862385321101,
+            0.30000000000000004,
+            -0.0023853211009174312,
+            0.40825688073394495,
+            "C",
+            0.23862385321100918,
+            0.8582568807339449,
+            0.23853211009174313,
+            0.8772477064220184,
+            0.23853211009174313,
+            0.8899082568807339
+        ],
+        [
+            "M",
+            0.4036697247706422,
+            0.28110091743119264,
+            "c",
+            0.013027522935779816,
+            0.0034862385321100917,
+            0.03706422018348624,
+            0.002752293577981651,
+            0.05,
+            0.0011926605504587156,
+            "c",
+            0.0773394495412844,
+            -0.009357798165137614,
+            0.2011926605504587,
+            -0.025412844036697246,
+            0.2896330275229358,
+            -0.03330275229357798,
+            "c",
+            0.021559633027522937,
+            -0.001926605504587156,
+            0.034770642201834866,
+            0.0016513761467889907,
+            0.04568807339449542,
+            0.0033944954128440367
+        ],
+        [
+            "M",
+            0.38990825688073394,
+            0.39623853211009175,
+            "c",
+            0.010275229357798166,
+            0.005137614678899083,
+            0.018256880733944953,
+            0.017798165137614678,
+            0.019908256880733943,
+            0.02522935779816514,
+            "c",
+            0.007247706422018349,
+            0.03357798165137615,
+            0.015504587155963302,
+            0.07889908256880733,
+            0.022752293577981652,
+            0.12330275229357798,
+            "c",
+            0.001559633027522936,
+            0.009541284403669725,
+            0.003027522935779817,
+            0.01908256880733945,
+            0.004495412844036697,
+            0.02834862385321101
+        ],
+        [
+            "M",
+            0.41807339449541286,
+            0.41091743119266055,
+            "c",
+            0.07577981651376146,
+            -0.011192660550458715,
+            0.24825688073394495,
+            -0.03247706422018349,
+            0.33440366972477065,
+            -0.04018348623853211,
+            "c",
+            0.040091743119266054,
+            -0.003577981651376147,
+            0.05376146788990826,
+            0.01688073394495413,
+            0.04146788990825688,
+            0.04779816513761468,
+            "c",
+            -0.01330275229357798,
+            0.03357798165137615,
+            -0.02238532110091743,
+            0.0536697247706422,
+            -0.039449541284403665,
+            0.09917431192660552
+        ],
+        [
+            "M",
+            0.4427522935779816,
+            0.5467889908256881,
+            "c",
+            0.04339449541284404,
+            -0.004036697247706422,
+            0.20853211009174313,
+            -0.016972477064220184,
+            0.3015596330275229,
+            -0.02238532110091743,
+            "c",
+            0.015596330275229357,
+            -0.0009174311926605505,
+            0.02908256880733945,
+            -0.0016513761467889907,
+            0.03972477064220183,
+            -0.002018348623853211
+        ],
+        [
+            "M",
+            0.5814678899082569,
+            0.11862385321100917,
+            "c",
+            0.011192660550458715,
+            0.011192660550458715,
+            0.01275229357798165,
+            0.023577981651376145,
+            0.013211009174311925,
+            0.04422018348623853,
+            "C",
+            0.6055045871559633,
+            0.6422018348623854,
+            0.6111926605504587,
+            0.7454128440366973,
+            0.33715596330275227,
+            0.8715596330275229
+        ],
+        [
+            "M",
+            0.4036697247706422,
+            0.6227522935779816,
+            "c",
+            0.06651376146788991,
+            0.0034862385321100917,
+            0.25724770642201833,
+            0.14862385321100915,
+            0.37467889908256885,
+            0.20724770642201834,
+            "c",
+            0.02311926605504587,
+            0.011467889908256881,
+            0.040458715596330276,
+            0.021009174311926605,
+            0.0691743119266055,
+            0.027889908256880733
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "使",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. messenger "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. police and judicial chief (Heian and Kamakura periods) Abbreviation, See also 検非違使"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. klesha (polluting thoughts such as greed, hatred and delusion, which result in suffering) Buddhism, See also 煩悩"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to use (a tool, method, etc.); to make use of; to put to use 「あなたの辞書を使ってもいいですか」「はい、どうぞ」\"Can I use your dictionary?\" \"Yes, here you are.\""
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to use (a person, animal, puppet, etc.); to employ; to handle; to manage; to manipulate アジア諸国などから出稼ぎにきた外国人をメイドとして使うのが常識のようになっている。It has become common practise to employ foreigners working abroad from Asian countries as maids."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "3. to use (time, money, etc.); to spend; to consume お湯を全部使わないで。Don't use all the hot water."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "4. to use (language); to speak "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "遣う 【つかう】"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to use (a tool, method, etc.); to make use of; to put to use 「あなたの辞書を使ってもいいですか」「はい、どうぞ」\"Can I use your dictionary?\" \"Yes, here you are.\""
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to use (a person, animal, puppet, etc.); to employ; to handle; to manage; to manipulate アジア諸国などから出稼ぎにきた外国人をメイドとして使うのが常識のようになっている。It has become common practise to employ foreigners working abroad from Asian countries as maids."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "3. to use (time, money, etc.); to spend; to consume お湯を全部使わないで。Don't use all the hot water."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "4. to use (language); to speak "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "遣う 【つかう】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "辞書",
+                            "じしょ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "使って",
+                            "つか"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "いい",
+                            null
+                        ],
+                        [
+                            "ですか",
+                            null
+                        ],
+                        [
+                            "はい",
+                            null
+                        ],
+                        [
+                            "どうぞ",
+                            null
+                        ]
+                    ],
+                    "translation": "\"Can I use your dictionary?\" \"Yes, here you are.\""
+                },
+                {
+                    "sentence": [
+                        [
+                            "アジア諸国",
+                            "アジアしょこく"
+                        ],
+                        [
+                            "など",
+                            null
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "出稼ぎ",
+                            "でかせ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "きた",
+                            null
+                        ],
+                        [
+                            "外国人",
+                            "がいこくじん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "メイド",
+                            null
+                        ],
+                        [
+                            "として",
+                            null
+                        ],
+                        [
+                            "使う",
+                            "つか"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "常識",
+                            "じょうしき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ようになっている",
+                            null
+                        ]
+                    ],
+                    "translation": "It has become common practise to employ foreigners working abroad from Asian countries as maids."
+                },
+                {
+                    "sentence": [
+                        [
+                            "お湯",
+                            "おゆ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "全部",
+                            "ぜんぶ"
+                        ],
+                        [
+                            "使わないで",
+                            "つか"
+                        ]
+                    ],
+                    "translation": "Don't use all the hot water."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "し"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. use; application; employment; utilization; utilisation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. use; application; employment; utilization; utilisation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. errand; mission; going on an errand 使いの途中道草をくうな。Don't delay on this errand."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. messenger; bearer; errand boy; errand girl "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. familiar spirit See also 使い魔"
+                },
+                {
+                    "type": "Noun, used as a suffix, Noun, used as a prefix",
+                    "meaning": "4. use; usage; user; trainer; tamer; handler; charmer See also 筆使い, See also 魔法使い, See also 蛇使い, oft. read づかい when used as a suffixひとことで言えば、彼はおべっか使いだ。In a word, he is a flatterer."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "遣い 【つかい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. errand; mission; going on an errand 使いの途中道草をくうな。Don't delay on this errand."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. messenger; bearer; errand boy; errand girl "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. familiar spirit See also 使い魔"
+                },
+                {
+                    "type": "Noun, used as a suffix, Noun, used as a prefix",
+                    "meaning": "4. use; usage; user; trainer; tamer; handler; charmer See also 筆使い, See also 魔法使い, See also 蛇使い, oft. read づかい when used as a suffixひとことで言えば、彼はおべっか使いだ。In a word, he is a flatterer."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "遣い 【つかい】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "使い",
+                            "つか"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "途中",
+                            "とちゅう"
+                        ],
+                        [
+                            "道草をくう",
+                            "みちくさ"
+                        ],
+                        [
+                            "な",
+                            null
+                        ]
+                    ],
+                    "translation": "Don't delay on this errand."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ひとことで言えば",
+                            "ひとことでい"
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "おべっか",
+                            null
+                        ],
+                        [
+                            "使い",
+                            "つか"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "In a word, he is a flatterer."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "し"
+                ],
+                [
+                    "命",
+                    "めい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. mission; errand "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. task; duty; obligation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. mission; errand "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. task; duty; obligation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "道",
+                    "みち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. purpose; utility; objective "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. way to use something "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使いみち 【つかいみち】、使い途 【つかいみち】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. purpose; utility; objective "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. way to use something "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使いみち 【つかいみち】、使い途 【つかいみち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "し"
+                ],
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "人",
+                    "にん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. employee; servant "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. employee; servant "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "捨",
+                    "す"
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. throwaway; disposable; single-use "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Disposable A disposable (also called disposable product) is a produc... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使い捨て 【つかいずて】、遣い捨て 【つかいすて】、遣い捨て 【つかいずて】、使い捨 【つかいすて】、使い捨 【つかいずて】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "使い捨: Irregular okurigana usage. 使い捨: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. throwaway; disposable; single-use "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Disposable A disposable (also called disposable product) is a produc... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使い捨て 【つかいずて】、遣い捨て 【つかいすて】、遣い捨て 【つかいずて】、使い捨 【つかいすて】、使い捨 【つかいずて】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "使い捨: Irregular okurigana usage. 使い捨: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "し"
+                ],
+                [
+                    "徒",
+                    "と"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. apostle; disciple "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Apostle (Christian) The term apostle is derived from Classical Greek ἀπόστολο... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. apostle; disciple "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Apostle (Christian) The term apostle is derived from Classical Greek ἀπόστολο... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "方",
+                    "かた"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. way of using (something); way to use; how to use; usage; use "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. way of handling (employees, subordinates, etc.); way of treating; treatment; management "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "遣い方 【つかいかた】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "遣い方: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. way of using (something); way to use; how to use; usage; use "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. way of handling (employees, subordinates, etc.); way of treating; treatment; management "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "遣い方 【つかいかた】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "遣い方: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "し"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. messenger; envoy; emissary "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. messenger; envoy; emissary "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "し"
+                ],
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. user; consumer 特定の文脈でどんな語を使うべきか知っている人は語の有効な使用者である。An effective writer is one who knows what sort of words should be employed in any specific context."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. employer "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "特定",
+                            "とくてい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "文脈",
+                            "ぶんみゃく"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "どんな",
+                            null
+                        ],
+                        [
+                            "語",
+                            "ご"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "使う",
+                            "つか"
+                        ],
+                        [
+                            "べき",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "知っている",
+                            "し"
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "語",
+                            "ご"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "有効な",
+                            "ゆうこう"
+                        ],
+                        [
+                            "使用者",
+                            "しようしゃ"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "An effective writer is one who knows what sort of words should be employed in any specific context."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. proper use; using (different things) for different purposes "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使いわけ 【つかいわけ】、使分け 【つかいわけ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "使分け: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "し"
+                ],
+                [
+                    "節",
+                    "せつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. envoy; ambassador; delegate; emissary; mission "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "果",
+                    "は"
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to use up; to squander "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使い果す 【つかいはたす】、遣い果たす 【つかいはたす】、遣い果す 【つかいはたす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to use up; to exhaust; to wear out "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使いきる 【つかいきる】、遣い切る 【つかいきる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to handle (men); to master (a tool); to manage; to acquire a command of (a language) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使い熟す 【つかいこなす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "使い熟す: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "慣",
+                    "な"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb",
+                    "meaning": "1. to get accustomed to using "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使いなれる 【つかいなれる】、使い馴れる 【つかいなれる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "走",
+                    "ばし"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. running errands (for someone else) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. errand boy; gofer; dogsbody "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使い走り 【つかいはしり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to embezzle; to misappropriate; to peculate "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to accustom oneself to using; to use for a long time "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "使いこむ 【つかいこむ】、遣い込む 【つかいこむ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "遣い込む: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "使",
+                "つかさ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Tsukasa "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "使主",
+                "おみ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Omi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "使村",
+                "しむら"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Shimura "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "たい"
+                ],
+                [
+                    "使",
+                    "し"
+                ],
+                [
+                    "館",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. embassy "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Diplomatic mission A diplomatic mission is a group of people from one state ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "たい"
+                ],
+                [
+                    "使",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. ambassador "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ambassador An ambassador is the highest ranking diplomat who represe... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "言",
+                    "こと"
+                ],
+                [
+                    "葉",
+                    "ば"
+                ],
+                [
+                    "遣",
+                    "づか"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. speech; expression; wording; language "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "言葉使い 【ことばづかい】、言葉づかい 【ことばづかい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "駄",
+                    "だ"
+                ],
+                [
+                    "遣",
+                    "づか"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. waste (of money, time, etc.); squandering; frittering away "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "無駄使い 【むだづかい】、徒遣い 【むだづかい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "無駄使い: Irregular kanji usage. 徒遣い: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. errand; mission; going on an errand Polite (teineigo) language, See also 使いあの子はよくお使いをする。The boy often runs errands."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. messenger; bearer; errand boy; errand girl Polite (teineigo) language"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. familiar spirit Polite (teineigo) language, Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "お遣い 【おつかい】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あの",
+                            null
+                        ],
+                        [
+                            "子",
+                            "こ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "よく",
+                            null
+                        ],
+                        [
+                            "お使い",
+                            "おつか"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "する",
+                            null
+                        ]
+                    ],
+                    "translation": "The boy often runs errands."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "使",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. angel "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Angel Angels, in a variety of religions, are regarded as spirit... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "魔",
+                    "ま"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "使",
+                    "つか"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. magician; wizard; sorcerer; witch; mage "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Magician (fantasy) A magician, mage, sorcerer, sorceress, wizard, enchanter,... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "魔法遣い 【まほうつかい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "魔法遣い: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "仮",
+                    "か"
+                ],
+                [
+                    "名",
+                    "な"
+                ],
+                [
+                    "遣",
+                    "づか"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kana orthography; syllabary spelling "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Kanazukai are the orthographic rules for spelling Japanese in kana.... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仮名遣 【かなづかい】、かな遣い 【かなづかい】、かな使い 【かなづかい】、仮名使い 【かなづかい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "使",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. use; exercise (of one's right, authority, power, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駆",
+                    "く"
+                ],
+                [
+                    "使",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. using freely; making full use of; having a good command of "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. working (someone) hard; driving (someone) on "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

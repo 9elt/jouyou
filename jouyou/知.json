@@ -1,0 +1,1566 @@
+{
+    "kanji": "知",
+    "grade": 2,
+    "jlpt": 4,
+    "meanings": [
+        "know",
+        "wisdom"
+    ],
+    "kun": [
+        "し.る",
+        "し.らせる"
+    ],
+    "on": [
+        "チ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2788073394495413,
+            0.14871559633027523,
+            "c",
+            0.005596330275229358,
+            0.011834862385321101,
+            0.0045871559633027525,
+            0.025045871559633028,
+            0.0006422018348623854,
+            0.03752293577981651,
+            "C",
+            0.26146788990825687,
+            0.24311926605504589,
+            0.22935779816513763,
+            0.32339449541284404,
+            0.16522935779816514,
+            0.405137614678899
+        ],
+        [
+            "M",
+            0.26522935779816514,
+            0.30944954128440366,
+            "c",
+            0.016422018348623852,
+            0,
+            0.020091743119266054,
+            0.0012844036697247708,
+            0.028256880733944955,
+            0,
+            "c",
+            0.03788990825688073,
+            -0.0057798165137614675,
+            0.07504587155963302,
+            -0.013944954128440367,
+            0.13559633027522935,
+            -0.02651376146788991,
+            "c",
+            0.017522935779816513,
+            -0.003577981651376147,
+            0.03541284403669725,
+            -0.004311926605504587,
+            0.05027522935779817,
+            -0.0009174311926605505
+        ],
+        [
+            "M",
+            0.11211009174311927,
+            0.5245871559633027,
+            "c",
+            0.02284403669724771,
+            0.004678899082568807,
+            0.044954128440366975,
+            0.004220183486238533,
+            0.06798165137614678,
+            0.0013761467889908255,
+            "c",
+            0.06990825688073395,
+            -0.008715596330275228,
+            0.18000000000000002,
+            -0.023669724770642202,
+            0.27073394495412845,
+            -0.034678899082568805,
+            "c",
+            0.015779816513761466,
+            -0.001926605504587156,
+            0.035321100917431195,
+            -0.00045871559633027525,
+            0.049082568807339445,
+            0.0023853211009174312
+        ],
+        [
+            "M",
+            0.34844036697247704,
+            0.3302752293577982,
+            "c",
+            0.003669724770642202,
+            0.012110091743119267,
+            0.005412844036697248,
+            0.023944954128440367,
+            0.005321100917431192,
+            0.03889908256880734,
+            "c",
+            -0.0016513761467889907,
+            0.22944954128440367,
+            -0.07963302752293577,
+            0.39339449541284405,
+            -0.22706422018348624,
+            0.47642201834862385
+        ],
+        [
+            "M",
+            0.36009174311926606,
+            0.6032110091743119,
+            "c",
+            0.05504587155963303,
+            0.0389908256880734,
+            0.10660550458715595,
+            0.0998165137614679,
+            0.13073394495412843,
+            0.1536697247706422
+        ],
+        [
+            "M",
+            0.5412844036697247,
+            0.41229357798165134,
+            "c",
+            0.008899082568807339,
+            0.008899082568807339,
+            0.015963302752293577,
+            0.016972477064220184,
+            0.019174311926605504,
+            0.030733944954128442,
+            "c",
+            0.01091743119266055,
+            0.04559633027522936,
+            0.02,
+            0.1408256880733945,
+            0.02981651376146789,
+            0.22192660550458718,
+            "c",
+            0.0014678899082568807,
+            0.012110091743119267,
+            0.0028440366972477065,
+            0.023669724770642202,
+            0.004128440366972477,
+            0.03458715596330275
+        ],
+        [
+            "M",
+            0.5663302752293577,
+            0.42550458715596334,
+            "c",
+            0.07853211009174313,
+            -0.011192660550458715,
+            0.19412844036697247,
+            -0.02532110091743119,
+            0.25247706422018346,
+            -0.031926605504587154,
+            "c",
+            0.01853211009174312,
+            -0.0021100917431192663,
+            0.03779816513761468,
+            0.008899082568807339,
+            0.03385321100917431,
+            0.03055045871559633,
+            "c",
+            -0.007889908256880733,
+            0.04275229357798165,
+            -0.027981651376146787,
+            0.15614678899082568,
+            -0.04,
+            0.21642201834862385
+        ],
+        [
+            "M",
+            0.5963302752293578,
+            0.674862385321101,
+            "c",
+            0.06009174311926605,
+            -0.008532110091743119,
+            0.12954128440366972,
+            -0.014862385321100919,
+            0.20220183486238533,
+            -0.022477064220183487,
+            "c",
+            0.010458715596330274,
+            -0.0011009174311926604,
+            0.021009174311926605,
+            -0.002201834862385321,
+            0.031743119266055046,
+            -0.0033944954128440367
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wisdom 富は一生の宝、知は万代の宝。Wisdom is better than gold or silver."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. jnana (higher knowledge) Buddhism"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "智 【ち】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "富",
+                            "とみ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "一生",
+                            "いっしょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "宝",
+                            "たから"
+                        ],
+                        [
+                            "知",
+                            "ち"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "万代",
+                            "ばんだい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "宝",
+                            "たから"
+                        ]
+                    ],
+                    "translation": "Wisdom is better than gold or silver."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "識",
+                    "しき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. knowledge; information "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Knowledge Knowledge is a familiarity with someone or something, whi... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "智識 【ちしき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "智識: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. knowledge; information "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Knowledge Knowledge is a familiarity with someone or something, whi... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "智識 【ちしき】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "智識: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "恵",
+                    "え"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wisdom; wit; sagacity; sense; intelligence 彼は知恵のある人だ。He is a man of wisdom."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. prajna (insight leading to enlightenment) Buddhism, usu. 智慧"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Wisdom of Wisdom]] Wisdom is a deep understanding and realizatio... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "智恵 【ちえ】、智慧 【ちえ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. wisdom; wit; sagacity; sense; intelligence 彼は知恵のある人だ。He is a man of wisdom."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. prajna (insight leading to enlightenment) Buddhism, usu. 智慧"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Wisdom of Wisdom]] Wisdom is a deep understanding and realizatio... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "智恵 【ちえ】、智慧 【ちえ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "知恵",
+                            "ちえ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "He is a man of wisdom."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. prefectural governor "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Governor A governor (from French gouverneur) is a governing offici... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. prefectural governor "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Governor A governor (from French gouverneur) is a governing offici... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "能",
+                    "のう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. intelligence; intellect; brains "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Intelligence Intelligence has been defined in many different ways, inc... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "智能 【ちのう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "智能: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. intelligence; intellect; brains "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Intelligence Intelligence has been defined in many different ways, inc... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "智能 【ちのう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "智能: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover あなたは１９９０年から彼女を知っているのですか？Have you known her since 1990?"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to sense; to feel; to notice; to realize 私は自分が感じたことを言えるのが必要であることを知った。I find it necessary to be able to say what I feel."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to understand; to comprehend; to grasp; to appreciate "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "4. to remember; to be familiar with; to be acquainted with "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "5. to experience; to go through; to know (e.g. hardship) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "6. to get acquainted with (a person); to get to know "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "7. to have to do with; to be concerned with; to be one's concern; to be one's responsibility usu. with neg. sentence"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "識る 【しる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover あなたは１９９０年から彼女を知っているのですか？Have you known her since 1990?"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to sense; to feel; to notice; to realize 私は自分が感じたことを言えるのが必要であることを知った。I find it necessary to be able to say what I feel."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to understand; to comprehend; to grasp; to appreciate "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "4. to remember; to be familiar with; to be acquainted with "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "5. to experience; to go through; to know (e.g. hardship) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "6. to get acquainted with (a person); to get to know "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "7. to have to do with; to be concerned with; to be one's concern; to be one's responsibility usu. with neg. sentence"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "識る 【しる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "年",
+                            "ねん"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "知っているの",
+                            "し"
+                        ],
+                        [
+                            "ですか",
+                            null
+                        ]
+                    ],
+                    "translation": "Have you known her since 1990?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "感じた",
+                            "かん"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "言える",
+                            "い"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "必要",
+                            "ひつよう"
+                        ],
+                        [
+                            "である",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "知った",
+                            "し"
+                        ]
+                    ],
+                    "translation": "I find it necessary to be able to say what I feel."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to notify; to advise; to inform "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "報せる 【しらせる】"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to notify; to advise; to inform "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "報せる 【しらせる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "せ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. news; word; tidings; notice; notification; information See also お知らせ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. omen; foreboding; premonition "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "報せ 【しらせ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "報せ: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. news; word; tidings; notice; notification; information See also お知らせ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. omen; foreboding; premonition "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "報せ 【しらせ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "報せ: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. acquaintance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "知合い 【しりあい】、知りあい 【しりあい】、知り合 【しりあい】、知合 【しりあい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. acquaintance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "知合い 【しりあい】、知りあい 【しりあい】、知り合 【しりあい】、知合 【しりあい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "人",
+                    "じん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. friend; acquaintance "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. friend; acquaintance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. intellectual "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. intellectual "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. intelligence "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. intelligence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "識",
+                    "しき"
+                ],
+                [
+                    "人",
+                    "じん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. intellectual See also インテリ"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Intellectual An intellectual is a person who primarily uses intelligen... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. intellectual See also インテリ"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Intellectual An intellectual is a person who primarily uses intelligen... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. perception; sensation; awareness "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Perception Perception (from the Latin perceptio, percipio) is the or... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "智覚 【ちかく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "智覚: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. perception; sensation; awareness "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Perception Perception (from the Latin perceptio, percipio) is the or... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "智覚 【ちかく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "智覚: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "能",
+                    "のう"
+                ],
+                [
+                    "指",
+                    "し"
+                ],
+                [
+                    "数",
+                    "すう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. intelligence quotient; IQ "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Intelligence quotient An intelligence quotient, or IQ, is a score derived from ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to get to know each other; to make acquaintance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "知合う 【しりあう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "顔",
+                    "かお"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. feigned ignorance; pretending not to know; pretending not to recognize (someone); ignoring 彼女は私に知らん顔をして歩いていってしまった。She walked away without acknowledging me."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. unconcerned air; indifference; nonchalance 彼女は知らん顔をした。She assumed an air of indifference."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "知らん顔",
+                            "しらんかお"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "歩いて",
+                            "ある"
+                        ],
+                        [
+                            "いって",
+                            null
+                        ],
+                        [
+                            "しまった",
+                            null
+                        ]
+                    ],
+                    "translation": "She walked away without acknowledging me."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "知らん顔",
+                            "しらんかお"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "She assumed an air of indifference."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "名",
+                    "めい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. well-known "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to become known; to come to light; to be discovered See also お里が知れる"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to be known; to be understood See also 気が知れない, See also 得体の知れない, usu. in the negative"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to clearly not amount to much; to be insignificant See also 高が知れている"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to be evident; to be obvious; to go without saying as 知れたこと"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to be very intense (of worry, hope, etc.); to be severe as どんなに…か知れない, どれほど...か知れない, etc."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "に",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. before one knows it; before one realises; without one's knowledge; without noticing See also 知らない間に"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "知",
+                "さとし"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Male given name",
+                    "meaning": "1. Satoshi "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Satori "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Satoru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ご",
+                    null
+                ],
+                [
+                    "存",
+                    "ぞんじ"
+                ],
+                [
+                    "知",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. knowing; being aware (of) Honorific or respectful (sonkeigo) languageご存知だとは思いますが、クオーターしかつかえませんよ。This only takes quarters, you know."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (an) acquaintance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ご存じ 【ごぞんじ】、御存知 【ごぞんじ】、御存じ 【ごぞんじ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ご存知: Ateji (phonetic) reading. 御存知: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ご存知",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "思います",
+                            "おも"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "クオーター",
+                            null
+                        ],
+                        [
+                            "しか",
+                            null
+                        ],
+                        [
+                            "つかえません",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "This only takes quarters, you know."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "無",
+                    "む"
+                ],
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. ignorance; innocence; stupidity "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ignorance Ignorance is a state of being uninformed. The word ignora... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "無智 【むち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. knowledge; awareness 人はすべて死すべきものと承知している。We know that all men are mortal."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. acceptance; consent; assent; agreement; compliance; acknowledgment; acknowledgement よろしい。お申し出は承知しました。All right. I'll accept your offer."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. forgiving; pardoning; excusing usu. in the negative"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "すべて",
+                            null
+                        ],
+                        [
+                            "死すべき",
+                            "し"
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "承知",
+                            "しょうち"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "We know that all men are mortal."
+                },
+                {
+                    "sentence": [
+                        [
+                            "よろしい",
+                            null
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "申し出",
+                            "もうしで"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "承知",
+                            "しょうち"
+                        ],
+                        [
+                            "しました",
+                            null
+                        ]
+                    ],
+                    "translation": "All right. I'll accept your offer."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "通",
+                    "つう"
+                ],
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. notice; notification; report; posting "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. notification (on a smartphone, PC, etc.) Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "未",
+                    "み"
+                ],
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. not yet known; unknown; strange Antonym: 既知"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "予",
+                    "よ"
+                ],
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. foresight; foreknowledge; intimation; premonition; prediction "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Precognition In parapsychology, precognition (from the Latin præ-, “be... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "人",
+                    "ひと"
+                ],
+                [
+                    "見",
+                    "み"
+                ],
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. shyness; fear of strangers; stranger anxiety "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shyness In humans, shyness (also called diffidence) is a social p... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

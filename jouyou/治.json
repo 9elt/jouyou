@@ -1,0 +1,1380 @@
+{
+    "kanji": "治",
+    "grade": 4,
+    "jlpt": 3,
+    "meanings": [
+        "reign",
+        "be at peace",
+        "calm down",
+        "subdue",
+        "quell",
+        "govt",
+        "cure",
+        "heal",
+        "rule",
+        "conserve"
+    ],
+    "kun": [
+        "おさ.める",
+        "おさ.まる",
+        "なお.る",
+        "なお.す"
+    ],
+    "on": [
+        "ジ",
+        "チ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.24541284403669725,
+            0.1720183486238532,
+            "c",
+            0.03889908256880734,
+            0.012660550458715595,
+            0.10036697247706422,
+            0.052201834862385325,
+            0.11009174311926606,
+            0.07192660550458715
+        ],
+        [
+            "M",
+            0.16743119266055045,
+            0.4013761467889908,
+            "c",
+            0.04293577981651376,
+            0.01128440366972477,
+            0.11082568807339449,
+            0.04660550458715596,
+            0.12155963302752294,
+            0.06422018348623854
+        ],
+        [
+            "M",
+            0.17779816513761468,
+            0.8325688073394495,
+            "c",
+            0.009357798165137614,
+            0.0013761467889908255,
+            0.020642201834862386,
+            -0.002201834862385321,
+            0.0263302752293578,
+            -0.011834862385321101,
+            "c",
+            0.027614678899082565,
+            -0.04678899082568807,
+            0.05522935779816513,
+            -0.10394495412844036,
+            0.08027522935779817,
+            -0.16357798165137613
+        ],
+        [
+            "M",
+            0.5971559633027523,
+            0.1651376146788991,
+            "c",
+            0.006055045871559634,
+            0.013761467889908258,
+            0.001926605504587156,
+            0.031743119266055046,
+            -0.0074311926605504595,
+            0.04706422018348624,
+            "c",
+            -0.062293577981651374,
+            0.1020183486238532,
+            -0.10642201834862385,
+            0.16642201834862386,
+            -0.16587155963302752,
+            0.2486238532110092,
+            "c",
+            -0.02348623853211009,
+            0.03238532110091743,
+            -0.022110091743119266,
+            0.03715596330275229,
+            0.010183486238532111,
+            0.029908256880733942,
+            "c",
+            0.08201834862385321,
+            -0.018256880733944953,
+            0.24651376146788992,
+            -0.06247706422018348,
+            0.3587155963302752,
+            -0.09036697247706421
+        ],
+        [
+            "M",
+            0.731651376146789,
+            0.31761467889908257,
+            "c",
+            0.04027522935779816,
+            0.029541284403669727,
+            0.10412844036697247,
+            0.12146788990825688,
+            0.11422018348623852,
+            0.16743119266055045
+        ],
+        [
+            "M",
+            0.4430275229357798,
+            0.6010091743119267,
+            "c",
+            0.006605504587155963,
+            0.006605504587155963,
+            0.012110091743119267,
+            0.01834862385321101,
+            0.013394495412844036,
+            0.028440366972477066,
+            "c",
+            0.006880733944954129,
+            0.05321100917431192,
+            0.017064220183486238,
+            0.1324770642201835,
+            0.026788990825688072,
+            0.20311926605504588,
+            "c",
+            0.0016513761467889907,
+            0.011834862385321101,
+            0.0032110091743119264,
+            0.02330275229357798,
+            0.0047706422018348625,
+            0.0344954128440367
+        ],
+        [
+            "M",
+            0.46174311926605505,
+            0.6181651376146788,
+            "c",
+            0.111651376146789,
+            -0.017431192660550456,
+            0.21045871559633028,
+            -0.029724770642201838,
+            0.29293577981651375,
+            -0.037981651376146786,
+            "c",
+            0.031009174311926603,
+            -0.003027522935779817,
+            0.0510091743119266,
+            0.011743119266055046,
+            0.04339449541284404,
+            0.043944954128440364,
+            "c",
+            -0.014770642201834864,
+            0.06174311926605505,
+            -0.021100917431192658,
+            0.1118348623853211,
+            -0.035596330275229356,
+            0.18926605504587155
+        ],
+        [
+            "M",
+            0.503302752293578,
+            0.8455963302752294,
+            "c",
+            0.07889908256880733,
+            -0.0057798165137614675,
+            0.14137614678899083,
+            -0.013577981651376147,
+            0.24550458715596332,
+            -0.02,
+            "c",
+            0.011467889908256881,
+            -0.0007339449541284404,
+            0.023394495412844035,
+            -0.0013761467889908255,
+            0.03596330275229358,
+            -0.0021100917431192663
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. politics; government; administration; rule Rare term"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. peace Rare term, See also 治に居て乱を忘れず, Antonym: 乱"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. medical treatment; cure Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "療",
+                    "りょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. (medical) treatment; care; therapy; cure; remedy "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Therapy Therapy, or treatment, is the attempted remediation of a ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "治療 【じりょう】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. (medical) treatment; care; therapy; cure; remedy "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Therapy Therapy, or treatment, is the attempted remediation of a ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "治療 【じりょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "直",
+                    "なお"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to repair; to mend; to fix; to correct (a mistake, bad habit, etc.); to put right; to restore; to straighten (e.g. a tie); to tidy up (one's hair, make-up, etc.); to revive (one's spirits) いまそれを直そうったって無駄だ。It's no use trying to fix it now."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to change; to alter; to convert; to translate "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to put back; to put away Kansai dialectその本をなおしなさい。Put the book back where you found it."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to cure; to heal See also 治す, usu. written as 治す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "5. to move up; to promote Dated term次の文章を日本語に直しなさい。Put the following sentences into Japanese."
+                },
+                {
+                    "type": "Suffix, Godan verb with 'su' ending",
+                    "meaning": "6. to do over again; to redo after -masu stem of verb"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to repair; to mend; to fix; to correct (a mistake, bad habit, etc.); to put right; to restore; to straighten (e.g. a tie); to tidy up (one's hair, make-up, etc.); to revive (one's spirits) いまそれを直そうったって無駄だ。It's no use trying to fix it now."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to change; to alter; to convert; to translate "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to put back; to put away Kansai dialectその本をなおしなさい。Put the book back where you found it."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to cure; to heal See also 治す, usu. written as 治す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "5. to move up; to promote Dated term次の文章を日本語に直しなさい。Put the following sentences into Japanese."
+                },
+                {
+                    "type": "Suffix, Godan verb with 'su' ending",
+                    "meaning": "6. to do over again; to redo after -masu stem of verb"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "いま",
+                            null
+                        ],
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "直そう",
+                            "なお"
+                        ],
+                        [
+                            "ったって",
+                            null
+                        ],
+                        [
+                            "無駄",
+                            "むだ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "It's no use trying to fix it now."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "なおし",
+                            null
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "Put the book back where you found it."
+                },
+                {
+                    "sentence": [
+                        [
+                            "次の",
+                            "つぎ"
+                        ],
+                        [
+                            "文章",
+                            "ぶんしょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "日本語",
+                            "にほんご"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "直し",
+                            "なお"
+                        ],
+                        [
+                            "なさい",
+                            null
+                        ]
+                    ],
+                    "translation": "Put the following sentences into Japanese."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "なお"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to get better; to get well; to recover (from an illness); to be cured; to be restored; to heal ２週間もすれば自然に治ります。It will go away by itself in two weeks."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to get better; to get well; to recover (from an illness); to be cured; to be restored; to heal ２週間もすれば自然に治ります。It will go away by itself in two weeks."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "週間",
+                            "しゅうかん"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "すれば",
+                            null
+                        ],
+                        [
+                            "自然に",
+                            "しぜん"
+                        ],
+                        [
+                            "治ります",
+                            "なお"
+                        ]
+                    ],
+                    "translation": "It will go away by itself in two weeks."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "おさ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to rule; to govern; to reign over; to administer; to manage (e.g. a household) 王は自分の王国を公正に治めた。The king ruled his kingdom justly."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to subdue; to suppress; to quell; to settle (e.g. a dispute) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to rule; to govern; to reign over; to administer; to manage (e.g. a household) 王は自分の王国を公正に治めた。The king ruled his kingdom justly."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to subdue; to suppress; to quell; to settle (e.g. a dispute) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "王",
+                            "おう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "王国",
+                            "おうこく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "公正に",
+                            "こうせい"
+                        ],
+                        [
+                            "治めた",
+                            "おさ"
+                        ]
+                    ],
+                    "translation": "The king ruled his kingdom justly."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "おさ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to die down (storm, anger, conflict, etc.); to calm down; to cool off; to abate; to be settled; to be brought under control "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be at peace; to be governed well "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to subside (of pain, symptoms, etc.); to be alleviated; to get better; to ease off その薬のおかげで彼の腹痛はおさまった。The medicine relieved him of his stomach-ache."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to die down (storm, anger, conflict, etc.); to calm down; to cool off; to abate; to be settled; to be brought under control "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to be at peace; to be governed well "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to subside (of pain, symptoms, etc.); to be alleviated; to get better; to ease off その薬のおかげで彼の腹痛はおさまった。The medicine relieved him of his stomach-ache."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "薬",
+                            "くすり"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "おかげで",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "腹痛",
+                            "ふくつう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "おさまった",
+                            null
+                        ]
+                    ],
+                    "translation": "The medicine relieved him of his stomach-ache."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "癒",
+                    "ゆ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. healing; cure; recovery "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cure A cure is the end of a medical condition; the substance o... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. healing; cure; recovery "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Cure A cure is the end of a medical condition; the substance o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "安",
+                    "あん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. public order; public peace; public security; law and order "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Public safety Public safety involves the prevention of and protection f... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. public order; public peace; public security; law and order "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Public safety Public safety involves the prevention of and protection f... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "なお"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to cure; to heal "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to cure; to heal "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "療",
+                    "りょう"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. method of treatment; cure; remedy "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. method of treatment; cure; remedy "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "療",
+                    "りょう"
+                ],
+                [
+                    "費",
+                    "ひ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cost of medical treatment; medical expenses; fees for treatment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "世",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rule; reign "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. peaceful times "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "治世 【じせい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "験",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. clinical trial "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Clinical trial Clinical trials are a set of procedures in medical resear... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "外",
+                    "がい"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "権",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. extraterritoriality Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Extraterritoriality Extraterritoriality is the state of being exempt from the... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "水",
+                    "すい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. river management; river improvement; flood control "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "収",
+                    "おさ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. conclusion; end; settlement "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. balance; harmony; fitting (in) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "納まり 【おさまり】、治まり 【おさまり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "山",
+                    "さん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. forest conservation; afforestation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "なお"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. recovery "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    null
+                ],
+                [
+                    "具",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. jig (tool) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jig (tool) In metalworking and woodworking, a jig is a type of tool ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "冶具 【ジグ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "治具: Ateji (phonetic) reading. 冶具: Ateji (phonetic) reading, Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "治",
+                    "じ"
+                ],
+                [
+                    "暦",
+                    "りゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Jiryaku era (1065.8.2-1069.4.13); Chiryaku era "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jiryaku Jiryaku was a Japanese era name after Kōhei and before En... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "治暦 【ちりゃく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "治",
+                "いさお"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Isao "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "治",
+                "おさむ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Osamu "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Osame "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "政",
+                    "せい"
+                ],
+                [
+                    "治",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. politics; government "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Politics Politics (from Greek politikos \"of, for, or relating to c... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "自",
+                    "じ"
+                ],
+                [
+                    "治",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. self-government; autonomy See also 官治"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. local (governmental) autonomy Abbreviation, See also 地方自治"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Self-governance Self-governance is an abstract concept that refers to sev... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "統",
+                    "とう"
+                ],
+                [
+                    "治",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. rule; reign; government; governing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "統治 【とうじ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "退",
+                    "たい"
+                ],
+                [
+                    "治",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. extermination; elimination; eradication; destruction; suppression; subjugation; getting rid of; stamping out; wiping out; rooting out "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. renouncing worldly desires (in order to concentrate on Buddhist teachings) Buddhism"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. curing (an illness) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "対治 【たいじ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "対治: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "明",
+                    "めい"
+                ],
+                [
+                    "治",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Meiji era (1868.9.8-1912.7.30) Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Meiji period The Meiji period, known as the Meiji era, is a Japanese e... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "政",
+                    "せい"
+                ],
+                [
+                    "治",
+                    "じ"
+                ],
+                [
+                    "犯",
+                    "はん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. political offense; political offence; political crime See also 政治犯罪"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. political offender; political prisoner; prisoner of conscience "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Political prisoner According to the Longman Dictionary of Contemporary Engli... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "政",
+                    "せい"
+                ],
+                [
+                    "治",
+                    "じ"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. political "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "主",
+                    "しゅ"
+                ],
+                [
+                    "治",
+                    "じ"
+                ],
+                [
+                    "医",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. attending physician; physician in charge; (one's) family doctor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "方",
+                    "ほう"
+                ],
+                [
+                    "自",
+                    "じ"
+                ],
+                [
+                    "治",
+                    "ち"
+                ],
+                [
+                    "体",
+                    "たい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. local authority; local government; locality; local self-governing body; municipality "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "開",
+                    "ひら"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "直",
+                    "なお"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to become defiant; to fight back; to turn upon; to take the offensive "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "全",
+                    "ぜん"
+                ],
+                [
+                    "治",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. complete recovery; healing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "全治 【ぜんじ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "ゴルノアルタイ自治州",
+                "ゴルノアルタイじちしゅう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Gorno-Altayskaya Avtonomnaya Oblast; Gorno-Altayskaya Autonomous Region; Gorno-Altayskaya AO "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Gorno-Badakhshanskaya Avtonomnaya Oblast; Gorno-Badakhshanskaya Autonomous Region; Gorno-Badakhshanskaya AO "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

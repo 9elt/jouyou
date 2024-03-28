@@ -1,0 +1,1732 @@
+{
+    "kanji": "路",
+    "grade": 3,
+    "jlpt": 3,
+    "meanings": [
+        "path",
+        "route",
+        "road",
+        "distance"
+    ],
+    "kun": [
+        "-じ",
+        "みち"
+    ],
+    "on": [
+        "ロ",
+        "ル"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1287155963302752,
+            0.17651376146788988,
+            "c",
+            0.007155963302752294,
+            0.005688073394495413,
+            0.01128440366972477,
+            0.01293577981651376,
+            0.012660550458715595,
+            0.0218348623853211,
+            "c",
+            0.00944954128440367,
+            0.032293577981651375,
+            0.019724770642201832,
+            0.09119266055045872,
+            0.02743119266055046,
+            0.14110091743119266,
+            "c",
+            0.0017431192660550458,
+            0.01128440366972477,
+            0.0033027522935779813,
+            0.02220183486238532,
+            0.0047706422018348625,
+            0.03211009174311927
+        ],
+        [
+            "M",
+            0.14880733944954128,
+            0.1898165137614679,
+            "c",
+            0.07743119266055046,
+            -0.010458715596330274,
+            0.14275229357798166,
+            -0.020917431192660547,
+            0.18614678899082568,
+            -0.027155963302752294,
+            "c",
+            0.030825688073394496,
+            -0.004403669724770642,
+            0.04137614678899083,
+            0.006330275229357797,
+            0.034403669724770644,
+            0.03688073394495413,
+            "c",
+            -0.008532110091743119,
+            0.037614678899082564,
+            -0.013853211009174311,
+            0.0773394495412844,
+            -0.026238532110091743,
+            0.12605504587155963
+        ],
+        [
+            "M",
+            0.17743119266055046,
+            0.3515596330275229,
+            "c",
+            0.041100917431192666,
+            -0.004128440366972477,
+            0.09211009174311925,
+            -0.01073394495412844,
+            0.1471559633027523,
+            -0.017155963302752295,
+            "c",
+            0.011192660550458715,
+            -0.0012844036697247708,
+            0.02256880733944954,
+            -0.002660550458715596,
+            0.03403669724770642,
+            -0.0039449541284403665
+        ],
+        [
+            "M",
+            0.2579816513761468,
+            0.3714678899082569,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.015688073394495412,
+            0.022752293577981652,
+            0.015688073394495412,
+            0.03211009174311927,
+            "c",
+            0,
+            0.04018348623853211,
+            0.0002752293577981651,
+            0.23403669724770643,
+            0.0002752293577981651,
+            0.30504587155963303
+        ],
+        [
+            "M",
+            0.2787155963302752,
+            0.5067889908256881,
+            "c",
+            0.030917431192660553,
+            -0.004495412844036697,
+            0.06302752293577982,
+            -0.011376146788990826,
+            0.09495412844036696,
+            -0.013761467889908258,
+            "c",
+            0.015963302752293577,
+            -0.0011926605504587156,
+            0.02,
+            -0.0022935779816513763,
+            0.029908256880733942,
+            0
+        ],
+        [
+            "M",
+            0.14330275229357797,
+            0.5320183486238532,
+            "c",
+            0.008623853211009174,
+            0.008715596330275228,
+            0.013394495412844036,
+            0.02073394495412844,
+            0.013394495412844036,
+            0.034403669724770644,
+            "c",
+            0,
+            0.03908256880733945,
+            0.0002752293577981651,
+            0.14229357798165138,
+            0.0002752293577981651,
+            0.20412844036697247
+        ],
+        [
+            "M",
+            0.11266055045871559,
+            0.7871559633027523,
+            "c",
+            0.0076146788990825685,
+            0.003577981651376147,
+            0.021743119266055048,
+            0.0011926605504587156,
+            0.026055045871559632,
+            -0.0010091743119266055,
+            "c",
+            0.0708256880733945,
+            -0.036788990825688074,
+            0.14440366972477064,
+            -0.0775229357798165,
+            0.22247706422018348,
+            -0.11871559633027523
+        ],
+        [
+            "M",
+            0.5481651376146789,
+            0.11816513761467891,
+            "c",
+            0.0003669724770642202,
+            0.006146788990825688,
+            0.001834862385321101,
+            0.016146788990825688,
+            -0.0008256880733944953,
+            0.024770642201834864,
+            "c",
+            -0.01853211009174312,
+            0.05889908256880734,
+            -0.06752293577981652,
+            0.16706422018348624,
+            -0.14623853211009175,
+            0.23733944954128441
+        ],
+        [
+            "M",
+            0.5527522935779816,
+            0.19321100917431192,
+            "c",
+            0.010275229357798166,
+            0.0028440366972477065,
+            0.01871559633027523,
+            0.0025688073394495416,
+            0.029174311926605506,
+            0.0012844036697247708,
+            "c",
+            0.025779816513761468,
+            -0.003027522935779817,
+            0.06669724770642202,
+            -0.013486238532110091,
+            0.10348623853211009,
+            -0.023027522935779813,
+            "c",
+            0.02522935779816514,
+            -0.006513761467889908,
+            0.03935779816513762,
+            0.009816513761467891,
+            0.032844036697247704,
+            0.027614678899082565,
+            "c",
+            -0.03541284403669725,
+            0.09752293577981652,
+            -0.17587155963302753,
+            0.3215596330275229,
+            -0.33816513761467887,
+            0.40376146788990824
+        ],
+        [
+            "M",
+            0.48559633027522936,
+            0.2960550458715597,
+            "c",
+            0.03403669724770642,
+            0.012660550458715595,
+            0.23192660550458716,
+            0.18972477064220183,
+            0.3146788990825688,
+            0.25155963302752293,
+            "c",
+            0.02238532110091743,
+            0.01669724770642202,
+            0.04577981651376147,
+            0.030642201834862385,
+            0.07357798165137615,
+            0.036146788990825685
+        ],
+        [
+            "M",
+            0.4493577981651376,
+            0.6437614678899083,
+            "c",
+            0.006513761467889908,
+            0.006238532110091744,
+            0.009908256880733945,
+            0.013853211009174311,
+            0.01165137614678899,
+            0.02256880733944954,
+            "c",
+            0.01036697247706422,
+            0.04944954128440367,
+            0.023944954128440367,
+            0.11348623853211008,
+            0.0318348623853211,
+            0.16871559633027525,
+            "c",
+            0.0016513761467889907,
+            0.011376146788990826,
+            0.003119266055045872,
+            0.02238532110091743,
+            0.004403669724770642,
+            0.03302752293577982
+        ],
+        [
+            "M",
+            0.4665137614678899,
+            0.6540366972477065,
+            "c",
+            0.0746788990825688,
+            -0.00963302752293578,
+            0.19752293577981653,
+            -0.02311926605504587,
+            0.2503669724770642,
+            -0.029357798165137616,
+            "c",
+            0.02981651376146789,
+            -0.0034862385321100917,
+            0.043944954128440364,
+            0.007889908256880733,
+            0.03834862385321101,
+            0.038073394495412846,
+            "c",
+            -0.0077981651376146785,
+            0.04238532110091743,
+            -0.015504587155963302,
+            0.0961467889908257,
+            -0.02724770642201835,
+            0.15110091743119264
+        ],
+        [
+            "M",
+            0.5011926605504587,
+            0.8433944954128441,
+            "c",
+            0.04146788990825688,
+            -0.004862385321100918,
+            0.14128440366972478,
+            -0.012844036697247705,
+            0.21,
+            -0.020458715596330276,
+            "c",
+            0.010642201834862385,
+            -0.0011926605504587156,
+            0.020458715596330276,
+            -0.0023853211009174312,
+            0.02926605504587156,
+            -0.0034862385321100917
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "道",
+                    "みち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. road; path; street; lane; passage 道は急斜面をジグザグにのぼっていた。The path zigzagged up the steep slope."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. route; way 人生は重い荷を背負って遠い道を行くようなものだ。One's life is like going far with a burden on one's back."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. distance; journey "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. road (e.g. to victory); course "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. way (of living, proper conduct, etc.); moral principles "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. teachings (esp. Confucian or Buddhist); dogma "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. field (e.g. of medicine); subject; speciality "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. means; way; method "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "9. Diameter In geometry, a diameter of a circle is any straight line ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "途 【みち】、路 【みち】、径 【みち】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. road; path; street; lane; passage 道は急斜面をジグザグにのぼっていた。The path zigzagged up the steep slope."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. route; way 人生は重い荷を背負って遠い道を行くようなものだ。One's life is like going far with a burden on one's back."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. distance; journey "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. road (e.g. to victory); course "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. way (of living, proper conduct, etc.); moral principles "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. teachings (esp. Confucian or Buddhist); dogma "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. field (e.g. of medicine); subject; speciality "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. means; way; method "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "9. Diameter In geometry, a diameter of a circle is any straight line ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "途 【みち】、路 【みち】、径 【みち】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "道",
+                            "みち"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "急斜面",
+                            "きゅうしゃめん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "ジグザグ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "のぼっていた",
+                            null
+                        ]
+                    ],
+                    "translation": "The path zigzagged up the steep slope."
+                },
+                {
+                    "sentence": [
+                        [
+                            "人生",
+                            "じんせい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "重い",
+                            "おも"
+                        ],
+                        [
+                            "荷",
+                            "に"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "背負って",
+                            "せお"
+                        ],
+                        [
+                            "遠い",
+                            "とお"
+                        ],
+                        [
+                            "道",
+                            "みち"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "行く",
+                            "い"
+                        ],
+                        [
+                            "ような",
+                            null
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "One's life is like going far with a burden on one's back."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suffix",
+                    "meaning": "1. route; road "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. distance travelled in a day "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "3. one's ... (age, e.g. 40s, 60s) See also 七十路"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "4. Ji "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. way; road Archaic"
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. way to ...; road to ... Archaic, See also 路 じ, after a place name; usu. ぢ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "道 【ち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "地",
+                    "じ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. alley; alleyway; lane 市の北のはずれは路地の迷路である。The northernmost part of the city is a maze of alleys."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. path through a gate or garden "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. teahouse garden Only applies to 路地"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Roji , lit. 'dewy ground', is the Japanese term used for the g... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "露路 【ろじ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "露路: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. alley; alleyway; lane 市の北のはずれは路地の迷路である。The northernmost part of the city is a maze of alleys."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. path through a gate or garden "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. teahouse garden Only applies to 路地"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Roji , lit. 'dewy ground', is the Japanese term used for the g... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "露路 【ろじ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "露路: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "市",
+                            "し"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "北",
+                            "きた"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "はずれ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "路地",
+                            "ろじ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "迷路",
+                            "めいろ"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "The northernmost part of the city is a maze of alleys."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "線",
+                    "せん"
+                ],
+                [
+                    "図",
+                    "ず"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. route map (for buses, trains, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Transit map A transit map is a topological map in the form of a schem... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. route map (for buses, trains, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Transit map A transit map is a topological map in the form of a schem... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "線",
+                    "せん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. route (bus, train, air, etc.); line 路線地図をもらえますか。May I have a bus route map?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. line (taken by a group, organization, etc.); policy; course 大統領は強硬路線をとった。The President took a hard line."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. route (bus, train, air, etc.); line 路線地図をもらえますか。May I have a bus route map?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. line (taken by a group, organization, etc.); policy; course 大統領は強硬路線をとった。The President took a hard line."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "路線",
+                            "ろせん"
+                        ],
+                        [
+                            "地図",
+                            "ちず"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "もらえます",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "May I have a bus route map?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "大統領",
+                            "だいとうりょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "強硬",
+                            "きょうこう"
+                        ],
+                        [
+                            "路線",
+                            "ろせん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "とった",
+                            null
+                        ]
+                    ],
+                    "translation": "The President took a hard line."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. on the road; on the street; in the street "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. on the way "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. on the road; on the street; in the street "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. on the way "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "面",
+                    "めん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. road surface "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "道",
+                    "みち"
+                ],
+                [
+                    "草",
+                    "くさ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. loitering on the way See also 道草を食う"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. wayside grass "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "路草 【みちくさ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "路草: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "面",
+                    "めん"
+                ],
+                [
+                    "電",
+                    "でん"
+                ],
+                [
+                    "車",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tram; streetcar; trolley; tramcar "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tram A tram (also known. as a tramcar, streetcar, trolley car)... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "駐",
+                    "ちゅう"
+                ],
+                [
+                    "車",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. street parking; on-street parking "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "傍",
+                    "ぼう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. roadside "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "頭",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. roadside; wayside "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "肩",
+                    "かた"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shoulder (of a road); berm "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shoulder (road) A hard shoulder, or simply shoulder, is a reserved area b... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "路肩 【ろけん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "飲",
+                    "の"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. street drinking; drinking in the streets; public drinking "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "る"
+                ],
+                [
+                    "加",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. St Luke "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "側",
+                    "そく"
+                ],
+                [
+                    "帯",
+                    "たい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pedestrian walkway along a road "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "地",
+                    "じ"
+                ],
+                [
+                    "口",
+                    "ぐち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. alley entrance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "寝",
+                    "ね"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sleeping on the road (because of intoxication) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "路",
+                    "ろ"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "強",
+                    "ごう"
+                ],
+                [
+                    "盗",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. mugging; mugger "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "路",
+                "こみち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Komichi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "路",
+                "みち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Michi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "路",
+                "やく"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Yaku "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "道",
+                    "どう"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. road; highway "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Road A road is a route, thoroughfare or way that supports trav... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "通",
+                    "つう"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. passage; pathway; roadway; avenue; aisle "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Aisle An aisle is, in general (common), a space for walking wit... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "線",
+                    "せん"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. railway track; railway line; railroad; railway; track; line "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Rail "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "回",
+                    "まわ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "道",
+                    "みち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. detour; circuitous route; diversion "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. The Wrong Move The Wrong Move (UK) or Wrong Movement (USA video title) i... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "まわり道 【まわりみち】、廻り道 【まわりみち】、回り路 【まわりみち】、廻り路 【まわりみち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "廻り道: Rarely-used kanji form. 回り路: Rarely-used kanji form. 廻り路: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "回",
+                    "かい"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. circuit (electric) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cycle (e.g. Krebs cycle) Biology"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Circuit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "十",
+                    "じゅう"
+                ],
+                [
+                    "字",
+                    "じ"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. crossroads; intersection "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Juujiro "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. route; course; path どの進路を選んでも危険が待ち受けている。Whichever way we choose will involve danger."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. one's future course (e.g. after graduating high school) 進路のことで先生に助言を求めた。I asked my teacher for advice on my future course."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "どの",
+                            null
+                        ],
+                        [
+                            "進路",
+                            "しんろ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "選んで",
+                            "えら"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "危険",
+                            "きけん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "待ち受けている",
+                            "まちうけ"
+                        ]
+                    ],
+                    "translation": "Whichever way we choose will involve danger."
+                },
+                {
+                    "sentence": [
+                        [
+                            "進路",
+                            "しんろ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "先生",
+                            "せんせい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "助言",
+                            "じょげん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "求めた",
+                            "もと"
+                        ]
+                    ],
+                    "translation": "I asked my teacher for advice on my future course."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "経",
+                    "けい"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. course; route; path; channel "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. process; stages "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "径路 【けいろ】、逕路 【けいろ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "径路: Rarely-used kanji form. 逕路: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. sea route "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "海路 【うみじ】、海路 【うなじ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "高",
+                    "こう"
+                ],
+                [
+                    "速",
+                    "そく"
+                ],
+                [
+                    "道",
+                    "どう"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. highway; freeway; expressway; motorway "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Controlled-access highway A controlled-access highway is a highway designed exclusi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "迷",
+                    "めい"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. maze; labyrinth "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. inner ear See also 内耳"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Maze A maze is a tour puzzle in the form of a complex branchin... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. waterway; canal; channel; watercourse; aqueduct 船は水路を下った。The ship sailed down the channel."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. swimming pool lane "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Waterway A waterway is any navigable body of waters. Waterways can... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "船",
+                            "ふね"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "水路",
+                            "すいろ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "下った",
+                            "くだ"
+                        ]
+                    ],
+                    "translation": "The ship sailed down the channel."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "滑",
+                    "かっ"
+                ],
+                [
+                    "走",
+                    "そう"
+                ],
+                [
+                    "路",
+                    "ろ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. runway; airstrip; landing strip; flight strip "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Runway According to ICAO a runway is a \"defined rectangular area... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "並",
+                    "なみ"
+                ],
+                [
+                    "木",
+                    "き"
+                ],
+                [
+                    "道",
+                    "みち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. avenue; boulevard; tree-lined street "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Avenue (landscape) In landscaping, an avenue or allée is traditionally a str... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "並木路 【なみきみち】、並木路 【なみきじ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "近",
+                    "ちか"
+                ],
+                [
+                    "道",
+                    "みち"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. shorter way; shortcut "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "近路 【ちかみち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "近路: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

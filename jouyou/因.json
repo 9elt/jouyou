@@ -1,0 +1,1578 @@
+{
+    "kanji": "因",
+    "grade": 5,
+    "jlpt": 3,
+    "meanings": [
+        "cause",
+        "factor",
+        "be associated with",
+        "depend on",
+        "be limited to"
+    ],
+    "kun": [
+        "よ.る",
+        "ちな.む"
+    ],
+    "on": [
+        "イン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1720183486238532,
+            0.14972477064220183,
+            "c",
+            0.011192660550458715,
+            0.011192660550458715,
+            0.017064220183486238,
+            0.027614678899082565,
+            0.017064220183486238,
+            0.04504587155963303,
+            "c",
+            0,
+            0.11192660550458715,
+            -0.00045871559633027525,
+            0.44587155963302755,
+            -0.0005504587155963302,
+            0.6275229357798165,
+            "c",
+            0,
+            0.027155963302752294,
+            0,
+            0.05082568807339449,
+            0,
+            0.06990825688073395
+        ],
+        [
+            "M",
+            0.19477064220183488,
+            0.16880733944954127,
+            "c",
+            0.17339449541284402,
+            -0.01165137614678899,
+            0.4720183486238532,
+            -0.028899082568807338,
+            0.5827522935779816,
+            -0.028899082568807338,
+            "c",
+            0.02522935779816514,
+            0,
+            0.04174311926605504,
+            0.015963302752293577,
+            0.04128440366972477,
+            0.04357798165137615,
+            "c",
+            -0.002018348623853211,
+            0.12715596330275228,
+            -0.00045871559633027525,
+            0.41330275229357794,
+            -0.00009174311926605505,
+            0.6215596330275229,
+            "c",
+            0.00009174311926605505,
+            0.028440366972477066,
+            0.00009174311926605505,
+            0.055412844036697245,
+            0.00009174311926605505,
+            0.08027522935779817
+        ],
+        [
+            "M",
+            0.29458715596330276,
+            0.4178899082568807,
+            "c",
+            0.02018348623853211,
+            0.004862385321100918,
+            0.04302752293577982,
+            0.0021100917431192663,
+            0.06321100917431192,
+            0,
+            "c",
+            0.10027522935779816,
+            -0.010642201834862385,
+            0.216697247706422,
+            -0.022477064220183487,
+            0.30862385321100916,
+            -0.030458715596330274,
+            "c",
+            0.019724770642201832,
+            -0.0017431192660550458,
+            0.04,
+            -0.0032110091743119264,
+            0.058807339449541286,
+            0
+        ],
+        [
+            "M",
+            0.49128440366972476,
+            0.22477064220183487,
+            "c",
+            0.0037614678899082566,
+            0.0074311926605504595,
+            0.005688073394495413,
+            0.015871559633027523,
+            0.005596330275229358,
+            0.0318348623853211,
+            "C",
+            0.4965137614678899,
+            0.5172477064220183,
+            0.42201834862385323,
+            0.6697247706422018,
+            0.27293577981651373,
+            0.7637614678899083
+        ],
+        [
+            "M",
+            0.5043119266055046,
+            0.498256880733945,
+            "c",
+            0.07504587155963302,
+            0.05082568807339449,
+            0.16963302752293577,
+            0.14220183486238533,
+            0.21504587155963303,
+            0.24128440366972478
+        ],
+        [
+            "M",
+            0.19954128440366972,
+            0.8670642201834863,
+            "C",
+            0.38183486238532105,
+            0.8600917431192661,
+            0.6418348623853211,
+            0.8477981651376146,
+            0.8073394495412844,
+            0.8440366972477065
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "元",
+                    "もと"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. origin; source; beginning esp. 元憲政の危機が始まったのは、このような状況のもとであった。It was under these circumstances that the constitutional crisis began."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. basis; base; foundation; root oft. 基このシステムのもとでは、生徒は交替で教えあい、お互いに助け合わなければなりません。The basis of this system is that the students must take turns in teaching, they have to help each other."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. cause also written as 因, 原その事務員は過労がもとで死んだ。The clerk died from overwork."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. (raw) material; ingredient; base; mix (e.g. for a cake); (soup) stock esp. 素"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. (one's) side Only applies to 元彼はなぜ妻が彼のもとを去ったのかわからなかった。He had no idea why his wife left him."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. capital; principal; cost price Only applies to 元"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. root (of a plant); (tree) trunk "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. part (of a brush, chopsticks, etc.) one holds (with the hand) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. first three lines of a waka See also 和歌"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "10. counter for plants or trees Only applies to 本"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "11. counter for falcons (in falconry) Only applies to 本"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "12. Book A book is a set of written, printed, illustrated, or blan... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "本 【もと】、素 【もと】、基 【もと】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. origin; source; beginning esp. 元憲政の危機が始まったのは、このような状況のもとであった。It was under these circumstances that the constitutional crisis began."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. basis; base; foundation; root oft. 基このシステムのもとでは、生徒は交替で教えあい、お互いに助け合わなければなりません。The basis of this system is that the students must take turns in teaching, they have to help each other."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. cause also written as 因, 原その事務員は過労がもとで死んだ。The clerk died from overwork."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. (raw) material; ingredient; base; mix (e.g. for a cake); (soup) stock esp. 素"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. (one's) side Only applies to 元彼はなぜ妻が彼のもとを去ったのかわからなかった。He had no idea why his wife left him."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. capital; principal; cost price Only applies to 元"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. root (of a plant); (tree) trunk "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. part (of a brush, chopsticks, etc.) one holds (with the hand) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. first three lines of a waka See also 和歌"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "10. counter for plants or trees Only applies to 本"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "11. counter for falcons (in falconry) Only applies to 本"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "12. Book A book is a set of written, printed, illustrated, or blan... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "本 【もと】、素 【もと】、基 【もと】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "憲政",
+                            "けんせい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "危機",
+                            "きき"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "始まった",
+                            "はじ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "このような",
+                            null
+                        ],
+                        [
+                            "状況",
+                            "じょうきょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "もと",
+                            null
+                        ],
+                        [
+                            "であった",
+                            null
+                        ]
+                    ],
+                    "translation": "It was under these circumstances that the constitutional crisis began."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "システム",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "もと",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "生徒",
+                            "せいと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "交替",
+                            "こうたい"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "教え",
+                            "おし"
+                        ],
+                        [
+                            "あい",
+                            null
+                        ],
+                        [
+                            "お互いに",
+                            "おたが"
+                        ],
+                        [
+                            "助け合わ",
+                            "たすけあ"
+                        ],
+                        [
+                            "なければなりません",
+                            null
+                        ]
+                    ],
+                    "translation": "The basis of this system is that the students must take turns in teaching, they have to help each other."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "事務員",
+                            "じむいん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "過労",
+                            "かろう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "もと",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "死んだ",
+                            "し"
+                        ]
+                    ],
+                    "translation": "The clerk died from overwork."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "なぜ",
+                            null
+                        ],
+                        [
+                            "妻",
+                            "つま"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "もと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "去った",
+                            "さ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "わからなかった",
+                            null
+                        ]
+                    ],
+                    "translation": "He had no idea why his wife left him."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "由",
+                    "よし"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reason; significance; cause "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. piece of information that one has heard; I hear that ...; it is said that ... Only applies to 由"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因 【よし】、縁 【よし】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. reason; significance; cause "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. piece of information that one has heard; I hear that ...; it is said that ... Only applies to 由"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因 【よし】、縁 【よし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cause; factor "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. hetu (direct cause, esp. as opposed to indirect conditions) Buddhism, See also 縁 えん"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. the basis of one's argument (in hetuvidya) See also 因明"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "縁",
+                    "よすが"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. something to rely on; aid; clue; way; means "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. someone to rely on; relative "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. reminder; memento "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "縁 【よすか】、因 【よすが】、因 【よすか】、便 【よすが】、便 【よすか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "よすか: Out-dated or obsolete kana usage. よすか: Out-dated or obsolete kana usage. よすか: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "依",
+                    "よ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be due to; to be caused by Usually written using kana alone, esp. 依る, 拠る造られたもので、この方によらずできたものは一つもない。Without him nothing was made that has been made."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to depend on; to turn on Usually written using kana alone, esp. 依るこの理由により、著者に関する信憑性は、資料の信憑性に拠っているのである。For this reason, the credibility of the book's authors rests on the credibility of their sources."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to be based on; to come from Usually written using kana alone, esp. 因る, 由る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to be based at (a location, an organization); to be headquartered at Usually written using kana alone, esp. 拠る"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因る 【よる】、拠る 【よる】、由る 【よる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "依る: Rarely-used kanji form. 因る: Rarely-used kanji form. 拠る: Rarely-used kanji form. 由る: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be due to; to be caused by Usually written using kana alone, esp. 依る, 拠る造られたもので、この方によらずできたものは一つもない。Without him nothing was made that has been made."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to depend on; to turn on Usually written using kana alone, esp. 依るこの理由により、著者に関する信憑性は、資料の信憑性に拠っているのである。For this reason, the credibility of the book's authors rests on the credibility of their sources."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to be based on; to come from Usually written using kana alone, esp. 因る, 由る"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to be based at (a location, an organization); to be headquartered at Usually written using kana alone, esp. 拠る"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因る 【よる】、拠る 【よる】、由る 【よる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "依る: Rarely-used kanji form. 因る: Rarely-used kanji form. 拠る: Rarely-used kanji form. 由る: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "造られた",
+                            "つく"
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "この方",
+                            "このかた"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "よらず",
+                            null
+                        ],
+                        [
+                            "できた",
+                            null
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "一つも",
+                            "ひと"
+                        ],
+                        [
+                            "ない",
+                            null
+                        ]
+                    ],
+                    "translation": "Without him nothing was made that has been made."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "理由",
+                            "りゆう"
+                        ],
+                        [
+                            "により",
+                            null
+                        ],
+                        [
+                            "著者",
+                            "ちょしゃ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "関する",
+                            "かん"
+                        ],
+                        [
+                            "信憑性",
+                            "しんぴょうせい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "資料",
+                            "しりょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "信憑性",
+                            "しんぴょうせい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "拠っている",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "For this reason, the credibility of the book's authors rests on the credibility of their sources."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "子",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. factor "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. factor; divisor Mathematics, See also 因数"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Factor "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. factor "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. factor; divisor Mathematics, See also 因数"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Factor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "縁",
+                    "ねん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fate; destiny 早くこの世を去ったのも彼女の因縁だ。It was her fate to die young."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. connection; tie; bond; origin "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. pretext; justification "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things) Buddhism"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因縁 【いんえん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. fate; destiny 早くこの世を去ったのも彼女の因縁だ。It was her fate to die young."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. connection; tie; bond; origin "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. pretext; justification "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things) Buddhism"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因縁 【いんえん】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "早く",
+                            "はや"
+                        ],
+                        [
+                            "この世を去った",
+                            "このよをさ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "彼女の",
+                            "かのじょ"
+                        ],
+                        [
+                            "因縁",
+                            "いんねん"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "It was her fate to die young."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "果",
+                    "が"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cause and effect; causality "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. karma; fate Buddhism"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "3. unfortunate; unlucky; ill-fated "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. cause and effect; causality "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. karma; fate Buddhism"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "3. unfortunate; unlucky; ill-fated "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "よ"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Conjunction",
+                    "meaning": "1. therefore; consequently; accordingly; for that reason Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仍って 【よって】、依って 【よって】、依て 【よって】、仍て 【よって】"
+                },
+                {
+                    "type": "Conjunction",
+                    "meaning": "1. therefore; consequently; accordingly; for that reason Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "仍って 【よって】、依って 【よって】、依て 【よって】、仍て 【よって】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "ちな"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "に",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Conjunction",
+                    "meaning": "1. by the way; in this connection; incidentally; in passing Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因に 【ちなみに】"
+                },
+                {
+                    "type": "Conjunction",
+                    "meaning": "1. by the way; in this connection; incidentally; in passing Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因に 【ちなみに】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "習",
+                    "しゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. convention; tired tradition; old custom negative nuance"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因襲 【いんしゅう】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. convention; tired tradition; old custom negative nuance"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因襲 【いんしゅう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "数",
+                    "すう"
+                ],
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "理",
+                    "り"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. factor theorem Mathematics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Factor theorem In algebra, the factor theorem is a theorem linking facto... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. factor theorem Mathematics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Factor theorem In algebra, the factor theorem is a theorem linking facto... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "ちな"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to be associated (with); to be connected (with) Usually written using kana alone, See also に因んで"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to be associated (with); to be connected (with) Usually written using kana alone, See also に因んで"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "果",
+                    "が"
+                ],
+                [
+                    "応",
+                    "おう"
+                ],
+                [
+                    "報",
+                    "ほう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. retribution; retributive justice; karma; just deserts; poetic justice; reward and punishment for one's past behavior Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "果",
+                    "が"
+                ],
+                [
+                    "関",
+                    "かん"
+                ],
+                [
+                    "係",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. relation of cause and effect; causal relationship; causal link; causality "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. relation of cause and effect; causal relationship; causal link; causality "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "縁",
+                    "ねん"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to invent a pretext for a quarrel; to pick a fight "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "因縁を付ける 【いんねんをつける】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "果",
+                    "が"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to persuade someone to accept the inevitable "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "よ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. depends on Usually written using kana alone, as ...に〜"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "因りけり: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "子",
+                    "し"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "析",
+                    "せき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. factor analysis "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Factor analysis Factor analysis is a statistical method used to describe ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "果",
+                    "が"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. causality "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Causality Causality (also referred to as causation) is the relation... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "因",
+                "いん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. In "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "因",
+                "ちなみ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name, Family or surname",
+                    "meaning": "1. Chinami "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "因",
+                "ゆかり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Yukari "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "因",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. cause; origin; source "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "原因 【げいいん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "げいいん: Irregular kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "要",
+                    "よう"
+                ],
+                [
+                    "因",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. main cause; primary factor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "起",
+                    "き"
+                ],
+                [
+                    "因",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suru verb, Intransitive verb",
+                    "meaning": "1. to be caused by; to result from; to arise from; to stem from; to be due to "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cause; origin "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "基因 【きいん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "基因: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "死",
+                    "し"
+                ],
+                [
+                    "因",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cause of death "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いち"
+                ],
+                [
+                    "因",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one cause; one reason; one factor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "敗",
+                    "はい"
+                ],
+                [
+                    "因",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cause of defeat "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "素",
+                    "そ"
+                ],
+                [
+                    "因",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. basic factor "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. (medical) predisposition; diathesis "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "故",
+                    "こ"
+                ],
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "因",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. source, cause of an accident "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

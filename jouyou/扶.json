@@ -1,0 +1,1420 @@
+{
+    "kanji": "扶",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "aid",
+        "help",
+        "assist"
+    ],
+    "kun": [
+        "たす.ける"
+    ],
+    "on": [
+        "フ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.11238532110091744,
+            0.34788990825688076,
+            "c",
+            0.01871559633027523,
+            0.0022935779816513763,
+            0.036146788990825685,
+            0.004220183486238533,
+            0.05532110091743119,
+            0.0009174311926605505,
+            "c",
+            0.04449541284403669,
+            -0.007706422018348624,
+            0.11669724770642202,
+            -0.02311926605504587,
+            0.17642201834862387,
+            -0.036513761467889906,
+            "c",
+            0.01110091743119266,
+            -0.002477064220183486,
+            0.02284403669724771,
+            -0.004954128440366972,
+            0.035871559633027524,
+            -0.002660550458715596
+        ],
+        [
+            "M",
+            0.26623853211009174,
+            0.13990825688073394,
+            "c",
+            0.010275229357798166,
+            0.010275229357798166,
+            0.013853211009174311,
+            0.02522935779816514,
+            0.013853211009174311,
+            0.04376146788990825,
+            "c",
+            0,
+            0.13972477064220185,
+            -0.00009174311926605505,
+            0.49504587155963303,
+            -0.00009174311926605505,
+            0.6000000000000001,
+            "c",
+            0,
+            0.13073394495412843,
+            -0.05568807339449541,
+            0.03238532110091743,
+            -0.0689908256880734,
+            0.01834862385321101
+        ],
+        [
+            "M",
+            0.10321100917431193,
+            0.6048623853211009,
+            "c",
+            0.012660550458715595,
+            0.007522935779816513,
+            0.022935779816513763,
+            0.007522935779816513,
+            0.04128440366972477,
+            -0.0039449541284403665,
+            "c",
+            0.04688073394495413,
+            -0.02926605504587156,
+            0.08825688073394494,
+            -0.05733944954128441,
+            0.2018348623853211,
+            -0.1314678899082569
+        ],
+        [
+            "M",
+            0.43477064220183487,
+            0.3598165137614679,
+            "c",
+            0.01834862385321101,
+            0.005229357798165137,
+            0.037706422018348625,
+            0.001926605504587156,
+            0.055963302752293574,
+            -0.0011009174311926604,
+            "c",
+            0.061192660550458716,
+            -0.01,
+            0.16926605504587156,
+            -0.03311926605504587,
+            0.22935779816513763,
+            -0.03788990825688073,
+            "c",
+            0.014862385321100919,
+            -0.0011926605504587156,
+            0.02981651376146789,
+            -0.002018348623853211,
+            0.04504587155963303,
+            0.0008256880733944953
+        ],
+        [
+            "M",
+            0.3912844036697248,
+            0.5342201834862385,
+            "c",
+            0.024770642201834864,
+            0.006330275229357797,
+            0.049724770642201835,
+            0.0037614678899082566,
+            0.07431192660550458,
+            -0.0008256880733944953,
+            "c",
+            0.09403669724770643,
+            -0.017339449541284403,
+            0.24431192660550458,
+            -0.03605504587155964,
+            0.32449541284403666,
+            -0.04412844036697247,
+            "c",
+            0.01889908256880734,
+            -0.001926605504587156,
+            0.04357798165137615,
+            -0.0033027522935779813,
+            0.06192660550458716,
+            0.003027522935779817
+        ],
+        [
+            "M",
+            0.5811926605504587,
+            0.14220183486238533,
+            "c",
+            0.009908256880733945,
+            0.009908256880733945,
+            0.00963302752293578,
+            0.024036697247706424,
+            0.009908256880733945,
+            0.040733944954128444,
+            "C",
+            0.5974311926605504,
+            0.5596330275229358,
+            0.536697247706422,
+            0.7385321100917431,
+            0.3761467889908257,
+            0.8623853211009175
+        ],
+        [
+            "M",
+            0.5888073394495413,
+            0.521743119266055,
+            "c",
+            0.06311926605504586,
+            0.08339449541284404,
+            0.13825688073394496,
+            0.19155963302752294,
+            0.2103669724770642,
+            0.2720183486238532,
+            "c",
+            0.017431192660550456,
+            0.019357798165137614,
+            0.03871559633027523,
+            0.0389908256880734,
+            0.06091743119266055,
+            0.0528440366972477
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "助",
+                    "たす"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to save; to rescue; to spare 彼は池で溺れそうになっている子どもを助けた。He saved a child from drowning in a pond."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to help; to assist 私は老婦人が通りを渡るのを助けた。I helped an old woman across the street."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to support (financially); to contribute (to); to provide aid "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to facilitate; to stimulate; to promote; to contribute to 教育は人格の形成を助ける。Education helps to mold character."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "援ける 【たすける】、救ける 【たすける】、扶ける 【たすける】、佐ける 【たすける】、佑ける 【たすける】、輔ける 【たすける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "援ける: Rarely-used kanji form. 救ける: Rarely-used kanji form. 扶ける: Rarely-used kanji form. 佐ける: Rarely-used kanji form. 佑ける: Rarely-used kanji form. 輔ける: Rarely-used kanji form."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to save; to rescue; to spare 彼は池で溺れそうになっている子どもを助けた。He saved a child from drowning in a pond."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to help; to assist 私は老婦人が通りを渡るのを助けた。I helped an old woman across the street."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to support (financially); to contribute (to); to provide aid "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to facilitate; to stimulate; to promote; to contribute to 教育は人格の形成を助ける。Education helps to mold character."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "援ける 【たすける】、救ける 【たすける】、扶ける 【たすける】、佐ける 【たすける】、佑ける 【たすける】、輔ける 【たすける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "援ける: Rarely-used kanji form. 救ける: Rarely-used kanji form. 扶ける: Rarely-used kanji form. 佐ける: Rarely-used kanji form. 佑ける: Rarely-used kanji form. 輔ける: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "池",
+                            "いけ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "溺れ",
+                            "おぼ"
+                        ],
+                        [
+                            "そう",
+                            null
+                        ],
+                        [
+                            "になっている",
+                            null
+                        ],
+                        [
+                            "子ども",
+                            "こ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "助けた",
+                            "たす"
+                        ]
+                    ],
+                    "translation": "He saved a child from drowning in a pond."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "老婦人",
+                            "ろうふじん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "通り",
+                            "とお"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "渡る",
+                            "わた"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "助けた",
+                            "たす"
+                        ]
+                    ],
+                    "translation": "I helped an old woman across the street."
+                },
+                {
+                    "sentence": [
+                        [
+                            "教育",
+                            "きょういく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "人格",
+                            "じんかく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "形成",
+                            "けいせい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "助ける",
+                            "たす"
+                        ]
+                    ],
+                    "translation": "Education helps to mold character."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "養",
+                    "よう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. support (e.g. of one's dependents); maintenance "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. support (e.g. of one's dependents); maintenance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "助",
+                    "たす"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Nidan verb (lower class) with 'ku' ending (archaic), Transitive verb",
+                    "meaning": "1. to help; to save; to rescue Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "輔く 【たすく】、扶く 【たすく】"
+                },
+                {
+                    "type": "Nidan verb (lower class) with 'ku' ending (archaic), Transitive verb",
+                    "meaning": "1. to help; to save; to rescue Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "輔く 【たすく】、扶く 【たすく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "養",
+                    "よう"
+                ],
+                [
+                    "家",
+                    "か"
+                ],
+                [
+                    "族",
+                    "ぞく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's dependents "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. one's dependents "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "助",
+                    "じょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. aid; help; assistance; support "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Riding aids Riding aids are the cues a rider gives to a horse to comm... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. aid; help; assistance; support "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Riding aids Riding aids are the cues a rider gives to a horse to comm... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "桑",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. divine tree or island east of China (in Chinese mythology); Fusang "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Japan "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. Chinese hibiscus (Hibiscus rosa-sinensis) See also ブッソウゲ"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Fusang Fusang or Fousang refers to several different entities in... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "榑桑 【ふそう】、搏桑 【ふそう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "榑桑: Rarely-used kanji form. 搏桑: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. divine tree or island east of China (in Chinese mythology); Fusang "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Japan "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. Chinese hibiscus (Hibiscus rosa-sinensis) See also ブッソウゲ"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Fusang Fusang or Fousang refers to several different entities in... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "榑桑 【ふそう】、搏桑 【ふそう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "榑桑: Rarely-used kanji form. 搏桑: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "助",
+                    "じょ"
+                ],
+                [
+                    "料",
+                    "りょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. aid or relief allowance; subsidy "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. aid or relief allowance; subsidy "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "桑",
+                    "そう"
+                ],
+                [
+                    "教",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Fuso-kyo (sect of Shinto) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "育",
+                    "いく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. bringing up (children) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "養",
+                    "よう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. supporter; breadwinner "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "養",
+                    "よう"
+                ],
+                [
+                    "控",
+                    "こう"
+                ],
+                [
+                    "除",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tax exemption for dependents "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "壁",
+                    "へき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. parapet Architecture, See also パラペット"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. buttress Architecture, See also 控え壁"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. parapet Architecture, See also パラペット"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. buttress Architecture, See also 控え壁"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "植",
+                    "しょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. implantation "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. support; establishment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "持",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. ration; stipend; allowance "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. ration; stipend; allowance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "養",
+                    "よう"
+                ],
+                [
+                    "義",
+                    "ぎ"
+                ],
+                [
+                    "務",
+                    "む"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. duty to support (a person) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "養",
+                    "よう"
+                ],
+                [
+                    "親",
+                    "しん"
+                ],
+                [
+                    "族",
+                    "ぞく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dependent relative; dependent family member "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "養",
+                    "よう"
+                ],
+                [
+                    "料",
+                    "りょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. alimony; spousal support; maintenance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "翼",
+                    "よく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. help; aid; support; assistance Formal or literary term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "持",
+                    "ちまい"
+                ],
+                [
+                    "米",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stipend in rice "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夫",
+                    "ふ"
+                ],
+                [
+                    "余",
+                    "よ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Buyeo (ancient kingdom bordering China in the north of Korea); Puyŏ Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Buyeo kingdom Buyeo or Puyŏ, Fuyu in Chinese, was an ancient Korean kin... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "扶余 【ふよ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "扶",
+                "たすく"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Tasuku "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Tamotsu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "扶",
+                "まもる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Mamoru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "低",
+                    "てい"
+                ],
+                [
+                    "所",
+                    "しょ"
+                ],
+                [
+                    "得",
+                    "とく"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ],
+                [
+                    "医",
+                    "い"
+                ],
+                [
+                    "療",
+                    "りょう"
+                ],
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "助",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. support for medical treatment for those on low income; Medicaid Rare term, See also メディケイド２回目の人工内耳移植への低所得者医療扶助制度の適用不許可を取り下げる。Decision to disallow Medicaid for second cochlea implant withdrawn."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "２回",
+                            "にかい"
+                        ],
+                        [
+                            "目",
+                            "め"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "人工内耳",
+                            "じんこうないじ"
+                        ],
+                        [
+                            "移植",
+                            "いしょく"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "低所得者医療扶助",
+                            "ていしょとくしゃいりょうふじょ"
+                        ],
+                        [
+                            "制度",
+                            "せいど"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "適用",
+                            "てきよう"
+                        ],
+                        [
+                            "不許可",
+                            "ふきょか"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り下げる",
+                            "とりさ"
+                        ]
+                    ],
+                    "translation": "Decision to disallow Medicaid for second cochlea implant withdrawn."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "窒",
+                    null
+                ],
+                [
+                    "扶",
+                    null
+                ],
+                [
+                    "斯",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. typhoid; paratyphoid Medicine, Usually written using kana alone, See also 腸チフス, See also パラチフス, From German “Typhus”"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. typhus Medicine, Usually written using kana alone, See also 発疹チフス"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Typhus Typhus is any of several similar diseases caused by Ricke... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "窒扶斯 【チブス】、窒扶斯 【チプス】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "窒扶斯: Ateji (phonetic) reading, Rarely-used kanji form. チブス: Out-dated or obsolete kana usage. 窒扶斯: Ateji (phonetic) reading, Rarely-used kanji form. チプス: Out-dated or obsolete kana usage. 窒扶斯: Ateji (phonetic) reading, Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "互",
+                    "ご"
+                ],
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "助",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. mutual aid Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Mutual aid (organization theory) Mutual aid is a term in organization theory used to signi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "律",
+                    "りつ"
+                ],
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "助",
+                    "じょ"
+                ],
+                [
+                    "制",
+                    "せい"
+                ],
+                [
+                    "度",
+                    "ど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. civil legal aid system (e.g. legal aid for poor people) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "遺",
+                    "い"
+                ],
+                [
+                    "族",
+                    "ぞく"
+                ],
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "助",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. survivor's benefit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "社",
+                    "しゃ"
+                ],
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "助",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. social assistance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "煙",
+                    "えん"
+                ],
+                [
+                    "突",
+                    "とつ"
+                ],
+                [
+                    "掃",
+                    "そう"
+                ],
+                [
+                    "除",
+                    "じ"
+                ],
+                [
+                    "夫",
+                    "ふ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. chimney sweep; chimney sweeper "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "あ",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "扶",
+                    "ぶ"
+                ],
+                [
+                    "持",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. discretionary allowance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "宛てがい扶持 【あてがいぶち】、宛行扶持 【あてがいぶち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "公",
+                    "こう"
+                ],
+                [
+                    "的",
+                    "てき"
+                ],
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "助",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. public assistance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "生",
+                    "せい"
+                ],
+                [
+                    "活",
+                    "かつ"
+                ],
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "助",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. livelihood assistance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "律",
+                    "りつ"
+                ],
+                [
+                    "扶",
+                    "ふ"
+                ],
+                [
+                    "助",
+                    "じょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. civil legal aid system (e.g. legal aid for poor people) "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

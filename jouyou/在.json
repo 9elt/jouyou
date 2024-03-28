@@ -1,0 +1,1449 @@
+{
+    "kanji": "在",
+    "grade": 5,
+    "jlpt": 3,
+    "meanings": [
+        "exist",
+        "outskirts",
+        "suburbs",
+        "located in"
+    ],
+    "kun": [
+        "あ.る"
+    ],
+    "on": [
+        "ザイ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.18807339449541285,
+            0.32247706422018346,
+            "c",
+            0.02642201834862385,
+            0.006605504587155963,
+            0.04779816513761468,
+            0.0045871559633027525,
+            0.07229357798165137,
+            0.0022935779816513763,
+            "c",
+            0.10715596330275229,
+            -0.01,
+            0.35394495412844035,
+            -0.035596330275229356,
+            0.4655045871559633,
+            -0.04467889908256881,
+            "c",
+            0.02238532110091743,
+            -0.001834862385321101,
+            0.053944954128440366,
+            -0.0003669724770642202,
+            0.07229357798165137,
+            0.003119266055045872
+        ],
+        [
+            "M",
+            0.4944036697247706,
+            0.1163302752293578,
+            "c",
+            0.006697247706422018,
+            0.014403669724770642,
+            0.0047706422018348625,
+            0.03018348623853211,
+            0.0002752293577981651,
+            0.04944954128440367,
+            "C",
+            0.46110091743119264,
+            0.30825688073394497,
+            0.35733944954128444,
+            0.5358715596330275,
+            0.13660550458715598,
+            0.6825688073394496
+        ],
+        [
+            "M",
+            0.2519266055045872,
+            0.49311926605504586,
+            "c",
+            0.007064220183486239,
+            0.007064220183486239,
+            0.012110091743119267,
+            0.01944954128440367,
+            0.012110091743119267,
+            0.031467889908256885,
+            "c",
+            0,
+            0.005045871559633028,
+            -0.0005504587155963302,
+            0.211651376146789,
+            -0.0005504587155963302,
+            0.32412844036697247,
+            "c",
+            0,
+            0.02596330275229358,
+            -0.00045871559633027525,
+            0.04513761467889908,
+            -0.0007339449541284404,
+            0.0526605504587156
+        ],
+        [
+            "M",
+            0.3985321100917431,
+            0.6221100917431193,
+            "c",
+            0.014862385321100919,
+            0.005504587155963302,
+            0.03788990825688073,
+            0.0034862385321100917,
+            0.053302752293577976,
+            0.001834862385321101,
+            "c",
+            0.08009174311926606,
+            -0.008623853211009174,
+            0.20192660550458716,
+            -0.02348623853211009,
+            0.28211009174311924,
+            -0.028440366972477066,
+            "c",
+            0.016788990825688074,
+            -0.0011009174311926604,
+            0.03605504587155964,
+            -0.0002752293577981651,
+            0.0526605504587156,
+            0.0033944954128440367
+        ],
+        [
+            "M",
+            0.5853211009174312,
+            0.4070642201834862,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.01834862385321101,
+            0.024678899082568807,
+            0.01834862385321101,
+            0.0408256880733945,
+            "c",
+            0,
+            0.10403669724770642,
+            -0.0010091743119266055,
+            0.246697247706422,
+            -0.0010091743119266055,
+            0.3843119266055046
+        ],
+        [
+            "M",
+            0.34165137614678903,
+            0.8522935779816514,
+            "c",
+            0.027614678899082565,
+            0.004311926605504587,
+            0.050917431192660546,
+            0.004862385321100918,
+            0.07458715596330276,
+            0.0029357798165137615,
+            "c",
+            0.10825688073394496,
+            -0.008623853211009174,
+            0.2545871559633027,
+            -0.023853211009174313,
+            0.37155963302752293,
+            -0.02614678899082569,
+            "c",
+            0.02660550458715596,
+            -0.0005504587155963302,
+            0.05302752293577982,
+            0.0003669724770642202,
+            0.07926605504587156,
+            0.0057798165137614675
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the country; countryside "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. outskirts; suburbs "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. presence; being in attendance "
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "4. situated in; staying in; resident in before a place name"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "有",
+                    "あ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending (irregular verb), Intransitive verb",
+                    "meaning": "1. to be; to exist; to live Usually written using kana alone, See also 居る いる, usu. of inanimate objects失礼だが、上記の記事にある３つの誤りを指摘しておきたい。Excuse me; allow me to point out three errors in the above article."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending (irregular verb), Intransitive verb",
+                    "meaning": "2. to have Usually written using kana alone悪いけどほかに用事があるの。I'm sorry, I have another engagement."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending (irregular verb), Intransitive verb",
+                    "meaning": "3. to be located Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending (irregular verb), Intransitive verb",
+                    "meaning": "4. to be equipped with Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending (irregular verb), Intransitive verb",
+                    "meaning": "5. to happen; to come about Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "在る 【ある】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending (irregular verb), Intransitive verb",
+                    "meaning": "1. to be; to exist; to live Usually written using kana alone, See also 居る いる, usu. of inanimate objects失礼だが、上記の記事にある３つの誤りを指摘しておきたい。Excuse me; allow me to point out three errors in the above article."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending (irregular verb), Intransitive verb",
+                    "meaning": "2. to have Usually written using kana alone悪いけどほかに用事があるの。I'm sorry, I have another engagement."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending (irregular verb), Intransitive verb",
+                    "meaning": "3. to be located Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending (irregular verb), Intransitive verb",
+                    "meaning": "4. to be equipped with Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending (irregular verb), Intransitive verb",
+                    "meaning": "5. to happen; to come about Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "在る 【ある】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "失礼",
+                            "しつれい"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "上記の",
+                            "じょうき"
+                        ],
+                        [
+                            "記事",
+                            "きじ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "３つ",
+                            "みっ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "誤り",
+                            "あやま"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "指摘",
+                            "してき"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "おき",
+                            null
+                        ],
+                        [
+                            "たい",
+                            null
+                        ]
+                    ],
+                    "translation": "Excuse me; allow me to point out three errors in the above article."
+                },
+                {
+                    "sentence": [
+                        [
+                            "悪い",
+                            "わる"
+                        ],
+                        [
+                            "けど",
+                            null
+                        ],
+                        [
+                            "ほかに",
+                            null
+                        ],
+                        [
+                            "用事",
+                            "ようじ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ]
+                    ],
+                    "translation": "I'm sorry, I have another engagement."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "庫",
+                    "こ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stock; inventory "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Inventory Inventory means a list compiled for some formal purpose, ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. stock; inventory "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Inventory Inventory means a list compiled for some formal purpose, ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. attending (school, college, etc.); being enrolled; being a student "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. attending (school, college, etc.); being enrolled; being a student "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "有",
+                    "あ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Adverb (fukushi), Noun",
+                    "meaning": "1. as it is; plain (truth); bare; undisguised; unvarnished; unexaggerated; honest; true; frank; candid Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "有りの儘 【ありのまま】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "有りのまま: Rarely-used kanji form. 有りの儘: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Adverb (fukushi), Noun",
+                    "meaning": "1. as it is; plain (truth); bare; undisguised; unvarnished; unexaggerated; honest; true; frank; candid Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "有りの儘 【ありのまま】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "有りのまま: Rarely-used kanji form. 有りの儘: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "宅",
+                    "たく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. being at home; being in "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. being at home; being in "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "住",
+                    "じゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun, used as a suffix",
+                    "meaning": "1. residing; living; dwelling "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun, used as a suffix",
+                    "meaning": "1. residing; living; dwelling "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "籍",
+                    "せき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. being enrolled (at a school); being registered; being a member (of a team, organization, etc.) "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. being enrolled (at a school); being registered; being a member (of a team, organization, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "職",
+                    "しょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. being in office "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "勤",
+                    "きん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. (while) working in or at or for "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "庫",
+                    "こ"
+                ],
+                [
+                    "切",
+                    "ぎ"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. (being) out of stock "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "あ"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. existing (at the present moment) Usually written using kana alone, See also 在る ある"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "2. alright; acceptable; passable Colloquial, Usually written using kana alone"
+                },
+                {
+                    "type": "Irregular ru verb, plain form ends with -ri, Intransitive verb",
+                    "meaning": "3. to be (usu. of inanimate objects); to have Usually written using kana alone, See also 在る ある, See also 在る ある"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "有り 【あり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "有",
+                    "あ"
+                ],
+                [
+                    "る",
+                    null
+                ],
+                [
+                    "べ",
+                    null
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Pre-noun adjectival (rentaishi)",
+                    "meaning": "1. ideal; desirable; the way something should be; target; goal Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "在るべき 【あるべき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "あ"
+                ],
+                [
+                    "る",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun which may take the genitive case particle 'no', Adverb (fukushi), Noun",
+                    "meaning": "1. as it is; plain (truth); bare; undisguised; unvarnished; unexaggerated; honest; true; frank; candid Usually written using kana alone, See also ありのまま"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "在るが儘 【あるがまま】、有るがまま 【あるがまま】、有るが儘 【あるがまま】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "在るが儘: Rarely-used kanji form. 有るがまま: Rarely-used kanji form. 有るが儘: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "あ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "来",
+                    "き"
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. common; ordinary; conventional; customary Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "在り来り 【ありきたり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "住",
+                    "じゅう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. resident "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "あ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "方",
+                    "かた"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the way something ought to be ヒートアイランド現象の実体解析と対策のあり方について。An analysis of the nature of the heat island phenomenon and countermeasures."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. the (current) state of things; how things are "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "在り方 【ありかた】、有り方 【ありかた】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "有り方: Irregular kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ヒートアイランド",
+                            null
+                        ],
+                        [
+                            "現象",
+                            "げんしょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "実体",
+                            "じったい"
+                        ],
+                        [
+                            "解析",
+                            "かいせき"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "対策",
+                            "たいさく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "あり方",
+                            "ありかた"
+                        ],
+                        [
+                            "について",
+                            null
+                        ]
+                    ],
+                    "translation": "An analysis of the nature of the heat island phenomenon and countermeasures."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "留",
+                    "りゅう"
+                ],
+                [
+                    "届",
+                    "とどけ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. residence report 在留届に変更があったり、未だに変更届を提出されていない方は、至急提出頂きますようお願いします。We ask that those who have had a change to their residence report and have not yet submitted a change report please do so as quickly as possible."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "在留届",
+                            "ざいりゅうとどけ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "変更",
+                            "へんこう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あったり",
+                            null
+                        ],
+                        [
+                            "未だに",
+                            "いま"
+                        ],
+                        [
+                            "変更届",
+                            "へんこうとどけ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "提出",
+                            "ていしゅつ"
+                        ],
+                        [
+                            "されていない",
+                            null
+                        ],
+                        [
+                            "方",
+                            "かた"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "至急",
+                            "しきゅう"
+                        ],
+                        [
+                            "提出",
+                            "ていしゅつ"
+                        ],
+                        [
+                            "頂きます",
+                            "いただ"
+                        ],
+                        [
+                            "よう",
+                            null
+                        ],
+                        [
+                            "お願いします",
+                            "おねが"
+                        ]
+                    ],
+                    "translation": "We ask that those who have had a change to their residence report and have not yet submitted a change report please do so as quickly as possible."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "庫",
+                    "こ"
+                ],
+                [
+                    "品",
+                    "ひん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. inventory; goods on hand "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "在",
+                    "あ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "処",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. location (of something); whereabouts; hiding place Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "在処 【ありか】、在りか 【ありか】、在り所 【ありか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "在",
+                "あき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Aki "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Akira "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Ari "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "現",
+                    "げん"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. the present; present time; now 現在、通常のサービスの早急な復旧に努めています。We are currently working to restore normal service as soon as possible."
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. as of after a time, date, etc.与党は５時現在で５０議席確保している。The ruling party has secured 50 seats as of 5 o'clock."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. present tense Grammar"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. this world; this life Buddhism, See also 現世"
+                },
+                {
+                    "type": "Suru verb, Intransitive verb",
+                    "meaning": "5. to actually exist; to exist right now; to exist right in front of one "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "6. Present The present (or now) is the time that is associated with ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "見在 【げんざい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "見在: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "現在",
+                            "げんざい"
+                        ],
+                        [
+                            "通常",
+                            "つうじょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "サービス",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "早急な",
+                            "そうきゅう"
+                        ],
+                        [
+                            "復旧",
+                            "ふっきゅう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "努めています",
+                            "つと"
+                        ]
+                    ],
+                    "translation": "We are currently working to restore normal service as soon as possible."
+                },
+                {
+                    "sentence": [
+                        [
+                            "与党",
+                            "よとう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "時",
+                            "じ"
+                        ],
+                        [
+                            "現在",
+                            "げんざい"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "議席",
+                            "ぎせき"
+                        ],
+                        [
+                            "確保",
+                            "かくほ"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "The ruling party has secured 50 seats as of 5 o'clock."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "存",
+                    "そん"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. existence; being; presence "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Existence Existence has been variously defined by sources. In commo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "滞",
+                    "たい"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. stay; sojourn "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. absence "
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. disregard; indifference See also 国民不在 こくみんふざい"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "健",
+                    "けん"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. in good health; alive and well; going strong "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "自",
+                    "じ"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. being able to do as one pleases; doing at will "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. pothook Abbreviation, See also 自在鉤"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "所",
+                    "しょ"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. location (of); position; whereabouts; place where one is "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "内",
+                    "ない"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suru verb, Intransitive verb, Noun",
+                    "meaning": "1. to be inherent (in); to reside (in); to be immanent (in); to be intrinsic Antonym: 外在"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. immanence Philosophy, Antonym: 超越"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Immanence Immanence refers to philosophical and metaphysical theori... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "実",
+                    "じつ"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. actual existence; real existence; existing in real life "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "潜",
+                    "せん"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. potentiality; dormancy; latency Antonym: 顕在"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "駐",
+                    "ちゅう"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. residence; stay; (job) posting; being stationed (overseas, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. residential police box; residential police box officer Abbreviation, See also 駐在所 ちゅうざいしょ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "所",
+                    "しょ"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ],
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. location; address "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "点",
+                    "てん"
+                ],
+                [
+                    "在",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. being dotted about; being scattered; being interspersed "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

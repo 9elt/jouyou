@@ -1,0 +1,890 @@
+{
+    "kanji": "但",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "however",
+        "but"
+    ],
+    "kun": [
+        "ただ.し"
+    ],
+    "on": [
+        "タン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.304954128440367,
+            0.14807339449541285,
+            "c",
+            0.0012844036697247708,
+            0.010825688073394495,
+            0.002201834862385321,
+            0.02201834862385321,
+            -0.0011009174311926604,
+            0.035321100917431195,
+            "c",
+            -0.021009174311926605,
+            0.08394495412844037,
+            -0.1044954128440367,
+            0.24614678899082568,
+            -0.20238532110091742,
+            0.3598165137614679
+        ],
+        [
+            "M",
+            0.24110091743119266,
+            0.3738532110091743,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.011559633027522935,
+            0.022935779816513763,
+            0.011559633027522935,
+            0.041100917431192666,
+            "c",
+            0,
+            0.09394495412844037,
+            -0.0002752293577981651,
+            0.26605504587155965,
+            -0.0003669724770642202,
+            0.3763302752293578,
+            "c",
+            0,
+            0.03,
+            0,
+            0.05504587155963303,
+            0,
+            0.07229357798165137
+        ],
+        [
+            "M",
+            0.45165137614678896,
+            0.2194495412844037,
+            "c",
+            0.008532110091743119,
+            0.008532110091743119,
+            0.010642201834862385,
+            0.02,
+            0.010642201834862385,
+            0.0336697247706422,
+            "c",
+            0,
+            0.006146788990825688,
+            0,
+            0.29394495412844035,
+            0,
+            0.3592660550458715,
+            "c",
+            0,
+            0.01724770642201835,
+            0,
+            0.033211009174311926,
+            0,
+            0.05559633027522935
+        ],
+        [
+            "M",
+            0.4711009174311927,
+            0.23724770642201834,
+            "c",
+            0.05678899082568808,
+            -0.006513761467889908,
+            0.21009174311926604,
+            -0.0218348623853211,
+            0.2629357798165138,
+            -0.02688073394495413,
+            "c",
+            0.03055045871559633,
+            -0.0029357798165137615,
+            0.052201834862385325,
+            0.004036697247706422,
+            0.052201834862385325,
+            0.038623853211009175,
+            "c",
+            0,
+            0.05614678899082569,
+            0.0007339449541284404,
+            0.26146788990825687,
+            -0.0002752293577981651,
+            0.36174311926605507,
+            "c",
+            -0.0002752293577981651,
+            0.032018348623853214,
+            -0.00045871559633027525,
+            0.05339449541284404,
+            -0.00045871559633027525,
+            0.05568807339449541
+        ],
+        [
+            "M",
+            0.4718348623853211,
+            0.43321100917431193,
+            "C",
+            0.5596330275229358,
+            0.42660550458715596,
+            0.7064220183486238,
+            0.41394495412844035,
+            0.7768807339449542,
+            0.4115596330275229
+        ],
+        [
+            "M",
+            0.4711009174311927,
+            0.6422935779816514,
+            "c",
+            0.081651376146789,
+            -0.005871559633027523,
+            0.21238532110091743,
+            -0.019633027522935782,
+            0.30458715596330277,
+            -0.02284403669724771
+        ],
+        [
+            "M",
+            0.36816513761467895,
+            0.8214678899082569,
+            "c",
+            0.0263302752293578,
+            0.006513761467889908,
+            0.05302752293577982,
+            0.007064220183486239,
+            0.07568807339449542,
+            0.004954128440366972,
+            "c",
+            0.10541284403669725,
+            -0.01,
+            0.27908256880733945,
+            -0.02330275229357798,
+            0.38073394495412843,
+            -0.02568807339449541,
+            "c",
+            0.021376146788990826,
+            -0.0005504587155963302,
+            0.04568807339449542,
+            0.0008256880733944953,
+            0.06651376146788991,
+            0.006055045871559634
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "只",
+                    "ただ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. ordinary; common; usual Usually written using kana alone私はただの名無しの権兵衛です。I am just a nobody."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "2. free of charge Usually written using kana alone, only 只私はその切符をただで手にいれた。I got the ticket for nothing."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. unaffected; as is; safe usu. as ただでは...彼は結構しぶといね。転んでもただでは起きぬ、いい根性しているよ。He's a tenacious guy who always manages to come out on top. He's the kind of guy who can turn any situation to his advantage."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "4. only; merely; just; simply 君はただ皿を洗いさえすればいい。All you have to do is wash the dishes."
+                },
+                {
+                    "type": "Conjunction",
+                    "meaning": "5. but; however; nevertheless esp. 但ただ、面白いブログを書くために、人のブログを読むのなら今日から出来る。However, if you're going to read people's blogs in order to write an interesting blog, you can do that right away."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "唯 【ただ】、徒 【ただ】、但 【ただ】、常 【ただ】、タダ"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. ordinary; common; usual Usually written using kana alone私はただの名無しの権兵衛です。I am just a nobody."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "2. free of charge Usually written using kana alone, only 只私はその切符をただで手にいれた。I got the ticket for nothing."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "3. unaffected; as is; safe usu. as ただでは...彼は結構しぶといね。転んでもただでは起きぬ、いい根性しているよ。He's a tenacious guy who always manages to come out on top. He's the kind of guy who can turn any situation to his advantage."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "4. only; merely; just; simply 君はただ皿を洗いさえすればいい。All you have to do is wash the dishes."
+                },
+                {
+                    "type": "Conjunction",
+                    "meaning": "5. but; however; nevertheless esp. 但ただ、面白いブログを書くために、人のブログを読むのなら今日から出来る。However, if you're going to read people's blogs in order to write an interesting blog, you can do that right away."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "唯 【ただ】、徒 【ただ】、但 【ただ】、常 【ただ】、タダ"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ただ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "名無しの権兵衛",
+                            "ななしのごんべえ"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "I am just a nobody."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "切符",
+                            "きっぷ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "ただ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "手にいれた",
+                            "てにい"
+                        ]
+                    ],
+                    "translation": "I got the ticket for nothing."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "結構",
+                            "けっこう"
+                        ],
+                        [
+                            "しぶとい",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ],
+                        [
+                            "転んで",
+                            "ころ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "ただ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "起きぬ",
+                            "お"
+                        ],
+                        [
+                            "いい",
+                            null
+                        ],
+                        [
+                            "根性",
+                            "こんじょう"
+                        ],
+                        [
+                            "している",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "He's a tenacious guy who always manages to come out on top. He's the kind of guy who can turn any situation to his advantage."
+                },
+                {
+                    "sentence": [
+                        [
+                            "君",
+                            "きみ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ただ",
+                            null
+                        ],
+                        [
+                            "皿",
+                            "さら"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "洗い",
+                            "あら"
+                        ],
+                        [
+                            "さえすれば",
+                            null
+                        ],
+                        [
+                            "いい",
+                            null
+                        ]
+                    ],
+                    "translation": "All you have to do is wash the dishes."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ただ",
+                            null
+                        ],
+                        [
+                            "面白い",
+                            "おもしろ"
+                        ],
+                        [
+                            "ブログ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "書く",
+                            "か"
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ブログ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "読む",
+                            "よ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "なら",
+                            null
+                        ],
+                        [
+                            "今日",
+                            "きょう"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "出来る",
+                            "でき"
+                        ]
+                    ],
+                    "translation": "However, if you're going to read people's blogs in order to write an interesting blog, you can do that right away."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "但",
+                    "ただ"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Conjunction",
+                    "meaning": "1. but; however; provided that Usually written using kana alone"
+                },
+                {
+                    "type": "Conjunction",
+                    "meaning": "1. but; however; provided that Usually written using kana alone"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "但",
+                    "たじまうし"
+                ],
+                [
+                    "馬",
+                    null
+                ],
+                [
+                    "牛",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Tajima cattle (breed of black Wagyu cattle) esp. 〜うし"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Tajima beef esp. 〜ぎゅう"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Tajima cattle is one of the types of black Wagyū cattle in Japan. Many ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "但馬牛 【たじまぎゅう】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Tajima cattle (breed of black Wagyu cattle) esp. 〜うし"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Tajima beef esp. 〜ぎゅう"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Tajima cattle is one of the types of black Wagyū cattle in Japan. Many ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "但馬牛 【たじまぎゅう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "但",
+                    "ただ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "書",
+                    "が"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. proviso "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ただし書 【ただしがき】、ただし書き 【ただしがき】、但書 【ただしがき】、但書き 【ただしがき】、但し書 【ただしがき】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. proviso "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ただし書 【ただしがき】、ただし書き 【ただしがき】、但書 【ただしがき】、但書き 【ただしがき】、但し書 【ただしがき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "但",
+                    "たじま"
+                ],
+                [
+                    "馬",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Tajima (former province located in the north of present-day Hyōgo Prefecture) Historical term"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Tajima (former province located in the north of present-day Hyōgo Prefecture) Historical term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "但",
+                    "ただ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "付",
+                    "づ"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. conditional "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "但し付き 【ただしつき】"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. conditional "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "但し付き 【ただしつき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "但",
+                    null
+                ],
+                [
+                    "馬",
+                    null
+                ],
+                [
+                    "皇",
+                    null
+                ],
+                [
+                    "女",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Princess Tajima (died 708) was a person in Japan during the Asuka Period.... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "但",
+                    null
+                ],
+                [
+                    "馬",
+                    null
+                ],
+                [
+                    "飛",
+                    null
+                ],
+                [
+                    "行",
+                    null
+                ],
+                [
+                    "場",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Tajima Airport , also known as Kounotori Tajima Airport is an airport 2.... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "但",
+                    null
+                ],
+                [
+                    "馬",
+                    null
+                ],
+                [
+                    "高",
+                    null
+                ],
+                [
+                    "原",
+                    null
+                ],
+                [
+                    "植",
+                    null
+                ],
+                [
+                    "物",
+                    null
+                ],
+                [
+                    "園",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Tajima Plateau Botanical Gardens The Tajima Plateau Botanical Gardens (但馬高原植物園, Tajima Kōg... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "但",
+                    null
+                ],
+                [
+                    "馬",
+                    null
+                ],
+                [
+                    "国",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Tajima Province Tajima Province was an old province of Japan in the area ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "但",
+                    null
+                ],
+                [
+                    "馬",
+                    null
+                ],
+                [
+                    "山",
+                    null
+                ],
+                [
+                    "岳",
+                    null
+                ],
+                [
+                    "県",
+                    null
+                ],
+                [
+                    "立",
+                    null
+                ],
+                [
+                    "自",
+                    null
+                ],
+                [
+                    "然",
+                    null
+                ],
+                [
+                    "公",
+                    null
+                ],
+                [
+                    "園",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Tajima Sangaku Prefectural Natural Park Tajima Sangaku Prefectural Natural Park is a Prefectural ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "但",
+                "ただし"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Tadashi "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tadanaga "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tajimaru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "播",
+                    "ばん"
+                ],
+                [
+                    "但",
+                    "たん"
+                ],
+                [
+                    "線",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Bantan Line (Hyogo Prefecture) Service"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bantan Line The Bantan Line is a railway line that runs between Himej... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

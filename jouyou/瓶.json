@@ -1,0 +1,1205 @@
+{
+    "kanji": "瓶",
+    "grade": 10,
+    "jlpt": 2,
+    "meanings": [
+        "bottle",
+        "vial",
+        "jar",
+        "jug",
+        "vat",
+        "urn"
+    ],
+    "kun": [
+        "かめ",
+        "へい"
+    ],
+    "on": [
+        "ビン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1624770642201835,
+            0.1522018348623853,
+            "c",
+            0.02256880733944954,
+            0.018990825688073393,
+            0.05834862385321101,
+            0.07788990825688073,
+            0.06403669724770643,
+            0.10743119266055047
+        ],
+        [
+            "M",
+            0.41330275229357794,
+            0.13201834862385323,
+            "c",
+            0.0001834862385321101,
+            0.0032110091743119264,
+            0.00045871559633027525,
+            0.00834862385321101,
+            -0.00045871559633027525,
+            0.013027522935779816,
+            "c",
+            -0.005321100917431192,
+            0.02743119266055046,
+            -0.033211009174311926,
+            0.07513761467889908,
+            -0.07605504587155963,
+            0.12660550458715597
+        ],
+        [
+            "M",
+            0.13761467889908258,
+            0.323302752293578,
+            "c",
+            0.017155963302752295,
+            0.004678899082568807,
+            0.035688073394495416,
+            0.0029357798165137615,
+            0.05165137614678899,
+            0.0005504587155963302,
+            "c",
+            0.05412844036697248,
+            -0.0081651376146789,
+            0.1524770642201835,
+            -0.025596330275229357,
+            0.216697247706422,
+            -0.0336697247706422,
+            "c",
+            0.01889908256880734,
+            -0.0023853211009174312,
+            0.03669724770642202,
+            -0.0034862385321100917,
+            0.05385321100917431,
+            0.001926605504587156
+        ],
+        [
+            "M",
+            0.09862385321100918,
+            0.520091743119266,
+            "c",
+            0.008990825688073394,
+            0.0045871559633027525,
+            0.0255045871559633,
+            0.005504587155963302,
+            0.0344954128440367,
+            0.0045871559633027525,
+            "c",
+            0.09724770642201834,
+            -0.010458715596330274,
+            0.23678899082568805,
+            -0.03513761467889908,
+            0.34,
+            -0.03504587155963303,
+            "c",
+            0.014954128440366971,
+            0,
+            0.023944954128440367,
+            0.002201834862385321,
+            0.031467889908256885,
+            0.004495412844036697
+        ],
+        [
+            "M",
+            0.23091743119266056,
+            0.3451376146788991,
+            "c",
+            0.008440366972477065,
+            0.008440366972477065,
+            0.010183486238532111,
+            0.017064220183486238,
+            0.010183486238532111,
+            0.03541284403669725,
+            "c",
+            0,
+            0.16779816513761467,
+            0.005412844036697248,
+            0.3567889908256881,
+            -0.12330275229357798,
+            0.4935779816513761
+        ],
+        [
+            "M",
+            0.36614678899082564,
+            0.32596330275229357,
+            "c",
+            0.007706422018348624,
+            0.007706422018348624,
+            0.00926605504587156,
+            0.018073394495412842,
+            0.00926605504587156,
+            0.029724770642201838,
+            "c",
+            0,
+            0.006972477064220183,
+            0.0011926605504587156,
+            0.31798165137614676,
+            0.0001834862385321101,
+            0.4643119266055046,
+            "c",
+            -0.0001834862385321101,
+            0.03394495412844037,
+            -0.00045871559633027525,
+            0.058807339449541286,
+            -0.0007339449541284404,
+            0.06880733944954129
+        ],
+        [
+            "M",
+            0.4935779816513761,
+            0.19449541284403668,
+            "c",
+            0.024770642201834864,
+            0.006238532110091744,
+            0.04862385321100917,
+            0.003669724770642202,
+            0.06853211009174312,
+            0.0011009174311926604,
+            "c",
+            0.07064220183486239,
+            -0.00908256880733945,
+            0.1743119266055046,
+            -0.0255045871559633,
+            0.23513761467889907,
+            -0.030917431192660553,
+            "c",
+            0.02,
+            -0.001834862385321101,
+            0.03908256880733945,
+            -0.0028440366972477065,
+            0.05853211009174312,
+            0.0032110091743119264
+        ],
+        [
+            "M",
+            0.6047706422018349,
+            0.22247706422018348,
+            "c",
+            0.006513761467889908,
+            0.011467889908256881,
+            0.0076146788990825685,
+            0.020642201834862386,
+            0.005596330275229358,
+            0.03669724770642202,
+            "c",
+            -0.009174311926605505,
+            0.07174311926605505,
+            -0.08623853211009175,
+            0.4805504587155964,
+            -0.11036697247706422,
+            0.5663302752293577
+        ],
+        [
+            "M",
+            0.4724770642201835,
+            0.8392660550458716,
+            "c",
+            0.013853211009174311,
+            0.008807339449541284,
+            0.028073394495412844,
+            0.0047706422018348625,
+            0.04146788990825688,
+            -0.003027522935779817,
+            "c",
+            0.05082568807339449,
+            -0.02963302752293578,
+            0.11779816513761468,
+            -0.05807339449541284,
+            0.16963302752293577,
+            -0.08394495412844037
+        ],
+        [
+            "M",
+            0.6145871559633027,
+            0.3811009174311927,
+            "c",
+            0.012201834862385321,
+            0.0029357798165137615,
+            0.024128440366972478,
+            0.0006422018348623854,
+            0.03596330275229358,
+            -0.002201834862385321,
+            "c",
+            0.027889908256880733,
+            -0.006788990825688073,
+            0.08660550458715596,
+            -0.020825688073394497,
+            0.11201834862385322,
+            -0.028073394495412844,
+            "c",
+            0.015137614678899082,
+            -0.004311926605504587,
+            0.03165137614678899,
+            0.004954128440366972,
+            0.02926605504587156,
+            0.023394495412844035,
+            "c",
+            -0.005229357798165137,
+            0.04119266055045872,
+            -0.02926605504587156,
+            0.22211009174311927,
+            -0.04577981651376147,
+            0.3211926605504587,
+            "c",
+            -0.028165137614678898,
+            0.16935779816513763,
+            -0.018990825688073393,
+            0.18192660550458714,
+            0.06605504587155964,
+            0.18192660550458714,
+            "c",
+            0.08128440366972477,
+            0,
+            0.08678899082568808,
+            -0.012568807339449543,
+            0.08678899082568808,
+            -0.09036697247706421
+        ],
+        [
+            "M",
+            0.6227522935779816,
+            0.5172477064220183,
+            "c",
+            0.02238532110091743,
+            0.01798165137614679,
+            0.057798165137614675,
+            0.07385321100917432,
+            0.06339449541284403,
+            0.10174311926605505
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bottle; jar; decanter; flagon; phial; vial "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "壜 【びん】、罎 【びん】、ビン"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. jar or vase with a long narrow neck Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bottle; jar; decanter; flagon; phial; vial "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "壜 【びん】、罎 【びん】、ビン"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "甕",
+                    "かめ"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. earthenware pot "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bottle A bottle is a rigid container with a neck that is narrowe... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "瓶 【かめ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. earthenware pot "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bottle A bottle is a rigid container with a neck that is narrowe... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "瓶 【かめ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "びん"
+                ],
+                [
+                    "詰",
+                    "づ"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. bottling "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. bottled "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "瓶詰 【びんづめ】、ビン詰め 【びんづめ】、壜詰め 【びんづめ】、壜詰 【びんづめ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "壜詰め: Rarely-used kanji form. 壜詰: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. bottling "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. bottled "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "瓶詰 【びんづめ】、ビン詰め 【びんづめ】、壜詰め 【びんづめ】、壜詰 【びんづめ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "壜詰め: Rarely-used kanji form. 壜詰: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "へい"
+                ],
+                [
+                    "子",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. earthenware pot (used as a decanter); jar; jug "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "瓶子 【へいし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "へい"
+                ],
+                [
+                    "子",
+                    "し"
+                ],
+                [
+                    "草",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sarracenia Usually written using kana alone, See also サラセニア"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ヘイシソウ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ビ",
+                    null
+                ],
+                [
+                    "ン",
+                    null
+                ],
+                [
+                    "底",
+                    "ぞこ"
+                ],
+                [
+                    "メ",
+                    null
+                ],
+                [
+                    "ガ",
+                    null
+                ],
+                [
+                    "ネ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. thick glasses; bottle bottom glasses Jocular, humorous term, Idiomatic expression"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "瓶底メガネ 【びんぞこメガネ】、瓶底眼鏡 【びんぞこめがね】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "びん"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "栓",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bottle stopper "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "びん"
+                ],
+                [
+                    "掛",
+                    "かけ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. instrument used in tea ceremony "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "かめ"
+                ],
+                [
+                    "覗",
+                    "のぞき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. faint indigo blue (traditional Japanese color name) Historical term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "びん"
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. bottled "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ビン入り 【びんいり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "首",
+                    "くび"
+                ],
+                [
+                    "効",
+                    "こう"
+                ],
+                [
+                    "果",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bottleneck effect Rare term, See also ボトルネック効果"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "瓶首効果 【びんくびこうか】、瓶首効果 【へいしゅこうか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "びん"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "詰",
+                    "つ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to fill a bottle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    "びん"
+                ],
+                [
+                    "ビ",
+                    null
+                ],
+                [
+                    "ー",
+                    null
+                ],
+                [
+                    "ル",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bottled beer; bottle beer "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "瓶",
+                    null
+                ],
+                [
+                    "詰",
+                    null
+                ],
+                [
+                    "妖",
+                    null
+                ],
+                [
+                    "精",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Bottle Fairy Bottle Fairy is an anime series about four fairies who di... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "瓶",
+                "かめじ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kameji "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kamegamori "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kamegamori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "花",
+                    "か"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (flower) vase "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Vase A vase is an open container, often used to hold cut flowe... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "花びん 【かびん】、花瓶 【はながめ】、花瓶 【かへい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "魔",
+                    "ま"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. thermos bottle; vacuum flask "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Vacuum flask A vacuum flask (also known as a Dewar flask, Dewar bottle... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "魔法びん 【まほうびん】、マホービン"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "水",
+                    "みず"
+                ],
+                [
+                    "瓶",
+                    "がめ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. water jug "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "水がめ 【みずがめ】、水甕 【みずがめ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "空",
+                    "あ"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. empty bottle "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "空きびん 【あきびん】、空き壜 【あきびん】、空きビン 【あきビン】、空瓶 【からびん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "空瓶: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ],
+                [
+                    "べ",
+                    null
+                ],
+                [
+                    "落",
+                    "お"
+                ],
+                [
+                    "と",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fast descent; speedy fall "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tsurube-otoshi Tsurube-otoshi (釣瓶おとし) is a creature from Japanese folklo... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "釣瓶落とし 【つるべおとし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "哺",
+                    "ほ"
+                ],
+                [
+                    "乳",
+                    "にゅう"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. baby bottle; nursing bottle; feeding bottle "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Baby bottle A baby bottle is a bottle with a teat to drink directly f... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "哺乳びん 【ほにゅうびん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "ひと"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. one bottle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "尿",
+                    "しびん"
+                ],
+                [
+                    "瓶",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. urine bottle; (urinary) bedpan; chamber pot (esp. medical); urinal "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "溲瓶 【しびん】、溲瓶 【しゅびん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "火",
+                    "か"
+                ],
+                [
+                    "炎",
+                    "えん"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Molotov cocktail; petrol bomb; gasoline bomb "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Molotov cocktail The Molotov cocktail, also known as the petrol bomb, gaso... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宝",
+                    "ほう"
+                ],
+                [
+                    "瓶",
+                    "へい"
+                ],
+                [
+                    "宮",
+                    "きゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Aquarius (11th zodiacal sign); the Water Bearer; the Water Carrier "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Aquarius (astrology) Aquarius (♒) is the eleventh astrological sign in the Zod... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "釣",
+                    "つる"
+                ],
+                [
+                    "瓶",
+                    "べ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. well bucket "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Tsurube "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "角",
+                    "かく"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rectangular bottle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "徳",
+                    "とく"
+                ],
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. economy bottle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "おお"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. large bottle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "広",
+                    "ひろ"
+                ],
+                [
+                    "口",
+                    "くち"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. jar; widemouthed bottle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "香",
+                    "こう"
+                ],
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bottle of perfume (scent) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "瓶",
+                    "びん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. medium-sized bottle (of beer) "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

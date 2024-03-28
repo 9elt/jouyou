@@ -1,0 +1,963 @@
+{
+    "kanji": "酌",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "bar-tending",
+        "serving sake",
+        "the host",
+        "draw (water)",
+        "ladle",
+        "scoop",
+        "pump"
+    ],
+    "kun": [
+        "く.む"
+    ],
+    "on": [
+        "シャク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.12422018348623852,
+            0.19642201834862386,
+            "c",
+            0.015321100917431192,
+            0.007247706422018349,
+            0.03954128440366972,
+            0.006146788990825688,
+            0.055963302752293574,
+            0.004862385321100918,
+            "c",
+            0.07889908256880733,
+            -0.006238532110091744,
+            0.21623853211009175,
+            -0.024770642201834864,
+            0.246697247706422,
+            -0.02706422018348624,
+            "c",
+            0.018256880733944953,
+            -0.0012844036697247708,
+            0.03871559633027523,
+            -0.005688073394495413,
+            0.05431192660550459,
+            -0.0011926605504587156
+        ],
+        [
+            "M",
+            0.12376146788990826,
+            0.33321100917431196,
+            "c",
+            0.00834862385321101,
+            0.00834862385321101,
+            0.011009174311926604,
+            0.02165137614678899,
+            0.011009174311926604,
+            0.03311926605504587,
+            "c",
+            0,
+            0.005045871559633028,
+            -0.0003669724770642202,
+            0.28137614678899087,
+            -0.0005504587155963302,
+            0.3951376146788991,
+            "c",
+            0,
+            0.02944954128440367,
+            -0.00009174311926605505,
+            0.047981651376146794,
+            -0.00009174311926605505,
+            0.0481651376146789
+        ],
+        [
+            "M",
+            0.1438532110091743,
+            0.3571559633027523,
+            "c",
+            0.040733944954128444,
+            -0.005137614678899083,
+            0.26073394495412844,
+            -0.030642201834862385,
+            0.28449541284403673,
+            -0.033211009174311926,
+            "c",
+            0.024770642201834864,
+            -0.0025688073394495416,
+            0.03935779816513762,
+            0.00963302752293578,
+            0.03935779816513762,
+            0.032293577981651375,
+            "c",
+            0,
+            0.00834862385321101,
+            0,
+            0.25522935779816514,
+            0,
+            0.3764220183486239,
+            "c",
+            0,
+            0.03669724770642202,
+            0,
+            0.06165137614678899,
+            0,
+            0.06467889908256881
+        ],
+        [
+            "M",
+            0.23853211009174313,
+            0.2155045871559633,
+            "c",
+            0.007522935779816513,
+            0.007522935779816513,
+            0.01,
+            0.018990825688073393,
+            0.009724770642201836,
+            0.0326605504587156,
+            "C",
+            0.24541284403669725,
+            0.3738532110091743,
+            0.23853211009174313,
+            0.4701834862385321,
+            0.19073394495412843,
+            0.5431192660550459
+        ],
+        [
+            "M",
+            0.328440366972477,
+            0.20788990825688072,
+            "c",
+            0.0076146788990825685,
+            0.0076146788990825685,
+            0.011376146788990826,
+            0.02146788990825688,
+            0.011376146788990826,
+            0.033486238532110094,
+            "c",
+            0,
+            0.05559633027522935,
+            0.0001834862385321101,
+            0.14660550458715596,
+            -0.0002752293577981651,
+            0.20853211009174313,
+            "c",
+            -0.0003669724770642202,
+            0.05376146788990826,
+            0.00908256880733945,
+            0.05798165137614679,
+            0.049724770642201835,
+            0.05798165137614679,
+            "c",
+            0.03495412844036697,
+            0,
+            0.04642201834862385,
+            -0.002201834862385321,
+            0.05669724770642202,
+            -0.007889908256880733
+        ],
+        [
+            "M",
+            0.14394495412844036,
+            0.6319266055045871,
+            "c",
+            0.053302752293577976,
+            -0.0045871559633027525,
+            0.21844036697247704,
+            -0.020642201834862386,
+            0.311651376146789,
+            -0.023669724770642202
+        ],
+        [
+            "M",
+            0.14229357798165138,
+            0.7826605504587156,
+            "c",
+            0.09623853211009174,
+            -0.009724770642201836,
+            0.22064220183486238,
+            -0.020366972477064222,
+            0.3108256880733945,
+            -0.024036697247706424
+        ],
+        [
+            "M",
+            0.6677981651376147,
+            0.14908256880733944,
+            "c",
+            0.001926605504587156,
+            0.009174311926605505,
+            0.0002752293577981651,
+            0.018440366972477064,
+            -0.0025688073394495416,
+            0.028440366972477066,
+            "C",
+            0.6490825688073395,
+            0.23394495412844038,
+            0.5928440366972477,
+            0.3577981651376147,
+            0.52,
+            0.4521100917431193
+        ],
+        [
+            "M",
+            0.6148623853211009,
+            0.35183486238532113,
+            "c",
+            0.016972477064220184,
+            0.002477064220183486,
+            0.03458715596330275,
+            0.0006422018348623854,
+            0.052752293577981654,
+            -0.0033944954128440367,
+            "c",
+            0.03697247706422019,
+            -0.0081651376146789,
+            0.1306422018348624,
+            -0.03018348623853211,
+            0.1546788990825688,
+            -0.031926605504587154,
+            "c",
+            0.02743119266055046,
+            -0.001926605504587156,
+            0.04954128440366973,
+            0.010825688073394495,
+            0.04376146788990825,
+            0.05192660550458716,
+            "C",
+            0.8497247706422019,
+            0.4851376146788991,
+            0.8176146788990826,
+            0.7053211009174312,
+            0.7408256880733946,
+            0.8256880733944955,
+            "c",
+            -0.031467889908256885,
+            0.04926605504587156,
+            -0.05504587155963303,
+            0.02981651376146789,
+            -0.081651376146789,
+            -0.01128440366972477
+        ],
+        [
+            "M",
+            0.5928440366972477,
+            0.5080733944954129,
+            "c",
+            0.03220183486238532,
+            0.01981651376146789,
+            0.07972477064220183,
+            0.08155963302752293,
+            0.08477064220183486,
+            0.11247706422018348
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "酌",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pouring alcohol "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. person pouring alcohol (esp. a woman) Dated term"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. pouring alcohol "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. person pouring alcohol (esp. a woman) Dated term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "汲",
+                    "く"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to draw (water); to scoop up; to dip up; to pump out "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to understand (someone's feelings, etc.); to grasp; to surmise; to take into consideration 読書するには趣旨をくみ取ることが必要だ。When you read a book you should read between the lines."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "くみ取る 【くみとる】、汲みとる 【くみとる】、酌み取る 【くみとる】、汲取る 【くみとる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "汲取る: Irregular okurigana usage."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to draw (water); to scoop up; to dip up; to pump out "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to understand (someone's feelings, etc.); to grasp; to surmise; to take into consideration 読書するには趣旨をくみ取ることが必要だ。When you read a book you should read between the lines."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "くみ取る 【くみとる】、汲みとる 【くみとる】、酌み取る 【くみとる】、汲取る 【くみとる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "汲取る: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "読書",
+                            "どくしょ"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "趣旨",
+                            "しゅし"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "くみ取る",
+                            "くみと"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "必要",
+                            "ひつよう"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "When you read a book you should read between the lines."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "酌",
+                    "く"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "交",
+                    "か"
+                ],
+                [
+                    "わ",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to pour drinks for each other; to drink together "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "酌み交す 【くみかわす】、酌みかわす 【くみかわす】、酌交す 【くみかわす】、酌交わす 【くみかわす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to pour drinks for each other; to drink together "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "酌み交す 【くみかわす】、酌みかわす 【くみかわす】、酌交す 【くみかわす】、酌交わす 【くみかわす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "酌",
+                    "しゃく"
+                ],
+                [
+                    "量",
+                    "りょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. taking into consideration; making allowances "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. taking into consideration; making allowances "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "酌",
+                    "く"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to pour (sake); to serve; to drink (together) See also 汲む くむ"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to consider (feelings, the situation, etc.); to sympathize with; to intuit; to understand See also 汲む くむ"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to pour (sake); to serve; to drink (together) See also 汲む くむ"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to consider (feelings, the situation, etc.); to sympathize with; to intuit; to understand See also 汲む くむ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "酌",
+                    "しゃく"
+                ],
+                [
+                    "量",
+                    "りょう"
+                ],
+                [
+                    "減",
+                    "げん"
+                ],
+                [
+                    "軽",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reduction of punishment in the light of extenuating circumstances Law"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "酌",
+                    "しゃく"
+                ],
+                [
+                    "婦",
+                    "ふ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. barmaid; waitress "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. barmaid; waitress "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "汲",
+                    "く"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to apportion drawn water; to ladle into separate containers "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to show understanding "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "酌み分ける 【くみわける】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "酌田",
+                "しゃくだ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Shakuda "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "情",
+                    "じょう"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ],
+                [
+                    "量",
+                    "りょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. taking the extenuating circumstances into consideration Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "斟",
+                    "しん"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. taking into consideration; making allowances (for) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. reserve; restraint; leniency; mercy "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "しん酌 【しんしゃく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "媒",
+                    "ばい"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. matchmaking; acting as a go-between "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "媒妁 【ばいしゃく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "晩",
+                    "ばん"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. drink at home with one's evening meal; dinner-time drink "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. pouring alcohol "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. person pouring alcohol for guests or customers (typically a woman) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. (apprentice) geisha; dancing girl "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "御酌 【おしゃく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "御酌: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "未",
+                    "み"
+                ],
+                [
+                    "練",
+                    "れん"
+                ],
+                [
+                    "未",
+                    "み"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. regret and sympathy; having lingering attachment and sympathy toward someone Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "媒",
+                    "ばい"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ],
+                [
+                    "人",
+                    "にん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. matchmaker; go-between See also 仲人"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "媒妁人 【ばいしゃくにん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "浅",
+                    "せん"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ],
+                [
+                    "低",
+                    "てい"
+                ],
+                [
+                    "唱",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. getting slightly intoxicated and humming a tune Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "相",
+                    "あい"
+                ],
+                [
+                    "酌",
+                    "じゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. drinking alcohol while pouring it for each other "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "独",
+                    "どく"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. drinking alone; solitary drinking "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "参",
+                    "さん"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. comparison and choosing the good; consultation; referring to "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "対",
+                    "たい"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. sitting across from each other and drinking together "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "小",
+                    "しょう"
+                ],
+                [
+                    "酌",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. drinking together in a small group Rare term"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. drinking just a little (alcohol) Rare term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "手",
+                    "て"
+                ],
+                [
+                    "酌",
+                    "じゃく"
+                ],
+                [
+                    "酒",
+                    "さけ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pouring one's own drinks; drinking alone See also 手酌"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

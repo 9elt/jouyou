@@ -1,0 +1,925 @@
+{
+    "kanji": "宴",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "banquet",
+        "feast",
+        "party"
+    ],
+    "kun": [
+        "うたげ"
+    ],
+    "on": [
+        "エン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.4844036697247706,
+            0.10587155963302751,
+            "c",
+            0.0081651376146789,
+            0.0081651376146789,
+            0.01091743119266055,
+            0.016788990825688074,
+            0.01091743119266055,
+            0.03128440366972477,
+            "c",
+            0,
+            0.027614678899082565,
+            -0.0006422018348623854,
+            0.04715596330275229,
+            -0.0007339449541284404,
+            0.07229357798165137
+        ],
+        [
+            "M",
+            0.24422018348623853,
+            0.2210091743119266,
+            "c",
+            0,
+            0.031926605504587154,
+            -0.024220183486238535,
+            0.11972477064220184,
+            -0.03513761467889908,
+            0.1410091743119266
+        ],
+        [
+            "M",
+            0.2529357798165138,
+            0.2426605504587156,
+            "c",
+            0.10366972477064221,
+            -0.014495412844036697,
+            0.32504587155963305,
+            -0.04201834862385321,
+            0.4979816513761468,
+            -0.05229357798165138,
+            "c",
+            0.08908256880733946,
+            -0.005321100917431192,
+            0.0255045871559633,
+            0.04926605504587156,
+            -0.0033027522935779813,
+            0.07321100917431193
+        ],
+        [
+            "M",
+            0.33715596330275227,
+            0.31339449541284403,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.010275229357798166,
+            0.019541284403669725,
+            0.010275229357798166,
+            0.026788990825688072,
+            "c",
+            0.0028440366972477065,
+            0.0389908256880734,
+            0.014954128440366971,
+            0.1201834862385321,
+            0.021009174311926605,
+            0.1734862385321101,
+            "c",
+            0.0013761467889908255,
+            0.01165137614678899,
+            0.002477064220183486,
+            0.02192660550458716,
+            0.0033944954128440367,
+            0.03018348623853211
+        ],
+        [
+            "M",
+            0.3540366972477065,
+            0.3257798165137614,
+            "c",
+            0.0863302752293578,
+            -0.011559633027522935,
+            0.19293577981651377,
+            -0.02532110091743119,
+            0.2571559633027523,
+            -0.03110091743119266,
+            "c",
+            0.02238532110091743,
+            -0.002018348623853211,
+            0.039449541284403665,
+            0.008256880733944955,
+            0.0363302752293578,
+            0.03211009174311927,
+            "c",
+            -0.005871559633027523,
+            0.04440366972477064,
+            -0.014128440366972478,
+            0.10587155963302751,
+            -0.02192660550458716,
+            0.1526605504587156,
+            "c",
+            -0.0022935779816513763,
+            0.013761467889908258,
+            -0.004495412844036697,
+            0.026238532110091743,
+            -0.006697247706422018,
+            0.03660550458715597
+        ],
+        [
+            "M",
+            0.3674311926605504,
+            0.42559633027522936,
+            "c",
+            0.0775229357798165,
+            -0.00926605504587156,
+            0.19220183486238532,
+            -0.024220183486238535,
+            0.2594495412844037,
+            -0.026238532110091743
+        ],
+        [
+            "M",
+            0.38,
+            0.5257798165137615,
+            "c",
+            0.06844036697247706,
+            -0.0074311926605504595,
+            0.17082568807339452,
+            -0.01926605504587156,
+            0.23073394495412844,
+            -0.02220183486238532
+        ],
+        [
+            "M",
+            0.44229357798165136,
+            0.5481651376146789,
+            "c",
+            0.003853211009174312,
+            0.009174311926605505,
+            0.003669724770642202,
+            0.016788990825688074,
+            0,
+            0.027339449541284404,
+            "C",
+            0.4105504587155963,
+            0.6365137614678898,
+            0.3892660550458716,
+            0.6711926605504587,
+            0.3394495412844037,
+            0.7258715596330275,
+            "c",
+            -0.012660550458715595,
+            0.013853211009174311,
+            -0.010275229357798166,
+            0.0218348623853211,
+            0.006880733944954129,
+            0.02201834862385321,
+            "c",
+            0.08036697247706422,
+            0.0007339449541284404,
+            0.19715596330275229,
+            0.03275229357798165,
+            0.2998165137614679,
+            0.08155963302752293,
+            "c",
+            0.049174311926605506,
+            0.023394495412844035,
+            0.08614678899082569,
+            0.0526605504587156,
+            0.10844036697247707,
+            0.08110091743119266
+        ],
+        [
+            "M",
+            0.6227522935779816,
+            0.5911009174311928,
+            "c",
+            0.0034862385321100917,
+            0.01330275229357798,
+            0.002018348623853211,
+            0.02651376146788991,
+            -0.0022935779816513763,
+            0.037706422018348625,
+            "c",
+            -0.03486238532110091,
+            0.09055045871559632,
+            -0.1444954128440367,
+            0.223302752293578,
+            -0.3887155963302752,
+            0.2841284403669725
+        ],
+        [
+            "M",
+            0.14339449541284405,
+            0.6438532110091744,
+            "c",
+            0.019357798165137614,
+            0.007064220183486239,
+            0.04752293577981651,
+            0.004678899082568807,
+            0.06752293577981652,
+            0.0028440366972477065,
+            "c",
+            0.11577981651376146,
+            -0.010550458715596329,
+            0.4122018348623853,
+            -0.03752293577981651,
+            0.5803669724770641,
+            -0.0408256880733945,
+            "c",
+            0.02587155963302752,
+            -0.0005504587155963302,
+            0.05614678899082569,
+            -0.0025688073394495416,
+            0.08027522935779817,
+            0.008807339449541284
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "宴",
+                    "うたげ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. party; banquet; feast "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "宴 【えん】、讌 【うたげ】、讌 【えん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "讌: Out-dated kanji or kanji usage. 讌: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. party; banquet; feast "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "宴 【えん】、讌 【うたげ】、讌 【えん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "讌: Out-dated kanji or kanji usage. 讌: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宴",
+                    "えん"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. party; banquet; reception; feast; dinner "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Banquet A banquet is a large meal or feast, complete with main co... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. party; banquet; reception; feast; dinner "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Banquet A banquet is a large meal or feast, complete with main co... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宴",
+                    "えん"
+                ],
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. banquet hall "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. banquet hall "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宴",
+                    "えん"
+                ],
+                [
+                    "席",
+                    "せき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. banquet; dinner party "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. banquet; dinner party "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宴",
+                    "えん"
+                ],
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "わ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. party in full swing; party at its peak "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "宴も酣 【えんもたけなわ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宴",
+                    "えん"
+                ],
+                [
+                    "楽",
+                    "らく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. merrymaking; partying "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "燕楽 【えんらく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宴",
+                    "えん"
+                ],
+                [
+                    "遊",
+                    "ゆう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. drinking party hall; banquet seat "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宴",
+                    "えん"
+                ],
+                [
+                    "会",
+                    "かい"
+                ],
+                [
+                    "政",
+                    "せい"
+                ],
+                [
+                    "治",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. politicking by wining and dining "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "燕",
+                    "えん"
+                ],
+                [
+                    "楽",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Ancient Chinese banquet music "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "宴楽 【えんがく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "宴",
+                    "えん"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "張",
+                    "は"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ru' ending",
+                    "meaning": "1. to give a dinner party; to hold a banquet "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "宴",
+                "うたげ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Utage "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "宴一",
+                "やすいち"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Yasuichi "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Yasuyo "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "披",
+                    "ひ"
+                ],
+                [
+                    "露",
+                    "ろう"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reception (e.g. wedding); banquet; celebration; party "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "祝",
+                    "しゅく"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. celebratory banquet; feast "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "結",
+                    "けっ"
+                ],
+                [
+                    "婚",
+                    "こん"
+                ],
+                [
+                    "披",
+                    "ひ"
+                ],
+                [
+                    "露",
+                    "ろう"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wedding reception banquet "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Wedding reception A wedding reception is a party held after the completion ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悪",
+                    "あく"
+                ],
+                [
+                    "魔",
+                    "ま"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "宴",
+                    "うたげ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. black sabbath; witches' sabbath "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "饗",
+                    "きょう"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. feast; banquet "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Symposium (Plato) The Symposium is a philosophical text by Plato dated c. 3... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "供宴 【きょうえん】、享宴 【きょうえん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Symposium (book by Plato) Work of art, literature, music, etc. name"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "離",
+                    "り"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. parting party; divorce party "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "離筵 【りえん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "御",
+                    "ぎょ"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. court banquet "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "茶",
+                    "さ"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tea gathering "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "招",
+                    "しょう"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. banquet; invitation to a party; party "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "開",
+                    "かい"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. opening of a banquet; opening of a wedding reception "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "小",
+                    "しょう"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. small (dinner) party "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "狂",
+                    "きょう"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. revelry; tumultuous party; wild party; uproarious banquet "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "盛",
+                    "せい"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grand banquet "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "球",
+                    "きゅう"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. baseball all-star game "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "賀",
+                    "が"
+                ],
+                [
+                    "宴",
+                    "えん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. banquet "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

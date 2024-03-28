@@ -1,0 +1,1158 @@
+{
+    "kanji": "夜",
+    "grade": 2,
+    "jlpt": 4,
+    "meanings": [
+        "night",
+        "evening"
+    ],
+    "kun": [
+        "よ",
+        "よる"
+    ],
+    "on": [
+        "ヤ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.4795412844036698,
+            0.0963302752293578,
+            "c",
+            0.011376146788990826,
+            0.011376146788990826,
+            0.017614678899082567,
+            0.02522935779816514,
+            0.017614678899082567,
+            0.03908256880733945,
+            "c",
+            0,
+            0.03935779816513762,
+            -0.0011009174311926604,
+            0.04706422018348624,
+            -0.0011009174311926604,
+            0.0808256880733945
+        ],
+        [
+            "M",
+            0.1834862385321101,
+            0.2520183486238532,
+            "c",
+            0.023669724770642202,
+            0.003027522935779817,
+            0.05064220183486238,
+            0.002752293577981651,
+            0.08403669724770642,
+            -0.0003669724770642202,
+            "c",
+            0.16055045871559634,
+            -0.015321100917431192,
+            0.3144954128440367,
+            -0.03596330275229358,
+            0.47073394495412846,
+            -0.04568807339449542,
+            "c",
+            0.03247706422018349,
+            -0.002018348623853211,
+            0.05165137614678899,
+            -0.001926605504587156,
+            0.07596330275229357,
+            0.003027522935779817
+        ],
+        [
+            "M",
+            0.31431192660550455,
+            0.3302752293577982,
+            "c",
+            0.0028440366972477065,
+            0.01834862385321101,
+            -0.0005504587155963302,
+            0.035688073394495416,
+            -0.006972477064220183,
+            0.04899082568807339,
+            "c",
+            -0.040733944954128444,
+            0.08440366972477063,
+            -0.09238532110091743,
+            0.16376146788990828,
+            -0.18577981651376146,
+            0.2665137614678899
+        ],
+        [
+            "M",
+            0.25440366972477063,
+            0.5128440366972477,
+            "c",
+            0.007064220183486239,
+            0.010091743119266056,
+            0.011559633027522935,
+            0.023027522935779813,
+            0.011559633027522935,
+            0.035229357798165134,
+            "c",
+            0,
+            0.08045871559633028,
+            0.001559633027522936,
+            0.2191743119266055,
+            0.0003669724770642202,
+            0.3006422018348624,
+            "C",
+            0.26605504587155965,
+            0.8695412844036697,
+            0.2657798165137615,
+            0.8869724770642202,
+            0.2657798165137615,
+            0.8990825688073395
+        ],
+        [
+            "M",
+            0.555045871559633,
+            0.29357798165137616,
+            "c",
+            0.0011926605504587156,
+            0.010275229357798166,
+            0.0016513761467889907,
+            0.01871559633027523,
+            -0.0013761467889908255,
+            0.02651376146788991,
+            "C",
+            0.5308256880733945,
+            0.37990825688073393,
+            0.485045871559633,
+            0.46165137614678897,
+            0.41284403669724773,
+            0.5229357798165137
+        ],
+        [
+            "M",
+            0.5707339449541284,
+            0.36110091743119266,
+            "c",
+            0.009541284403669725,
+            0.0012844036697247708,
+            0.02330275229357798,
+            0.0023853211009174312,
+            0.032293577981651375,
+            0.0011009174311926604,
+            "c",
+            0.04146788990825688,
+            -0.005596330275229358,
+            0.07587155963302752,
+            -0.014770642201834864,
+            0.10917431192660551,
+            -0.028623853211009177,
+            "c",
+            0.027522935779816515,
+            -0.011467889908256881,
+            0.04018348623853211,
+            0.006880733944954129,
+            0.0318348623853211,
+            0.027706422018348623,
+            "C",
+            0.6857798165137615,
+            0.5068807339449541,
+            0.5596330275229358,
+            0.7236697247706422,
+            0.35091743119266056,
+            0.8256880733944955
+        ],
+        [
+            "M",
+            0.5206422018348624,
+            0.45064220183486237,
+            "c",
+            0.025045871559633028,
+            0.011467889908256881,
+            0.06458715596330275,
+            0.04715596330275229,
+            0.07091743119266056,
+            0.06495412844036698
+        ],
+        [
+            "M",
+            0.41284403669724773,
+            0.5756880733944955,
+            "c",
+            0.06770642201834862,
+            0.006880733944954129,
+            0.2589908256880734,
+            0.173302752293578,
+            0.3544954128440367,
+            0.23477064220183486,
+            "c",
+            0.028715596330275227,
+            0.018440366972477064,
+            0.06110091743119266,
+            0.03669724770642202,
+            0.09504587155963302,
+            0.04275229357798165
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "夜",
+                    "よる"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. evening; night あなたは夜よく寝れませんか。Don't you sleep well at night?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. dinner Only applies to よる"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Night Night or nighttime is the period of time between the suns... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜 【よ】"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "1. counter for nights after numbers in the ichi, ni, san counting system"
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. evening; night あなたは夜よく寝れませんか。Don't you sleep well at night?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. dinner Only applies to よる"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Night Night or nighttime is the period of time between the suns... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜 【よ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "夜",
+                            "よる"
+                        ],
+                        [
+                            "よく",
+                            null
+                        ],
+                        [
+                            "寝れません",
+                            "ね"
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Don't you sleep well at night?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "よ"
+                ],
+                [
+                    "中",
+                    "なか"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. middle of the night; dead of night "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Yonaka "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜なか 【よなか】"
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. middle of the night; dead of night "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Yonaka "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜なか 【よなか】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "よ"
+                ],
+                [
+                    "明",
+                    "あ"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dawn; daybreak "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜明 【よあけ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "夜明: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. dawn; daybreak "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜明 【よあけ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "夜明: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "や"
+                ],
+                [
+                    "間",
+                    "かん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. night; nighttime "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. night; nighttime "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "よ"
+                ],
+                [
+                    "更",
+                    "ふ"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. staying up late; keeping late hours; sitting up late at night; nighthawk "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜更し 【よふかし】、夜ふかし 【よふかし】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. staying up late; keeping late hours; sitting up late at night; nighthawk "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜更し 【よふかし】、夜ふかし 【よふかし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "よ"
+                ],
+                [
+                    "更",
+                    "ふ"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. late at night; small hours of the morning "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜ふけ 【よふけ】、夜深け 【よふけ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. late at night; small hours of the morning "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜ふけ 【よふけ】、夜深け 【よふけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "や"
+                ],
+                [
+                    "具",
+                    "ぐ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bedding; bedclothes "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bedding; bedclothes "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "や"
+                ],
+                [
+                    "食",
+                    "しょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. supper; night meal; late-night snack; \"fourth meal\"; midnight snack "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Supper Supper is a name for the evening meal in some dialects of... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. supper; night meal; late-night snack; \"fourth meal\"; midnight snack "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Supper Supper is a name for the evening meal in some dialects of... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "や"
+                ],
+                [
+                    "行",
+                    "こう"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. nocturnality; nocturnal habits "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Nocturnality Nocturnality is an animal behavior characterized by activ... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. nocturnality; nocturnal habits "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Nocturnality Nocturnality is an animal behavior characterized by activ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "よ"
+                ],
+                [
+                    "空",
+                    "ぞら"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. night sky "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. night sky "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "や"
+                ],
+                [
+                    "景",
+                    "けい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. night view; night skyline; nightscape "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. night view; night skyline; nightscape "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "や"
+                ],
+                [
+                    "勤",
+                    "きん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. night shift "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. night shift "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "よ"
+                ],
+                [
+                    "通",
+                    "どお"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Noun",
+                    "meaning": "1. all night; throughout the night "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜どおし 【よどおし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "よ"
+                ],
+                [
+                    "逃",
+                    "に"
+                ],
+                [
+                    "げ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. running off in the night (to leave one's old life behind, e.g. to get away from debt); moonlight flit; skipping town overnight; upping and leaving under the cover of darkness; midnight vanishing act "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "や"
+                ],
+                [
+                    "半",
+                    "はん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. midnight; dead of night "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜半 【よわ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "よ"
+                ],
+                [
+                    "道",
+                    "みち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. street at night; making a night journey "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "や"
+                ],
+                [
+                    "間",
+                    "かん"
+                ],
+                [
+                    "外",
+                    "がい"
+                ],
+                [
+                    "出",
+                    "しゅつ"
+                ],
+                [
+                    "禁",
+                    "きん"
+                ],
+                [
+                    "止",
+                    "し"
+                ],
+                [
+                    "令",
+                    "れい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. curfew "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Curfew A curfew is an order specifying a time after which certai... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "や"
+                ],
+                [
+                    "行",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. walking around at night; night travel "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. night train Abbreviation, Only applies to やこう, See also 夜行列車"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜行 【やぎょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夜",
+                    "よる"
+                ],
+                [
+                    "遅",
+                    "おそ"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Noun",
+                    "meaning": "1. late at night; at a late hour "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "夜おそく 【よるおそく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "夜",
+                "ないと"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Naito "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "夜",
+                "よる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Yoru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "夜々子",
+                "ややこ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Yayako "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夕",
+                    "ゆう"
+                ],
+                [
+                    "べ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. evening Only applies to 夕べ朝は４脚、昼は２脚、そして夕は３脚で歩くものは何か。What goes on four legs in the morning, two legs at noon, and three legs in the evening?"
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. last night; yesterday evening usu. 昨夜昨夜はよく眠れましたか。Did you have a good sleep last night?"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "昨夜 【ゆうべ】、昨夜 【さくや】、昨夜 【ゆんべ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "朝",
+                            "あさ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "脚",
+                            "あし"
+                        ],
+                        [
+                            "昼",
+                            "ひる"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "脚",
+                            "あし"
+                        ],
+                        [
+                            "そして",
+                            null
+                        ],
+                        [
+                            "夕",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "脚",
+                            "あし"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "歩く",
+                            "ある"
+                        ],
+                        [
+                            "もの",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "何か",
+                            "なに"
+                        ]
+                    ],
+                    "translation": "What goes on four legs in the morning, two legs at noon, and three legs in the evening?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "昨夜",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "よく",
+                            null
+                        ],
+                        [
+                            "眠れました",
+                            "ねむ"
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Did you have a good sleep last night?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "深",
+                    "しん"
+                ],
+                [
+                    "夜",
+                    "や"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. late at night "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Midnight Midnight is the transition time period from one day to th... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "今",
+                    "こん"
+                ],
+                [
+                    "夜",
+                    "や"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. this evening; tonight "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "徹",
+                    "てつ"
+                ],
+                [
+                    "夜",
+                    "や"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. staying up all night "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "にち"
+                ],
+                [
+                    "夜",
+                    "や"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Noun",
+                    "meaning": "1. day and night; around the clock; always; constantly "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "真",
+                    "ま"
+                ],
+                [
+                    "夜",
+                    "よ"
+                ],
+                [
+                    "中",
+                    "なか"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. dead of night; midnight "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いち"
+                ],
+                [
+                    "夜",
+                    "や"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "1. one night; all night; overnight; one evening "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "一夜 【ひとや】、一夜 【ひとよ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "昼",
+                    "ちゅう"
+                ],
+                [
+                    "夜",
+                    "や"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Adverb (fukushi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. day and night "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

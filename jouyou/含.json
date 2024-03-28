@@ -1,0 +1,1103 @@
+{
+    "kanji": "含",
+    "grade": 10,
+    "jlpt": 2,
+    "meanings": [
+        "contain",
+        "include",
+        "hold in the mouth",
+        "bear in mind",
+        "understand",
+        "cherish"
+    ],
+    "kun": [
+        "ふく.む",
+        "ふく.める"
+    ],
+    "on": [
+        "ガン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.4877981651376147,
+            0.10321100917431193,
+            "c",
+            0.0009174311926605505,
+            0.01,
+            0.00009174311926605505,
+            0.026788990825688072,
+            -0.006513761467889908,
+            0.04027522935779816,
+            "C",
+            0.43577981651376146,
+            0.23623853211009174,
+            0.3211009174311927,
+            0.4003669724770642,
+            0.13302752293577982,
+            0.5308256880733945
+        ],
+        [
+            "M",
+            0.4968807339449541,
+            0.16192660550458715,
+            "C",
+            0.5504587155963303,
+            0.216697247706422,
+            0.6743119266055045,
+            0.33256880733944955,
+            0.7734862385321101,
+            0.4192660550458716,
+            "c",
+            0.030091743119266053,
+            0.0263302752293578,
+            0.06706422018348623,
+            0.04862385321100917,
+            0.10724770642201835,
+            0.06467889908256881
+        ],
+        [
+            "M",
+            0.3713761467889908,
+            0.38385321100917436,
+            "c",
+            0.0034862385321100917,
+            0.0016513761467889907,
+            0.024862385321100917,
+            0.0017431192660550458,
+            0.028440366972477066,
+            0.0016513761467889907,
+            "c",
+            0.03642201834862385,
+            -0.001834862385321101,
+            0.13577981651376148,
+            -0.01871559633027523,
+            0.171651376146789,
+            -0.01853211009174312,
+            "c",
+            0.0057798165137614675,
+            0,
+            0.03018348623853211,
+            0.0007339449541284404,
+            0.03311926605504587,
+            0.001559633027522936
+        ],
+        [
+            "M",
+            0.2798165137614679,
+            0.5067889908256881,
+            "c",
+            0.013761467889908258,
+            0.004678899082568807,
+            0.03724770642201834,
+            0.006697247706422018,
+            0.05963302752293578,
+            0.0045871559633027525,
+            "C",
+            0.41284403669724773,
+            0.5045871559633027,
+            0.5344036697247706,
+            0.48623853211009177,
+            0.6168807339449541,
+            0.4759633027522936,
+            "c",
+            0.03688073394495413,
+            -0.0045871559633027525,
+            0.04623853211009174,
+            0.006697247706422018,
+            0.02073394495412844,
+            0.0355045871559633,
+            "c",
+            -0.052752293577981654,
+            0.05963302752293578,
+            -0.08027522935779817,
+            0.08366972477064219,
+            -0.1651376146788991,
+            0.1720183486238532
+        ],
+        [
+            "M",
+            0.3089908256880734,
+            0.6944954128440367,
+            "c",
+            0.008990825688073394,
+            0.008899082568807339,
+            0.014678899082568808,
+            0.017155963302752295,
+            0.01724770642201835,
+            0.02908256880733945,
+            "c",
+            0.009816513761467891,
+            0.04596330275229358,
+            0.020550458715596333,
+            0.08678899082568808,
+            0.028073394495412844,
+            0.13642201834862386,
+            "c",
+            0.0028440366972477065,
+            0.018440366972477064,
+            0.005412844036697248,
+            0.03642201834862385,
+            0.0076146788990825685,
+            0.05256880733944955
+        ],
+        [
+            "M",
+            0.3331192660550459,
+            0.7098165137614679,
+            "c",
+            0.08587155963302752,
+            -0.013027522935779816,
+            0.23073394495412844,
+            -0.029724770642201838,
+            0.29761467889908255,
+            -0.0373394495412844,
+            "c",
+            0.04302752293577982,
+            -0.004862385321100918,
+            0.05522935779816513,
+            0.010642201834862385,
+            0.04211009174311926,
+            0.05137614678899082,
+            "c",
+            -0.013486238532110091,
+            0.04211009174311926,
+            -0.021009174311926605,
+            0.07440366972477064,
+            -0.037981651376146786,
+            0.13522935779816514
+        ],
+        [
+            "M",
+            0.3703669724770642,
+            0.8943119266055046,
+            "c",
+            0.045871559633027525,
+            -0.004862385321100918,
+            0.1565137614678899,
+            -0.015229357798165137,
+            0.2375229357798165,
+            -0.022293577981651377,
+            "c",
+            0.02073394495412844,
+            -0.001834862385321101,
+            0.039266055045871565,
+            -0.0033944954128440367,
+            0.054220183486238534,
+            -0.004678899082568807
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to contain; to comprise; to have; to hold; to include; to embrace このビタミン剤は栄養分を豊富に含んでいる。The vitamin pill contains abundant nutrition."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to hold in the mouth See also 口に含む"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "3. to bear in mind; to understand; to harbor (grudge, etc.); to harbour "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "4. to express (emotion, etc.); to imply "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "含む 【くくむ】、銜む 【ふくむ】、銜む 【くくむ】"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to contain; to comprise; to have; to hold; to include; to embrace このビタミン剤は栄養分を豊富に含んでいる。The vitamin pill contains abundant nutrition."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to hold in the mouth See also 口に含む"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "3. to bear in mind; to understand; to harbor (grudge, etc.); to harbour "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "4. to express (emotion, etc.); to imply "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "含む 【くくむ】、銜む 【ふくむ】、銜む 【くくむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "ビタミン剤",
+                            "ビタミンざい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "栄養分",
+                            "えいようぶん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "豊富に",
+                            "ほうふ"
+                        ],
+                        [
+                            "含んでいる",
+                            "ふく"
+                        ]
+                    ],
+                    "translation": "The vitamin pill contains abundant nutrition."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to include (in a group or scope) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to instruct; to make one understand "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to include (a nuance); to put in (an implication) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to put in (someone's) mouth "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to permeate with flavor "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to include (in a group or scope) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to instruct; to make one understand "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to include (a nuance); to put in (an implication) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to put in (someone's) mouth "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to permeate with flavor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. implication; hidden meaning; latitude; atmosphere; tone; sentiment; inclusion "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. implication; hidden meaning; latitude; atmosphere; tone; sentiment; inclusion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "嗽",
+                    "うがい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. gargling; rinsing one's mouth Usually written using kana alone, See also 含嗽"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漱 【うがい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "嗽: Rarely-used kanji form. 漱: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. gargling; rinsing one's mouth Usually written using kana alone, See also 含嗽"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漱 【うがい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "嗽: Rarely-used kanji form. 漱: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "せ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to soak; to saturate; to suckle; to make one hold something in the mouth; to include; to instruct; to make one understand See also 含む"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to soak; to saturate; to suckle; to make one hold something in the mouth; to include; to instruct; to make one understand See also 含む"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to be included; to be composed of; to be comprised of "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to be included; to be composed of; to be comprised of "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "がん"
+                ],
+                [
+                    "有",
+                    "ゆう"
+                ],
+                [
+                    "量",
+                    "りょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. content (of a mineral, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. content (of a mineral, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "は",
+                    null
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "屋",
+                    "や"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bashful person; very shy person "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ハニカミ屋 【はにかみや】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. bashful person; very shy person "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ハニカミ屋 【はにかみや】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "がん"
+                ],
+                [
+                    "嗽",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. gargling; rinsing one's mouth "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "含漱 【がんそう】、含嗽 【うがい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "うがい: Gikun (meaning as reading) or jukujikun (special kanji reading)."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. gargling; rinsing one's mouth "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "含漱 【がんそう】、含嗽 【うがい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "うがい: Gikun (meaning as reading) or jukujikun (special kanji reading)."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "がん"
+                ],
+                [
+                    "有",
+                    "ゆう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. containing (an ingredient, mineral, etc.) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. containing (an ingredient, mineral, etc.) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "がん"
+                ],
+                [
+                    "蓄",
+                    "ちく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. implication; significance; connotation; depth of meaning; complications of a problem "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. implication; significance; connotation; depth of meaning; complications of a problem "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "資",
+                    "し"
+                ],
+                [
+                    "産",
+                    "さん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hidden assets "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. hidden assets "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "がん"
+                ],
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "率",
+                    "りつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. moisture content; water content "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Water content Water content or moisture content is the quantity of wate... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. moisture content; water content "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Water content Water content or moisture content is the quantity of wate... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "声",
+                    "ごえ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. muffled voice "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "煮",
+                    "に"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. food boiled in sugar syrup "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "損",
+                    "そん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. unrealized loss; paper loss Finance, See also 含み益"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. unrealized loss; paper loss Finance, See also 含み益"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "がん"
+                ],
+                [
+                    "味",
+                    "み"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. taste; thinking over carefully "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "がん"
+                ],
+                [
+                    "嗽",
+                    "そう"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. mouthwash "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "益",
+                    "えき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. unrealized profit; paper profit; unrealized gains Finance, See also 含み損"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. unrealized profit; paper profit; unrealized gains Finance, See also 含み損"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "笑",
+                    "わら"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. suppressed laugh; smile; giggle; chuckle "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. suppressed laugh; smile; giggle; chuckle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "含富里",
+                "がんぶり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Ganburi "
+                },
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Ganzan "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Ganzanken "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "包",
+                    "ほう"
+                ],
+                [
+                    "含",
+                    "がん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. inclusion; comprehension; implication; containing; covering これらの要素をすべて包含するような最良の公式はこれまでのところ提案されていない。The optimal formula which would encompass all these factors has not been proposed."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "これらの",
+                            null
+                        ],
+                        [
+                            "要素",
+                            "ようそ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "すべて",
+                            null
+                        ],
+                        [
+                            "包含",
+                            "ほうがん"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "ような",
+                            null
+                        ],
+                        [
+                            "最良",
+                            "さいりょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "公式",
+                            "こうしき"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "これまで",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ところ",
+                            null
+                        ],
+                        [
+                            "提案",
+                            "ていあん"
+                        ],
+                        [
+                            "されていない",
+                            null
+                        ]
+                    ],
+                    "translation": "The optimal formula which would encompass all these factors has not been proposed."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "弱",
+                    "よわ"
+                ],
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bearish tendency; weak tone (of a market) Finance, Antonym: 強含み"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "弱含み 【よわぶくみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "強",
+                    "つよ"
+                ],
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bullish tendency; strong tone (of a market); firm tone Finance, Antonym: 弱含み"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "強含み 【つよぶくみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "因",
+                    "いん"
+                ],
+                [
+                    "果",
+                    "が"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "含",
+                    "ふく"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to persuade someone to accept the inevitable "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

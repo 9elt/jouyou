@@ -1,0 +1,1546 @@
+{
+    "kanji": "湾",
+    "grade": 10,
+    "jlpt": 2,
+    "meanings": [
+        "gulf",
+        "bay",
+        "inlet"
+    ],
+    "kun": [
+        "いりえ"
+    ],
+    "on": [
+        "ワン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.1961467889908257,
+            0.1353211009174312,
+            "c",
+            0.039266055045871565,
+            0.014311926605504588,
+            0.10137614678899083,
+            0.058807339449541286,
+            0.1111926605504587,
+            0.08110091743119266
+        ],
+        [
+            "M",
+            0.12844036697247707,
+            0.3463302752293578,
+            "c",
+            0.04128440366972477,
+            0.01293577981651376,
+            0.10660550458715595,
+            0.05321100917431192,
+            0.11697247706422019,
+            0.07339449541284404
+        ],
+        [
+            "M",
+            0.15027522935779816,
+            0.833394495412844,
+            "c",
+            0.01944954128440367,
+            0.006055045871559634,
+            0.026972477064220183,
+            0.0008256880733944953,
+            0.03660550458715597,
+            -0.014036697247706422,
+            "c",
+            0.027981651376146787,
+            -0.04339449541284404,
+            0.05376146788990826,
+            -0.09651376146788991,
+            0.07917431192660551,
+            -0.1518348623853211
+        ],
+        [
+            "M",
+            0.588348623853211,
+            0.11009174311926606,
+            "c",
+            0.008532110091743119,
+            0.008532110091743119,
+            0.013669724770642202,
+            0.01834862385321101,
+            0.013669724770642202,
+            0.031376146788990825,
+            "c",
+            0,
+            0.01330275229357798,
+            -0.0008256880733944953,
+            0.029357798165137616,
+            -0.0008256880733944953,
+            0.047339449541284405
+        ],
+        [
+            "M",
+            0.3856880733944954,
+            0.21788990825688073,
+            "c",
+            0.02908256880733945,
+            0.002477064220183486,
+            0.03935779816513762,
+            0.0017431192660550458,
+            0.06862385321100918,
+            -0.0016513761467889907,
+            "c",
+            0.08220183486238533,
+            -0.009357798165137614,
+            0.24293577981651376,
+            -0.024128440366972478,
+            0.32440366972477064,
+            -0.028899082568807338,
+            "c",
+            0.020091743119266054,
+            -0.0011926605504587156,
+            0.04238532110091743,
+            -0.003853211009174312,
+            0.06220183486238532,
+            0.0012844036697247708
+        ],
+        [
+            "M",
+            0.5481651376146789,
+            0.24541284403669725,
+            "c",
+            0.0034862385321100917,
+            0.005321100917431192,
+            0.004495412844036697,
+            0.014128440366972478,
+            0.0033944954128440367,
+            0.02073394495412844,
+            "C",
+            0.543211009174312,
+            0.31779816513761466,
+            0.5252293577981652,
+            0.3853211009174312,
+            0.45073394495412844,
+            0.42724770642201837
+        ],
+        [
+            "M",
+            0.6641284403669725,
+            0.21605504587155963,
+            "c",
+            0.006605504587155963,
+            0.006605504587155963,
+            0.0077981651376146785,
+            0.017889908256880735,
+            0.0077981651376146785,
+            0.02926605504587156,
+            "c",
+            0,
+            0.03394495412844037,
+            -0.0011009174311926604,
+            0.10770642201834862,
+            -0.0011009174311926604,
+            0.1343119266055046,
+            "c",
+            0,
+            0.05577981651376147,
+            -0.0389908256880734,
+            0.0011926605504587156,
+            -0.04568807339449542,
+            -0.005504587155963302
+        ],
+        [
+            "M",
+            0.43577981651376146,
+            0.29357798165137616,
+            "c",
+            0.0002752293577981651,
+            0.003119266055045872,
+            0.0008256880733944953,
+            0.007981651376146788,
+            -0.00045871559633027525,
+            0.012477064220183487,
+            "c",
+            -0.008440366972477065,
+            0.028256880733944955,
+            -0.03963302752293578,
+            0.06669724770642202,
+            -0.0853211009174312,
+            0.10779816513761468
+        ],
+        [
+            "M",
+            0.7389908256880734,
+            0.281651376146789,
+            "c",
+            0.03954128440366972,
+            0.01834862385321101,
+            0.10211009174311927,
+            0.07559633027522936,
+            0.11201834862385322,
+            0.10422018348623853
+        ],
+        [
+            "M",
+            0.4488073394495413,
+            0.4675229357798165,
+            "c",
+            0.023669724770642202,
+            0.011834862385321101,
+            0.04477064220183486,
+            0.010183486238532111,
+            0.06513761467889909,
+            0.007247706422018349,
+            "c",
+            0.08477064220183486,
+            -0.012568807339449543,
+            0.17880733944954127,
+            -0.021743119266055048,
+            0.21871559633027524,
+            -0.02596330275229358,
+            "c",
+            0.02926605504587156,
+            -0.003027522935779817,
+            0.033486238532110094,
+            0.01110091743119266,
+            0.02596330275229358,
+            0.03357798165137615,
+            "c",
+            -0.0032110091743119264,
+            0.00963302752293578,
+            -0.010825688073394495,
+            0.0336697247706422,
+            -0.015596330275229357,
+            0.04954128440366973
+        ],
+        [
+            "M",
+            0.4426605504587156,
+            0.5596330275229358,
+            "c",
+            0.016055045871559634,
+            0.005688073394495413,
+            0.03458715596330275,
+            0.0057798165137614675,
+            0.05045871559633028,
+            0.004128440366972477,
+            "C",
+            0.5577064220183486,
+            0.556697247706422,
+            0.6743119266055045,
+            0.5458715596330275,
+            0.7171559633027523,
+            0.5412844036697247,
+            "c",
+            0.01651376146788991,
+            -0.0017431192660550458,
+            0.028715596330275227,
+            0,
+            0.04201834862385321,
+            0
+        ],
+        [
+            "M",
+            0.4521100917431193,
+            0.5673394495412845,
+            "c",
+            0.005412844036697248,
+            0.00944954128440367,
+            0.0033944954128440367,
+            0.019174311926605504,
+            -0.0028440366972477065,
+            0.03128440366972477,
+            "c",
+            -0.006513761467889908,
+            0.012568807339449543,
+            -0.011376146788990826,
+            0.02238532110091743,
+            -0.016788990825688074,
+            0.03605504587155964,
+            "c",
+            -0.007522935779816513,
+            0.01908256880733945,
+            -0.0074311926605504595,
+            0.033486238532110094,
+            0.015963302752293577,
+            0.030458715596330274,
+            "c",
+            0.08036697247706422,
+            -0.010458715596330274,
+            0.2503669724770642,
+            -0.02642201834862385,
+            0.3128440366972477,
+            -0.03504587155963303,
+            "c",
+            0.03688073394495413,
+            -0.005045871559633028,
+            0.04807339449541285,
+            0.01,
+            0.03669724770642202,
+            0.0426605504587156,
+            "c",
+            -0.021192660550458715,
+            0.06110091743119266,
+            -0.0581651376146789,
+            0.1371559633027523,
+            -0.09174311926605505,
+            0.1798165137614679,
+            "c",
+            -0.032844036697247704,
+            0.04174311926605504,
+            -0.0536697247706422,
+            0.015137614678899082,
+            -0.07880733944954128,
+            -0.017155963302752295
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. bay; gulf; inlet "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bay A bay is a large body of water connected to an ocean or s... Read more"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. bay; gulf; inlet "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bay A bay is a large body of water connected to an ocean or s... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "岸",
+                    "がん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gulf coast; bay coast "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. gulf coast; bay coast "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "曲",
+                    "きょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. curve; bend; crook "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "彎曲 【わんきょく】、弯曲 【わんきょく】、わん曲 【わんきょく】"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. curve; bend; crook "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "彎曲 【わんきょく】、弯曲 【わんきょく】、わん曲 【わんきょく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "岸",
+                    "がん"
+                ],
+                [
+                    "戦",
+                    "せん"
+                ],
+                [
+                    "争",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Gulf War (1990-1991) Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gulf War The Persian Gulf War (2 August 1990 – 28 February 1991), ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Gulf War (1990-1991) Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gulf War The Persian Gulf War (2 August 1990 – 28 February 1991), ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "内",
+                    "ない"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. inside the bay See also 湾外"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Wannai "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. inside the bay See also 湾外"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Wannai "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "岸",
+                    "がん"
+                ],
+                [
+                    "紛",
+                    "ふん"
+                ],
+                [
+                    "争",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Gulf War (1990) Historical term１９９０年代は湾岸紛争で始まった。The 1990s began with the Gulf incident."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Gulf War (1990) Historical term１９９０年代は湾岸紛争で始まった。The 1990s began with the Gulf incident."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "年代",
+                            "ねんだい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "湾岸紛争",
+                            "わんがんふんそう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "始まった",
+                            "はじ"
+                        ]
+                    ],
+                    "translation": "The 1990s began with the Gulf incident."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "岸",
+                    "がん"
+                ],
+                [
+                    "石",
+                    "せき"
+                ],
+                [
+                    "油",
+                    "ゆ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Gulf Oil Corporation Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Gulf Oil Corporation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "頭",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bay shore "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Wantou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "外",
+                    "がい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. beyond the bay See also 湾内 わんない"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "流",
+                    "りゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the Gulf Stream "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "入",
+                    "にゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. embayment; indentation (of a shoreline) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "彎入 【わんにゅう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "彎入: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "曲",
+                    "きょく"
+                ],
+                [
+                    "部",
+                    "ぶ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bend; flexure "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "口",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. entrance to a bay; mouth of a bay "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "岸",
+                    "がん"
+                ],
+                [
+                    "危",
+                    "き"
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Gulf War (1990); Persian Gulf crisis Historical term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    null
+                ],
+                [
+                    "岸",
+                    null
+                ],
+                [
+                    "州",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "(",
+                    null
+                ],
+                [
+                    "パ",
+                    null
+                ],
+                [
+                    "プ",
+                    null
+                ],
+                [
+                    "ア",
+                    null
+                ],
+                [
+                    "ニ",
+                    null
+                ],
+                [
+                    "ュ",
+                    null
+                ],
+                [
+                    "ー",
+                    null
+                ],
+                [
+                    "ギ",
+                    null
+                ],
+                [
+                    "ニ",
+                    null
+                ],
+                [
+                    "ア",
+                    null
+                ],
+                [
+                    ")",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Gulf Province Gulf Province is a province of Papua New Guinea located o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    null
+                ],
+                [
+                    "仔",
+                    null
+                ],
+                [
+                    "駅",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Wan Chai Station Wan Chai is a station on Island line of Hong Kong's MTR. ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    null
+                ],
+                [
+                    "岸",
+                    null
+                ],
+                [
+                    "戦",
+                    null
+                ],
+                [
+                    "争",
+                    null
+                ],
+                [
+                    "症",
+                    null
+                ],
+                [
+                    "候",
+                    null
+                ],
+                [
+                    "群",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Gulf War syndrome Gulf War syndrome (GWS) or Gulf War illness (GWI) is a ch... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    null
+                ],
+                [
+                    "仔",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Wan Chai Wan Chai is a metropolitan area situated at the western p... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    null
+                ],
+                [
+                    "岸",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "M",
+                    null
+                ],
+                [
+                    "i",
+                    null
+                ],
+                [
+                    "d",
+                    null
+                ],
+                [
+                    "n",
+                    null
+                ],
+                [
+                    "i",
+                    null
+                ],
+                [
+                    "g",
+                    null
+                ],
+                [
+                    "h",
+                    null
+                ],
+                [
+                    "t",
+                    null
+                ],
+                [
+                    "",
+                    null
+                ],
+                [
+                    "C",
+                    null
+                ],
+                [
+                    "l",
+                    null
+                ],
+                [
+                    "u",
+                    null
+                ],
+                [
+                    "b",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Midnight Club Midnight Club is a series of racing video games developed... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "湾",
+                    null
+                ],
+                [
+                    "岸",
+                    null
+                ],
+                [
+                    "ミ",
+                    null
+                ],
+                [
+                    "ッ",
+                    null
+                ],
+                [
+                    "ド",
+                    null
+                ],
+                [
+                    "ナ",
+                    null
+                ],
+                [
+                    "イ",
+                    null
+                ],
+                [
+                    "ト",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Wangan Midnight is a Japanese manga series written and illustrated by Mic... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "湾",
+                "わん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place, Family or surname",
+                    "meaning": "1. Wan "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Wando "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Wachi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. harbour; harbor "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Port A port is a location on a coast or shore containing one o... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "台",
+                    "たい"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Taiwan "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Taiwan "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "台灣 【たいわん】、臺灣 【たいわん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "台灣: Out-dated kanji or kanji usage. 臺灣: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "港",
+                    "こう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "局",
+                    "きょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Port and Harbor Authority "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "国",
+                    "こく"
+                ],
+                [
+                    "立",
+                    "りつ"
+                ],
+                [
+                    "台",
+                    "たい"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "師",
+                    "し"
+                ],
+                [
+                    "範",
+                    "はん"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. National Taiwan Normal University Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. National Taiwan Normal University "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. National Taiwan Normal University National Taiwan Normal University is an institution of hi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "国",
+                    "こく"
+                ],
+                [
+                    "立",
+                    "りつ"
+                ],
+                [
+                    "台",
+                    "たい"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. National Taiwan University Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. National Taiwan University "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. National Taiwan University National Taiwan University (NTU; 國立臺灣大學) is a national co... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "メ",
+                    null
+                ],
+                [
+                    "キ",
+                    null
+                ],
+                [
+                    "シ",
+                    null
+                ],
+                [
+                    "コ",
+                    null
+                ],
+                [
+                    "湾",
+                    "わん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Gulf of Mexico "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Gulf of Mexico "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Gulf of Mexico The Gulf of Mexico (Spanish: Golfo de México) is an ocean... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "東",
+                    "とう"
+                ],
+                [
+                    "京",
+                    "きょう"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Tokyo Bay "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tokyo Bay Tokyo Bay is a bay in the southern Kantō region of Japan.... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "台",
+                    "たい"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "人",
+                    "じん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Taiwanese person; Taiwanese people "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Taiwanese people Taiwanese people may refer to individuals who either clai... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "台",
+                    "たい"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "出",
+                    "しゅっ"
+                ],
+                [
+                    "兵",
+                    "ぺい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Taiwan Expedition (punitive expedition by the Japanese military forces; 1874) Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Japanese Expedition of 1874 to Taiwan For the 1867 expedition see Formosa Expedition. The Japan... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "台",
+                    "たい"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "語",
+                    "ご"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Taiwanese (language); Taiwanese Hokkien "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Taiwanese Hokkien Taiwanese Hokkien, commonly known as Taiwanese, is the Ho... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "台",
+                    "たい"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "茶",
+                    "ちゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Taiwanese tea (i.e. oolong) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Taiwanese tea culture Taiwanese tea culture, include tea arts, tea ceremony, an... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "脊",
+                    "せき"
+                ],
+                [
+                    "椎",
+                    "つい"
+                ],
+                [
+                    "側",
+                    "そく"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "症",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. scoliosis See also 脊柱側湾症"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Scoliosis Scoliosis is a medical condition in which a person's spin... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "脊椎側彎症 【せきついそくわんしょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "台",
+                    "たい"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "峡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Straits of Taiwan "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Taiwan Strait The Taiwan Strait or Formosa Strait, formerly known as th... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "台",
+                    "たい"
+                ],
+                [
+                    "湾",
+                    "わん"
+                ],
+                [
+                    "泥",
+                    "どじょう"
+                ],
+                [
+                    "鰌",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. blotched snakehead (Channa maculata) Usually written using kana alone, See also 雷魚"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Channa maculata Channa maculata, the blotched snakehead, is a species of ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "タイワンドジョウ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "真珠湾",
+                "しんじゅわん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Shinjuwan "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Pearl Harbor Pearl Harbor, known to Hawaiians as Puʻuloa, is a lagoon ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "カーペンタリア湾",
+                "カーペンタリアわん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Gulf of Carpentaria "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gulf of Carpentaria The Gulf of Carpentaria is a large, shallow sea enclosed ... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

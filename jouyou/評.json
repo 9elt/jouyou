@@ -1,0 +1,1355 @@
+{
+    "kanji": "評",
+    "grade": 5,
+    "jlpt": 1,
+    "meanings": [
+        "evaluate",
+        "criticism",
+        "comment"
+    ],
+    "kun": [
+        "ヒョウ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.2389908256880734,
+            0.13302752293577982,
+            "c",
+            0.02146788990825688,
+            0.01293577981651376,
+            0.055412844036697245,
+            0.05321100917431192,
+            0.060825688073394495,
+            0.07339449541284404
+        ],
+        [
+            "M",
+            0.1111926605504587,
+            0.3034862385321101,
+            "c",
+            0.015229357798165137,
+            0.004954128440366972,
+            0.03495412844036697,
+            0.0025688073394495416,
+            0.05045871559633028,
+            0.0006422018348623854,
+            "c",
+            0.06458715596330275,
+            -0.0081651376146789,
+            0.14229357798165138,
+            -0.02743119266055046,
+            0.1948623853211009,
+            -0.03302752293577982,
+            "c",
+            0.014403669724770642,
+            -0.001559633027522936,
+            0.02908256880733945,
+            -0.0016513761467889907,
+            0.04339449541284404,
+            0.0011009174311926604
+        ],
+        [
+            "M",
+            0.18055045871559633,
+            0.3996330275229358,
+            "c",
+            0.011834862385321101,
+            0.0033944954128440367,
+            0.02743119266055046,
+            0.0014678899082568807,
+            0.03972477064220183,
+            0.0007339449541284404,
+            "c",
+            0.03513761467889908,
+            -0.002201834862385321,
+            0.07009174311926605,
+            -0.011559633027522935,
+            0.10550458715596331,
+            -0.017155963302752295,
+            "c",
+            0.014770642201834864,
+            -0.0022935779816513763,
+            0.02660550458715596,
+            -0.005045871559633028,
+            0.04137614678899083,
+            -0.0025688073394495416
+        ],
+        [
+            "M",
+            0.18623853211009175,
+            0.5099082568807339,
+            "c",
+            0.010642201834862385,
+            0.0032110091743119264,
+            0.02532110091743119,
+            0.0014678899082568807,
+            0.0363302752293578,
+            0.0006422018348623854,
+            "c",
+            0.03247706422018349,
+            -0.0023853211009174312,
+            0.07513761467889908,
+            -0.012293577981651376,
+            0.10889908256880733,
+            -0.017339449541284403,
+            "c",
+            0.013211009174311925,
+            -0.002018348623853211,
+            0.027614678899082565,
+            -0.005045871559633028,
+            0.04091743119266055,
+            -0.002660550458715596
+        ],
+        [
+            "M",
+            0.16522935779816514,
+            0.629816513761468,
+            "c",
+            0.008256880733944955,
+            0.007706422018348624,
+            0.010275229357798166,
+            0.02,
+            0.012568807339449543,
+            0.03036697247706422,
+            "c",
+            0.007247706422018349,
+            0.03247706422018349,
+            0.014495412844036697,
+            0.07917431192660551,
+            0.02073394495412844,
+            0.12862385321100916,
+            "c",
+            0.001559633027522936,
+            0.012201834862385321,
+            0.003027522935779817,
+            0.024495412844036696,
+            0.004403669724770642,
+            0.03688073394495413
+        ],
+        [
+            "M",
+            0.18293577981651377,
+            0.6455963302752294,
+            "c",
+            0.04963302752293578,
+            -0.009357798165137614,
+            0.1073394495412844,
+            -0.021559633027522937,
+            0.16339449541284404,
+            -0.02981651376146789,
+            "c",
+            0.0263302752293578,
+            -0.0039449541284403665,
+            0.041926605504587156,
+            -0.0001834862385321101,
+            0.035688073394495416,
+            0.028715596330275227,
+            "c",
+            -0.007339449541284404,
+            0.03394495412844037,
+            -0.011559633027522935,
+            0.06577981651376147,
+            -0.021376146788990826,
+            0.12807339449541286
+        ],
+        [
+            "M",
+            0.20568807339449544,
+            0.8077981651376146,
+            "c",
+            0.04027522935779816,
+            -0.004036697247706422,
+            0.0863302752293578,
+            -0.013577981651376147,
+            0.13871559633027522,
+            -0.021100917431192658,
+            "c",
+            0.011743119266055046,
+            -0.0016513761467889907,
+            0.023761467889908256,
+            -0.0032110091743119264,
+            0.036146788990825685,
+            -0.004678899082568807
+        ],
+        [
+            "M",
+            0.4840366972477064,
+            0.18944954128440367,
+            "c",
+            0.020550458715596333,
+            0.0032110091743119264,
+            0.04174311926605504,
+            0.001834862385321101,
+            0.05954128440366973,
+            -0.0001834862385321101,
+            "c",
+            0.059449541284403676,
+            -0.006788990825688073,
+            0.18275229357798167,
+            -0.02532110091743119,
+            0.2511926605504587,
+            -0.030275229357798163,
+            "c",
+            0.016422018348623852,
+            -0.0011926605504587156,
+            0.033486238532110094,
+            -0.0011009174311926604,
+            0.049724770642201835,
+            0.0023853211009174312
+        ],
+        [
+            "M",
+            0.4791743119266055,
+            0.324954128440367,
+            "c",
+            0.02669724770642202,
+            0.02660550458715596,
+            0.05623853211009174,
+            0.08247706422018349,
+            0.06293577981651377,
+            0.12385321100917432
+        ],
+        [
+            "M",
+            0.8356880733944955,
+            0.2704587155963303,
+            "c",
+            0.0009174311926605505,
+            0.00926605504587156,
+            0.0001834862385321101,
+            0.018440366972477064,
+            -0.003853211009174312,
+            0.02669724770642202,
+            "C",
+            0.8119266055045872,
+            0.338348623853211,
+            0.7798165137614679,
+            0.3888073394495413,
+            0.7344036697247707,
+            0.4315596330275229
+        ],
+        [
+            "M",
+            0.4288990825688073,
+            0.5478899082568808,
+            "c",
+            0.0218348623853211,
+            0.0076146788990825685,
+            0.05,
+            0.004403669724770642,
+            0.07238532110091743,
+            0.0013761467889908255,
+            "c",
+            0.09559633027522936,
+            -0.01293577981651376,
+            0.22559633027522935,
+            -0.024678899082568807,
+            0.34266055045871563,
+            -0.035688073394495416,
+            "c",
+            0.024495412844036696,
+            -0.0022935779816513763,
+            0.04688073394495413,
+            -0.004678899082568807,
+            0.07110091743119266,
+            0.0003669724770642202
+        ],
+        [
+            "M",
+            0.6454128440366972,
+            0.20477064220183486,
+            "c",
+            0.00834862385321101,
+            0.00834862385321101,
+            0.014587155963302753,
+            0.022293577981651377,
+            0.014587155963302753,
+            0.038256880733944953,
+            "c",
+            0,
+            0.007155963302752294,
+            -0.00009174311926605505,
+            0.39825688073394494,
+            -0.0008256880733944953,
+            0.5620183486238532,
+            "c",
+            -0.00009174311926605505,
+            0.0318348623853211,
+            -0.0002752293577981651,
+            0.0544954128440367,
+            -0.0003669724770642202,
+            0.06311926605504586
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. criticism; commentary; review "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "価",
+                    "か"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. valuation; appraisal; evaluation; assessment; estimation; rating; judging あなたはどのようにして学生を評価しますか。How do you assess your students?"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. appreciation; recognition; acknowledgement; rating highly; praising 母親は評価してもらえないことがよくある。Mothers are often not appreciated."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Assessment "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. valuation; appraisal; evaluation; assessment; estimation; rating; judging あなたはどのようにして学生を評価しますか。How do you assess your students?"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. appreciation; recognition; acknowledgement; rating highly; praising 母親は評価してもらえないことがよくある。Mothers are often not appreciated."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Assessment "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "どのように",
+                            null
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "学生",
+                            "がくせい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "評価",
+                            "ひょうか"
+                        ],
+                        [
+                            "します",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "How do you assess your students?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "母親",
+                            "ははおや"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "評価",
+                            "ひょうか"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "もらえない",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "よくある",
+                            null
+                        ]
+                    ],
+                    "translation": "Mothers are often not appreciated."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "判",
+                    "ばん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. reputation; (public) estimation; popularity スキャンダルで会社の評判が落ちた。The scandal hurt the company's reputation."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no', Suru verb, Transitive verb",
+                    "meaning": "2. rumour; rumor; talk (e.g. of the town) そのニュースは大評判を巻き起こした。The news caused a great sensation."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. fame; notoriety この本で、君はかなり評判になるよ。You're going to get much publicity with this book."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. reputation; (public) estimation; popularity スキャンダルで会社の評判が落ちた。The scandal hurt the company's reputation."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no', Suru verb, Transitive verb",
+                    "meaning": "2. rumour; rumor; talk (e.g. of the town) そのニュースは大評判を巻き起こした。The news caused a great sensation."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. fame; notoriety この本で、君はかなり評判になるよ。You're going to get much publicity with this book."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "スキャンダル",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "会社",
+                            "かいしゃ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "評判",
+                            "ひょうばん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "落ちた",
+                            "お"
+                        ]
+                    ],
+                    "translation": "The scandal hurt the company's reputation."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "ニュース",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "大",
+                            "だい"
+                        ],
+                        [
+                            "評判",
+                            "ひょうばん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "巻き起こした",
+                            "まきお"
+                        ]
+                    ],
+                    "translation": "The news caused a great sensation."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "君",
+                            "きみ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "かなり",
+                            null
+                        ],
+                        [
+                            "評判",
+                            "ひょうばん"
+                        ],
+                        [
+                            "になる",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "You're going to get much publicity with this book."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. criticism; critique "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. criticism; critique "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ],
+                [
+                    "家",
+                    "か"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. critic; reviewer; commentator "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Criticism Criticism is the practice of judging the merits and fault... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. critic; reviewer; commentator "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Criticism Criticism is the practice of judging the merits and fault... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "決",
+                    "けつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. decision; verdict "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. The Verdict The Verdict is a 1982 courtroom drama film which tells th... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. decision; verdict "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. The Verdict The Verdict is a 1982 courtroom drama film which tells th... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. conference; discussion "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. conference; discussion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "1. to evaluate; to appraise; to comment on "
+                },
+                {
+                    "type": "Suru verb - special class, Transitive verb",
+                    "meaning": "1. to evaluate; to appraise; to comment on "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. council (consultatory, advisory); board of trustees "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. council (consultatory, advisory); board of trustees "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "判",
+                    "ばん"
+                ],
+                [
+                    "通",
+                    "どお"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. as reputed このレストラン、評判通りのおいしさだね。This restaurant lives up to all the rave reviews it got."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "評判どおり 【ひょうばんどおり】"
+                },
+                {
+                    "type": "Adverb (fukushi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. as reputed このレストラン、評判通りのおいしさだね。This restaurant lives up to all the rave reviews it got."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "評判どおり 【ひょうばんどおり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "レストラン",
+                            null
+                        ],
+                        [
+                            "評判通り",
+                            "ひょうばんどお"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "おいし",
+                            null
+                        ],
+                        [
+                            "さ",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "This restaurant lives up to all the rave reviews it got."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "伝",
+                    "でん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. critical biography "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ],
+                [
+                    "員",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. trustee; councillor (councilor) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. critic; reviewer "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "点",
+                    "てん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (examination) comments and marks; rating "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "定",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. council; conference; consultation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "価",
+                    "か"
+                ],
+                [
+                    "減",
+                    "げん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. write-down; devaluation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "価",
+                    "か"
+                ],
+                [
+                    "基",
+                    "き"
+                ],
+                [
+                    "準",
+                    "じゅん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. valuation basis; appraisal standard "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "価",
+                    "か"
+                ],
+                [
+                    "益",
+                    "えき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. paper profit; appraisal gain; profit accrued from revised valuation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to evaluate; to appraise; to comment on See also 評する"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "価",
+                    "か"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. evaluator; appraiser; reviewer "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "評四方",
+                "ひょうよも"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Hyouyomo "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Hyougetouge "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Hyougidaira "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "批",
+                    "ひ"
+                ],
+                [
+                    "評",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. criticism; critique; review; commentary "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Critique Critique is a method of disciplined, systematic analysis ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "書",
+                    "しょ"
+                ],
+                [
+                    "評",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. book review "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Book review A book review is a form of literary criticism in which a ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "好",
+                    "こう"
+                ],
+                [
+                    "評",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. favorable reception; good reputation; popularity "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "評",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. bad reputation; poor reception; unpopularity; disrepute "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "論",
+                    "ろん"
+                ],
+                [
+                    "評",
+                    "ぴょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. comment; criticism; critique; review "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "定",
+                    "てい"
+                ],
+                [
+                    "評",
+                    "ひょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. established reputation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "過",
+                    "か"
+                ],
+                [
+                    "小",
+                    "しょう"
+                ],
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "価",
+                    "か"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. underestimation; undervaluation Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "過少評価 【かしょうひょうか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "過少評価: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悪",
+                    "あく"
+                ],
+                [
+                    "評",
+                    "ひょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bad reputation; infamy; ill repute; unfavorable criticism; unfavourable criticism "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "批",
+                    "ひ"
+                ],
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "家",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. critic "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "短",
+                    "たん"
+                ],
+                [
+                    "評",
+                    "ぴょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. brief comment or criticism "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "過",
+                    "か"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "評",
+                    "ひょう"
+                ],
+                [
+                    "価",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. overestimation; overvaluing Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1732 @@
+{
+    "kanji": "渡",
+    "grade": 10,
+    "jlpt": 3,
+    "meanings": [
+        "transit",
+        "ford",
+        "ferry",
+        "cross",
+        "import",
+        "deliver",
+        "diameter",
+        "migrate"
+    ],
+    "kun": [
+        "わた.る",
+        "-わた.る",
+        "わた.す"
+    ],
+    "on": [
+        "ト"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.17321100917431193,
+            0.15137614678899083,
+            "c",
+            0.03596330275229358,
+            0.013944954128440367,
+            0.09293577981651377,
+            0.0571559633027523,
+            0.1020183486238532,
+            0.07880733944954128
+        ],
+        [
+            "M",
+            0.11577981651376146,
+            0.3726605504587156,
+            "c",
+            0.037614678899082564,
+            0.013119266055045872,
+            0.09724770642201834,
+            0.05412844036697248,
+            0.10660550458715595,
+            0.07449541284403668
+        ],
+        [
+            "M",
+            0.11697247706422019,
+            0.8140366972477064,
+            "c",
+            0.012660550458715595,
+            0.0047706422018348625,
+            0.023944954128440367,
+            0.0011926605504587156,
+            0.03311926605504587,
+            -0.013761467889908258,
+            "c",
+            0.035688073394495416,
+            -0.05834862385321101,
+            0.06220183486238532,
+            -0.10917431192660551,
+            0.08614678899082569,
+            -0.15816513761467887
+        ],
+        [
+            "M",
+            0.5840366972477063,
+            0.11357798165137616,
+            "c",
+            0.009541284403669725,
+            0.009541284403669725,
+            0.012110091743119267,
+            0.020550458715596333,
+            0.012110091743119267,
+            0.03486238532110091,
+            "c",
+            0,
+            0.006972477064220183,
+            -0.0005504587155963302,
+            0.028165137614678898,
+            -0.0005504587155963302,
+            0.07311926605504587
+        ],
+        [
+            "M",
+            0.36201834862385324,
+            0.24825688073394495,
+            "c",
+            0.021009174311926605,
+            0.008807339449541284,
+            0.048532110091743116,
+            0.005321100917431192,
+            0.07045871559633027,
+            0.0028440366972477065,
+            "c",
+            0.11495412844036697,
+            -0.013027522935779816,
+            0.23522935779816515,
+            -0.02834862385321101,
+            0.3531192660550459,
+            -0.03660550458715597,
+            "c",
+            0.01981651376146789,
+            -0.0013761467889908255,
+            0.03752293577981651,
+            -0.0012844036697247708,
+            0.05678899082568808,
+            0.003577981651376147
+        ],
+        [
+            "M",
+            0.3873394495412844,
+            0.2591743119266055,
+            "c",
+            0.009908256880733945,
+            0.009908256880733945,
+            0.01165137614678899,
+            0.022752293577981652,
+            0.010825688073394495,
+            0.043119266055045874,
+            "C",
+            0.3912844036697248,
+            0.4592660550458716,
+            0.37155963302752293,
+            0.7155963302752294,
+            0.23587155963302753,
+            0.8672477064220183
+        ],
+        [
+            "M",
+            0.421651376146789,
+            0.3771559633027523,
+            "c",
+            0.022110091743119266,
+            0.005871559633027523,
+            0.04302752293577982,
+            0.001834862385321101,
+            0.06348623853211009,
+            -0.0001834862385321101,
+            "c",
+            0.07715596330275229,
+            -0.0076146788990825685,
+            0.25761467889908257,
+            -0.028440366972477066,
+            0.311651376146789,
+            -0.03036697247706422,
+            "c",
+            0.018256880733944953,
+            -0.0006422018348623854,
+            0.02926605504587156,
+            0.001834862385321101,
+            0.03844036697247707,
+            0.003853211009174312
+        ],
+        [
+            "M",
+            0.5173394495412844,
+            0.30110091743119266,
+            "c",
+            0.007064220183486239,
+            0.007064220183486239,
+            0.01165137614678899,
+            0.01651376146788991,
+            0.01165137614678899,
+            0.025779816513761468,
+            "c",
+            0,
+            0.005688073394495413,
+            0.005137614678899083,
+            0.07036697247706422,
+            0.009357798165137614,
+            0.12954128440366972,
+            "c",
+            0.0012844036697247708,
+            0.017889908256880735,
+            0.002660550458715596,
+            0.034678899082568805,
+            0.0039449541284403665,
+            0.04807339449541285
+        ],
+        [
+            "M",
+            0.6975229357798165,
+            0.2684403669724771,
+            "c",
+            0.007889908256880733,
+            0.007889908256880733,
+            0.010275229357798166,
+            0.020642201834862386,
+            0.009357798165137614,
+            0.028073394495412844,
+            "c",
+            -0.003853211009174312,
+            0.03155963302752293,
+            -0.008440366972477065,
+            0.09229357798165139,
+            -0.01834862385321101,
+            0.1608256880733945
+        ],
+        [
+            "M",
+            0.5515596330275229,
+            0.48284403669724774,
+            "c",
+            0.04321100917431193,
+            -0.007339449541284404,
+            0.07568807339449542,
+            -0.010825688073394495,
+            0.11614678899082569,
+            -0.014220183486238533,
+            "c",
+            0.012660550458715595,
+            -0.0010091743119266055,
+            0.025412844036697246,
+            -0.0021100917431192663,
+            0.03834862385321101,
+            -0.0032110091743119264
+        ],
+        [
+            "M",
+            0.4708256880733945,
+            0.5823853211009175,
+            "c",
+            0.013119266055045872,
+            0.0022935779816513763,
+            0.014678899082568808,
+            0.005688073394495413,
+            0.0408256880733945,
+            0.0022935779816513763,
+            "c",
+            0.02614678899082569,
+            -0.0033944954128440367,
+            0.19477064220183488,
+            -0.03238532110091743,
+            0.21275229357798167,
+            -0.03577981651376147,
+            "c",
+            0.01798165137614679,
+            -0.0033944954128440367,
+            0.031467889908256885,
+            0.01275229357798165,
+            0.024495412844036696,
+            0.024954128440366975,
+            "c",
+            -0.08422018348623853,
+            0.14779816513761468,
+            -0.22825688073394496,
+            0.25412844036697246,
+            -0.3811009174311927,
+            0.3114678899082569
+        ],
+        [
+            "M",
+            0.48192660550458716,
+            0.6365137614678898,
+            "c",
+            0.05064220183486238,
+            0.0010091743119266055,
+            0.1821100917431193,
+            0.12385321100917432,
+            0.30311926605504586,
+            0.20275229357798166,
+            "c",
+            0.020366972477064222,
+            0.01330275229357798,
+            0.04412844036697247,
+            0.027798165137614676,
+            0.06963302752293578,
+            0.0373394495412844
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to ferry across (e.g. a river); to carry across; to traverse わたしを向こう側へわたしてください。Please take me over to the other side."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to lay across; to build across "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to hand over; to hand in; to pass; to give; to transfer それじゃあこのメモを渡してください。緊急です。Then, please give him this note. This is urgent."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to ferry across (e.g. a river); to carry across; to traverse わたしを向こう側へわたしてください。Please take me over to the other side."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to lay across; to build across "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to hand over; to hand in; to pass; to give; to transfer それじゃあこのメモを渡してください。緊急です。Then, please give him this note. This is urgent."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "わたし",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "向こう側",
+                            "むこうがわ"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "わたして",
+                            null
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Please take me over to the other side."
+                },
+                {
+                    "sentence": [
+                        [
+                            "それじゃあ",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "メモ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "渡して",
+                            "わた"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ],
+                        [
+                            "緊急",
+                            "きんきゅう"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "Then, please give him this note. This is urgent."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to cross over; to go across usu. 渡る or 渉る橋は安全です。車でわたれます。The bridge is safe; you can drive across."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to extend; to cover; to range; to span Usually written using kana alone, See also にわたって, orig. 亘る or 亙る, now commonly 渡るこの儀式は幾世代にもわたって伝わってきた。This ceremony has been handed down from generation to generation."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "亘る 【わたる】、渉る 【わたる】、亙る 【わたる】、弥る 【わたる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "渉る: Rarely-used kanji form. 亙る: Rarely-used kanji form. 弥る: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to cross over; to go across usu. 渡る or 渉る橋は安全です。車でわたれます。The bridge is safe; you can drive across."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to extend; to cover; to range; to span Usually written using kana alone, See also にわたって, orig. 亘る or 亙る, now commonly 渡るこの儀式は幾世代にもわたって伝わってきた。This ceremony has been handed down from generation to generation."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "亘る 【わたる】、渉る 【わたる】、亙る 【わたる】、弥る 【わたる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "渉る: Rarely-used kanji form. 亙る: Rarely-used kanji form. 弥る: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "橋",
+                            "はし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "安全",
+                            "あんぜん"
+                        ],
+                        [
+                            "です",
+                            null
+                        ],
+                        [
+                            "車",
+                            "くるま"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "わたれます",
+                            null
+                        ]
+                    ],
+                    "translation": "The bridge is safe; you can drive across."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "儀式",
+                            "ぎしき"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "幾世",
+                            "いくよ"
+                        ],
+                        [
+                            "代",
+                            "だい"
+                        ],
+                        [
+                            "にも",
+                            null
+                        ],
+                        [
+                            "わたって",
+                            null
+                        ],
+                        [
+                            "伝わって",
+                            "つた"
+                        ],
+                        [
+                            "きた",
+                            null
+                        ]
+                    ],
+                    "translation": "This ceremony has been handed down from generation to generation."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "鳥",
+                    "どり"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. migratory bird; bird of passage "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bird migration Bird migration is the regular seasonal journey undertaken... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. migratory bird; bird of passage "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bird migration Bird migration is the regular seasonal journey undertaken... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "と"
+                ],
+                [
+                    "米",
+                    "べい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. going to the United States "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. going to the United States "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to fight (with); to cross swords; to compete (with) 私と互角で渡り合える女の子でなければだめだ。The girl has to match me in skill."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "2. to argue (with); to have an argument; to have a dispute; to debate "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to fight (with); to cross swords; to compete (with) 私と互角で渡り合える女の子でなければだめだ。The girl has to match me in skill."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "2. to argue (with); to have an argument; to have a dispute; to debate "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "互角",
+                            "ごかく"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "渡り合える",
+                            "わたりあ"
+                        ],
+                        [
+                            "女の子",
+                            "おんなのこ"
+                        ],
+                        [
+                            "でなければ",
+                            null
+                        ],
+                        [
+                            "だめ",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "The girl has to match me in skill."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "と"
+                ],
+                [
+                    "来",
+                    "らい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. visit (from abroad) "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. introduction (from abroad); importation "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. visit (from abroad) "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. introduction (from abroad); importation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. crossing; passage; transit "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. importing; import "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. wandering; wanderer "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. migration See also 渡り鳥"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. contact; relations; negotiations See also 渡りを付ける"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. connection Go (game), usu. as ワタリ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. glide Linguistics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "8. Animal migration Animal migration is the relatively long-distance movement... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ワタリ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "と"
+                ],
+                [
+                    "航",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. voyage; passage; travelling "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ferry (crossing); ferry(boat) "
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "2. delivery "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "廊",
+                    "ろう"
+                ],
+                [
+                    "下",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. roofed corridor connecting two buildings; connecting passageway "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. skyway; skybridge; skywalk "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "と"
+                ],
+                [
+                    "欧",
+                    "おう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. going to Europe; trip to Europe "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "と"
+                ],
+                [
+                    "仏",
+                    "ふつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. going to France "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "船",
+                    "ぶね"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ferry; ferryboat "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "渡し舟 【わたしぶね】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "瀬",
+                    "せ"
+                ],
+                [
+                    "地",
+                    "じ"
+                ],
+                [
+                    "鼠",
+                    "ねずみ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lesser Ryukyu shrew (Crocidura watasei); Watase's shrew Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Lesser Ryukyu Shrew The Lesser Ryukyu Shrew, or the Watase's Shrew (Crocidura... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ワタセジネズミ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わたり"
+                ],
+                [
+                    "信",
+                    "あほうどり"
+                ],
+                [
+                    "天",
+                    null
+                ],
+                [
+                    "翁",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. wandering albatross (Diomedea exulans) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Wandering Albatross The Wandering Albatross, Snowy Albatross or White-winged ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ワタリアホウドリ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "蟹",
+                    "がに"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. swimming crab (Portunus trituberculatus); Japanese blue crab Usually written using kana alone, See also ガザミ"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Portunidae Portunidae is a family of crabs which contains the swimmi... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "渡り蟹 【わたりかに】、渡蟹 【わたりがに】、渡蟹 【わたりかに】、ワタリガニ、ワタリカニ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わたり"
+                ],
+                [
+                    "鴉",
+                    "がらす"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. common raven (Corvus corax) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Common Raven The Common Raven (Corvus corax), also known as the Northe... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "渡り烏 【わたりがらす】、渡烏 【わたりがらす】、ワタリガラス"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "銭",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ferriage "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "奉",
+                    "ぼう"
+                ],
+                [
+                    "公",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. working as a servant for a series of masters "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "場",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ferry landing; point of departure or arrival for ferries See also 渡船場"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "渡場 【わたしば】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "渡場: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "渡",
+                "とさき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tosaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "渡",
+                "ど"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Do "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "渡",
+                "ほたる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Hotaru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "ちょっと"
+                ],
+                [
+                    "寸",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. a little; a bit; slightly Usually written using kana aloneこの机は私にはちょっと低い。This desk is a little low for me."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. just a minute; for a moment; briefly Usually written using kana aloneネクタイを締める間、ちょっとじっとしてね。Hold still a moment while I fix your tie."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "3. somewhat; rather; fairly; pretty; quite Usually written using kana alone"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "5. hey!; come on; excuse me Usually written using kana aloneちょっと、そこのきみ！Hey, you there!"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "6. thanks, but no; not feasible; not possible Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "一寸 【ちょと】、鳥渡 【ちょっと】、鳥渡 【ちょと】、チョット、ちょいと、チョッと"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "一寸: Rarely-used kanji form. 一寸: Rarely-used kanji form. 鳥渡: Rarely-used kanji form. 鳥渡: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "机",
+                            "つくえ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "ちょっと",
+                            null
+                        ],
+                        [
+                            "低い",
+                            "ひく"
+                        ]
+                    ],
+                    "translation": "This desk is a little low for me."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ネクタイ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "締める",
+                            "し"
+                        ],
+                        [
+                            "間",
+                            "あいだ"
+                        ],
+                        [
+                            "ちょっと",
+                            null
+                        ],
+                        [
+                            "じっと",
+                            null
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "Hold still a moment while I fix your tie."
+                },
+                {
+                    "sentence": [
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "以上",
+                            "いじょう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ちょっと",
+                            null
+                        ],
+                        [
+                            "見つからない",
+                            "み"
+                        ],
+                        [
+                            "だろう",
+                            null
+                        ]
+                    ],
+                    "translation": "You won't find a better job in a hurry."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ちょっと",
+                            null
+                        ],
+                        [
+                            "そこ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "きみ",
+                            null
+                        ]
+                    ],
+                    "translation": "Hey, you there!"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "見",
+                    "み"
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to look out over; to survey (scene); to take an extensive view of "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "見わたす 【みわたす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dishonouring (a bill); dishonoring; bouncing (a cheque, check); non-payment "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Non-sufficient funds Non-sufficient funds (NSF) is a term used in the banking ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "手",
+                    "て"
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to hand over "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "引",
+                    "ひ"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to deliver; to extradite; to stretch across; to hand over "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "引渡す 【ひきわたす】、引きわたす 【ひきわたす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "言",
+                    "い"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to announce; to tell; to sentence; to order "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "言渡す 【いいわたす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "譲",
+                    "ゆず"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to hand over; to turn over; to cede "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "譲りわたす 【ゆずりわたす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "過",
+                    "か"
+                ],
+                [
+                    "渡",
+                    "と"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. transition period "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "綱",
+                    "つな"
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. tightrope walking; high-wire act; funambulism "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. treading a tightrope; walking on thin ice; pulling a risky balancing act Idiomatic expression"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "行",
+                    "い"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to diffuse; to spread throughout; to prevail; to become widespread; to reach everyone "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "行き渡る 【ゆきわたる】、行きわたる 【いきわたる】、行きわたる 【ゆきわたる】、行渡る 【いきわたる】、行渡る 【ゆきわたる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "明",
+                    "あ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to vacate; to surrender (e.g. a castle); to give up (e.g. a position); to hand over (e.g. power) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "明渡す 【あけわたす】、開け渡す 【あけわたす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "開け渡す: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "売",
+                    "う"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to sell over to "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "売渡す 【うりわたす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "橋",
+                    "はし"
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. mediation; good offices; go-between; intermediary; mediator; bridge (between) "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. building a bridge "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "し"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "渡",
+                    "わた"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be well-known "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "知れわたる 【しれわたる】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

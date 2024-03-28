@@ -1,0 +1,1342 @@
+{
+    "kanji": "溝",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "gutter",
+        "ditch",
+        "sewer",
+        "drain",
+        "10**32"
+    ],
+    "kun": [
+        "みぞ"
+    ],
+    "on": [
+        "コウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.17091743119266053,
+            0.1536697247706422,
+            "c",
+            0.039266055045871565,
+            0.014311926605504588,
+            0.10137614678899083,
+            0.058807339449541286,
+            0.1111926605504587,
+            0.08110091743119266
+        ],
+        [
+            "M",
+            0.13761467889908258,
+            0.3922018348623853,
+            "c",
+            0.034770642201834866,
+            0.01128440366972477,
+            0.08990825688073395,
+            0.04660550458715596,
+            0.09862385321100918,
+            0.06422018348623854
+        ],
+        [
+            "M",
+            0.14899082568807337,
+            0.8420183486238533,
+            "c",
+            0.011559633027522935,
+            0.005504587155963302,
+            0.02348623853211009,
+            0.0032110091743119264,
+            0.03036697247706422,
+            -0.008807339449541284,
+            "c",
+            0.02587155963302752,
+            -0.04458715596330275,
+            0.05174311926605504,
+            -0.09908256880733946,
+            0.07522935779816513,
+            -0.1559633027522936
+        ],
+        [
+            "M",
+            0.3690825688073394,
+            0.23431192660550457,
+            "c",
+            0.01798165137614679,
+            0.006238532110091744,
+            0.04623853211009174,
+            0.0077981651376146785,
+            0.06458715596330275,
+            0.005596330275229358,
+            "c",
+            0.08697247706422019,
+            -0.010550458715596329,
+            0.21394495412844036,
+            -0.02724770642201835,
+            0.29706422018348627,
+            -0.035321100917431195,
+            "c",
+            0.020091743119266054,
+            -0.001926605504587156,
+            0.04376146788990825,
+            -0.006422018348623853,
+            0.06394495412844037,
+            -0.002201834862385321
+        ],
+        [
+            "M",
+            0.4628440366972477,
+            0.12862385321100916,
+            "c",
+            0.009357798165137614,
+            0.009357798165137614,
+            0.014220183486238533,
+            0.019357798165137614,
+            0.016146788990825688,
+            0.03458715596330275,
+            "c",
+            0.0009174311926605505,
+            0.007339449541284404,
+            0.010642201834862385,
+            0.15100917431192662,
+            0.015963302752293577,
+            0.24614678899082568
+        ],
+        [
+            "M",
+            0.6641284403669725,
+            0.11816513761467891,
+            "c",
+            0.010183486238532111,
+            0.011376146788990826,
+            0.010183486238532111,
+            0.020550458715596333,
+            0.00926605504587156,
+            0.03541284403669725,
+            "c",
+            -0.001834862385321101,
+            0.029908256880733942,
+            -0.014311926605504588,
+            0.17605504587155965,
+            -0.01981651376146789,
+            0.24256880733944955
+        ],
+        [
+            "M",
+            0.3654128440366972,
+            0.3294495412844036,
+            "c",
+            0.02018348623853211,
+            0.006972477064220183,
+            0.049724770642201835,
+            0.003853211009174312,
+            0.07055045871559633,
+            0.001834862385321101,
+            "c",
+            0.0775229357798165,
+            -0.007522935779816513,
+            0.2181651376146789,
+            -0.02568807339449541,
+            0.29798165137614674,
+            -0.03422018348623853,
+            "c",
+            0.01834862385321101,
+            -0.001926605504587156,
+            0.034770642201834866,
+            -0.0033944954128440367,
+            0.0528440366972477,
+            0.00045871559633027525
+        ],
+        [
+            "M",
+            0.2988073394495413,
+            0.43330275229357795,
+            "C",
+            0.3302752293577982,
+            0.4380733944954128,
+            0.36275229357798167,
+            0.4348623853211009,
+            0.3944954128440367,
+            0.43055045871559633,
+            "c",
+            0.10541284403669725,
+            -0.014403669724770642,
+            0.26256880733944954,
+            -0.02981651376146789,
+            0.3738532110091743,
+            -0.036146788990825685,
+            "c",
+            0.030825688073394496,
+            -0.0017431192660550458,
+            0.06073394495412844,
+            -0.0021100917431192663,
+            0.09110091743119265,
+            0.004495412844036697
+        ],
+        [
+            "M",
+            0.4100917431192661,
+            0.5128440366972477,
+            "c",
+            0.009908256880733945,
+            0.009908256880733945,
+            0.011559633027522935,
+            0.022752293577981652,
+            0.011559633027522935,
+            0.04027522935779816,
+            "c",
+            0,
+            0.017522935779816513,
+            -0.0003669724770642202,
+            0.18880733944954126,
+            -0.0006422018348623854,
+            0.278348623853211,
+            "c",
+            -0.00009174311926605505,
+            0.03128440366972477,
+            -0.00009174311926605505,
+            0.05256880733944955,
+            -0.00009174311926605505,
+            0.05385321100917431
+        ],
+        [
+            "M",
+            0.4354128440366973,
+            0.528256880733945,
+            "c",
+            0.03642201834862385,
+            -0.004311926605504587,
+            0.19532110091743118,
+            -0.022752293577981652,
+            0.2573394495412844,
+            -0.031192660550458714,
+            "c",
+            0.03357798165137615,
+            -0.0045871559633027525,
+            0.05440366972477064,
+            0.005229357798165137,
+            0.05440366972477064,
+            0.0373394495412844,
+            "c",
+            0,
+            0.07220183486238532,
+            -0.0005504587155963302,
+            0.2788990825688073,
+            -0.0005504587155963302,
+            0.30614678899082565,
+            "c",
+            0,
+            0.07954128440366973,
+            -0.04477064220183486,
+            0.024036697247706424,
+            -0.06467889908256881,
+            0.0028440366972477065
+        ],
+        [
+            "M",
+            0.5643119266055046,
+            0.4262385321100918,
+            "c",
+            0.007064220183486239,
+            0.007064220183486239,
+            0.01091743119266055,
+            0.018440366972477064,
+            0.01091743119266055,
+            0.02981651376146789,
+            "c",
+            0,
+            0.07330275229357798,
+            -0.0006422018348623854,
+            0.14541284403669724,
+            -0.0006422018348623854,
+            0.24229357798165138
+        ],
+        [
+            "M",
+            0.43238532110091743,
+            0.6231192660550459,
+            "c",
+            0.09743119266055045,
+            -0.013027522935779816,
+            0.20816513761467892,
+            -0.025596330275229357,
+            0.3023853211009174,
+            -0.030642201834862385
+        ],
+        [
+            "M",
+            0.30678899082568806,
+            0.7268807339449541,
+            "c",
+            0.025779816513761468,
+            0.005871559633027523,
+            0.05321100917431192,
+            0.0023853211009174312,
+            0.0775229357798165,
+            -0.0002752293577981651,
+            "c",
+            0.14211009174311925,
+            -0.015596330275229357,
+            0.2808256880733945,
+            -0.03055045871559633,
+            0.40256880733944955,
+            -0.03706422018348624,
+            "c",
+            0.02660550458715596,
+            -0.0014678899082568807,
+            0.04926605504587156,
+            -0.00009174311926605505,
+            0.07522935779816513,
+            0.005321100917431192
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "溝",
+                    "みぞ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ditch; drain; gutter; trench "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. groove; tread; indentation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. gap (between people, countries, etc.); gulf; rift 両者の溝が狭まった。The gap between them has narrowed."
+                },
+                {
+                    "type": "Numeric",
+                    "meaning": "1. 10^32; hundred nonillion Rare term"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ditch; drain; gutter; trench Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. gap (between cutting guides) Usually written using kana alone, Only applies to ドブ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ドブ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ditch; drain; gutter; trench "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. groove; tread; indentation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. gap (between people, countries, etc.); gulf; rift 両者の溝が狭まった。The gap between them has narrowed."
+                },
+                {
+                    "type": "Numeric",
+                    "meaning": "1. 10^32; hundred nonillion Rare term"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "両者",
+                            "りょうしゃ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "溝",
+                            "みぞ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "狭まった",
+                            "せば"
+                        ]
+                    ],
+                    "translation": "The gap between them has narrowed."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "どぶねずみ"
+                ],
+                [
+                    "鼠",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. brown rat (Rattus norvegicus); common rat; street rat; sewer rat; Norway rat Usually written using kana aloneハツカネズミとドブネズミは異なる。Mice are distinct from rats."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. dark grey; dark gray Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. deceitful employee; unfaithful servant Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Brown rat The brown rat, common rat, street rat, sewer rat, Hanover... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ドブネズミ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. brown rat (Rattus norvegicus); common rat; street rat; sewer rat; Norway rat Usually written using kana aloneハツカネズミとドブネズミは異なる。Mice are distinct from rats."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. dark grey; dark gray Usually written using kana alone"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. deceitful employee; unfaithful servant Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Brown rat The brown rat, common rat, street rat, sewer rat, Hanover... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ドブネズミ"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ハツカネズミ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "ドブネズミ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "異なる",
+                            "こと"
+                        ]
+                    ],
+                    "translation": "Mice are distinct from rats."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "ド",
+                    null
+                ],
+                [
+                    "ブ",
+                    null
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "捨",
+                    "どぶにす"
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to throw down the drain; to waste Idiomatic expression"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "どぶに捨てる 【どぶにすてる】、溝に捨てる 【どぶにすてる】"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to throw down the drain; to waste Idiomatic expression"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "どぶに捨てる 【どぶにすてる】、溝に捨てる 【どぶにすてる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "こう"
+                ],
+                [
+                    "渠",
+                    "きょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ditch; sewer; canal "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ditch A ditch is usually defined as a small to moderate depress... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. ditch; sewer; canal "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ditch A ditch is usually defined as a small to moderate depress... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "こう"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "舌",
+                    "ぜつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fissured tongue "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fissured tongue Fissured tongue (also known as \"scrotal tongue,\" \"lingua ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. fissured tongue "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fissured tongue Fissured tongue (also known as \"scrotal tongue,\" \"lingua ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "こう"
+                ],
+                [
+                    "腹",
+                    "ふく"
+                ],
+                [
+                    "綱",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Solenogastres (subclass of small worm-like molluscs) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Solenogastres The Solenogastres (less often referred to as Neomeniomorp... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Solenogastres (subclass of small worm-like molluscs) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Solenogastres The Solenogastres (less often referred to as Neomeniomorp... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "禊",
+                    "みそはぎ"
+                ],
+                [
+                    "萩",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Lythrum anceps (species of loosestrife) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Lythrum Lythrum is a genus commonly known as loosestrife. It is o... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "禊萩 【みぞはぎ】、溝萩 【みそはぎ】、溝萩 【みぞはぎ】、ミソハギ、ミゾハギ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Lythrum anceps (species of loosestrife) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Lythrum Lythrum is a genus commonly known as loosestrife. It is o... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "禊萩 【みぞはぎ】、溝萩 【みそはぎ】、溝萩 【みぞはぎ】、ミソハギ、ミゾハギ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "どぶみず"
+                ],
+                [
+                    "水",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ditch water "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "みぞ"
+                ],
+                [
+                    "削",
+                    "けず"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fluting; grooving Engineering"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "どぶどろ"
+                ],
+                [
+                    "泥",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ditch mud "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ド",
+                    null
+                ],
+                [
+                    "ブ",
+                    null
+                ],
+                [
+                    "板",
+                    "どぶいたえいぎょう"
+                ],
+                [
+                    "営",
+                    null
+                ],
+                [
+                    "業",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grassroots sales; door-to-door marketing See also ドブ板"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "どぶ板営業 【どぶいたえいぎょう】、溝板営業 【どぶいたえいぎょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "みぞ"
+                ],
+                [
+                    "五",
+                    "ご"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese night heron (Gorsachius goisagi) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ミゾゴイ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "どぶしじみ"
+                ],
+                [
+                    "蜆",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Sphaerium japonicum (species of fingernail clam) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "土負蜆 【どぶしじみ】、ドブシジミ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "こう"
+                ],
+                [
+                    "溜",
+                    "りゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. drain and pool for collecting sewage, etc. "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "どぶ"
+                ],
+                [
+                    "さ",
+                    null
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cleaning out mud from a ditch or drain Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "溝浚い 【どぶさらい】、ドブさらい"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "溝浚い: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "どぶがい"
+                ],
+                [
+                    "貝",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Chinese pond mussel (Sinanodonta woodiana) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "土負貝 【どぶがい】、ドブガイ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "みぞ"
+                ],
+                [
+                    "形",
+                    "がた"
+                ],
+                [
+                    "鋼",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. channel (type of section steel) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溝",
+                    "みぞ"
+                ],
+                [
+                    "掘",
+                    "ほ"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. trench digging machine; trencher See also トレンチャー"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "溝掘機 【みぞほりき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "溝",
+                "みぞ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Mizo "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Mizosaki "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Mizonokuchi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "溝",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. oceanic trench; deep-sea trench; deep "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Oceanic trench The oceanic trenches are hemispheric-scale long but narro... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "排",
+                    "はい"
+                ],
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "溝",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. drainage; gutter; ditch "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "側",
+                    "そっこう"
+                ],
+                [
+                    "溝",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gutter; ditch "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "にほんかいこう"
+                ],
+                [
+                    "本",
+                    null
+                ],
+                [
+                    "海",
+                    null
+                ],
+                [
+                    "溝",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japan Trench "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Japan Trench The Japan Trench is an oceanic trench, a part of the Paci... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "盧",
+                    "ろ"
+                ],
+                [
+                    "溝",
+                    "こう"
+                ],
+                [
+                    "橋",
+                    "きょう"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "件",
+                    "けん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Marco Polo Bridge Incident (July 7, 1937) Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Marco Polo Bridge Incident The Marco Polo Bridge Incident (盧溝橋事變; also known as 七七事變... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "蘆溝橋事件 【ろこうきょうじけん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "蘆溝橋事件: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "溝",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rift valley "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Graben In geology, a graben is a depressed block of land bordere... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "うわ"
+                ],
+                [
+                    "溝",
+                    "みずざくら"
+                ],
+                [
+                    "桜",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japanese bird cherry (Prunus grayana); Gray's bird cherry; Gray's chokecherry Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Prunus grayana Prunus grayana (syn. Padus grayana C.K. Schneid. , Prunus... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "上不見桜 【うわみずざくら】、宇和水桜 【うわみずざくら】、上溝桜 【うわみぞざくら】、ウワミズザクラ"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "宇和水桜: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "共",
+                    "きょう"
+                ],
+                [
+                    "同",
+                    "どう"
+                ],
+                [
+                    "溝",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. multipurpose underground utility conduit "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Common utility duct A common utility duct, sometimes called a common utility ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "脳",
+                    "のう"
+                ],
+                [
+                    "溝",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sulcus; groove in the surface of the brain "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sulcus (neuroanatomy) In neuroanatomy, a sulcus is a depression or fissure in t... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "盧",
+                    "ろ"
+                ],
+                [
+                    "溝",
+                    "こう"
+                ],
+                [
+                    "橋",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Marco Polo Bridge (China) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Lugou Bridge The Marco Polo Bridge or Lugou Bridge is a famous stone b... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "蘆溝橋 【ろこうきょう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "蘆溝橋: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "歯",
+                    "し"
+                ],
+                [
+                    "肉",
+                    "にく"
+                ],
+                [
+                    "溝",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gingival sulcus "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Gingival sulcus The gingival sulcus is an area of potential space between... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "外",
+                    "がい"
+                ],
+                [
+                    "側",
+                    "そく"
+                ],
+                [
+                    "溝",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. lateral sulcus (brain structure); Sylvian fissure; lateral fissure "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Lateral sulcus The lateral sulcus (also called Sylvian fissure or latera... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

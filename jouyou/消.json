@@ -1,0 +1,1657 @@
+{
+    "kanji": "消",
+    "grade": 3,
+    "jlpt": 3,
+    "meanings": [
+        "extinguish",
+        "blow out",
+        "turn off",
+        "neutralize",
+        "cancel"
+    ],
+    "kun": [
+        "き.える",
+        "け.す"
+    ],
+    "on": [
+        "ショウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2144954128440367,
+            0.14908256880733944,
+            "c",
+            0.03036697247706422,
+            0.013486238532110091,
+            0.08018348623853211,
+            0.04935779816513761,
+            0.09513761467889907,
+            0.07192660550458715
+        ],
+        [
+            "M",
+            0.15706422018348626,
+            0.3555045871559633,
+            "c",
+            0.03688073394495413,
+            0.010550458715596329,
+            0.09513761467889907,
+            0.06165137614678899,
+            0.10440366972477065,
+            0.0779816513761468
+        ],
+        [
+            "M",
+            0.15743119266055047,
+            0.8366972477064221,
+            "c",
+            0.013394495412844036,
+            0.0016513761467889907,
+            0.024128440366972478,
+            -0.004862385321100918,
+            0.030642201834862385,
+            -0.015963302752293577,
+            "C",
+            0.21330275229357798,
+            0.7775229357798165,
+            0.25229357798165136,
+            0.6972477064220184,
+            0.27522935779816515,
+            0.6422018348623854
+        ],
+        [
+            "M",
+            0.6054128440366972,
+            0.10550458715596331,
+            "c",
+            0.01036697247706422,
+            0.01036697247706422,
+            0.015321100917431192,
+            0.024036697247706424,
+            0.015321100917431192,
+            0.03981651376146789,
+            "c",
+            0,
+            0.07486238532110091,
+            0.0008256880733944953,
+            0.19275229357798165,
+            0.0008256880733944953,
+            0.22853211009174312
+        ],
+        [
+            "M",
+            0.3996330275229358,
+            0.20715596330275227,
+            "c",
+            0.02853211009174312,
+            0.01798165137614679,
+            0.06688073394495413,
+            0.0636697247706422,
+            0.07403669724770642,
+            0.09165137614678899
+        ],
+        [
+            "M",
+            0.8276146788990825,
+            0.14541284403669724,
+            "c",
+            0.0003669724770642202,
+            0.007155963302752294,
+            -0.0003669724770642202,
+            0.01688073394495413,
+            -0.0028440366972477065,
+            0.021743119266055048,
+            "c",
+            -0.019724770642201832,
+            0.0381651376146789,
+            -0.0426605504587156,
+            0.07137614678899083,
+            -0.08036697247706422,
+            0.10596330275229358
+        ],
+        [
+            "M",
+            0.4734862385321101,
+            0.3801834862385321,
+            "c",
+            0.010091743119266056,
+            0.010091743119266056,
+            0.013669724770642202,
+            0.022293577981651377,
+            0.013669724770642202,
+            0.034678899082568805,
+            "c",
+            0,
+            0.007155963302752294,
+            0.001834862385321101,
+            0.2853211009174312,
+            0.001926605504587156,
+            0.4130275229357798,
+            "c",
+            0,
+            0.027339449541284404,
+            0,
+            0.047339449541284405,
+            0,
+            0.05577981651376147
+        ],
+        [
+            "M",
+            0.49853211009174314,
+            0.393302752293578,
+            "c",
+            0.04385321100917432,
+            -0.006880733944954129,
+            0.22376146788990825,
+            -0.033486238532110094,
+            0.24073394495412842,
+            -0.036146788990825685,
+            "c",
+            0.02568807339449541,
+            -0.0039449541284403665,
+            0.0426605504587156,
+            0.009816513761467891,
+            0.0426605504587156,
+            0.033486238532110094,
+            "c",
+            0,
+            0.09165137614678899,
+            0.0011926605504587156,
+            0.26743119266055043,
+            0.0011926605504587156,
+            0.4396330275229358,
+            "c",
+            0,
+            0.10321100917431193,
+            -0.05128440366972477,
+            0.023669724770642202,
+            -0.06844036697247706,
+            0.008807339449541284
+        ],
+        [
+            "M",
+            0.49853211009174314,
+            0.513211009174312,
+            "c",
+            0.08862385321100917,
+            -0.01091743119266055,
+            0.2030275229357798,
+            -0.01908256880733945,
+            0.27155963302752295,
+            -0.0255045871559633
+        ],
+        [
+            "M",
+            0.49972477064220183,
+            0.6455045871559633,
+            "c",
+            0.060825688073394495,
+            -0.006422018348623853,
+            0.19926605504587155,
+            -0.02128440366972477,
+            0.2696330275229358,
+            -0.0255045871559633
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "費",
+                    "ひ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. consumption; expenditure; spending "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Consumption (economics) Consumption is a common concept in economics, and gives r... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. consumption; expenditure; spending "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Consumption (economics) Consumption is a common concept in economics, and gives r... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "け"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to erase; to rub out; to rub off; to cross out; to delete "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to turn off (a light, TV, heater, etc.); to switch off 寝る前に電気を消してください。Turn off the light before you go to bed."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to extinguish (a fire, candle, etc.); to put out 消防士たちはすばやく火事を消した。The firemen quickly extinguished the blaze."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to remove (a smell, pain, etc.); to eliminate; to get rid of; to relieve (pain, anxiety, etc.); to neutralize (poison) どんな言葉も彼女の深い悲しみを消す事はできない。No words can relieve her deep sorrow."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "5. to drown out (a sound); to deaden; to absorb; to muffle 騒音に消されて私の声は人に届かなかった。I couldn't make myself heard above the noise."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "6. to kill; to murder; to bump off; to rub out Colloquial私はお前を消せと命令されている。I have orders to waste you."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to erase; to rub out; to rub off; to cross out; to delete "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to turn off (a light, TV, heater, etc.); to switch off 寝る前に電気を消してください。Turn off the light before you go to bed."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to extinguish (a fire, candle, etc.); to put out 消防士たちはすばやく火事を消した。The firemen quickly extinguished the blaze."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to remove (a smell, pain, etc.); to eliminate; to get rid of; to relieve (pain, anxiety, etc.); to neutralize (poison) どんな言葉も彼女の深い悲しみを消す事はできない。No words can relieve her deep sorrow."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "5. to drown out (a sound); to deaden; to absorb; to muffle 騒音に消されて私の声は人に届かなかった。I couldn't make myself heard above the noise."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "6. to kill; to murder; to bump off; to rub out Colloquial私はお前を消せと命令されている。I have orders to waste you."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "寝る",
+                            "ね"
+                        ],
+                        [
+                            "前",
+                            "まえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "電気",
+                            "でんき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "消して",
+                            "け"
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Turn off the light before you go to bed."
+                },
+                {
+                    "sentence": [
+                        [
+                            "消防士",
+                            "しょうぼうし"
+                        ],
+                        [
+                            "たち",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "すばやく",
+                            null
+                        ],
+                        [
+                            "火事",
+                            "かじ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "消した",
+                            "け"
+                        ]
+                    ],
+                    "translation": "The firemen quickly extinguished the blaze."
+                },
+                {
+                    "sentence": [
+                        [
+                            "どんな",
+                            null
+                        ],
+                        [
+                            "言葉",
+                            "ことば"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "彼女の",
+                            "かのじょ"
+                        ],
+                        [
+                            "深い",
+                            "ふか"
+                        ],
+                        [
+                            "悲しみ",
+                            "かな"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "消す",
+                            "け"
+                        ],
+                        [
+                            "事",
+                            "こと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "できない",
+                            null
+                        ]
+                    ],
+                    "translation": "No words can relieve her deep sorrow."
+                },
+                {
+                    "sentence": [
+                        [
+                            "騒音",
+                            "そうおん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "消されて",
+                            "け"
+                        ],
+                        [
+                            "私の",
+                            "わたし"
+                        ],
+                        [
+                            "声",
+                            "こえ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "届かなかった",
+                            "とど"
+                        ]
+                    ],
+                    "translation": "I couldn't make myself heard above the noise."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "お前",
+                            "おまえ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "消せ",
+                            "け"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "命令",
+                            "めいれい"
+                        ],
+                        [
+                            "されている",
+                            null
+                        ]
+                    ],
+                    "translation": "I have orders to waste you."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "き"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to disappear; to vanish; to go out of sight; to go away; to become lost たくさんの虫が一晩のうちに消えてしまった。A lot of insects vanished overnight."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to go out (of a fire, light, etc.); to die; to turn off (e.g. of a TV screen) 突然、明かりが消えた。All at once the lights went out."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to fade (of a feeling, impression, etc.); to vanish (e.g. of hope) 時間がたつにつれて我々の希望は消えた。As time went on, our hopes sank."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to go away (e.g. of a smell, itchiness, sleepiness); to disappear; to fade away (e.g. of footsteps) その音楽の音はしだいに消えていった。The music faded away."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to wear away (e.g. of an inscription); to rub out (of writing); to fade (e.g. of ink) 文句が消えないように、消えないインクを使ってくれませんか。Will you please use indelible ink so the phrase won't rub out?"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "6. to be lost (e.g. of a tradition); to die out; to disappear 流行は古くなって消えていく。Fashions grow old and die."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to disappear; to vanish; to go out of sight; to go away; to become lost たくさんの虫が一晩のうちに消えてしまった。A lot of insects vanished overnight."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to go out (of a fire, light, etc.); to die; to turn off (e.g. of a TV screen) 突然、明かりが消えた。All at once the lights went out."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to fade (of a feeling, impression, etc.); to vanish (e.g. of hope) 時間がたつにつれて我々の希望は消えた。As time went on, our hopes sank."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to go away (e.g. of a smell, itchiness, sleepiness); to disappear; to fade away (e.g. of footsteps) その音楽の音はしだいに消えていった。The music faded away."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "5. to wear away (e.g. of an inscription); to rub out (of writing); to fade (e.g. of ink) 文句が消えないように、消えないインクを使ってくれませんか。Will you please use indelible ink so the phrase won't rub out?"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "6. to be lost (e.g. of a tradition); to die out; to disappear 流行は古くなって消えていく。Fashions grow old and die."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "たくさん",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "虫",
+                            "むし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "一晩",
+                            "ひとばん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "うち",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "消えて",
+                            "き"
+                        ],
+                        [
+                            "しまった",
+                            null
+                        ]
+                    ],
+                    "translation": "A lot of insects vanished overnight."
+                },
+                {
+                    "sentence": [
+                        [
+                            "突然",
+                            "とつぜん"
+                        ],
+                        [
+                            "明かり",
+                            "あ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "消えた",
+                            "き"
+                        ]
+                    ],
+                    "translation": "All at once the lights went out."
+                },
+                {
+                    "sentence": [
+                        [
+                            "時間",
+                            "じかん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "たつ",
+                            null
+                        ],
+                        [
+                            "につれて",
+                            null
+                        ],
+                        [
+                            "我々",
+                            "われわれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "希望",
+                            "きぼう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "消えた",
+                            "き"
+                        ]
+                    ],
+                    "translation": "As time went on, our hopes sank."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "音楽",
+                            "おんがく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "音",
+                            "おと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "しだいに",
+                            null
+                        ],
+                        [
+                            "消えて",
+                            "き"
+                        ],
+                        [
+                            "いった",
+                            null
+                        ]
+                    ],
+                    "translation": "The music faded away."
+                },
+                {
+                    "sentence": [
+                        [
+                            "文句",
+                            "もんく"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "消えない",
+                            "き"
+                        ],
+                        [
+                            "ように",
+                            null
+                        ],
+                        [
+                            "消えないインク",
+                            "き"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "使って",
+                            "つか"
+                        ],
+                        [
+                            "くれません",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Will you please use indelible ink so the phrase won't rub out?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "流行",
+                            "りゅうこう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "古く",
+                            "ふる"
+                        ],
+                        [
+                            "なって",
+                            null
+                        ],
+                        [
+                            "消えて",
+                            "き"
+                        ],
+                        [
+                            "いく",
+                            null
+                        ]
+                    ],
+                    "translation": "Fashions grow old and die."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "化",
+                    "か"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. digestion (of food) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. digestion (of information); assimilation; thorough understanding "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. consumption; absorption; using up; meeting (e.g. a quota); completion "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "4. losing one's form and turning into something else Archaic, orig. meaning"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Digestion Digestion is the mechanical and chemical breakdown of foo... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. digestion (of food) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. digestion (of information); assimilation; thorough understanding "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. consumption; absorption; using up; meeting (e.g. a quota); completion "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "4. losing one's form and turning into something else Archaic, orig. meaning"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Digestion Digestion is the mechanical and chemical breakdown of foo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "防",
+                    "ぼう"
+                ],
+                [
+                    "署",
+                    "しょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fire station "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fire station Fire station in Kostroma, Russia (1823-26) Fire station i... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. fire station "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fire station Fire station in Kostroma, Russia (1823-26) Fire station i... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "防",
+                    "ぼう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fire fighting "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. fire department; fire brigade; firefighter Abbreviation"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. fire fighting "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. fire department; fire brigade; firefighter Abbreviation"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "極",
+                    "きょく"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. negative; passive; half-hearted; unmotivated Antonym: 積極的 せっきょくてき"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. negative; passive; half-hearted; unmotivated Antonym: 積極的 せっきょくてき"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "耗",
+                    "もう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. exhaustion; consumption; using up; dissipation; waste "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "消耗 【しょうこう】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. exhaustion; consumption; using up; dissipation; waste "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "消耗 【しょうこう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "け"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "ゴ",
+                    null
+                ],
+                [
+                    "ム",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. eraser; rubber "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Eraser An eraser or rubber (UK, Newfoundland, Ireland, Australia... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "消ゴム 【けしゴム】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "消ゴム: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. eraser; rubber "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Eraser An eraser or rubber (UK, Newfoundland, Ireland, Australia... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "消ゴム 【けしゴム】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "消ゴム: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "息",
+                    "そく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. news (from someone); letter; contact "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (someone's) whereabouts; (someone's) movements "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "消息 【しょうそこ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "しょうそこ: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. news (from someone); letter; contact "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (someone's) whereabouts; (someone's) movements "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "消息 【しょうそこ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "しょうそこ: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "費",
+                    "ひ"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. consumer "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Consumer A consumer is a person or group of people that are the fi... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. consumer "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Consumer A consumer is a person or group of people that are the fi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "費",
+                    "ひ"
+                ],
+                [
+                    "税",
+                    "ぜい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. consumption tax (incl. sales tax, VAT, excise duty, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Value added tax A value added tax (VAT) is a form of consumption tax. Fro... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. consumption tax (incl. sales tax, VAT, excise duty, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Value added tax A value added tax (VAT) is a form of consumption tax. Fro... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "防",
+                    "ぼう"
+                ],
+                [
+                    "士",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. firefighter; fireman "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Firefighter Firefighters (historically firemen) are rescuers extensiv... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. firefighter; fireman "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Firefighter Firefighters (historically firemen) are rescuers extensiv... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "毒",
+                    "どく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. disinfection; sterilization; sterilisation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Disinfectant Disinfectants are substances that are applied to non-livi... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. disinfection; sterilization; sterilisation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Disinfectant Disinfectants are substances that are applied to non-livi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "滅",
+                    "めつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. extinction; extinguishment; disappearance; vanishing; termination; lapse "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. annihilation Physics虎は消滅しかかっている種族である。The tiger is a vanishing species."
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. extinction; extinguishment; disappearance; vanishing; termination; lapse "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. annihilation Physics虎は消滅しかかっている種族である。The tiger is a vanishing species."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "虎",
+                            "とら"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "消滅",
+                            "しょうめつ"
+                        ],
+                        [
+                            "し",
+                            null
+                        ],
+                        [
+                            "かかっている",
+                            null
+                        ],
+                        [
+                            "種族",
+                            "しゅぞく"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "The tiger is a vanishing species."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "火",
+                    "か"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. fire fighting; extinguishing a fire See also 防火 ぼうか"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. fire fighting; extinguishing a fire See also 防火 ぼうか"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "息",
+                    "そく"
+                ],
+                [
+                    "筋",
+                    "すじ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. informed circles "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. informed circles "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "防",
+                    "ぼう"
+                ],
+                [
+                    "車",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fire engine; fire truck "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "去",
+                    "きょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. erasure; deletion; elimination; clearing "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. elimination (of variables) Mathematics"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. extinction Psychology"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Extinction (1995 novel) Extinction is the last of Thomas Bernhard’s novels. It wa... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "破棄する",
+                            "はき"
+                        ],
+                        [
+                            "悪用される",
+                            "あくよう"
+                        ],
+                        [
+                            "防ぐ",
+                            "ふせ"
+                        ],
+                        [
+                            "パソコン内",
+                            "パソコンない"
+                        ]
+                    ],
+                    "translation": "When a computer is to be discarded, the data on the hard drive must be completely erased to prevent fraud and abuse."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "き"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "去",
+                    "さ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending",
+                    "meaning": "1. to disappear; to vanish "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "消",
+                "かつお"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsuo "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsutani "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Katsudani "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "消",
+                    "け"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to cancel; to withdraw; to retract; to take back (words, etc.); to revoke "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取消す 【とりけす】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "消",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. cancellation; liquidation; resolution; reduction (e.g. of stress) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "帳",
+                    "ちょう"
+                ],
+                [
+                    "消",
+                    "け"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. writing off (a debt); cancellation; balancing the books oft. as 〜にする負債は帳消しにするしかなかった。We had to write off the debt."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. cancelling out (gains or losses); making even; making up (for); offsetting; undoing; wiping out 地上で空費される時間が飛行機の速さという有利な店を帳消しにしてしまう。Hours lost on the ground cancel out the advantage of speed in the air."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "負債",
+                            "ふさい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "帳消し",
+                            "ちょうけ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "しかなかった",
+                            null
+                        ]
+                    ],
+                    "translation": "We had to write off the debt."
+                },
+                {
+                    "sentence": [
+                        [
+                            "地上",
+                            "ちじょう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "空費",
+                            "くうひ"
+                        ],
+                        [
+                            "される",
+                            null
+                        ],
+                        [
+                            "時間",
+                            "じかん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "飛行機",
+                            "ひこうき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "速",
+                            "はや"
+                        ],
+                        [
+                            "さ",
+                            null
+                        ],
+                        [
+                            "という",
+                            null
+                        ],
+                        [
+                            "有利な",
+                            "ゆうり"
+                        ],
+                        [
+                            "店",
+                            "みせ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "帳消し",
+                            "ちょうけ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "しまう",
+                            null
+                        ]
+                    ],
+                    "translation": "Hours lost on the ground cancel out the advantage of speed in the air."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,975 @@
+{
+    "kanji": "却",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "instead",
+        "on the contrary",
+        "rather",
+        "step back",
+        "withdraw",
+        "retreat"
+    ],
+    "kun": [
+        "かえ.って",
+        "しりぞ.く",
+        "しりぞ.ける"
+    ],
+    "on": [
+        "キャク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.16587155963302752,
+            0.29899082568807345,
+            "c",
+            0.012660550458715595,
+            0.006238532110091744,
+            0.036513761467889906,
+            0.004220183486238533,
+            0.050091743119266056,
+            0.0029357798165137615,
+            "c",
+            0.06504587155963303,
+            -0.006055045871559634,
+            0.14990825688073395,
+            -0.024403669724770642,
+            0.23229357798165137,
+            -0.03541284403669725,
+            "c",
+            0.014403669724770642,
+            -0.001926605504587156,
+            0.027614678899082565,
+            -0.0028440366972477065,
+            0.04137614678899083,
+            -0.0007339449541284404
+        ],
+        [
+            "M",
+            0.33761467889908253,
+            0.12155963302752294,
+            "c",
+            0.0077981651376146785,
+            0.0077981651376146785,
+            0.01036697247706422,
+            0.019357798165137614,
+            0.01036697247706422,
+            0.03458715596330275,
+            "c",
+            0,
+            0.08238532110091744,
+            -0.00045871559633027525,
+            0.2661467889908257,
+            -0.00045871559633027525,
+            0.29110091743119265
+        ],
+        [
+            "M",
+            0.12155963302752294,
+            0.48394495412844035,
+            "c",
+            0.02522935779816514,
+            0.008073394495412844,
+            0.051559633027522936,
+            0.004036697247706422,
+            0.07247706422018349,
+            0.0006422018348623854,
+            "c",
+            0.09238532110091743,
+            -0.014954128440366971,
+            0.2008256880733945,
+            -0.0363302752293578,
+            0.2785321100917431,
+            -0.043944954128440364,
+            "c",
+            0.02238532110091743,
+            -0.002201834862385321,
+            0.04449541284403669,
+            -0.0047706422018348625,
+            0.0663302752293578,
+            0.0017431192660550458
+        ],
+        [
+            "M",
+            0.33458715596330274,
+            0.4943119266055046,
+            "c",
+            0.0014678899082568807,
+            0.012568807339449543,
+            0.0002752293577981651,
+            0.020550458715596333,
+            -0.006513761467889908,
+            0.03238532110091743,
+            "c",
+            -0.04422018348623853,
+            0.07642201834862386,
+            -0.07449541284403668,
+            0.11568807339449541,
+            -0.12376146788990826,
+            0.1798165137614679,
+            "c",
+            -0.015412844036697248,
+            0.020091743119266054,
+            -0.010825688073394495,
+            0.0363302752293578,
+            0.013761467889908258,
+            0.028990825688073395,
+            "c",
+            0.06522935779816515,
+            -0.019541284403669725,
+            0.1473394495412844,
+            -0.04477064220183486,
+            0.2418348623853211,
+            -0.07477064220183487
+        ],
+        [
+            "M",
+            0.4142201834862385,
+            0.576605504587156,
+            "c",
+            0.0326605504587156,
+            0.02614678899082569,
+            0.08449541284403671,
+            0.10752293577981652,
+            0.09266055045871559,
+            0.1481651376146789
+        ],
+        [
+            "M",
+            0.6077064220183486,
+            0.2593577981651376,
+            "c",
+            0.013853211009174311,
+            0.004403669724770642,
+            0.03697247706422019,
+            0.005688073394495413,
+            0.04954128440366973,
+            0.0045871559633027525,
+            "c",
+            0.026238532110091743,
+            -0.002477064220183486,
+            0.14917431192660552,
+            -0.024954128440366975,
+            0.1646788990825688,
+            -0.027798165137614676,
+            "c",
+            0.03018348623853211,
+            -0.005596330275229358,
+            0.04697247706422018,
+            0.0047706422018348625,
+            0.04513761467889908,
+            0.03165137614678899,
+            "c",
+            -0.005871559633027523,
+            0.08669724770642201,
+            -0.02651376146788991,
+            0.2610091743119266,
+            -0.06110091743119266,
+            0.3725688073394495,
+            "c",
+            -0.02522935779816514,
+            0.08146788990825689,
+            -0.06385321100917431,
+            0.014128440366972478,
+            -0.06853211009174312,
+            0.010275229357798166
+        ],
+        [
+            "M",
+            0.6220183486238532,
+            0.26889908256880735,
+            "c",
+            0.00926605504587156,
+            0.00926605504587156,
+            0.009724770642201836,
+            0.020091743119266054,
+            0.009724770642201836,
+            0.03385321100917431,
+            "c",
+            0,
+            0.07926605504587156,
+            0.00009174311926605505,
+            0.3636697247706422,
+            0.00009174311926605505,
+            0.503394495412844,
+            "c",
+            0,
+            0.039266055045871565,
+            0,
+            0.06678899082568808,
+            0,
+            0.07449541284403668
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "中",
+                    "なか"
+                ],
+                [
+                    "々",
+                    "なか"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Na-adjective (keiyodoshi)",
+                    "meaning": "1. very; considerably; easily; readily; fairly; quite; highly; rather Usually written using kana aloneあいつは、なかなかいい奴だぜ！He is a good joker."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. by no means; not readily Usually written using kana alone, with a verb in the negativeいまどき良い仕事はなかなか得がたいのを忘れないでね。Don't forget that good jobs are very hard to come by these days."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. middle; half-way point "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "4. excellent; wonderful; very good Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中中 【なかなか】、仲々 【なかなか】、仲仲 【なかなか】、却々 【なかなか】、却却 【なかなか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "仲々: Rarely-used kanji form. 仲仲: Rarely-used kanji form. 却々: Rarely-used kanji form. 却却: Rarely-used kanji form."
+                },
+                {
+                    "type": "Adverb (fukushi), Na-adjective (keiyodoshi)",
+                    "meaning": "1. very; considerably; easily; readily; fairly; quite; highly; rather Usually written using kana aloneあいつは、なかなかいい奴だぜ！He is a good joker."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. by no means; not readily Usually written using kana alone, with a verb in the negativeいまどき良い仕事はなかなか得がたいのを忘れないでね。Don't forget that good jobs are very hard to come by these days."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. middle; half-way point "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "4. excellent; wonderful; very good Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "中中 【なかなか】、仲々 【なかなか】、仲仲 【なかなか】、却々 【なかなか】、却却 【なかなか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "仲々: Rarely-used kanji form. 仲仲: Rarely-used kanji form. 却々: Rarely-used kanji form. 却却: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あいつ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "なかなか",
+                            null
+                        ],
+                        [
+                            "いい",
+                            null
+                        ],
+                        [
+                            "奴",
+                            "やつ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "ぜ",
+                            null
+                        ]
+                    ],
+                    "translation": "He is a good joker."
+                },
+                {
+                    "sentence": [
+                        [
+                            "いまどき",
+                            null
+                        ],
+                        [
+                            "良い",
+                            "よ"
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "なかなか",
+                            null
+                        ],
+                        [
+                            "得がたい",
+                            "え"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "忘れないで",
+                            "わす"
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "Don't forget that good jobs are very hard to come by these days."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "却",
+                    "かえ"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. on the contrary; rather; instead; all the more Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "反って 【かえって】"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. on the contrary; rather; instead; all the more Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "反って 【かえって】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "退",
+                    "しりぞ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to refuse; to reject; to turn down; to dismiss 彼の計画は退けられた。His plan was discarded."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to repel; to repulse; to drive away; to beat off; to defeat "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to make (someone) leave; to send away; to turn away "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to force (someone) to leave their post; to oust; to remove; to expel "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "斥ける 【しりぞける】、却ける 【しりぞける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "却ける: Rarely-used kanji form."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to refuse; to reject; to turn down; to dismiss 彼の計画は退けられた。His plan was discarded."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to repel; to repulse; to drive away; to beat off; to defeat "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to make (someone) leave; to send away; to turn away "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to force (someone) to leave their post; to oust; to remove; to expel "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "斥ける 【しりぞける】、却ける 【しりぞける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "却ける: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "計画",
+                            "けいかく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "退けられた",
+                            "しりぞ"
+                        ]
+                    ],
+                    "translation": "His plan was discarded."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "却",
+                    "きゃっか"
+                ],
+                [
+                    "下",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. rejection; dismissal "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. rejection; dismissal "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "却",
+                    "きゃっこう"
+                ],
+                [
+                    "行",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. drawing back; stepping back; retreating Rare term, See also あとずさり"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "冷",
+                    "れい"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. cooling; refrigeration "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. cooling down (of a political conflict, etc.); calming down "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Refrigeration Refrigeration is a process in which work is done to move ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "売",
+                    "ばい"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. selling off; disposal by sale; sale "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "脱",
+                    "だっ"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. ridding oneself; freeing oneself of; growing out of; overcoming; outgrowing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "返",
+                    "へん"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. return of something; repayment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "退",
+                    "たい"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. retreat; withdrawal; retirement "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "没",
+                    "ぼっ"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. ignoring; losing sight of (an objective); discarding "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "減",
+                    "げん"
+                ],
+                [
+                    "価",
+                    "か"
+                ],
+                [
+                    "償",
+                    "しょう"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. depreciation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Depreciation Depreciation refers to two very different but related con... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "忘",
+                    "ぼう"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. lapse of memory; forgetting completely; (consigning to) oblivion "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Forgetting Forgetting refers to apparent loss of information already... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "棄",
+                    "き"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. rejection; dismissal; turning down; abandoning; renunciation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "償",
+                    "しょう"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. repayment; redemption "
+                },
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. depreciation "
+                },
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "3. amortization; amortisation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "焼",
+                    "しょう"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. incineration; destroy by fire "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "上司",
+                            "じょうし"
+                        ],
+                        [
+                            "機密事項",
+                            "きみつじこう"
+                        ],
+                        [
+                            "記載された",
+                            "きさい"
+                        ],
+                        [
+                            "焼却した",
+                            "しょうきゃく"
+                        ]
+                    ],
+                    "translation": "Following my supervisor’s instructions, I burned documents containing confidential information."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "冷",
+                    "れい"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ],
+                [
+                    "期",
+                    "き"
+                ],
+                [
+                    "間",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. cooling-off period "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "放",
+                    "ほう"
+                ],
+                [
+                    "射",
+                    "しゃ"
+                ],
+                [
+                    "冷",
+                    "れい"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. radiative cooling; radiational cooling "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Radiative cooling Radiative cooling is the process by which a body loses he... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "冷",
+                    "れい"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ],
+                [
+                    "器",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. refrigerator; cooler; freezer; radiator (of a car) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Condenser (laboratory) In a laboratory a condenser is a piece of laboratory glas... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "違",
+                    "い"
+                ],
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "性",
+                    "せい"
+                ],
+                [
+                    "阻",
+                    "そ"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ],
+                [
+                    "事",
+                    "じ"
+                ],
+                [
+                    "由",
+                    "ゆう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. justifiable cause for noncompliance with the law Law"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Justification (jurisprudence) Justification in jurisprudence is an exception to the pro... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "過",
+                    "か"
+                ],
+                [
+                    "冷",
+                    "れい"
+                ],
+                [
+                    "却",
+                    "きゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. excessive cooling; supercooling "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Supercooling Supercooling, also known as undercooling, is the process ... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

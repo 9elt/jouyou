@@ -1,0 +1,1040 @@
+{
+    "kanji": "両",
+    "grade": 3,
+    "jlpt": 3,
+    "meanings": [
+        "both",
+        "old Japanese coin",
+        "counter for carriages (e.g.",
+        "in a train)",
+        "two"
+    ],
+    "kun": [
+        "てる",
+        "ふたつ"
+    ],
+    "on": [
+        "リョウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.21330275229357798,
+            0.21055045871559633,
+            "c",
+            0.028623853211009177,
+            0.006238532110091744,
+            0.06009174311926605,
+            0.0047706422018348625,
+            0.08834862385321102,
+            0.002018348623853211,
+            "c",
+            0.09211009174311925,
+            -0.00908256880733945,
+            0.2779816513761468,
+            -0.03357798165137615,
+            0.39559633027522934,
+            -0.041009174311926605,
+            "c",
+            0.028073394495412844,
+            -0.0017431192660550458,
+            0.05495412844036698,
+            -0.002752293577981651,
+            0.08256880733944955,
+            0.003119266055045872
+        ],
+        [
+            "M",
+            0.1811926605504587,
+            0.38440366972477064,
+            "c",
+            0.010183486238532111,
+            0.010183486238532111,
+            0.015412844036697248,
+            0.024678899082568807,
+            0.016055045871559634,
+            0.03889908256880734,
+            "c",
+            0.004403669724770642,
+            0.09651376146788991,
+            0.010091743119266056,
+            0.29027522935779815,
+            0.012568807339449543,
+            0.3863302752293578,
+            "c",
+            0.0007339449541284404,
+            0.029357798165137616,
+            0.0011926605504587156,
+            0.04954128440366973,
+            0.0011926605504587156,
+            0.05504587155963303
+        ],
+        [
+            "M",
+            0.19954128440366972,
+            0.41605504587155967,
+            "c",
+            0.0963302752293578,
+            -0.010091743119266056,
+            0.5606422018348624,
+            -0.05568807339449541,
+            0.5779816513761468,
+            -0.056422018348623856,
+            "c",
+            0.045871559633027525,
+            -0.001926605504587156,
+            0.07229357798165137,
+            0.01871559633027523,
+            0.06880733944954129,
+            0.05064220183486238,
+            "c",
+            -0.0034862385321100917,
+            0.032293577981651375,
+            -0.027522935779816515,
+            0.32596330275229357,
+            -0.06192660550458716,
+            0.4108256880733945,
+            "c",
+            -0.02128440366972477,
+            0.05256880733944955,
+            -0.045871559633027525,
+            0.04128440366972477,
+            -0.0779816513761468,
+            -0.009174311926605505
+        ],
+        [
+            "M",
+            0.48660550458715596,
+            0.21788990825688073,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.015229357798165137,
+            0.02614678899082569,
+            0.015229357798165137,
+            0.034403669724770644,
+            "c",
+            0,
+            0.02642201834862385,
+            -0.0007339449541284404,
+            0.37064220183486235,
+            -0.0017431192660550458,
+            0.42201834862385323
+        ],
+        [
+            "M",
+            0.35834862385321103,
+            0.536697247706422,
+            "c",
+            0.005596330275229358,
+            0.004128440366972477,
+            0.012018348623853212,
+            0.021559633027522937,
+            0.011192660550458715,
+            0.02981651376146789,
+            "c",
+            -0.003669724770642202,
+            0.03669724770642202,
+            -0.005412844036697248,
+            0.0653211009174312,
+            -0.009816513761467891,
+            0.10779816513761468,
+            "c",
+            -0.003119266055045872,
+            0.02981651376146789,
+            0.003577981651376147,
+            0.03458715596330275,
+            0.02944954128440367,
+            0.02981651376146789,
+            "c",
+            0.06834862385321101,
+            -0.012660550458715595,
+            0.13256880733944953,
+            -0.022935779816513763,
+            0.25605504587155964,
+            -0.0389908256880734
+        ],
+        [
+            "M",
+            0.6562385321100918,
+            0.49770642201834864,
+            "c",
+            0.010183486238532111,
+            0.010183486238532111,
+            0.015045871559633026,
+            0.024036697247706424,
+            0.013486238532110091,
+            0.0389908256880734,
+            "c",
+            -0.005963302752293578,
+            0.05614678899082569,
+            -0.008807339449541284,
+            0.0781651376146789,
+            -0.013944954128440367,
+            0.11486238532110091,
+            "c",
+            -0.0017431192660550458,
+            0.01275229357798165,
+            -0.003853211009174312,
+            0.027339449541284404,
+            -0.006422018348623853,
+            0.04568807339449542
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Prefix, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. both (hands, parents, sides, etc.) 両地域は宗教と文化が違っている。The two regions differ in religion and culture."
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "2. counter for carriages (e.g. in a train); counter for vehicles See also 輛 りょう"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. ryō; tael; traditional unit of weight (for gold, silver and drugs), 4-5 monme, 15-19 g See also 匁 もんめ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. ryō; pre-Meiji unit of currency, orig. the value of one ryō of gold "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. ryō; traditional measure of fabric, 2 tan See also 反 たんこの列車は七両編成です。This train is made up of seven cars."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. ryō; tael; unit of weight under the ritsuryō system, 1/16 kin, 42-43 g Archaic, See also 斤"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "7. counter for suits of clothing, sets of armor, etc. Archaic, See also 領 りょう"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "8. Ryou "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "9. Tael Tael or tahil can refer to any one of several weight meas... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. tael (Chinese unit of weight and currency) Usually written using kana alone"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "両: Rarely-used kanji form."
+                },
+                {
+                    "type": "Numeric",
+                    "meaning": "1. two See also 拳 けん, esp. in hand games"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. samurai Archaic, Derogatory, Abbreviation, See also 両個"
+                },
+                {
+                    "type": "Prefix, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. both (hands, parents, sides, etc.) 両地域は宗教と文化が違っている。The two regions differ in religion and culture."
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "2. counter for carriages (e.g. in a train); counter for vehicles See also 輛 りょう"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. ryō; tael; traditional unit of weight (for gold, silver and drugs), 4-5 monme, 15-19 g See also 匁 もんめ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. ryō; pre-Meiji unit of currency, orig. the value of one ryō of gold "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. ryō; traditional measure of fabric, 2 tan See also 反 たんこの列車は七両編成です。This train is made up of seven cars."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. ryō; tael; unit of weight under the ritsuryō system, 1/16 kin, 42-43 g Archaic, See also 斤"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "7. counter for suits of clothing, sets of armor, etc. Archaic, See also 領 りょう"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "8. Ryou "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "9. Tael Tael or tahil can refer to any one of several weight meas... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "両",
+                            "りょう"
+                        ],
+                        [
+                            "地域",
+                            "ちいき"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "宗教",
+                            "しゅうきょう"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "文化",
+                            "ぶんか"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "違っている",
+                            "ちが"
+                        ]
+                    ],
+                    "translation": "The two regions differ in religion and culture."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "列車",
+                            "れっしゃ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "七",
+                            "しち"
+                        ],
+                        [
+                            "両",
+                            "りょう"
+                        ],
+                        [
+                            "編成",
+                            "へんせい"
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "This train is made up of seven cars."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "諸",
+                    "もろ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Prefix",
+                    "meaning": "1. both Usually written using kana alone"
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "2. many; various; all Usually written using kana alone, Only applies to 諸"
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "3. together Usually written using kana alone, Only applies to 諸"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Moro people The Moro people are a population of indigenous Muslims in... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両 【もろ】、双 【もろ】、モロ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "二",
+                    "リャン"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Numeric",
+                    "meaning": "1. two From Chinese “liǎng”"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Futa "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両 【リャン】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "親",
+                    "しん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. parents; both parents "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両親 【ふたおや】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ふたおや: Gikun (meaning as reading) or jukujikun (special kanji reading)."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. parents; both parents "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両親 【ふたおや】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "ふたおや: Gikun (meaning as reading) or jukujikun (special kanji reading)."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "方",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. both; both sides; both parties See also 片方"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. both; both sides; both parties See also 片方"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "替",
+                    "がえ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. change; money exchange "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. change; money exchange "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "側",
+                    "がわ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. both sides "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両側 【りょうそく】"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. both sides "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両側 【りょうそく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "立",
+                    "りつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. compatibility; coexistence; standing together "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. compatibility; coexistence; standing together "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "手",
+                    "て"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. both hands; both arms １人少年が両手をポケットにつっこんで歩いていた。A boy was walking with his hands in his pockets."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. ten from the number of fingers on both hands; used as secret jargon"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. both hands; both arms １人少年が両手をポケットにつっこんで歩いていた。A boy was walking with his hands in his pockets."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. ten from the number of fingers on both hands; used as secret jargon"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "１人",
+                            "ひとり"
+                        ],
+                        [
+                            "少年",
+                            "しょうねん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "両手",
+                            "りょうて"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "ポケット",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "つっこんで",
+                            null
+                        ],
+                        [
+                            "歩いていた",
+                            "ある"
+                        ]
+                    ],
+                    "translation": "A boy was walking with his hands in his pockets."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "国",
+                    "こく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. both countries "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Ryōgoku (area of Tokyo) Only applies to りょうごく"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両国 【りょうごく】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. both countries "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Ryōgoku (area of Tokyo) Only applies to りょうごく"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両国 【りょうごく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pair; the two; both persons; both things "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. pair; the two; both persons; both things "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "腕",
+                    "うで"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. both arms "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両腕 【もろうで】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. both arms "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両腕 【もろうで】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "面",
+                    "めん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. both sides; two sides; double-sided "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. both sides; two sides; double-sided "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "端",
+                    "たん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. both ends; either end; both edges "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. double-mindedness; sitting on the fence Only applies to りょうたん"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両端 【りょうはし】、両端 【りょうはじ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. both ends; either end; both edges "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. double-mindedness; sitting on the fence Only applies to りょうたん"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両端 【りょうはし】、両端 【りょうはじ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "岸",
+                    "がん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. both banks (of a river) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両岸 【りょうぎし】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. both banks (of a river) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "両岸 【りょうぎし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "院",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. both houses of parliament; both upper and lower house "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. both houses of parliament; both upper and lower house "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "輪",
+                    "りん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. two wheels "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. two wheels "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "家",
+                    "け"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. both families "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Ryouke "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. both families "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Ryouke "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "両々",
+                "りゃんりゃん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Ryanryan "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Ryounoharu "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Ryousuno "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "車",
+                    "しゃ"
+                ],
+                [
+                    "両",
+                    "りょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rolling stock; railroad cars; wheeled vehicles "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "車輌 【しゃりょう】、車輛 【しゃりょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "翼",
+                    "よく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. both wings; both flanks "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "眼",
+                    "がん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. both eyes "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "極",
+                    "きょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. both extremities See also 両極端"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. North and South Poles "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. positive and negative poles "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

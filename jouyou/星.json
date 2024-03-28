@@ -1,0 +1,1550 @@
+{
+    "kanji": "星",
+    "grade": 2,
+    "jlpt": 2,
+    "meanings": [
+        "star",
+        "spot",
+        "dot",
+        "mark"
+    ],
+    "kun": [
+        "ほし",
+        "-ぼし"
+    ],
+    "on": [
+        "セイ",
+        "ショウ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2594495412844037,
+            0.15211009174311926,
+            "c",
+            0.009816513761467891,
+            0.009816513761467891,
+            0.015229357798165137,
+            0.021376146788990826,
+            0.01651376146788991,
+            0.029357798165137616,
+            "c",
+            0.0010091743119266055,
+            0.006422018348623853,
+            0.02238532110091743,
+            0.15073394495412845,
+            0.031192660550458714,
+            0.2106422018348624,
+            "c",
+            0.002201834862385321,
+            0.014862385321100919,
+            0.003577981651376147,
+            0.024311926605504585,
+            0.003669724770642202,
+            0.025137614678899085
+        ],
+        [
+            "M",
+            0.2801834862385321,
+            0.16522935779816514,
+            "c",
+            0.10284403669724772,
+            -0.013853211009174311,
+            0.3552293577981651,
+            -0.03871559633027523,
+            0.39522935779816515,
+            -0.04256880733944954,
+            "c",
+            0.035596330275229356,
+            -0.0033944954128440367,
+            0.05669724770642202,
+            0.012660550458715595,
+            0.051559633027522936,
+            0.04935779816513761,
+            "C",
+            0.7191743119266055,
+            0.2289908256880734,
+            0.7063302752293578,
+            0.29256880733944957,
+            0.6926605504587156,
+            0.3577981651376147,
+            "c",
+            -0.0022935779816513763,
+            0.01091743119266055,
+            -0.0045871559633027525,
+            0.02165137614678899,
+            -0.006880733944954129,
+            0.03211009174311927
+        ],
+        [
+            "M",
+            0.30302752293577984,
+            0.28192660550458715,
+            "c",
+            0.0971559633027523,
+            -0.013577981651376147,
+            0.33559633027522934,
+            -0.036788990825688074,
+            0.40110091743119264,
+            -0.03880733944954129
+        ],
+        [
+            "M",
+            0.3201834862385321,
+            0.39614678899082567,
+            "c",
+            0.0781651376146789,
+            -0.0077981651376146785,
+            0.2520183486238532,
+            -0.02568807339449541,
+            0.36100917431192664,
+            -0.03376146788990826
+        ],
+        [
+            "M",
+            0.3395412844036697,
+            0.4759633027522936,
+            "c",
+            0.0033027522935779813,
+            0.009174311926605505,
+            0.0006422018348623854,
+            0.02256880733944954,
+            -0.0032110091743119264,
+            0.03220183486238532,
+            "C",
+            0.3165137614678899,
+            0.5573394495412844,
+            0.27293577981651373,
+            0.6261467889908257,
+            0.21100917431192662,
+            0.6856880733944953
+        ],
+        [
+            "M",
+            0.3463302752293578,
+            0.5604587155963303,
+            "c",
+            0.015321100917431192,
+            0.0033944954128440367,
+            0.043486238532110096,
+            0.002660550458715596,
+            0.058807339449541286,
+            0.0011009174311926604,
+            "c",
+            0.13119266055045872,
+            -0.013394495412844036,
+            0.21908256880733945,
+            -0.024220183486238535,
+            0.3022018348623853,
+            -0.03403669724770642,
+            "c",
+            0.019724770642201832,
+            -0.0022935779816513763,
+            0.033486238532110094,
+            -0.0034862385321100917,
+            0.051834862385321104,
+            -0.0001834862385321101
+        ],
+        [
+            "M",
+            0.5005504587155963,
+            0.43119266055045874,
+            "c",
+            0.010642201834862385,
+            0.010642201834862385,
+            0.016146788990825688,
+            0.024128440366972478,
+            0.016146788990825688,
+            0.04055045871559633,
+            "c",
+            0,
+            0.02596330275229358,
+            -0.0002752293577981651,
+            0.25247706422018346,
+            -0.001559633027522936,
+            0.35394495412844035
+        ],
+        [
+            "M",
+            0.3303669724770642,
+            0.6922018348623854,
+            "c",
+            0.013486238532110091,
+            0.003119266055045872,
+            0.0381651376146789,
+            0.004678899082568807,
+            0.051559633027522936,
+            0.003119266055045872,
+            "c",
+            0.09431192660550458,
+            -0.010642201834862385,
+            0.20293577981651378,
+            -0.02330275229357798,
+            0.27642201834862384,
+            -0.02944954128440367,
+            "c",
+            0.022293577981651377,
+            -0.001834862385321101,
+            0.03660550458715597,
+            -0.0008256880733944953,
+            0.04807339449541285,
+            0.0021100917431192663
+        ],
+        [
+            "M",
+            0.20990825688073395,
+            0.8537614678899083,
+            "c",
+            0.019724770642201832,
+            0.0022935779816513763,
+            0.05137614678899082,
+            0.0034862385321100917,
+            0.07110091743119266,
+            0.0022935779816513763,
+            "c",
+            0.161651376146789,
+            -0.009724770642201836,
+            0.3551376146788991,
+            -0.025779816513761468,
+            0.4779816513761468,
+            -0.029357798165137616,
+            "c",
+            0.03275229357798165,
+            -0.0009174311926605505,
+            0.06045871559633027,
+            0.001926605504587156,
+            0.09073394495412844,
+            0.007522935779816513
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. star (usu. excluding the Sun); planet (usu. excluding Earth); heavenly body 昨夜、屋上から星を観察した。Last night, we watched the stars from the rooftop."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. star (glyph, symbol, shape); asterisk ドアには大きな金色の星がついていました。There was a big gold star on the door."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. star (actor, player, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. dot; spot; fleck "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. bullseye "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. perp; perpetrator; culprit; offender; suspect Slang, police slang; oft. written as ホシ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. one's star (that determines one's fate); one's fortune See also 九星"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. point; score Sumo"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. star point (intersection marked with a dot); hoshi Go (game)"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. (pyrotechnic) star "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Chinese \"star\" constellation (one of the 28 mansions) Astronomy, See also 星宿, See also 二十八宿, See also 朱雀"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Singapore Abbreviation, See also シンガポール"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. star (usu. excluding the Sun); planet (usu. excluding Earth); heavenly body 昨夜、屋上から星を観察した。Last night, we watched the stars from the rooftop."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. star (glyph, symbol, shape); asterisk ドアには大きな金色の星がついていました。There was a big gold star on the door."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. star (actor, player, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. dot; spot; fleck "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. bullseye "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. perp; perpetrator; culprit; offender; suspect Slang, police slang; oft. written as ホシ"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "7. one's star (that determines one's fate); one's fortune See also 九星"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "8. point; score Sumo"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "9. star point (intersection marked with a dot); hoshi Go (game)"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "10. (pyrotechnic) star "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "昨夜",
+                            null
+                        ],
+                        [
+                            "屋上",
+                            "おくじょう"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "星",
+                            "ほし"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "観察",
+                            "かんさつ"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "Last night, we watched the stars from the rooftop."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ドア",
+                            null
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "大きな",
+                            "おお"
+                        ],
+                        [
+                            "金色",
+                            "きんいろ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "星",
+                            "ほし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ついていました",
+                            null
+                        ]
+                    ],
+                    "translation": "There was a big gold star on the door."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "せい"
+                ],
+                [
+                    "座",
+                    "ざ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. constellation 古代の天文学者は、星座を見つけ、名前をつけた。Ancient astronomers noticed constellations and gave them names."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. astrological sign; star sign; zodiac sign "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Constellation In modern astronomy, a constellation is an internationall... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. constellation 古代の天文学者は、星座を見つけ、名前をつけた。Ancient astronomers noticed constellations and gave them names."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. astrological sign; star sign; zodiac sign "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Constellation In modern astronomy, a constellation is an internationall... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "古代",
+                            "こだい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "天文学者",
+                            "てんもんがくしゃ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "星座",
+                            "せいざ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "見つけ",
+                            "み"
+                        ],
+                        [
+                            "名前をつけた",
+                            null
+                        ]
+                    ],
+                    "translation": "Ancient astronomers noticed constellations and gave them names."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ],
+                [
+                    "空",
+                    "ぞら"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. starry sky "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "星ぞら 【ほしぞら】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. starry sky "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "星ぞら 【ほしぞら】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "新",
+                    null
+                ],
+                [
+                    "嘉",
+                    null
+                ],
+                [
+                    "坡",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Singapore Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "新加坡 【シンガポール】、星嘉坡 【シンガポール】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "新嘉坡: Ateji (phonetic) reading, Rarely-used kanji form. 新加坡: Ateji (phonetic) reading, Rarely-used kanji form. 星嘉坡: Ateji (phonetic) reading, Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Singapore Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "新加坡 【シンガポール】、星嘉坡 【シンガポール】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "新嘉坡: Ateji (phonetic) reading, Rarely-used kanji form. 新加坡: Ateji (phonetic) reading, Rarely-used kanji form. 星嘉坡: Ateji (phonetic) reading, Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ],
+                [
+                    "占",
+                    "うらな"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. astrology; horoscope "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. astrology; horoscope "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "せい"
+                ],
+                [
+                    "条",
+                    "じょう"
+                ],
+                [
+                    "旗",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Stars and Stripes (US flag) 合衆国の国旗は星条旗と呼ばれる。The national flag of the USA is called the Stars and Stripes."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Star-Spangled Banner (US anthem) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Stars and Stripes (US flag) 合衆国の国旗は星条旗と呼ばれる。The national flag of the USA is called the Stars and Stripes."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Star-Spangled Banner (US anthem) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "合衆国",
+                            "がっしゅうこく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "国旗",
+                            "こっき"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "星条旗",
+                            "せいじょうき"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "呼ばれる",
+                            "よ"
+                        ]
+                    ],
+                    "translation": "The national flag of the USA is called the Stars and Stripes."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ],
+                [
+                    "勘",
+                    "かん"
+                ],
+                [
+                    "定",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. counting \"stars\" to tally the score to date; how well something has gone (e.g. in terms of wins over losses) Sumoこれからの星勘定を考えると、一敗もしたくない！When I think of our standing in the series from now I don't want us to lose even once!"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "これから",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "星勘定",
+                            "ほしかんじょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "考える",
+                            "かんが"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "一敗",
+                            "いっぱい"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "したくない",
+                            null
+                        ]
+                    ],
+                    "translation": "When I think of our standing in the series from now I don't want us to lose even once!"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ],
+                [
+                    "印",
+                    "じるし"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. star; asterisk "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "せい"
+                ],
+                [
+                    "雲",
+                    "うん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. nebula Astronomy"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. galaxy Astronomy, Obsolete term, See also 銀河"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Nebula A nebula is an interstellar cloud of dust, hydrogen, heli... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "せい"
+                ],
+                [
+                    "団",
+                    "だん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. star cluster "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Star cluster Star clusters or star clouds are groups of stars. Two typ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ],
+                [
+                    "薬",
+                    "やく"
+                ],
+                [
+                    "科",
+                    "か"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Hoshi University Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Hoshi University "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Hoshi University Hoshi University is a private university in Shinagawa, To... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "王",
+                    "おう"
+                ],
+                [
+                    "子",
+                    "じ"
+                ],
+                [
+                    "さ",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "2. Le petit prince (The Little Prince) (Saint-Exupery) (l) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. The Little Prince This article is about the novella. For other uses, see Li... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ],
+                [
+                    "月",
+                    "づき"
+                ],
+                [
+                    "夜",
+                    "よ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. starry night "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. The Starry Night The Starry Night is a painting by the Dutch post-impressi... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "星月夜 【ほしづくよ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ],
+                [
+                    "形",
+                    "けい"
+                ],
+                [
+                    "成",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. star formation Astronomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Star formation Star formation is the process by which dense regions with... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "せい"
+                ],
+                [
+                    "宿",
+                    "しゅく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. constellation Astronomy"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. mansion (any of the Chinese constellations used to divide the ecliptic into 28 positions) Astronomy, Archaic, See also 二十八宿"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. Chinese \"star\" constellation (one of the 28 mansions) Astronomy, See also 星 せい"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Star (Chinese constellation) The Star mansion is one of the Twenty-eight mansions of t... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "星宿 【ほとほりぼし】、星宿 【ほとおりぼし】、ほとおり星 【ほとおりぼし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "せい"
+                ],
+                [
+                    "官",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. constellation (in ancient China; important constellations were then used to divide the ecliptic into 28 \"mansions\") Rare term, See also 星宿 せいしゅく"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Chinese constellations Chinese constellations are the groupings used by the anci... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "せい"
+                ],
+                [
+                    "図",
+                    "ず"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. star map; star chart Astronomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Star chart A star chart is a map of the night sky. Astronomers divid... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ],
+                [
+                    "口",
+                    "ぐち"
+                ],
+                [
+                    "動",
+                    "どう"
+                ],
+                [
+                    "物",
+                    "ぶつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sipunculan (any worm of phylum Sipuncula); sipunculid See also 星虫"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sipuncula The Sipuncula or Sipunculida (common names sipunculid wor... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "星口動物 【せいこうどうぶつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "星",
+                    "ほし"
+                ],
+                [
+                    "椋",
+                    "むく"
+                ],
+                [
+                    "鳥",
+                    "どり"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. common starling; European starling (Sturnus vulgaris) Usually written using kana alone"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Common Starling The Common Starling (Sturnus vulgaris), also known as the... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ホシムクドリ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "星",
+                "あかり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Akari "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "星",
+                "きら"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kira "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kirameki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "衛",
+                    "えい"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (natural) satellite; moon Astronomy"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (artificial) satellite Abbreviation, See also 人工衛星"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Natural satellite A natural satellite or moon is a celestial body that orbi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "惑",
+                    "わく"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. planet "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. dark horse; surprise contender "
+                },
+                {
+                    "type": "Full name",
+                    "meaning": "3. Wakusei "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Planet A planet (from Ancient Greek αστήρ πλανήτης, meaning \"wan... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "火",
+                    "か"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Mars (planet) Astronomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Mars Mars is the fourth planet from the Sun in the Solar Syste... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "人",
+                    "じん"
+                ],
+                [
+                    "工",
+                    "こう"
+                ],
+                [
+                    "衛",
+                    "えい"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. artificial satellite; man-made satellite "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Satellite In the context of spaceflight, a satellite is an object w... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "木",
+                    "もく"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Jupiter (planet) Astronomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Jupiter Jupiter is the fifth planet from the Sun and the largest ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "通",
+                    "つう"
+                ],
+                [
+                    "信",
+                    "しん"
+                ],
+                [
+                    "衛",
+                    "えい"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. communication satellite; Broadcast Satellite; BS "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Communications satellite A communications satellite (sometimes abbreviated to COMS... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "海",
+                    "かい"
+                ],
+                [
+                    "王",
+                    "おう"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Neptune (planet) Astronomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Neptune Neptune is the eighth and farthest planet from the Sun in... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "流",
+                    "なが"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "星",
+                    "ぼし"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shooting star; falling star; meteor See also 流星"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. blaze (wide white stripe down the face of a horse) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Nagareboshi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恒",
+                    "こう"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. star Astronomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Star A star is a massive, luminous sphere of plasma held toget... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "彗",
+                    "すい"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. comet Astronomy"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Comet A comet is an icy small Solar System body (SSSB) that, wh... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "すい星 【すいせい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "流",
+                    "りゅう"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. meteor; shooting star; falling star "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "衛",
+                    "えい"
+                ],
+                [
+                    "星",
+                    "せい"
+                ],
+                [
+                    "都",
+                    "と"
+                ],
+                [
+                    "市",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. satellite city; satellite town "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Satellite town A satellite town or satellite city is a concept in urban ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "球",
+                    "きゅう"
+                ],
+                [
+                    "観",
+                    "かん"
+                ],
+                [
+                    "測",
+                    "そく"
+                ],
+                [
+                    "衛",
+                    "えい"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. earth observation satellite "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Earth observation satellite Earth observation satellites are satellites specifically ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "北",
+                    "ほく"
+                ],
+                [
+                    "斗",
+                    "と"
+                ],
+                [
+                    "七",
+                    "しち"
+                ],
+                [
+                    "星",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the Big Dipper (asterism); the Plough; the Plow Astronomy, Yojijukugo (four character compound), See also 北斗星"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Big Dipper The Big Dipper, also known as the Plough or the Saptarish... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

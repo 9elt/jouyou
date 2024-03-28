@@ -1,0 +1,2141 @@
+{
+    "kanji": "分",
+    "grade": 2,
+    "jlpt": null,
+    "meanings": [
+        "part",
+        "minute of time",
+        "segment",
+        "share",
+        "degree",
+        "one's lot",
+        "duty",
+        "understand",
+        "know",
+        "rate",
+        "1%",
+        "chances",
+        "shaku/100"
+    ],
+    "kun": [
+        "わ.ける",
+        "わ.け",
+        "わ.かれる",
+        "わ.かる",
+        "わ.かつ"
+    ],
+    "on": [
+        "ブン",
+        "フン",
+        "ブ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.3772477064220183,
+            0.17779816513761468,
+            "c",
+            0.0022935779816513763,
+            0.011376146788990826,
+            -0.004036697247706422,
+            0.027614678899082565,
+            -0.010091743119266056,
+            0.03743119266055046,
+            "C",
+            0.31477064220183487,
+            0.3001834862385321,
+            0.24889908256880733,
+            0.3726605504587156,
+            0.11926605504587157,
+            0.4701834862385321
+        ],
+        [
+            "M",
+            0.501743119266055,
+            0.12614678899082568,
+            "c",
+            0.06935779816513761,
+            -0.0011009174311926604,
+            0.18972477064220183,
+            0.17587155963302753,
+            0.26981651376146787,
+            0.23807339449541284,
+            "c",
+            0.028165137614678898,
+            0.02192660550458716,
+            0.05522935779816513,
+            0.03715596330275229,
+            0.09541284403669725,
+            0.04862385321100917
+        ],
+        [
+            "M",
+            0.2692660550458716,
+            0.5079816513761468,
+            "c",
+            0.02220183486238532,
+            0.0076146788990825685,
+            0.04559633027522936,
+            0.006880733944954129,
+            0.06807339449541285,
+            0.0033944954128440367,
+            "c",
+            0.10146788990825689,
+            -0.015596330275229357,
+            0.2648623853211009,
+            -0.04862385321100917,
+            0.3128440366972477,
+            -0.0528440366972477,
+            "c",
+            0.03385321100917431,
+            -0.003027522935779817,
+            0.04660550458715596,
+            0.013577981651376147,
+            0.04477064220183486,
+            0.03458715596330275,
+            "c",
+            -0.004954128440366972,
+            0.0555045871559633,
+            -0.0544954128440367,
+            0.2663302752293578,
+            -0.0963302752293578,
+            0.3330275229357798,
+            "c",
+            -0.04577981651376147,
+            0.07302752293577981,
+            -0.0526605504587156,
+            0.038623853211009175,
+            -0.09027522935779816,
+            -0.004495412844036697
+        ],
+        [
+            "M",
+            0.45064220183486237,
+            0.5252293577981652,
+            "c",
+            0.0013761467889908255,
+            0.013669724770642202,
+            0.0005504587155963302,
+            0.024954128440366975,
+            -0.005137614678899083,
+            0.03743119266055046,
+            "C",
+            0.39908256880733944,
+            0.6651376146788991,
+            0.32798165137614677,
+            0.7522935779816514,
+            0.20642201834862386,
+            0.8325688073394495
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. part; portion; share これが君の分のケーキだよ。Here is your share of the cake."
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. amount; worth (as in \"two days' worth\"); enough (for) あなたは家賃の三ヶ月分を資金として払わなければならない。You are required to provide three months' rent in deposit."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. one's means; one's place; one's lot; one's social position "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. one's duty; one's part "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. condition; state (of affairs); extent; rate (as in \"at this rate\") "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "6. in proportion to; just as much as; to the same degree ここ品物は高いけど、その分アフターサービスが充実してるから。Prices are high here but that's because the after-sale service is really good."
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "7. content (e.g. alcohol); percentage このビールはアルコール分が５％だ。This beer contains 5% alcohol."
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "8. equivalent to (e.g. an old brother) See also 兄貴分"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. minute (unit of time) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. fun (one tenth of a monme, 5.787 grains) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Minute A minute is a unit of measurement of time or of angle. Th... Read more"
+                },
+                {
+                    "type": "Numeric",
+                    "meaning": "1. one-tenth; one percent (one-tenth of a wari); 3 mm (one-tenth of a sun); 2.4 mm (one-tenth of a mon, a traditional unit used to measure shoe sizes); 0.1 degree (one-tenth of a do, used to measure body temperature on any temperature scale) その貸付金は、８分の利益を生む。The loan bears an 8% interest."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. one-quarter of a ryō (obsolete unit of currency) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. thickness "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. advantageous circumstances 彼のほうに分がある。The odds are in his favor."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. one-tenth of a monme of silver See also 匁 もんめ"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. part; portion; share これが君の分のケーキだよ。Here is your share of the cake."
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "2. amount; worth (as in \"two days' worth\"); enough (for) あなたは家賃の三ヶ月分を資金として払わなければならない。You are required to provide three months' rent in deposit."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. one's means; one's place; one's lot; one's social position "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. one's duty; one's part "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. condition; state (of affairs); extent; rate (as in \"at this rate\") "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "6. in proportion to; just as much as; to the same degree ここ品物は高いけど、その分アフターサービスが充実してるから。Prices are high here but that's because the after-sale service is really good."
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "7. content (e.g. alcohol); percentage このビールはアルコール分が５％だ。This beer contains 5% alcohol."
+                },
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "8. equivalent to (e.g. an old brother) See also 兄貴分"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "これ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "君の",
+                            "きみ"
+                        ],
+                        [
+                            "分",
+                            "ぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ケーキ",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "Here is your share of the cake."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "家賃",
+                            "やちん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "三",
+                            "さん"
+                        ],
+                        [
+                            "ヶ月",
+                            "かげつ"
+                        ],
+                        [
+                            "分",
+                            "ぶん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "資金",
+                            "しきん"
+                        ],
+                        [
+                            "として",
+                            null
+                        ],
+                        [
+                            "払わ",
+                            "はら"
+                        ],
+                        [
+                            "なければならない",
+                            null
+                        ]
+                    ],
+                    "translation": "You are required to provide three months' rent in deposit."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "品物",
+                            "しなもの"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "高い",
+                            "たか"
+                        ],
+                        [
+                            "けど",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "分",
+                            "ぶん"
+                        ],
+                        [
+                            "アフターサービス",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "充実",
+                            "じゅうじつ"
+                        ],
+                        [
+                            "してる",
+                            null
+                        ],
+                        [
+                            "から",
+                            null
+                        ]
+                    ],
+                    "translation": "Prices are high here but that's because the after-sale service is really good."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "ビール",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "アルコール",
+                            null
+                        ],
+                        [
+                            "分",
+                            "ぶん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "This beer contains 5% alcohol."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "析",
+                    "せき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. analysis "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Analysis Analysis is the process of breaking a complex topic or su... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. analysis "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Analysis Analysis is the process of breaking a complex topic or su... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to understand; to comprehend; to grasp; to see; to get; to follow Usually written using kana alone「博、君の気持ちは分かるよ」とマイクが言います。\"I understand how you feel, Hiroshi,\" says Mike."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. I know!; I think so too! "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "解る 【わかる】、判る 【わかる】、分る 【わかる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to understand; to comprehend; to grasp; to see; to get; to follow Usually written using kana alone「博、君の気持ちは分かるよ」とマイクが言います。\"I understand how you feel, Hiroshi,\" says Mike."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. I know!; I think so too! "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "解る 【わかる】、判る 【わかる】、分る 【わかる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "君の",
+                            "きみ"
+                        ],
+                        [
+                            "気持ち",
+                            "きも"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "分かる",
+                            "わ"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "言います",
+                            "い"
+                        ]
+                    ],
+                    "translation": "\"I understand how you feel, Hiroshi,\" says Mike."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "有名な",
+                            "ゆうめい"
+                        ],
+                        [
+                            "人物",
+                            "じんぶつ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "いう",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "わかります",
+                            null
+                        ]
+                    ],
+                    "translation": "I understand that he's something of a famous personality."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "布",
+                    "ぷ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. distribution; allocation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Distribution "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. distribution; allocation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Distribution "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "裂",
+                    "れつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. split; division; break up "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fission (biology) 1: The bacterium before binary fission is when the DNA ti... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. split; division; break up "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fission (biology) 1: The bacterium before binary fission is when the DNA ti... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "子",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. molecule Chemistry水分子は、２個の水素原子と１個の酸素原子からなる。A water molecule has two hydrogen atoms and one oxygen atom."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. numerator Mathematics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. element (of a group); member "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. particle See also 微分子これらの２つの分子が異なったスピードで動いていることを示すだけでは不十分である。It is not enough to show that these two particles are moving at different speeds."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Molecule A molecule is an electrically neutral group of two or mor... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. molecule Chemistry水分子は、２個の水素原子と１個の酸素原子からなる。A water molecule has two hydrogen atoms and one oxygen atom."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. numerator Mathematics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. element (of a group); member "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. particle See also 微分子これらの２つの分子が異なったスピードで動いていることを示すだけでは不十分である。It is not enough to show that these two particles are moving at different speeds."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "5. Molecule A molecule is an electrically neutral group of two or mor... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "水",
+                            "みず"
+                        ],
+                        [
+                            "分子",
+                            "ぶんし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "個",
+                            "こ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "水素",
+                            "すいそ"
+                        ],
+                        [
+                            "原子",
+                            "げんし"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "１個",
+                            "いっこ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "酸素",
+                            "さんそ"
+                        ],
+                        [
+                            "原子",
+                            "げんし"
+                        ],
+                        [
+                            "からなる",
+                            null
+                        ]
+                    ],
+                    "translation": "A water molecule has two hydrogen atoms and one oxygen atom."
+                },
+                {
+                    "sentence": [
+                        [
+                            "これらの",
+                            null
+                        ],
+                        [
+                            "２つ",
+                            "ふた"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "分子",
+                            "ぶんし"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "異なった",
+                            "こと"
+                        ],
+                        [
+                            "スピード",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "動いている",
+                            "うご"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "示す",
+                            "しめ"
+                        ],
+                        [
+                            "だけ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "不十分",
+                            "ふじゅうぶん"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "It is not enough to show that these two particles are moving at different speeds."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to divide (into); to split (into); to part; to separate; to divide up; to classify; to sort out; to divide out 彼は自分の本を５分野に分けた。He grouped his books into five categories."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to share; to distribute; to deal out; to dish out 母は子供たちに金をわけてやった。The mother divided the money among her children."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to distinguish; to discriminate; to differentiate (between) 君は夢と現実を分けることができないのか。Can't you divorce fantasy from reality?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to break up (a fight); to mediate "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to call a draw; to tie "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to push one's way through (a crowd) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to sell also written as 頒ける"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "別ける 【わける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "別ける: Rarely-used kanji form."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to divide (into); to split (into); to part; to separate; to divide up; to classify; to sort out; to divide out 彼は自分の本を５分野に分けた。He grouped his books into five categories."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to share; to distribute; to deal out; to dish out 母は子供たちに金をわけてやった。The mother divided the money among her children."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to distinguish; to discriminate; to differentiate (between) 君は夢と現実を分けることができないのか。Can't you divorce fantasy from reality?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to break up (a fight); to mediate "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to call a draw; to tie "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to push one's way through (a crowd) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to sell also written as 頒ける"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "別ける 【わける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "別ける: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "分野",
+                            "ぶんや"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "分けた",
+                            "わ"
+                        ]
+                    ],
+                    "translation": "He grouped his books into five categories."
+                },
+                {
+                    "sentence": [
+                        [
+                            "母",
+                            "はは"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "子供たち",
+                            "こども"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "金",
+                            "かね"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "わけて",
+                            null
+                        ],
+                        [
+                            "やった",
+                            null
+                        ]
+                    ],
+                    "translation": "The mother divided the money among her children."
+                },
+                {
+                    "sentence": [
+                        [
+                            "君",
+                            "きみ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "夢",
+                            "ゆめ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "現実",
+                            "げんじつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "分ける",
+                            "わ"
+                        ],
+                        [
+                            "ことができない",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Can't you divorce fantasy from reality?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "野",
+                    "や"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. field; sphere; realm; division; branch "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. field; sphere; realm; division; branch "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to branch; to fork; to diverge "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to separate; to split; to divide "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to disperse; to scatter "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "岐れる 【わかれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "岐れる: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "類",
+                    "るい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. classification; categorization; sorting "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "解",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. disassembly; dismantling; disaggregating; taking apart; breaking up; analysis; parsing 時計を分解するのは組み立てるより簡単だ。Taking a watch apart is easier than putting it together."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. decomposition; resolution; disintegration; degradation Chemistry水は酸素と水素に分解できる。Water can be decomposed into oxygen and hydrogen."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. factorization Mathematics"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "時計",
+                            "とけい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "分解",
+                            "ぶんかい"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "組み立てる",
+                            "くみた"
+                        ],
+                        [
+                            "より",
+                            null
+                        ],
+                        [
+                            "簡単",
+                            "かんたん"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "Taking a watch apart is easier than putting it together."
+                },
+                {
+                    "sentence": [
+                        [
+                            "水",
+                            "みず"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "酸素",
+                            "さんそ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "水素",
+                            "すいそ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "分解",
+                            "ぶんかい"
+                        ],
+                        [
+                            "できる",
+                            null
+                        ]
+                    ],
+                    "translation": "Water can be decomposed into oxygen and hydrogen."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "量",
+                    "りょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. amount; quantity "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. measuring; weighing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "配",
+                    "ぱい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. division; splitting; sharing; distribution; dissemination; allocation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "担",
+                    "たん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. taking on one's share (e.g. of work); dividing (work, expenses, etc.) between; apportionment; allotment; allocation; assignment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "離",
+                    "り"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. separation; partition; detachment; segregation; isolation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "娩",
+                    "べん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. childbirth; delivery "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Childbirth Childbirth (also called labor, birth, partus or parturiti... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "分べん 【ぶんべん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "岐",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. divergence; ramification; bifurcation; branching off 川は町の３キロ下流で分岐する。The river branches three kilometers below the town."
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Bunki "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "川",
+                            "かわ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "町",
+                            "まち"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "キロ",
+                            null
+                        ],
+                        [
+                            "下流",
+                            "かりゅう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "分岐",
+                            "ぶんき"
+                        ],
+                        [
+                            "する",
+                            null
+                        ]
+                    ],
+                    "translation": "The river branches three kilometers below the town."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "数",
+                    "すう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. fraction Mathematics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fraction (mathematics) A fraction represents a part of a whole or, more generall... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "分",
+                "わけ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Wake "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Wakareoohashi "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Wakare "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. feeling; mood "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Mood (psychology) A mood is an emotional state. Moods differ from emotions ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "自",
+                    "じ"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Pronoun",
+                    "meaning": "1. myself; yourself; oneself; himself; herself 矛盾する報告を受けて、その役員は自分の立場を考え直した。Conflicting reports prompted the director to reconsider her position."
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "2. I; me スミスさんは、自分はニューヨークの生まれだが妻は日本だと言う。Mr Smith says he was born in New York, but that his wife comes from Japan."
+                },
+                {
+                    "type": "Pronoun",
+                    "meaning": "3. you Kansai dialect"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "矛盾",
+                            "むじゅん"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "報告",
+                            "ほうこく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "受けて",
+                            "う"
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "役員",
+                            "やくいん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "立場",
+                            "たちば"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "考え直した",
+                            "かんがえなお"
+                        ]
+                    ],
+                    "translation": "Conflicting reports prompted the director to reconsider her position."
+                },
+                {
+                    "sentence": [
+                        [
+                            "さん",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ニューヨーク",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "生まれ",
+                            "う"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "妻",
+                            "つま"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "日本",
+                            "にほん"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "言う",
+                            "い"
+                        ]
+                    ],
+                    "translation": "Mr Smith says he was born in New York, but that his wife comes from Japan."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "多",
+                    "た"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. probably; likely; perhaps; maybe 君にはたぶんみんなわかっていることでしょう。I expect you know all about it."
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Na-adjective (keiyodoshi)",
+                    "meaning": "2. a lot of; much; many; considerable; large (amount); generous "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "君",
+                            "きみ"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "たぶん",
+                            null
+                        ],
+                        [
+                            "みんな",
+                            null
+                        ],
+                        [
+                            "わかっている",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "でしょう",
+                            null
+                        ]
+                    ],
+                    "translation": "I expect you know all about it."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "半",
+                    "はん"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Noun",
+                    "meaning": "1. half "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "引",
+                    "ひ"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. draw (in competition); tie game "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Tie (draw) To tie or draw is to finish a competition with identical ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "引分け 【ひきわけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. water; liquid; fluid; moisture; humidity; sap; juice "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Moisture Humidity is the amount of moisture the air can hold befor... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "十",
+                    "じゅう"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. enough; sufficient; plenty; adequate; satisfactory 私はこの本を買うのに十分なお金を持っている。I have enough money to buy this book."
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "2. sufficiently; fully; thoroughly; well; perfectly 「もっと召し上がりますか」「いいえ、じゅうぶんいただきました」\"Would you like any more?\" \"No, I've had enough.\""
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. division into ten Only applies to 十分"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "充分 【じゅうぶん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "充分: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "買う",
+                            "か"
+                        ],
+                        [
+                            "のに",
+                            null
+                        ],
+                        [
+                            "十分な",
+                            "じゅうぶん"
+                        ],
+                        [
+                            "お金",
+                            "おかね"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "持っている",
+                            "も"
+                        ]
+                    ],
+                    "translation": "I have enough money to buy this book."
+                },
+                {
+                    "sentence": [
+                        [
+                            "もっと",
+                            null
+                        ],
+                        [
+                            "召し上がります",
+                            "めしあ"
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "いいえ",
+                            null
+                        ],
+                        [
+                            "じゅうぶん",
+                            null
+                        ],
+                        [
+                            "いただきました",
+                            null
+                        ]
+                    ],
+                    "translation": "\"Would you like any more?\" \"No, I've had enough.\""
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "部",
+                    "ぶ"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. most part; greater part; majority Antonym: 小部分"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "部",
+                    "ぶ"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. portion; section; part "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "随",
+                    "ずい"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi), Adverb taking the 'to' particle",
+                    "meaning": "1. very; extremely; surprisingly; fairly; quite; considerably; awfully; terribly Usually written using kana alone私たちはもうずいぶん長くここにいます。We've been here long enough."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. terrible; horrid; contemptible; reprehensible Usually written using kana alone"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "3. remarkable; extraordinary Usually written using kana aloneあなたはこの１年に英語が随分進歩した。You've made remarkable progress in English in the past year."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ずい分 【ずいぶん】、隨分 【ずいぶん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "隨分: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私たち",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "もう",
+                            null
+                        ],
+                        [
+                            "ずいぶん",
+                            null
+                        ],
+                        [
+                            "長く",
+                            "なが"
+                        ],
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "います",
+                            null
+                        ]
+                    ],
+                    "translation": "We've been here long enough."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "１年",
+                            "いちねん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "英語",
+                            "えいご"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "随分",
+                            "ずいぶん"
+                        ],
+                        [
+                            "進歩",
+                            "しんぽ"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "You've made remarkable progress in English in the past year."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "余",
+                    "よ"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. extra; excess; surplus "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "分",
+                    "ぶ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. considerably; greatly; a lot Usually written using kana alone"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Daibu "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Oita "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "大分 【だいぶん】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

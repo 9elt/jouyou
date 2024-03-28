@@ -1,0 +1,957 @@
+{
+    "kanji": "庶",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "commoner",
+        "all",
+        "bastard"
+    ],
+    "kun": [
+        "ショ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.5143119266055046,
+            0.11816513761467891,
+            "c",
+            0.00944954128440367,
+            0.00944954128440367,
+            0.011559633027522935,
+            0.021743119266055048,
+            0.011559633027522935,
+            0.038073394495412846,
+            "c",
+            0,
+            0.007247706422018349,
+            0.0007339449541284404,
+            0.031192660550458714,
+            -0.0006422018348623854,
+            0.0753211009174312
+        ],
+        [
+            "M",
+            0.2122018348623853,
+            0.2589908256880734,
+            "c",
+            0.024495412844036696,
+            0.008715596330275228,
+            0.05495412844036698,
+            0.005871559633027523,
+            0.08036697247706422,
+            0.0033027522935779813,
+            "c",
+            0.13633027522935778,
+            -0.013761467889908258,
+            0.2911926605504587,
+            -0.027155963302752294,
+            0.46321100917431196,
+            -0.038256880733944953,
+            "c",
+            0.02642201834862385,
+            -0.0017431192660550458,
+            0.052110091743119265,
+            -0.001834862385321101,
+            0.0779816513761468,
+            0.0037614678899082566
+        ],
+        [
+            "M",
+            0.23614678899082567,
+            0.2706422018348624,
+            "c",
+            0.01036697247706422,
+            0.01036697247706422,
+            0.010825688073394495,
+            0.023853211009174313,
+            0.010642201834862385,
+            0.04238532110091743,
+            "c",
+            -0.0013761467889908255,
+            0.1388073394495413,
+            -0.024311926605504585,
+            0.35559633027522936,
+            -0.14761467889908256,
+            0.5032110091743119
+        ],
+        [
+            "M",
+            0.3073394495412844,
+            0.45596330275229363,
+            "c",
+            0.02642201834862385,
+            0.006238532110091744,
+            0.05128440366972477,
+            0.0047706422018348625,
+            0.07238532110091743,
+            0.0022935779816513763,
+            "c",
+            0.11174311926605504,
+            -0.01330275229357798,
+            0.2785321100917431,
+            -0.03330275229357798,
+            0.38513761467889907,
+            -0.04128440366972477,
+            "c",
+            0.022477064220183487,
+            -0.0016513761467889907,
+            0.04339449541284404,
+            -0.002752293577981651,
+            0.06541284403669724,
+            0.003119266055045872
+        ],
+        [
+            "M",
+            0.4380733944954128,
+            0.3302752293577982,
+            "c",
+            0.008623853211009174,
+            0.008623853211009174,
+            0.013761467889908258,
+            0.022935779816513763,
+            0.013761467889908258,
+            0.03669724770642202,
+            "c",
+            0,
+            0.007981651376146788,
+            0.001559633027522936,
+            0.15990825688073393,
+            0.0007339449541284404,
+            0.24541284403669725,
+            "C",
+            0.45247706422018347,
+            0.6287155963302753,
+            0.4522018348623853,
+            0.6422018348623854,
+            0.4518348623853211,
+            0.6513761467889908
+        ],
+        [
+            "M",
+            0.6513761467889908,
+            0.3119266055045872,
+            "c",
+            0.008073394495412844,
+            0.009174311926605505,
+            0.009816513761467891,
+            0.0226605504587156,
+            0.009174311926605505,
+            0.03211009174311927,
+            "c",
+            -0.006880733944954129,
+            0.09522935779816515,
+            -0.013761467889908258,
+            0.1743119266055046,
+            -0.020642201834862386,
+            0.2591743119266055
+        ],
+        [
+            "M",
+            0.463302752293578,
+            0.6307339449541285,
+            "c",
+            0.053944954128440366,
+            -0.0045871559633027525,
+            0.10293577981651376,
+            -0.011559633027522935,
+            0.1556880733944954,
+            -0.016972477064220184,
+            "c",
+            0.01724770642201835,
+            -0.0017431192660550458,
+            0.0318348623853211,
+            -0.0008256880733944953,
+            0.04155963302752294,
+            -0.0013761467889908255
+        ],
+        [
+            "M",
+            0.3090825688073394,
+            0.7270642201834863,
+            "c",
+            0,
+            0.05559633027522935,
+            -0.04678899082568807,
+            0.13779816513761467,
+            -0.059082568807339454,
+            0.1536697247706422
+        ],
+        [
+            "M",
+            0.43743119266055047,
+            0.7186238532110092,
+            "c",
+            0.01834862385321101,
+            0.029174311926605506,
+            0.03577981651376147,
+            0.10944954128440366,
+            0.04036697247706422,
+            0.15486238532110091
+        ],
+        [
+            "M",
+            0.5940366972477065,
+            0.711743119266055,
+            "c",
+            0.02018348623853211,
+            0.02568807339449541,
+            0.052201834862385325,
+            0.1056880733944954,
+            0.05724770642201835,
+            0.1456880733944954
+        ],
+        [
+            "M",
+            0.7585321100917432,
+            0.7002752293577982,
+            "c",
+            0.035229357798165134,
+            0.02688073394495413,
+            0.09100917431192661,
+            0.11073394495412844,
+            0.0998165137614679,
+            0.15256880733944952
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "民",
+                    "みん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. common people; ordinary people; masses "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. common people; ordinary people; masses "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. popular; folksy; plebeian; ordinary; unpretentious "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. popular; folksy; plebeian; ordinary; unpretentious "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "務",
+                    "む"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. general affairs "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. general affairs "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "務",
+                    "む"
+                ],
+                [
+                    "課",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. general affairs section "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. general affairs section "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "希",
+                    "こいねが"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to beg; to request; to beseech; to implore; to entreat "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請い願う 【こいねがう】、庶幾う 【こいねがう】、冀う 【こいねがう】、乞い願う 【こいねがう】"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to beg; to request; to beseech; to implore; to entreat "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "請い願う 【こいねがう】、庶幾う 【こいねがう】、冀う 【こいねがう】、乞い願う 【こいねがう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "金",
+                    "きん"
+                ],
+                [
+                    "庫",
+                    "こ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. people's bank Obsolete term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "銀",
+                    "ぎん"
+                ],
+                [
+                    "行",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. pawnshop Slang, Jocular, humorous term, See also 質屋"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "人",
+                    "じん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. commoner; common people See also 庶民"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "庶人 【しょにん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. commoner; common people See also 庶民"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "庶人 【しょにん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "諸",
+                    "しょ"
+                ],
+                [
+                    "事",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. various matters; everything "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "庶事 【しょじ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. various matters; everything "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "庶事 【しょじ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "政",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. political affairs; all phases of government "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "諸政 【しょせい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. political affairs; all phases of government "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "諸政 【しょせい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "感",
+                    "かん"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sensibilities of the common people; ordinary people's way of thinking; popular sentiment "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. sensibilities of the common people; ordinary people's way of thinking; popular sentiment "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "まま"
+                ],
+                [
+                    "妹",
+                    "いも"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. step-sister (younger); stepsister Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "庶妹 【ままいも】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. step-sister (younger); stepsister Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "庶妹 【ままいも】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "劇",
+                    "げき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. drama of ordinary people "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. drama of ordinary people "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "幾",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. desire; hope "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. desire; hope "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "金",
+                    "きん"
+                ],
+                [
+                    "融",
+                    "ゆう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. loans for low-income people "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "流",
+                    "りゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. illegitimate family lineage "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "乞",
+                    "こ"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "願",
+                    "ねが"
+                ],
+                [
+                    "わ",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "は",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. I pray in earnest that; I beg that; I yearn that the は is pronounced わ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "希わくは 【こいねがわくは】、冀わくは 【こいねがわくは】、庶幾わくは 【こいねがわくは】"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. I pray in earnest that; I beg that; I yearn that the は is pronounced わ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "希わくは 【こいねがわくは】、冀わくは 【こいねがわくは】、庶幾わくは 【こいねがわくは】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "民",
+                    "みん"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. commonness; the common touch "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. commonness; the common touch "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "出",
+                    "しゅつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. illegitimate birth "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. illegitimate birth "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "子",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. illegitimate child "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. illegitimate child "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "庶",
+                "ちかし"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Chikashi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "庶",
+                "ゆたか"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Yutaka "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "庶子崎",
+                "しょじさき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Shojisaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "衆",
+                    "しゅう"
+                ],
+                [
+                    "庶",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the masses; common people "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "般",
+                    "ぱん"
+                ],
+                [
+                    "庶",
+                    "しょ"
+                ],
+                [
+                    "民",
+                    "みん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ordinary people; common folk; general masses; man in the street; populace at large "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "凡",
+                    "ぼん"
+                ],
+                [
+                    "庶",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. common people "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "士",
+                    "し"
+                ],
+                [
+                    "庶",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. samurai and commoners "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. normal people (as opposed to people of a high social standing) "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

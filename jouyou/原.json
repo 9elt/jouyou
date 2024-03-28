@@ -1,0 +1,970 @@
+{
+    "kanji": "原",
+    "grade": 2,
+    "jlpt": 3,
+    "meanings": [
+        "meadow",
+        "original",
+        "primitive",
+        "field",
+        "plain",
+        "prairie",
+        "tundra",
+        "wilderness"
+    ],
+    "kun": [
+        "はら"
+    ],
+    "on": [
+        "ゲン"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.22954128440366972,
+            0.1638532110091743,
+            "c",
+            0.023577981651376145,
+            0.005137614678899083,
+            0.062018348623853206,
+            0.004954128440366972,
+            0.08541284403669726,
+            0.0028440366972477065,
+            "C",
+            0.44724770642201833,
+            0.15486238532110091,
+            0.6009174311926605,
+            0.13761467889908258,
+            0.7328440366972476,
+            0.13110091743119265,
+            "c",
+            0.039174311926605504,
+            -0.001926605504587156,
+            0.06284403669724771,
+            0.0001834862385321101,
+            0.08256880733944955,
+            0.002752293577981651
+        ],
+        [
+            "M",
+            0.2545871559633027,
+            0.17412844036697248,
+            "c",
+            0.0045871559633027525,
+            0.009357798165137614,
+            0.006330275229357797,
+            0.01853211009174312,
+            0.005963302752293578,
+            0.031743119266055046,
+            "C",
+            0.2545871559633027,
+            0.3944954128440367,
+            0.23394495412844038,
+            0.6192660550458715,
+            0.09862385321100918,
+            0.7614678899082569
+        ],
+        [
+            "M",
+            0.5518348623853211,
+            0.17321100917431193,
+            "c",
+            0.002201834862385321,
+            0.008532110091743119,
+            0.001834862385321101,
+            0.01669724770642202,
+            -0.0011926605504587156,
+            0.024587155963302753,
+            "c",
+            -0.006972477064220183,
+            0.02165137614678899,
+            -0.02348623853211009,
+            0.0544954128440367,
+            -0.039174311926605504,
+            0.07522935779816513
+        ],
+        [
+            "M",
+            0.35091743119266056,
+            0.30504587155963303,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.014954128440366971,
+            0.019724770642201832,
+            0.016055045871559634,
+            0.027522935779816515,
+            "c",
+            0.0034862385321100917,
+            0.024036697247706424,
+            0.017798165137614678,
+            0.12027522935779816,
+            0.027889908256880733,
+            0.18807339449541285,
+            "c",
+            0.003027522935779817,
+            0.02018348623853211,
+            0.005412844036697248,
+            0.03660550458715597,
+            0.006422018348623853,
+            0.045504587155963304
+        ],
+        [
+            "M",
+            0.3718348623853211,
+            0.31688073394495414,
+            "c",
+            0.1098165137614679,
+            -0.015229357798165137,
+            0.30137614678899083,
+            -0.040458715596330276,
+            0.36192660550458716,
+            -0.045504587155963304,
+            "c",
+            0.035688073394495416,
+            -0.003027522935779817,
+            0.04715596330275229,
+            0.017614678899082567,
+            0.04146788990825688,
+            0.04513761467889908,
+            "c",
+            -0.007155963302752294,
+            0.034403669724770644,
+            -0.018073394495412842,
+            0.10339449541284404,
+            -0.04027522935779816,
+            0.17743119266055046,
+            "c",
+            -0.004220183486238533,
+            0.014036697247706422,
+            -0.008807339449541284,
+            0.02834862385321101,
+            -0.013761467889908258,
+            0.0426605504587156
+        ],
+        [
+            "M",
+            0.3928440366972477,
+            0.4267889908256881,
+            "c",
+            0.10256880733944954,
+            -0.015137614678899082,
+            0.3032110091743119,
+            -0.03642201834862385,
+            0.35642201834862386,
+            -0.03972477064220183
+        ],
+        [
+            "M",
+            0.4086238532110092,
+            0.5385321100917432,
+            "c",
+            0.1051376146788991,
+            -0.012201834862385321,
+            0.21293577981651376,
+            -0.02018348623853211,
+            0.311743119266055,
+            -0.02706422018348624
+        ],
+        [
+            "M",
+            0.5529357798165138,
+            0.5502752293577982,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.015229357798165137,
+            0.02311926605504587,
+            0.015229357798165137,
+            0.03715596330275229,
+            "c",
+            0,
+            0.06779816513761468,
+            -0.0017431192660550458,
+            0.2291743119266055,
+            -0.0017431192660550458,
+            0.25229357798165136,
+            "c",
+            0,
+            0.0708256880733945,
+            -0.051559633027522936,
+            0.015779816513761466,
+            -0.07192660550458715,
+            -0.005688073394495413
+        ],
+        [
+            "M",
+            0.38889908256880734,
+            0.6499999999999999,
+            "c",
+            0.0012844036697247708,
+            0.01036697247706422,
+            -0.002201834862385321,
+            0.021743119266055048,
+            -0.008440366972477065,
+            0.030275229357798163,
+            "c",
+            -0.024954128440366975,
+            0.03486238532110091,
+            -0.0663302752293578,
+            0.08807339449541284,
+            -0.16036697247706422,
+            0.15000000000000002
+        ],
+        [
+            "M",
+            0.731651376146789,
+            0.6605504587155964,
+            "c",
+            0.0408256880733945,
+            0.027339449541284404,
+            0.1010091743119266,
+            0.11238532110091744,
+            0.1111926605504587,
+            0.15486238532110091
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "原",
+                    "はら"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. field; plain; prairie; tundra; moor; wilderness "
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "1. original; primitive; primary; fundamental; proto- "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. field; plain; prairie; tundra; moor; wilderness "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "輩",
+                    "ばら"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, used as a suffix",
+                    "meaning": "1. suffixed to words indicating a class of people to create a plural (esp. in impolite contexts) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "原 【ばら】、儕 【ばら】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "理",
+                    "り"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. principle; theory; fundamental truth "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Principle A principle is a law or rule that has to be, or usually i... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. principle; theory; fundamental truth "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Principle A principle is a law or rule that has to be, or usually i... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "因",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. cause; origin; source "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "原因 【げいいん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "げいいん: Irregular kana usage."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. cause; origin; source "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "原因 【げいいん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "げいいん: Irregular kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "子",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. atom "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Atom The atom is a basic unit of matter that consists of a den... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. atom "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Atom The atom is a basic unit of matter that consists of a den... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "元",
+                    "げん"
+                ],
+                [
+                    "素",
+                    "そ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. element; chemical element Chemistry, Only applies to 元素, See also 化学元素"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (classical) element (e.g. earth, water, air, fire) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. origin; source Archaic"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Chemical element A chemical element is a pure chemical substance consistin... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "原素 【げんそ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "原素: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. element; chemical element Chemistry, Only applies to 元素, See also 化学元素"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (classical) element (e.g. earth, water, air, fire) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. origin; source Archaic"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Chemical element A chemical element is a pure chemical substance consistin... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "原素 【げんそ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "原素: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "稿",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. manuscript; copy; draft; notes; contribution "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. manuscript; copy; draft; notes; contribution "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "料",
+                    "りょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. raw materials; ingredient "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. raw materials; ingredient "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "始",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. origin; beginning; genesis "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "2. primeval; primordial; primitive "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. origin; beginning; genesis "
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "2. primeval; primordial; primitive "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "則",
+                    "そく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. principle; general rule "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. as a rule; in principle; in general See also 原則として"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. principle; general rule "
+                },
+                {
+                    "type": "Noun, Adverb (fukushi)",
+                    "meaning": "2. as a rule; in principle; in general See also 原則として"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. original text "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. original text "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "爆",
+                    "ばく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. atomic bomb; A-bomb Abbreviation, See also 原子爆弾"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. atomic bomb; A-bomb Abbreviation, See also 原子爆弾"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "作",
+                    "さく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. original work "
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. original work "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "油",
+                    "ゆ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. crude oil "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. crude oil "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "形",
+                    "けい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. original form; base form "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. original form; base form "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. original document (not a copy or adaptation); book in its original language (esp. a European language) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. original document (not a copy or adaptation); book in its original language (esp. a European language) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "典",
+                    "てん"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. original (text) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. original (text) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "子",
+                    "し"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. atomic energy; nuclear power "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Nuclear power Nuclear power is the use of sustained nuclear fission to ... Read more"
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. atomic energy; nuclear power "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Nuclear power Nuclear power is the use of sustained nuclear fission to ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "材",
+                    "ざい"
+                ],
+                [
+                    "料",
+                    "りょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. raw materials; ingredients "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Raw material A raw material or feedstock is the basic material from wh... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "原",
+                "きざきぱら"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kizakipara "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "原",
+                "げん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname, Given name, gender not specified",
+                    "meaning": "1. Gen "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "原",
+                "はじめ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Hajime "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "根",
+                    "こん"
+                ],
+                [
+                    "源",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. root; source; origin; cause "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Nemoto "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "根原 【こんげん】、根元 【こんげん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "語",
+                    "ご"
+                ],
+                [
+                    "源",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. origin of a word; derivation of a word; etymology "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Etymology Etymology is the study of the history of words, their ori... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "語原 【ごげん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "起",
+                    "き"
+                ],
+                [
+                    "源",
+                    "げん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. origin; beginning; source; rise "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "起原 【きげん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "ゴラン高原",
+                "ゴランこうげん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Golan Heights "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Golan Heights The Golan Heights, referred to as the Syrian Golan by the... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "パミール高原",
+                "パミールこうげん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Pamir (plateau) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Pamir Mountains The Pamir Mountains are a mountain range in Central Asia ... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

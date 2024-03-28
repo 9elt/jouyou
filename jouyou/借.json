@@ -1,0 +1,1265 @@
+{
+    "kanji": "借",
+    "grade": 4,
+    "jlpt": 4,
+    "meanings": [
+        "borrow",
+        "rent"
+    ],
+    "kun": [
+        "か.りる"
+    ],
+    "on": [
+        "シャク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.301651376146789,
+            0.1651376146788991,
+            "c",
+            0.0021100917431192663,
+            0.020917431192660547,
+            -0.0005504587155963302,
+            0.03422018348623853,
+            -0.007247706422018349,
+            0.052201834862385325,
+            "C",
+            0.2519266055045872,
+            0.33174311926605504,
+            0.20642201834862386,
+            0.44036697247706424,
+            0.10091743119266056,
+            0.578348623853211
+        ],
+        [
+            "M",
+            0.2296330275229358,
+            0.40825688073394495,
+            "c",
+            0.007889908256880733,
+            0.007889908256880733,
+            0.013761467889908258,
+            0.021376146788990826,
+            0.013669724770642202,
+            0.034403669724770644,
+            "c",
+            -0.0003669724770642202,
+            0.09651376146788991,
+            -0.001834862385321101,
+            0.27660550458715594,
+            -0.0023853211009174312,
+            0.37844036697247707,
+            "c",
+            -0.00009174311926605505,
+            0.022752293577981652,
+            -0.0001834862385321101,
+            0.041651376146788995,
+            -0.0001834862385321101,
+            0.05504587155963303
+        ],
+        [
+            "M",
+            0.4096330275229358,
+            0.31321100917431194,
+            "c",
+            0.020366972477064222,
+            0.0033027522935779813,
+            0.042844036697247706,
+            0.0017431192660550458,
+            0.06174311926605505,
+            -0.00045871559633027525,
+            "c",
+            0.07137614678899083,
+            -0.008256880733944955,
+            0.22073394495412843,
+            -0.026055045871559632,
+            0.2888990825688073,
+            -0.030458715596330274,
+            "c",
+            0.016972477064220184,
+            -0.0011009174311926604,
+            0.036238532110091745,
+            -0.0023853211009174312,
+            0.0528440366972477,
+            0.0022935779816513763
+        ],
+        [
+            "M",
+            0.49844036697247707,
+            0.18577981651376146,
+            "c",
+            0.008807339449541284,
+            0.008807339449541284,
+            0.013027522935779816,
+            0.0218348623853211,
+            0.015504587155963302,
+            0.03669724770642202,
+            "c",
+            0.001559633027522936,
+            0.009174311926605505,
+            0.0077981651376146785,
+            0.13761467889908258,
+            0.013853211009174311,
+            0.23853211009174313
+        ],
+        [
+            "M",
+            0.7053211009174312,
+            0.13073394495412843,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.012018348623853212,
+            0.020550458715596333,
+            0.01091743119266055,
+            0.02981651376146789,
+            "c",
+            -0.003027522935779817,
+            0.02522935779816514,
+            -0.017889908256880735,
+            0.16403669724770642,
+            -0.029724770642201838,
+            0.28211009174311924
+        ],
+        [
+            "M",
+            0.34174311926605505,
+            0.4834862385321101,
+            "c",
+            0.027522935779816515,
+            0.005045871559633028,
+            0.052477064220183486,
+            0.0029357798165137615,
+            0.07779816513761469,
+            0.0001834862385321101,
+            "c",
+            0.1208256880733945,
+            -0.013394495412844036,
+            0.23706422018348625,
+            -0.028165137614678898,
+            0.3821100917431193,
+            -0.03697247706422019,
+            "c",
+            0.02596330275229358,
+            -0.001559633027522936,
+            0.050366972477064224,
+            -0.0028440366972477065,
+            0.07559633027522936,
+            0.0010091743119266055
+        ],
+        [
+            "M",
+            0.4718348623853211,
+            0.5672477064220184,
+            "c",
+            0.006880733944954129,
+            0.006880733944954129,
+            0.01110091743119266,
+            0.017339449541284403,
+            0.01110091743119266,
+            0.02706422018348624,
+            "c",
+            0,
+            0.007522935779816513,
+            -0.00009174311926605505,
+            0.1730275229357798,
+            -0.00009174311926605505,
+            0.2486238532110092,
+            "c",
+            0,
+            0.02165137614678899,
+            0,
+            0.03596330275229358,
+            0,
+            0.03706422018348624
+        ],
+        [
+            "M",
+            0.4888990825688073,
+            0.5794495412844036,
+            "c",
+            0.017064220183486238,
+            -0.0010091743119266055,
+            0.15972477064220184,
+            -0.02165137614678899,
+            0.21522935779816516,
+            -0.028899082568807338,
+            "c",
+            0.031376146788990825,
+            -0.004036697247706422,
+            0.04422018348623853,
+            0.0022935779816513763,
+            0.043119266055045874,
+            0.03431192660550459,
+            "c",
+            -0.0014678899082568807,
+            0.041100917431192666,
+            0,
+            0.14880733944954128,
+            -0.0001834862385321101,
+            0.23623853211009174,
+            "c",
+            0,
+            0.01669724770642202,
+            -0.00009174311926605505,
+            0.03256880733944954,
+            0,
+            0.04715596330275229
+        ],
+        [
+            "M",
+            0.4924770642201835,
+            0.7086238532110092,
+            "c",
+            0.06605504587155964,
+            -0.005688073394495413,
+            0.17724770642201834,
+            -0.018256880733944953,
+            0.24504587155963303,
+            -0.024220183486238535
+        ],
+        [
+            "M",
+            0.4934862385321101,
+            0.8511926605504587,
+            "c",
+            0.0555045871559633,
+            -0.005229357798165137,
+            0.1746788990825688,
+            -0.017339449541284403,
+            0.2438532110091743,
+            -0.021743119266055048
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to borrow; to have a loan この本をお借りしてもよろしいですか。May I borrow this book?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to rent; to hire ２部屋あるアパートを借りたいのですが。I want to rent an apartment with two rooms."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to borrow; to have a loan この本をお借りしてもよろしいですか。May I borrow this book?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to rent; to hire ２部屋あるアパートを借りたいのですが。I want to rent an apartment with two rooms."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "お",
+                            null
+                        ],
+                        [
+                            "借りして",
+                            "か"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "よろしい",
+                            null
+                        ],
+                        [
+                            "ですか",
+                            null
+                        ]
+                    ],
+                    "translation": "May I borrow this book?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "部屋",
+                            "へや"
+                        ],
+                        [
+                            "ある",
+                            null
+                        ],
+                        [
+                            "アパート",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "借り",
+                            "か"
+                        ],
+                        [
+                            "たい",
+                            null
+                        ],
+                        [
+                            "のです",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ]
+                    ],
+                    "translation": "I want to rent an apartment with two rooms."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "しゃっきん"
+                ],
+                [
+                    "金",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. debt; loan; liabilities; borrowing money "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. number of games under the .500 mark Baseball, Colloquial"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. debt; loan; liabilities; borrowing money "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. number of games under the .500 mark Baseball, Colloquial"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. borrowing; debt; loan "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. borrowing; debt; loan "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "かり"
+                ],
+                [
+                    "入",
+                    "いれ"
+                ],
+                [
+                    "金",
+                    "きん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. loan; loan payable; debt "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借り入れ金 【かりいれきん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "借り入れ金: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. loan; loan payable; debt "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借り入れ金 【かりいれきん】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "借り入れ金: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "しゃく"
+                ],
+                [
+                    "家",
+                    "や"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rented house; house for rent "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借屋 【しゃくや】、借家 【しゃっか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "借屋: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. rented house; house for rent "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借屋 【しゃくや】、借家 【しゃっか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "借屋: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "しゃっかん"
+                ],
+                [
+                    "款",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. loan (esp. between governments) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. loan (esp. between governments) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. borrowing (money) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借入れ 【かりいれ】、借入 【かりいれ】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. borrowing (money) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借入れ 【かりいれ】、借入 【かりいれ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "しゃく"
+                ],
+                [
+                    "用",
+                    "よう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. borrowing; loan "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. borrowing; loan "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "しゃく"
+                ],
+                [
+                    "家",
+                    "や"
+                ],
+                [
+                    "人",
+                    "にん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. tenant; renter "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借家人 【しゃっかにん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. tenant; renter "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借家人 【しゃっかにん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "手",
+                    "て"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. borrower; debtor; tenant "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借手 【かりて】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. borrower; debtor; tenant "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借手 【かりて】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "方",
+                    "かた"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. debtor; debit See also 貸し方"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. way of borrowing "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Debits and credits Debit and credit are the two aspects of every financial t... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借方 【かりかた】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. debtor; debit See also 貸し方"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. way of borrowing "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Debits and credits Debit and credit are the two aspects of every financial t... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借方 【かりかた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "しゃく"
+                ],
+                [
+                    "財",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. loan; debt; liability "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "しゃく"
+                ],
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "書",
+                    "しょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. promissory note; written acknowledgment of debt; IOU "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "着",
+                    "ぎ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. borrowed clothes "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. borrowed clothes "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "しゃく"
+                ],
+                [
+                    "地",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. leased land "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to hire for exclusive use; to reserve; to charter "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借切る 【かりきる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to borrow; to rent; to lease; to charter "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借入れる 【かりいれる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "受",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to borrow; to have a loan; to hire; to rent; to buy on credit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to borrow; to take out "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "物",
+                    "もの"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. borrowed thing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "借物 【かりもの】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "借宿",
+                "かりやど"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Kariyado "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kariyadomae "
+                },
+                {
+                    "type": "Train station",
+                    "meaning": "1. Kariyadomae Station "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "難",
+                    "むずか"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. difficult; hard; troublesome; complicated; serious (disease, problem, etc.) Antonym: 易しい やさしい私は彼女に難しい質問をした。I asked her a difficult question."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. impossible; unfeasible Euphemistic"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. fussy; particular; fastidious; hard to please; displeased "
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "4. gloomy; glum; sullen; serious (look) "
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "5. dirty; unclean; filthy; detestable Archaic"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "6. unpleasant; uncomfortable; creepy; spooky Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "難しい 【むつかしい】、六借しい 【むずかしい】、六借しい 【むつかしい】、六ヶ敷い 【むずかしい】、六ヶ敷い 【むつかしい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "六借しい: Ateji (phonetic) reading, Out-dated kanji or kanji usage. 六借しい: Ateji (phonetic) reading, Out-dated kanji or kanji usage. 六ヶ敷い: Ateji (phonetic) reading, Out-dated kanji or kanji usage. 六ヶ敷い: Ateji (phonetic) reading, Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "難しい",
+                            "むずか"
+                        ],
+                        [
+                            "質問をした",
+                            "しつもん"
+                        ]
+                    ],
+                    "translation": "I asked her a difficult question."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "拝",
+                    "はい"
+                ],
+                [
+                    "借",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. borrowing Humble (kenjougo) language, Polite (teineigo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "貸",
+                    "たい"
+                ],
+                [
+                    "借",
+                    "しゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. loan; debit and credit; lending and borrowing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "前",
+                    "まえ"
+                ],
+                [
+                    "借",
+                    "が"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. getting an advance (on one's salary) See also 前貸し"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "間",
+                    "ま"
+                ],
+                [
+                    "借",
+                    "が"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. renting a room "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "貸",
+                    "か"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. lending and borrowing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "猫",
+                    "ねこ"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "手",
+                    "て"
+                ],
+                [
+                    "も",
+                    null
+                ],
+                [
+                    "借",
+                    "か"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. extremely busy; short-handed; wanting even the help of a cat Idiomatic expression"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "円",
+                    "えん"
+                ],
+                [
+                    "借",
+                    "しゃっかん"
+                ],
+                [
+                    "款",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. international yen loan "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

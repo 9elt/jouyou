@@ -1,0 +1,2028 @@
+{
+    "kanji": "解",
+    "grade": 5,
+    "jlpt": 3,
+    "meanings": [
+        "unravel",
+        "notes",
+        "key",
+        "explanation",
+        "understanding",
+        "untie",
+        "undo",
+        "solve",
+        "answer",
+        "cancel",
+        "absolve",
+        "explain",
+        "minute"
+    ],
+    "kun": [
+        "と.く",
+        "と.かす",
+        "と.ける",
+        "ほど.く",
+        "ほぐ.す",
+        "わか.る",
+        "さと.る"
+    ],
+    "on": [
+        "カイ",
+        "ゲ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.26357798165137614,
+            0.10091743119266056,
+            "c",
+            0.0003669724770642202,
+            0.004495412844036697,
+            0.0017431192660550458,
+            0.011926605504587157,
+            -0.0007339449541284404,
+            0.01798165137614679,
+            "c",
+            -0.017431192660550456,
+            0.041651376146788995,
+            -0.06211009174311926,
+            0.11155963302752293,
+            -0.1389908256880734,
+            0.17238532110091742
+        ],
+        [
+            "M",
+            0.26045871559633027,
+            0.1651376146788991,
+            "c",
+            0.01834862385321101,
+            0,
+            0.09504587155963302,
+            -0.011467889908256881,
+            0.12908256880733945,
+            -0.020642201834862386,
+            "c",
+            0.01981651376146789,
+            -0.005321100917431192,
+            0.029724770642201838,
+            0.010091743119266056,
+            0.01834862385321101,
+            0.02522935779816514,
+            "c",
+            -0.03972477064220183,
+            0.052752293577981654,
+            -0.06385321100917431,
+            0.08256880733944955,
+            -0.1,
+            0.13990825688073394
+        ],
+        [
+            "M",
+            0.16669724770642202,
+            0.33256880733944955,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.011376146788990826,
+            0.0218348623853211,
+            0.01128440366972477,
+            0.036146788990825685,
+            "C",
+            0.17660550458715596,
+            0.5619266055045872,
+            0.17779816513761468,
+            0.7385321100917431,
+            0.0871559633027523,
+            0.8577981651376146
+        ],
+        [
+            "M",
+            0.18871559633027524,
+            0.34357798165137615,
+            "c",
+            0.03834862385321101,
+            -0.006422018348623853,
+            0.19422018348623854,
+            -0.02981651376146789,
+            0.21128440366972479,
+            -0.031743119266055046,
+            "c",
+            0.019724770642201832,
+            -0.002201834862385321,
+            0.0381651376146789,
+            0.01036697247706422,
+            0.0381651376146789,
+            0.0363302752293578,
+            "c",
+            0,
+            0.023394495412844035,
+            0.0011009174311926604,
+            0.3192660550458715,
+            0.0011009174311926604,
+            0.4741284403669725,
+            "c",
+            0,
+            0.1111926605504587,
+            -0.04944954128440367,
+            0.04357798165137615,
+            -0.06816513761467889,
+            0.021743119266055048
+        ],
+        [
+            "M",
+            0.28825688073394495,
+            0.3405504587155963,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.01128440366972477,
+            0.019541284403669725,
+            0.01128440366972477,
+            0.03,
+            "c",
+            0,
+            0.08137614678899081,
+            0.0009174311926605505,
+            0.18000000000000002,
+            0.0009174311926605505,
+            0.23275229357798166
+        ],
+        [
+            "M",
+            0.18642201834862385,
+            0.48256880733944957,
+            "c",
+            0.07155963302752294,
+            -0.010091743119266056,
+            0.16559633027522935,
+            -0.022752293577981652,
+            0.23963302752293578,
+            -0.028440366972477066
+        ],
+        [
+            "M",
+            0.17954128440366973,
+            0.6284403669724771,
+            "c",
+            0.07623853211009175,
+            -0.009174311926605505,
+            0.15761467889908257,
+            -0.020642201834862386,
+            0.2471559633027523,
+            -0.027522935779816515
+        ],
+        [
+            "M",
+            0.5425688073394496,
+            0.17128440366972478,
+            "c",
+            0.013761467889908258,
+            0.003669724770642202,
+            0.03256880733944954,
+            0.0039449541284403665,
+            0.04697247706422018,
+            0.0022935779816513763,
+            "c",
+            0.0763302752293578,
+            -0.008715596330275228,
+            0.19119266055045872,
+            -0.026788990825688072,
+            0.23055045871559632,
+            -0.02944954128440367,
+            "c",
+            0.02724770642201835,
+            -0.001926605504587156,
+            0.034678899082568805,
+            0.01944954128440367,
+            0.033211009174311926,
+            0.0326605504587156,
+            "c",
+            -0.0039449541284403665,
+            0.03486238532110091,
+            -0.035321100917431195,
+            0.1255045871559633,
+            -0.06642201834862385,
+            0.17091743119266053,
+            "c",
+            -0.04146788990825688,
+            0.06064220183486239,
+            -0.048348623853211,
+            0.017064220183486238,
+            -0.06339449541284403,
+            0.0017431192660550458
+        ],
+        [
+            "M",
+            0.6635779816513762,
+            0.1961467889908257,
+            "c",
+            0.0003669724770642202,
+            0.0045871559633027525,
+            -0.0005504587155963302,
+            0.012201834862385321,
+            -0.003119266055045872,
+            0.01853211009174312,
+            "C",
+            0.6376146788990825,
+            0.2706422018348624,
+            0.6055045871559633,
+            0.3256880733944954,
+            0.5412844036697247,
+            0.37522935779816513
+        ],
+        [
+            "M",
+            0.5788990825688074,
+            0.44688073394495414,
+            "c",
+            0.0002752293577981651,
+            0.003577981651376147,
+            0.00045871559633027525,
+            0.009174311926605505,
+            -0.00045871559633027525,
+            0.014220183486238533,
+            "c",
+            -0.005688073394495413,
+            0.030091743119266053,
+            -0.03486238532110091,
+            0.09853211009174312,
+            -0.08339449541284404,
+            0.14779816513761468
+        ],
+        [
+            "M",
+            0.5552293577981652,
+            0.5463302752293577,
+            "c",
+            0.005504587155963302,
+            0.0022935779816513763,
+            0.022477064220183487,
+            0.002660550458715596,
+            0.028073394495412844,
+            0.0022935779816513763,
+            "c",
+            0.0636697247706422,
+            -0.0045871559633027525,
+            0.15045871559633026,
+            -0.016238532110091745,
+            0.21045871559633028,
+            -0.022110091743119266,
+            "c",
+            0.016605504587155963,
+            -0.0016513761467889907,
+            0.036513761467889906,
+            -0.0023853211009174312,
+            0.05348623853211009,
+            0.0005504587155963302
+        ],
+        [
+            "M",
+            0.5123853211009174,
+            0.6785321100917431,
+            "c",
+            0.024311926605504585,
+            0.006146788990825688,
+            0.04743119266055046,
+            0.0021100917431192663,
+            0.06788990825688074,
+            -0.0005504587155963302,
+            "c",
+            0.07853211009174313,
+            -0.01036697247706422,
+            0.1718348623853211,
+            -0.02201834862385321,
+            0.24311926605504589,
+            -0.027522935779816515,
+            "c",
+            0.022110091743119266,
+            -0.0017431192660550458,
+            0.04385321100917432,
+            -0.003577981651376147,
+            0.06559633027522936,
+            0.0011009174311926604
+        ],
+        [
+            "M",
+            0.685045871559633,
+            0.4277981651376147,
+            "c",
+            0.007247706422018349,
+            0.007247706422018349,
+            0.012477064220183487,
+            0.01944954128440367,
+            0.012477064220183487,
+            0.029541284403669727,
+            "c",
+            0,
+            0.004311926605504587,
+            0.0005504587155963302,
+            0.26825688073394494,
+            0.0007339449541284404,
+            0.3900917431192661,
+            "c",
+            0.00009174311926605505,
+            0.029174311926605506,
+            0.00009174311926605505,
+            0.045871559633027525,
+            0.00009174311926605505,
+            0.053944954128440366
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. solution (of an equation, inequality, etc.); root (e.g. of a polynomial) Mathematics以下の方程式の解を求めよ。Find the solution to the following equation."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. solution (to a given problem); answer "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. explanation; interpretation "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "以下",
+                            "いか"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "方程式",
+                            "ほうていしき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "解",
+                            "かい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "求め",
+                            "もと"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "Find the solution to the following equation."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "決",
+                    "けつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. settlement; solution; resolution "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Resolution (music) Resolution in western tonal music theory is the move of a... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. settlement; solution; resolution "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Resolution (music) Resolution in western tonal music theory is the move of a... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "わ"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to understand; to comprehend; to grasp; to see; to get; to follow Usually written using kana alone「博、君の気持ちは分かるよ」とマイクが言います。\"I understand how you feel, Hiroshi,\" says Mike."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. I know!; I think so too! "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "解る 【わかる】、判る 【わかる】、分る 【わかる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to understand; to comprehend; to grasp; to see; to get; to follow Usually written using kana alone「博、君の気持ちは分かるよ」とマイクが言います。\"I understand how you feel, Hiroshi,\" says Mike."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. I know!; I think so too! "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "解る 【わかる】、判る 【わかる】、分る 【わかる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "君の",
+                            "きみ"
+                        ],
+                        [
+                            "気持ち",
+                            "きも"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "分かる",
+                            "わ"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "言います",
+                            "い"
+                        ]
+                    ],
+                    "translation": "\"I understand how you feel, Hiroshi,\" says Mike."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "有名な",
+                            "ゆうめい"
+                        ],
+                        [
+                            "人物",
+                            "じんぶつ"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "いう",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "わかります",
+                            null
+                        ]
+                    ],
+                    "translation": "I understand that he's something of a famous personality."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "放",
+                    "ほう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. release; unleashing; liberation; emancipation; setting free "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. deallocation (of computer memory) Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Emancipation Emancipation is a broad term used to describe various eff... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. release; unleashing; liberation; emancipation; setting free "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. deallocation (of computer memory) Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Emancipation Emancipation is a broad term used to describe various eff... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "除",
+                    "じょ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. termination (of a contract); cancellation; rescinding; rescission "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. lifting (of a ban, sanctions, etc.); removal; release (from obligations); cancellation (of a warning, alert, etc.); calling off (e.g. a strike); releasing (a lock) 貿易障壁は戦争終結後解除されました。Trade barriers were lifted after the war ended."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Rescission In contract law, rescission has been defined as the unmak... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. termination (of a contract); cancellation; rescinding; rescission "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. lifting (of a ban, sanctions, etc.); removal; release (from obligations); cancellation (of a warning, alert, etc.); calling off (e.g. a strike); releasing (a lock) 貿易障壁は戦争終結後解除されました。Trade barriers were lifted after the war ended."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Rescission In contract law, rescission has been defined as the unmak... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "貿易障壁",
+                            "ぼうえきしょうへき"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "戦争",
+                            "せんそう"
+                        ],
+                        [
+                            "終結",
+                            "しゅうけつ"
+                        ],
+                        [
+                            "後",
+                            "あと"
+                        ],
+                        [
+                            "解除",
+                            "かいじょ"
+                        ],
+                        [
+                            "されました",
+                            null
+                        ]
+                    ],
+                    "translation": "Trade barriers were lifted after the war ended."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "釈",
+                    "しゃく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. interpretation; explanation; reading; construction "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. interpretation; explanation; reading; construction "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "と"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to untie; to unfasten; to unwrap; to undo; to unbind; to unpack "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "2. to unsew; to unstitch "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "3. to solve; to work out; to answer この医師はガンの多くの不可解な点を解こうと努力している。The doctor is trying to solve many of the riddles of cancer."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "4. to dispel (misunderstanding, etc.); to clear up; to remove (suspicion); to appease 彼は重責を解かれた。He was relieved of his heavy responsibility."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "5. to dissolve (a contract); to cancel; to remove (a prohibition); to lift (a ban); to raise (a siege) "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "6. to release (from duty); to relieve; to dismiss "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "7. to comb (out); to card; to untangle (hair) Usually written using kana alone, See also とかす, also written as 梳く彼女は髪をくしでといてリボンで結んだ。She combed her hair and bound it with a ribbon."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to undo; to untie; to unfasten; to unlace; to unravel; to loosen; to unpack Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to untie; to unfasten; to unwrap; to undo; to unbind; to unpack "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "2. to unsew; to unstitch "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "3. to solve; to work out; to answer この医師はガンの多くの不可解な点を解こうと努力している。The doctor is trying to solve many of the riddles of cancer."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "4. to dispel (misunderstanding, etc.); to clear up; to remove (suspicion); to appease 彼は重責を解かれた。He was relieved of his heavy responsibility."
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "5. to dissolve (a contract); to cancel; to remove (a prohibition); to lift (a ban); to raise (a siege) "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "6. to release (from duty); to relieve; to dismiss "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "7. to comb (out); to card; to untangle (hair) Usually written using kana alone, See also とかす, also written as 梳く彼女は髪をくしでといてリボンで結んだ。She combed her hair and bound it with a ribbon."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "医師",
+                            "いし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ガン",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "多く",
+                            "おお"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "不可解な",
+                            "ふかかい"
+                        ],
+                        [
+                            "点",
+                            "てん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "解こう",
+                            "と"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "努力",
+                            "どりょく"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "The doctor is trying to solve many of the riddles of cancer."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "重責",
+                            "じゅうせき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "解かれた",
+                            "と"
+                        ]
+                    ],
+                    "translation": "He was relieved of his heavy responsibility."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "髪",
+                            "かみ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "くし",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "といて",
+                            null
+                        ],
+                        [
+                            "リボン",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "結んだ",
+                            "むす"
+                        ]
+                    ],
+                    "translation": "She combed her hair and bound it with a ribbon."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "と"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to be solved; to be resolved いちばん頭の良い生徒でさえ、その問題は解けなかった。Even the brightest student couldn't solve the problem."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to loosen; to come untied; to come undone See also 解ける ほどける靴ひもがとけた。My shoelaces came undone."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to be removed (of restrictions); to be lifted (e.g. a ban); to be broken (spells, curses, etc.) そのおかげで誤解が解ける。It removes misunderstandings."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to dissipate (of anger, tension, etc.); to melt away; to ease; to be appeased; to be resolved (of a dispute, misunderstanding, etc.); to be cleared up 固体が解けると液体になる。When a solid melts, it becomes liquid."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to be solved; to be resolved いちばん頭の良い生徒でさえ、その問題は解けなかった。Even the brightest student couldn't solve the problem."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to loosen; to come untied; to come undone See also 解ける ほどける靴ひもがとけた。My shoelaces came undone."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to be removed (of restrictions); to be lifted (e.g. a ban); to be broken (spells, curses, etc.) そのおかげで誤解が解ける。It removes misunderstandings."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to dissipate (of anger, tension, etc.); to melt away; to ease; to be appeased; to be resolved (of a dispute, misunderstanding, etc.); to be cleared up 固体が解けると液体になる。When a solid melts, it becomes liquid."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "いちばん",
+                            null
+                        ],
+                        [
+                            "頭",
+                            "あたま"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "良い",
+                            "よ"
+                        ],
+                        [
+                            "生徒",
+                            "せいと"
+                        ],
+                        [
+                            "でさえ",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "問題",
+                            "もんだい"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "解けなかった",
+                            "と"
+                        ]
+                    ],
+                    "translation": "Even the brightest student couldn't solve the problem."
+                },
+                {
+                    "sentence": [
+                        [
+                            "靴ひも",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "とけた",
+                            null
+                        ]
+                    ],
+                    "translation": "My shoelaces came undone."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "おかげで",
+                            null
+                        ],
+                        [
+                            "誤解",
+                            "ごかい"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "解ける",
+                            "と"
+                        ]
+                    ],
+                    "translation": "It removes misunderstandings."
+                },
+                {
+                    "sentence": [
+                        [
+                            "固体",
+                            "こたい"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "解ける",
+                            "と"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "液体",
+                            "えきたい"
+                        ],
+                        [
+                            "になる",
+                            null
+                        ]
+                    ],
+                    "translation": "When a solid melts, it becomes liquid."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "散",
+                    "さん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. breaking up (a meeting, gathering, etc.); dispersal (e.g. of a crowd) 警察は、群衆を解散させた。The police broke up the crowd."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. dissolution (of a company, organization, etc.); winding-up; disbandment; split-up "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "3. dissolution (of the Diet, Parliament, etc.) 首相は国会を解散した。The prime minister dissolved the Diet."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. breaking up (a meeting, gathering, etc.); dispersal (e.g. of a crowd) 警察は、群衆を解散させた。The police broke up the crowd."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. dissolution (of a company, organization, etc.); winding-up; disbandment; split-up "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "3. dissolution (of the Diet, Parliament, etc.) 首相は国会を解散した。The prime minister dissolved the Diet."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "警察",
+                            "けいさつ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "群衆",
+                            "ぐんしゅう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "解散",
+                            "かいさん"
+                        ],
+                        [
+                            "させた",
+                            null
+                        ]
+                    ],
+                    "translation": "The police broke up the crowd."
+                },
+                {
+                    "sentence": [
+                        [
+                            "首相",
+                            "しゅしょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "国会",
+                            "こっかい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "解散",
+                            "かいさん"
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "The prime minister dissolved the Diet."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "答",
+                    "とう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. answer; solution "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. answer; solution "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "説",
+                    "せつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. explanation; commentary; exposition; elucidation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. explanation; commentary; exposition; elucidation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溶",
+                    "と"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to melt; to thaw; to fuse 熔ける, 鎔ける only used for metals; 解ける only used for ice and snow"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to dissolve 砂糖は水に溶ける。Sugar dissolves in water."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "融ける 【とける】、解ける 【とける】、熔ける 【とける】、鎔ける 【とける】"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to melt; to thaw; to fuse 熔ける, 鎔ける only used for metals; 解ける only used for ice and snow"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to dissolve 砂糖は水に溶ける。Sugar dissolves in water."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "融ける 【とける】、解ける 【とける】、熔ける 【とける】、鎔ける 【とける】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "砂糖",
+                            "さとう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "水",
+                            "みず"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "溶ける",
+                            "と"
+                        ]
+                    ],
+                    "translation": "Sugar dissolves in water."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "溶",
+                    "と"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to melt into; to dissolve into; to merge into "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to blend into (surroundings); to fit in; to adapt to; to integrate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "解け込む 【とけこむ】、融け込む 【とけこむ】、溶込む 【とけこむ】、解込む 【とけこむ】、溶けこむ 【とけこむ】、とけ込む 【とけこむ】"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to melt into; to dissolve into; to merge into "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to blend into (surroundings); to fit in; to adapt to; to integrate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "解け込む 【とけこむ】、融け込む 【とけこむ】、溶込む 【とけこむ】、解込む 【とけこむ】、溶けこむ 【とけこむ】、とけ込む 【とけこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "溶",
+                    "と"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to dissolve Only applies to 溶かす, Only applies to 解かす, Only applies to 融かす砂糖をお湯で溶かしなさい。Dissolve sugar in hot water."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to melt 熔かす and 鎔かす are used for metalポップコーンに溶かしバターをかけてください。Pour melted butter over the popcorn."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "解かす 【とかす】、融かす 【とかす】、熔かす 【とかす】、鎔かす 【とかす】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to dissolve Only applies to 溶かす, Only applies to 解かす, Only applies to 融かす砂糖をお湯で溶かしなさい。Dissolve sugar in hot water."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to melt 熔かす and 鎔かす are used for metalポップコーンに溶かしバターをかけてください。Pour melted butter over the popcorn."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "解かす 【とかす】、融かす 【とかす】、熔かす 【とかす】、鎔かす 【とかす】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "砂糖",
+                            "さとう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "お湯",
+                            "おゆ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "溶かしなさい",
+                            "と"
+                        ]
+                    ],
+                    "translation": "Dissolve sugar in hot water."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ポップコーン",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "溶かし",
+                            "と"
+                        ],
+                        [
+                            "バター",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "かけて",
+                            null
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "Pour melted butter over the popcorn."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "剖",
+                    "ぼう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. dissection; autopsy; postmortem examination 死体解剖の結果、絞殺と判明しました。The postmortem showed that she had been strangled."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. analysis; postmortem "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "死体",
+                            "したい"
+                        ],
+                        [
+                            "解剖",
+                            "かいぼう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "結果",
+                            "けっか"
+                        ],
+                        [
+                            "絞殺",
+                            "こうさつ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "判明",
+                            "はんめい"
+                        ],
+                        [
+                            "しました",
+                            null
+                        ]
+                    ],
+                    "translation": "The postmortem showed that she had been strangled."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "雇",
+                    "こ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. dismissal (of an employee); discharge; firing; layoff "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Termination of employment Involuntary termination is the employee's departure at th... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "読",
+                    "どく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. deciphering; decoding "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Decipherment Decipherment is the analysis of documents written in anci... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "像",
+                    "ぞう"
+                ],
+                [
+                    "度",
+                    "ど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. resolution (of a display, printer, scanner, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Image resolution Image resolution is an umbrella term that describes the d... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "解",
+                    "かい"
+                ],
+                [
+                    "剖",
+                    "ぼう"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. anatomy "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Anatomy Anatomy is a branch of biology and medicine that is the c... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "解",
+                "かい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname, Given name, gender not specified",
+                    "meaning": "1. Kai "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "解",
+                "さとる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Satoru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "解",
+                "しえ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Shie "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "理",
+                    "り"
+                ],
+                [
+                    "解",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. understanding; comprehension; appreciation "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. sympathy "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Understanding Understanding is a psychological process related to an ab... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "誤",
+                    "ご"
+                ],
+                [
+                    "解",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. misunderstanding "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "見",
+                    "けん"
+                ],
+                [
+                    "解",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. opinion; point of view "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "解",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. disassembly; dismantling; disaggregating; taking apart; breaking up; analysis; parsing 時計を分解するのは組み立てるより簡単だ。Taking a watch apart is easier than putting it together."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "2. decomposition; resolution; disintegration; degradation Chemistry水は酸素と水素に分解できる。Water can be decomposed into oxygen and hydrogen."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. factorization Mathematics"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "時計",
+                            "とけい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "分解",
+                            "ぶんかい"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "組み立てる",
+                            "くみた"
+                        ],
+                        [
+                            "より",
+                            null
+                        ],
+                        [
+                            "簡単",
+                            "かんたん"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "Taking a watch apart is easier than putting it together."
+                },
+                {
+                    "sentence": [
+                        [
+                            "水",
+                            "みず"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "酸素",
+                            "さんそ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "水素",
+                            "すいそ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "分解",
+                            "ぶんかい"
+                        ],
+                        [
+                            "できる",
+                            null
+                        ]
+                    ],
+                    "translation": "Water can be decomposed into oxygen and hydrogen."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "弁",
+                    "べん"
+                ],
+                [
+                    "解",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. explanation (e.g. for one's actions); excuse; justification; defense; defence "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "辯解 【べんかい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "辯解: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "了",
+                    "りょう"
+                ],
+                [
+                    "解",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. OK; roger 「とりあえず店の前、掃除しといてくれ」「了解！」「打ち水も頼む」\"Clean up in front of the shop first.\" \"OK!\" \"Sprinkle some water out there too.\""
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "諒解 【りょうかい】、領解 【りょうかい】、領会 【りょうかい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "諒解: Rarely-used kanji form. 領解: Rarely-used kanji form. 領会: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ゆっくり",
+                            null
+                        ],
+                        [
+                            "うなずいて",
+                            null
+                        ],
+                        [
+                            "了解",
+                            "りょうかい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "意",
+                            "い"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "示した",
+                            "しめ"
+                        ]
+                    ],
+                    "translation": "He nodded slowly in comprehension."
+                },
+                {
+                    "sentence": [
+                        [
+                            "とりあえず",
+                            null
+                        ],
+                        [
+                            "店",
+                            "みせ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "前",
+                            "まえ"
+                        ],
+                        [
+                            "掃除",
+                            "そうじ"
+                        ],
+                        [
+                            "し",
+                            null
+                        ],
+                        [
+                            "といて",
+                            null
+                        ],
+                        [
+                            "くれ",
+                            null
+                        ],
+                        [
+                            "了解",
+                            "りょうかい"
+                        ],
+                        [
+                            "打ち水",
+                            "うちみず"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "頼む",
+                            "たの"
+                        ]
+                    ],
+                    "translation": "\"Clean up in front of the shop first.\" \"OK!\" \"Sprinkle some water out there too.\""
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "正",
+                    "せい"
+                ],
+                [
+                    "解",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. correct answer; right solution; correct interpretation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. right decision; right choice; appropriate judgement "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

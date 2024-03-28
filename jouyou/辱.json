@@ -1,0 +1,866 @@
+{
+    "kanji": "辱",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "embarrass",
+        "humiliate",
+        "shame"
+    ],
+    "kun": [
+        "はずかし.める"
+    ],
+    "on": [
+        "ジョク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.24880733944954128,
+            0.1446788990825688,
+            "c",
+            0.02532110091743119,
+            0.0076146788990825685,
+            0.04899082568807339,
+            0.005137614678899083,
+            0.07477064220183487,
+            0.0017431192660550458,
+            "c",
+            0.11146788990825689,
+            -0.014862385321100919,
+            0.2841284403669725,
+            -0.030917431192660553,
+            0.3588990825688073,
+            -0.03660550458715597,
+            "c",
+            0.024403669724770642,
+            -0.001834862385321101,
+            0.04706422018348624,
+            -0.002018348623853211,
+            0.07119266055045871,
+            0.0022935779816513763
+        ],
+        [
+            "M",
+            0.26229357798165137,
+            0.151651376146789,
+            "c",
+            0.006880733944954129,
+            0.006880733944954129,
+            0.008440366972477065,
+            0.015045871559633026,
+            0.008440366972477065,
+            0.02853211009174312,
+            "c",
+            0,
+            0.08697247706422019,
+            -0.02073394495412844,
+            0.22577981651376147,
+            -0.12853211009174312,
+            0.3330275229357798
+        ],
+        [
+            "M",
+            0.37394495412844037,
+            0.2218348623853211,
+            "c",
+            0.016055045871559634,
+            0.005504587155963302,
+            0.03963302752293578,
+            0.004495412844036697,
+            0.056330275229357796,
+            0.0025688073394495416,
+            "c",
+            0.05385321100917431,
+            -0.006330275229357797,
+            0.13770642201834862,
+            -0.016422018348623852,
+            0.18807339449541285,
+            -0.02238532110091743,
+            "c",
+            0.016422018348623852,
+            -0.001926605504587156,
+            0.03311926605504587,
+            -0.003669724770642202,
+            0.048715596330275224,
+            -0.0012844036697247708
+        ],
+        [
+            "M",
+            0.29155963302752297,
+            0.31889908256880733,
+            "c",
+            0.029541284403669727,
+            0.005688073394495413,
+            0.05733944954128441,
+            0.002752293577981651,
+            0.08137614678899081,
+            0.0005504587155963302,
+            "c",
+            0.09577981651376147,
+            -0.008807339449541284,
+            0.28366972477064223,
+            -0.028073394495412844,
+            0.3679816513761468,
+            -0.03394495412844037,
+            "c",
+            0.026055045871559632,
+            -0.001834862385321101,
+            0.054220183486238534,
+            -0.004220183486238533,
+            0.08,
+            0.0010091743119266055
+        ],
+        [
+            "M",
+            0.3553211009174312,
+            0.33522935779816515,
+            "c",
+            0.00908256880733945,
+            0.00908256880733945,
+            0.012385321100917432,
+            0.02256880733944954,
+            0.012385321100917432,
+            0.03743119266055046,
+            "c",
+            0,
+            0.029908256880733942,
+            -0.0007339449541284404,
+            0.12844036697247707,
+            -0.0007339449541284404,
+            0.14339449541284405,
+            "c",
+            0,
+            0.014954128440366971,
+            0.011376146788990826,
+            0.02220183486238532,
+            0.03,
+            0.01091743119266055,
+            "c",
+            0.01862385321100917,
+            -0.011192660550458715,
+            0.0720183486238532,
+            -0.04761467889908257,
+            0.12220183486238533,
+            -0.08
+        ],
+        [
+            "M",
+            0.6781651376146789,
+            0.32697247706422017,
+            "c",
+            0.0009174311926605505,
+            0.005596330275229358,
+            -0.0005504587155963302,
+            0.010458715596330274,
+            -0.004403669724770642,
+            0.014678899082568808,
+            "c",
+            -0.01073394495412844,
+            0.017614678899082567,
+            -0.024495412844036696,
+            0.03275229357798165,
+            -0.04963302752293578,
+            0.055412844036697245
+        ],
+        [
+            "M",
+            0.49275229357798167,
+            0.3567889908256881,
+            "c",
+            0.03752293577981651,
+            0.004495412844036697,
+            0.16036697247706422,
+            0.09944954128440367,
+            0.23541284403669724,
+            0.14596330275229358,
+            "c",
+            0.028715596330275227,
+            0.017798165137614678,
+            0.0481651376146789,
+            0.028165137614678898,
+            0.08376146788990826,
+            0.0408256880733945
+        ],
+        [
+            "M",
+            0.15770642201834864,
+            0.6454128440366972,
+            "c",
+            0.0326605504587156,
+            0.008256880733944955,
+            0.06798165137614678,
+            0.0074311926605504595,
+            0.09706422018348623,
+            0.004678899082568807,
+            "c",
+            0.15458715596330277,
+            -0.014678899082568808,
+            0.3507339449541284,
+            -0.025045871559633028,
+            0.5182568807339449,
+            -0.03357798165137615,
+            "c",
+            0.03302752293577982,
+            -0.0016513761467889907,
+            0.0698165137614679,
+            -0.0006422018348623854,
+            0.09688073394495414,
+            0.005412844036697248
+        ],
+        [
+            "M",
+            0.6093577981651376,
+            0.5007339449541284,
+            "c",
+            0.011467889908256881,
+            0.011467889908256881,
+            0.01275229357798165,
+            0.02330275229357798,
+            0.01275229357798165,
+            0.04155963302752294,
+            "c",
+            0,
+            0.17036697247706423,
+            0.0001834862385321101,
+            0.27165137614678897,
+            0.0001834862385321101,
+            0.3131192660550459,
+            "c",
+            0,
+            0.10055045871559634,
+            -0.06045871559633027,
+            0.014862385321100919,
+            -0.07880733944954128,
+            0.0021100917431192663
+        ],
+        [
+            "M",
+            0.388348623853211,
+            0.7055045871559633,
+            "c",
+            0.024495412844036696,
+            0.0163302752293578,
+            0.06321100917431192,
+            0.06724770642201836,
+            0.06935779816513761,
+            0.09275229357798165
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "恥",
+                    "はじ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shame; embarrassment; disgrace "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "辱 【はじ】、羞 【はじ】、耻 【はじ】、恥じ 【はじ】、辱 【じょく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "恥じ: Irregular okurigana usage. じょく: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. shame; embarrassment; disgrace "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "辱 【はじ】、羞 【はじ】、耻 【はじ】、恥じ 【はじ】、辱 【じょく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "恥じ: Irregular okurigana usage. じょく: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "忝",
+                    "かたじけな"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. grateful; indebted Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "辱い 【かたじけない】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "辱い: Rarely-used kanji form."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. grateful; indebted Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "辱い 【かたじけない】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "辱い: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "辱",
+                    "はずかし"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to put to shame; to humiliate; to disgrace; to insult "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to rape; to assault; to violate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "辱しめる 【はずかしめる】、恥ずかしめる 【はずかしめる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "辱しめる: Irregular okurigana usage. 恥ずかしめる: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "辱",
+                    "じょく"
+                ],
+                [
+                    "知",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. acquaintance "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "辱",
+                    "はずかし"
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shame; disgrace "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. raping; rape "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "辱しめ 【はずかしめ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "辱しめ: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. shame; disgrace "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. raping; rape "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "辱しめ 【はずかしめ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "辱しめ: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. insult; affront; slight; contempt (e.g. of court) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くつ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. disgrace; humiliation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "雪",
+                    "せつ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. vindication of honour; vindication of honor; making up for loss; revenge "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恥",
+                    "ち"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. disgrace; shame; insult "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "廷",
+                    "てい"
+                ],
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ],
+                [
+                    "罪",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (crime of) contempt of court "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Contempt of court Contempt of court is a court order which, in the context ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くつ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ],
+                [
+                    "感",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sense of humiliation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "雪",
+                    "せつ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ],
+                [
+                    "戦",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. return match "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くつ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. humiliating "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "陵",
+                    "りょう"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. insult; affront; disgrace; indignity "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. sexual assault; rape "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "凌辱 【りょうじょく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. insulting; offensive "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "屈",
+                    "くつ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "日",
+                    "ひ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun",
+                    "meaning": "1. day of disgrace (in Okinawa; April 28, after the day in 1952 in which the US occupation of mainland Japan, but not Okinawa, ended) Historical term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "行",
+                    "ぎょう"
+                ],
+                [
+                    "者",
+                    "じゃ"
+                ],
+                [
+                    "忍",
+                    "にん"
+                ],
+                [
+                    "辱",
+                    "にく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Alpine leek (Allium victorialis var. platyphyllum) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "行者葫 【ぎょうじゃにんにく】、ギョウジャニンニク"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "栄",
+                    "えい"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. honor and-or shame (honour) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "忍",
+                    "にん"
+                ],
+                [
+                    "辱",
+                    "にく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. forbearance (in the face of difficulty, persecution, etc.) Buddhism"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. garlic Rare term, See also にんにく"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "汚",
+                    "お"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. disgrace; humiliation; insult "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "国",
+                    "こく"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. national disgrace "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "法",
+                    "ほう"
+                ],
+                [
+                    "廷",
+                    "てい"
+                ],
+                [
+                    "侮",
+                    "ぶ"
+                ],
+                [
+                    "辱",
+                    "じょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. contempt of court "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

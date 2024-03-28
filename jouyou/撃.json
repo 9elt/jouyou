@@ -1,0 +1,1600 @@
+{
+    "kanji": "撃",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "beat",
+        "attack",
+        "defeat",
+        "conquer"
+    ],
+    "kun": [
+        "う.つ"
+    ],
+    "on": [
+        "ゲキ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.18018348623853211,
+            0.18385321100917432,
+            "c",
+            0.010275229357798166,
+            0.004311926605504587,
+            0.028990825688073395,
+            0.003853211009174312,
+            0.04,
+            0.003119266055045872,
+            "c",
+            0.06834862385321101,
+            -0.005045871559633028,
+            0.1336697247706422,
+            -0.01651376146788991,
+            0.1961467889908257,
+            -0.02220183486238532,
+            "c",
+            0.01128440366972477,
+            -0.0010091743119266055,
+            0.021009174311926605,
+            -0.001834862385321101,
+            0.031926605504587154,
+            0.0009174311926605505
+        ],
+        [
+            "M",
+            0.17724770642201834,
+            0.2592660550458716,
+            "c",
+            0.007064220183486239,
+            0.007064220183486239,
+            0.011009174311926604,
+            0.021192660550458715,
+            0.012385321100917432,
+            0.028715596330275227,
+            "c",
+            0.004311926605504587,
+            0.023853211009174313,
+            0.012477064220183487,
+            0.06064220183486239,
+            0.01724770642201835,
+            0.09926605504587156,
+            "c",
+            0.0014678899082568807,
+            0.01165137614678899,
+            0.0029357798165137615,
+            0.023027522935779813,
+            0.004495412844036697,
+            0.03330275229357798
+        ],
+        [
+            "M",
+            0.19495412844036697,
+            0.26724770642201834,
+            "c",
+            0.05412844036697248,
+            -0.004862385321100918,
+            0.16596330275229357,
+            -0.023577981651376145,
+            0.22018348623853212,
+            -0.02834862385321101,
+            "c",
+            0.024770642201834864,
+            -0.002201834862385321,
+            0.043119266055045874,
+            0.005688073394495413,
+            0.03834862385321101,
+            0.0344954128440367,
+            "c",
+            -0.004220183486238533,
+            0.025779816513761468,
+            -0.014770642201834864,
+            0.05889908256880734,
+            -0.024128440366972478,
+            0.09302752293577982,
+            "c",
+            -0.002660550458715596,
+            0.009724770642201836,
+            -0.005412844036697248,
+            0.01944954128440367,
+            -0.008073394495412844,
+            0.028715596330275227
+        ],
+        [
+            "M",
+            0.2093577981651376,
+            0.3351376146788991,
+            "c",
+            0.06128440366972477,
+            -0.00834862385321101,
+            0.15761467889908257,
+            -0.022110091743119266,
+            0.22431192660550459,
+            -0.025779816513761468
+        ],
+        [
+            "M",
+            0.21853211009174311,
+            0.4029357798165138,
+            "c",
+            0.05348623853211009,
+            -0.005688073394495413,
+            0.12660550458715597,
+            -0.01651376146788991,
+            0.19587155963302755,
+            -0.020275229357798165
+        ],
+        [
+            "M",
+            0.1314678899082569,
+            0.48192660550458716,
+            "c",
+            0.013761467889908258,
+            0.0081651376146789,
+            0.039449541284403665,
+            0.005504587155963302,
+            0.05440366972477064,
+            0.003853211009174312,
+            "c",
+            0.07009174311926605,
+            -0.007522935779816513,
+            0.18669724770642204,
+            -0.022935779816513763,
+            0.24990825688073393,
+            -0.03055045871559633,
+            "c",
+            0.01330275229357798,
+            -0.001559633027522936,
+            0.027522935779816515,
+            -0.004495412844036697,
+            0.04055045871559633,
+            0.0001834862385321101
+        ],
+        [
+            "M",
+            0.30862385321100916,
+            0.10440366972477065,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.010183486238532111,
+            0.017155963302752295,
+            0.010183486238532111,
+            0.02743119266055046,
+            "c",
+            0,
+            0.004495412844036697,
+            0.0007339449541284404,
+            0.2584403669724771,
+            0.0010091743119266055,
+            0.3601834862385321,
+            "c",
+            0.00009174311926605505,
+            0.024311926605504585,
+            0.00009174311926605505,
+            0.03990825688073394,
+            0.00009174311926605505,
+            0.04137614678899083
+        ],
+        [
+            "M",
+            0.5561467889908257,
+            0.1289908256880734,
+            "c",
+            0.004311926605504587,
+            0.004311926605504587,
+            0.007064220183486239,
+            0.012568807339449543,
+            0.006605504587155963,
+            0.018256880733944953,
+            "c",
+            -0.004220183486238533,
+            0.054587155963302755,
+            -0.01798165137614679,
+            0.10504587155963302,
+            -0.060275229357798166,
+            0.14587155963302753
+        ],
+        [
+            "M",
+            0.5695412844036697,
+            0.14220183486238533,
+            "c",
+            0.034770642201834866,
+            -0.0045871559633027525,
+            0.07495412844036697,
+            -0.011467889908256881,
+            0.1051376146788991,
+            -0.015412844036697248,
+            "c",
+            0.01669724770642202,
+            -0.002201834862385321,
+            0.024403669724770642,
+            0.009816513761467891,
+            0.022752293577981652,
+            0.02,
+            "c",
+            -0.0032110091743119264,
+            0.02,
+            -0.00944954128440367,
+            0.04935779816513761,
+            -0.00944954128440367,
+            0.06935779816513761,
+            "c",
+            0,
+            0.03954128440366972,
+            0.003577981651376147,
+            0.04321100917431193,
+            0.06394495412844037,
+            0.04321100917431193,
+            "c",
+            0.06330275229357799,
+            0,
+            0.06623853211009174,
+            -0.011743119266055046,
+            0.06623853211009174,
+            -0.0555045871559633
+        ],
+        [
+            "M",
+            0.5405504587155964,
+            0.32513761467889907,
+            "c",
+            0.009357798165137614,
+            0.0017431192660550458,
+            0.010550458715596329,
+            0.004311926605504587,
+            0.029357798165137616,
+            0.0017431192660550458,
+            "s",
+            0.11605504587155964,
+            -0.01669724770642202,
+            0.1289908256880734,
+            -0.01908256880733945,
+            "c",
+            0.02128440366972477,
+            -0.003853211009174312,
+            0.03128440366972477,
+            0.012477064220183487,
+            0.019908256880733943,
+            0.02596330275229358,
+            "c",
+            -0.06853211009174312,
+            0.08146788990825689,
+            -0.14981651376146787,
+            0.1361467889908257,
+            -0.26238532110091745,
+            0.17926605504587156
+        ],
+        [
+            "M",
+            0.5153211009174312,
+            0.3771559633027523,
+            "c",
+            0.04128440366972477,
+            0,
+            0.14339449541284405,
+            0.07587155963302752,
+            0.2408256880733945,
+            0.11880733944954128,
+            "c",
+            0.021009174311926605,
+            0.00926605504587156,
+            0.0426605504587156,
+            0.018256880733944953,
+            0.06495412844036698,
+            0.023944954128440367
+        ],
+        [
+            "M",
+            0.6101834862385321,
+            0.5022935779816514,
+            "c",
+            -0.00009174311926605505,
+            0.009174311926605505,
+            -0.0081651376146789,
+            0.015871559633027523,
+            -0.019908256880733943,
+            0.020642201834862386,
+            "c",
+            -0.03981651376146789,
+            0.016055045871559634,
+            -0.1155045871559633,
+            0.04128440366972477,
+            -0.25862385321100917,
+            0.07165137614678899
+        ],
+        [
+            "M",
+            0.27082568807339447,
+            0.6602752293577981,
+            "c",
+            0.022935779816513763,
+            0.0076146788990825685,
+            0.051192660550458714,
+            0.0028440366972477065,
+            0.07440366972477064,
+            -0.0006422018348623854,
+            "c",
+            0.0928440366972477,
+            -0.013944954128440367,
+            0.17660550458715596,
+            -0.02311926605504587,
+            0.30954128440366974,
+            -0.038256880733944953,
+            "c",
+            0.029724770642201838,
+            -0.0033944954128440367,
+            0.06321100917431192,
+            -0.004311926605504587,
+            0.09458715596330276,
+            -0.0013761467889908255
+        ],
+        [
+            "M",
+            0.19275229357798165,
+            0.7576146788990825,
+            "c",
+            0.018256880733944953,
+            0.006697247706422018,
+            0.04412844036697247,
+            0.0029357798165137615,
+            0.06293577981651377,
+            0.0007339449541284404,
+            "c",
+            0.09339449541284403,
+            -0.01110091743119266,
+            0.3487155963302752,
+            -0.041651376146788995,
+            0.49311926605504586,
+            -0.048348623853211,
+            "c",
+            0.024220183486238535,
+            -0.0011009174311926604,
+            0.05229357798165138,
+            -0.0016513761467889907,
+            0.07614678899082569,
+            0.003577981651376147
+        ],
+        [
+            "M",
+            0.4904587155963303,
+            0.5762385321100918,
+            "C",
+            0.5504587155963303,
+            0.6307339449541285,
+            0.555045871559633,
+            0.7706422018348624,
+            0.5277981651376147,
+            0.8662385321100917,
+            "c",
+            -0.014587155963302753,
+            0.0510091743119266,
+            -0.05302752293577982,
+            0.032844036697247704,
+            -0.07605504587155963,
+            0.0003669724770642202
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "打",
+                    "ぶ"
+                ],
+                [
+                    "つ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'tsu' ending, Transitive verb",
+                    "meaning": "1. to hit (someone); to strike; to beat Usually written using kana aloneぶたれて耳鳴りがした。My ears were ringing from being beaten."
+                },
+                {
+                    "type": "Godan verb with 'tsu' ending, Transitive verb",
+                    "meaning": "2. to make (a speech); to give (an address) Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'tsu' ending, Transitive verb",
+                    "meaning": "3. to gamble Usually written using kana alone, Dated term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "撃つ 【ぶつ】、撲つ 【ぶつ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "撃つ: Rarely-used kanji form. 撲つ: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'tsu' ending, Transitive verb",
+                    "meaning": "1. to hit (someone); to strike; to beat Usually written using kana aloneぶたれて耳鳴りがした。My ears were ringing from being beaten."
+                },
+                {
+                    "type": "Godan verb with 'tsu' ending, Transitive verb",
+                    "meaning": "2. to make (a speech); to give (an address) Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'tsu' ending, Transitive verb",
+                    "meaning": "3. to gamble Usually written using kana alone, Dated term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "撃つ 【ぶつ】、撲つ 【ぶつ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "撃つ: Rarely-used kanji form. 撲つ: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ぶたれて",
+                            null
+                        ],
+                        [
+                            "耳鳴り",
+                            "みみな"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "した",
+                            null
+                        ]
+                    ],
+                    "translation": "My ears were ringing from being beaten."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "げき"
+                ],
+                [
+                    "墜",
+                    "つい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. shooting down (aircraft) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. shooting down (aircraft) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "う"
+                ],
+                [
+                    "つ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'tsu' ending, Transitive verb",
+                    "meaning": "1. to shoot (a gun, person, etc.); to fire "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "射つ 【うつ】"
+                },
+                {
+                    "type": "Godan verb with 'tsu' ending, Transitive verb",
+                    "meaning": "1. to shoot (a gun, person, etc.); to fire "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "射つ 【うつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. gunfight; exchange of shots; firefight "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "撃合い 【うちあい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. gunfight; exchange of shots; firefight "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "撃合い 【うちあい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "破",
+                    "やぶ"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to break; to smash; to defeat; to destroy; to eliminate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "討ち破る 【うちやぶる】、打破る 【うちやぶる】、撃ち破る 【うちやぶる】、うち破る 【うちやぶる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to break; to smash; to defeat; to destroy; to eliminate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "討ち破る 【うちやぶる】、打破る 【うちやぶる】、撃ち破る 【うちやぶる】、うち破る 【うちやぶる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "げき"
+                ],
+                [
+                    "破",
+                    "は"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. crushing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "げき"
+                ],
+                [
+                    "退",
+                    "たい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. repulse; repelling (e.g. the enemy); driving back "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to kill (with a weapon); to slay "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to defeat (an opponent); to beat "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to get (a batter) out Baseball, Only applies to 打ち取る, Only applies to 打ちとるスミスはジョーンズを三振に打ちとった。Smith struck Jones out."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "討ち取る 【うちとる】、打ちとる 【うちとる】、討ちとる 【うちとる】、打取る 【うちとる】、討取る 【うちとる】、撃ち取る 【うちとる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "撃ち取る: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "三振",
+                            "さんしん"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "打ちとった",
+                            "うちと"
+                        ]
+                    ],
+                    "translation": "Smith struck Jones out."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "抜",
+                    "ぬ"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb",
+                    "meaning": "1. to shoot through (a door, the heart, etc.); to go through "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "討",
+                    "う"
+                ],
+                [
+                    "つ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'tsu' ending, Transitive verb",
+                    "meaning": "1. to attack; to destroy; to defeat; to conquer; to avenge "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "撃つ 【うつ】、伐つ 【うつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to hit repeatedly; to belt hit after hit (e.g. in baseball); to unleash a barrage of blows; to pound away (at a keyboard); to hammer away; to pummel "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "打ち捲る 【うちまくる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "げき"
+                ],
+                [
+                    "沈",
+                    "ちん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. (attacking and) sinking (a ship); sending (a ship) to the bottom "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "返",
+                    "かえ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to return a punch; to strike back sometimes written 撃ち返す"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to hit (the ball) straight back Baseball"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to plow up; to plough up "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to renovate (cotton fabric); to fluff up "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Intransitive verb",
+                    "meaning": "5. to break and recede (of waves) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "当",
+                    "あ"
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb",
+                    "meaning": "1. to hit (e.g. target) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "そ",
+                    null
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending",
+                    "meaning": "1. to fail to hit; to miss "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "打ち損なう 【うちそこなう】、撃ち損なう 【うちそこなう】、撃ちそこなう 【うちそこなう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "た",
+                    null
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to be struck; to be beaten "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "撃たれる 【うたれる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "方",
+                    "かた"
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "め",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": null,
+                    "meaning": "1. cease fire! "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "撃ち方止め 【うちかたやめ】、打ち方やめ 【うちかたやめ】、打ち方止め 【うちかたやめ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "止",
+                    "と"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to shoot dead; to kill (with a shot) See also 打ち止める"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "撃止める 【うちとめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "止",
+                    "と"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to hammer into place "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to end (a performance) also うちどめる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to kill (with a gun, sword, etc.); to slay; to shoot dead; to cut down "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "打ち留める 【うちとめる】、打止める 【うちとめる】、打留める 【うちとめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "撃",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to exchange gunfire; to exchange shots "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "討ち合う 【うちあう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "撃",
+                "げき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Geki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "攻",
+                    "こう"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. attack; assault; raid; onslaught; offensive Antonym: 守備"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. criticism; censure; denunciation; condemnation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Attack "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "打",
+                    "だ"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. blow; shock; strike; damage この何ヶ月かはひどい打撃を受けました。I took such a hammering over recent months."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. batting Baseball"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "何ヶ月か",
+                            "なんかげつ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ひどい",
+                            null
+                        ],
+                        [
+                            "打撃",
+                            "だげき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "受けました",
+                            "う"
+                        ]
+                    ],
+                    "translation": "I took such a hammering over recent months."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "衝",
+                    "しょう"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. impact; shock; impulse バンパーが衝撃をいくらか吸収してくれた。The car bumper absorbed some of the impact."
+                },
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. (psychological) shock 昨日見たニュースに衝撃を受けた。I was shocked by yesterday's news."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "バンパー",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "衝撃",
+                            "しょうげき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "いくらか",
+                            null
+                        ],
+                        [
+                            "吸収",
+                            "きゅうしゅう"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "くれた",
+                            null
+                        ]
+                    ],
+                    "translation": "The car bumper absorbed some of the impact."
+                },
+                {
+                    "sentence": [
+                        [
+                            "昨日",
+                            "きのう"
+                        ],
+                        [
+                            "見た",
+                            "み"
+                        ],
+                        [
+                            "ニュース",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "衝撃",
+                            "しょうげき"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "受けた",
+                            "う"
+                        ]
+                    ],
+                    "translation": "I was shocked by yesterday's news."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "襲",
+                    "しゅう"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. (surprise) attack; assault; raid; charge "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "反",
+                    "はん"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. counterattack; counteroffensive; counterblow "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "目",
+                    "もく"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. witnessing; observing; sighting "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Eyewitness "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "射",
+                    "しゃ"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. firing; shooting; fire; gunshot; marksmanship "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shooting Shooting is the act or process of firing rifles, shotguns... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "砲",
+                    "ほう"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. bombarding; shelling; bombardment "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bombardment A bombardment is an attack by artillery fire directed aga... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "衝",
+                    "しょう"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ],
+                [
+                    "波",
+                    "は"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. shock wave "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shock wave A shock wave (also called shock front or simply \"shock\") ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "爆",
+                    "ばく"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. bombing (raid) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "進",
+                    "しん"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. advance; charge "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "直",
+                    "ちょく"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. direct hit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "出",
+                    "しゅつ"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. sortie; sally; attack "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "迎",
+                    "げい"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. intercept; interception; counter-attack "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いち"
+                ],
+                [
+                    "撃",
+                    "げき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. blow; hit; stroke "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,993 @@
+{
+    "kanji": "複",
+    "grade": 5,
+    "jlpt": 2,
+    "meanings": [
+        "duplicate",
+        "double",
+        "compound",
+        "multiple"
+    ],
+    "kun": [
+        "フク"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.2144954128440367,
+            0.13412844036697247,
+            "c",
+            0.024678899082568807,
+            0.019908256880733943,
+            0.051192660550458714,
+            0.049724770642201835,
+            0.07238532110091743,
+            0.08449541284403671
+        ],
+        [
+            "M",
+            0.1408256880733945,
+            0.31788990825688074,
+            "c",
+            0.013944954128440367,
+            0.004403669724770642,
+            0.032018348623853214,
+            0.005045871559633028,
+            0.04577981651376147,
+            0.0017431192660550458,
+            "c",
+            0.04155963302752294,
+            -0.009908256880733945,
+            0.13330275229357796,
+            -0.04660550458715596,
+            0.16541284403669726,
+            -0.05825688073394495,
+            "c",
+            0.02,
+            -0.007247706422018349,
+            0.03504587155963303,
+            0.006238532110091744,
+            0.023577981651376145,
+            0.026972477064220183,
+            "C",
+            0.30853211009174314,
+            0.41,
+            0.20642201834862386,
+            0.5359633027522936,
+            0.10779816513761468,
+            0.628348623853211
+        ],
+        [
+            "M",
+            0.2679816513761468,
+            0.4740366972477064,
+            "c",
+            0.006238532110091744,
+            0.006238532110091744,
+            0.00963302752293578,
+            0.01834862385321101,
+            0.00963302752293578,
+            0.03513761467889908,
+            "c",
+            0,
+            0.08477064220183486,
+            0.0002752293577981651,
+            0.22449541284403668,
+            0.0003669724770642202,
+            0.3165137614678899,
+            "c",
+            0,
+            0.022477064220183487,
+            0,
+            0.04201834862385321,
+            0,
+            0.05733944954128441
+        ],
+        [
+            "M",
+            0.3931192660550459,
+            0.4114678899082569,
+            "c",
+            0.0016513761467889907,
+            0.0076146788990825685,
+            -0.0013761467889908255,
+            0.014311926605504588,
+            -0.0045871559633027525,
+            0.019908256880733943,
+            "c",
+            -0.00963302752293578,
+            0.016788990825688074,
+            -0.03715596330275229,
+            0.053577981651376144,
+            -0.05651376146788991,
+            0.07348623853211009
+        ],
+        [
+            "M",
+            0.3038532110091743,
+            0.5172477064220183,
+            "c",
+            0.02963302752293578,
+            0.01981651376146789,
+            0.06128440366972477,
+            0.04944954128440367,
+            0.08669724770642201,
+            0.08412844036697248
+        ],
+        [
+            "M",
+            0.5468807339449542,
+            0.11238532110091744,
+            "c",
+            0.0002752293577981651,
+            0.004495412844036697,
+            0.0011009174311926604,
+            0.01293577981651376,
+            -0.0005504587155963302,
+            0.018073394495412842,
+            "c",
+            -0.020366972477064222,
+            0.06339449541284403,
+            -0.048532110091743116,
+            0.11266055045871559,
+            -0.10128440366972476,
+            0.175045871559633
+        ],
+        [
+            "M",
+            0.5412844036697247,
+            0.21990825688073393,
+            "c",
+            0.008073394495412844,
+            0.0025688073394495416,
+            0.017798165137614678,
+            0.0009174311926605505,
+            0.024128440366972478,
+            0.0002752293577981651,
+            "c",
+            0.034403669724770644,
+            -0.0037614678899082566,
+            0.13229357798165137,
+            -0.020825688073394497,
+            0.20091743119266053,
+            -0.030642201834862385,
+            "c",
+            0.017155963302752295,
+            -0.002477064220183486,
+            0.03541284403669725,
+            -0.003119266055045872,
+            0.052752293577981654,
+            -0.0025688073394495416
+        ],
+        [
+            "M",
+            0.5001834862385321,
+            0.2972477064220183,
+            "c",
+            0.006697247706422018,
+            0.006697247706422018,
+            0.01128440366972477,
+            0.015779816513761466,
+            0.013027522935779816,
+            0.026238532110091743,
+            "c",
+            0.004678899082568807,
+            0.029174311926605506,
+            0.010183486238532111,
+            0.10522935779816514,
+            0.015504587155963302,
+            0.14688073394495416,
+            "c",
+            0.0021100917431192663,
+            0.016605504587155963,
+            0.003669724770642202,
+            0.028073394495412844,
+            0.0039449541284403665,
+            0.029724770642201838
+        ],
+        [
+            "M",
+            0.520091743119266,
+            0.3118348623853211,
+            "c",
+            0.0326605504587156,
+            -0.005963302752293578,
+            0.17853211009174313,
+            -0.030733944954128442,
+            0.2263302752293578,
+            -0.0373394495412844,
+            "c",
+            0.022293577981651377,
+            -0.003119266055045872,
+            0.03935779816513762,
+            0.0076146788990825685,
+            0.036513761467889906,
+            0.0318348623853211,
+            "c",
+            -0.002752293577981651,
+            0.024036697247706424,
+            -0.00908256880733945,
+            0.09055045871559632,
+            -0.015596330275229357,
+            0.13623853211009174,
+            "c",
+            -0.003669724770642202,
+            0.026055045871559632,
+            -0.006422018348623853,
+            0.04559633027522936,
+            -0.006422018348623853,
+            0.04724770642201835
+        ],
+        [
+            "M",
+            0.5305504587155964,
+            0.3973394495412844,
+            "c",
+            0.06348623853211009,
+            -0.009724770642201836,
+            0.18045871559633028,
+            -0.021192660550458715,
+            0.23596330275229357,
+            -0.02660550458715596
+        ],
+        [
+            "M",
+            0.5407339449541284,
+            0.48862385321100915,
+            "c",
+            0.06935779816513761,
+            -0.006972477064220183,
+            0.1461467889908257,
+            -0.016146788990825688,
+            0.21192660550458717,
+            -0.020366972477064222
+        ],
+        [
+            "M",
+            0.5511926605504587,
+            0.5435779816513762,
+            "c",
+            0.0008256880733944953,
+            0.009908256880733945,
+            0.0007339449541284404,
+            0.019174311926605504,
+            -0.004036697247706422,
+            0.027981651376146787,
+            "c",
+            -0.020825688073394497,
+            0.03853211009174312,
+            -0.06669724770642202,
+            0.10844036697247707,
+            -0.13311926605504587,
+            0.161651376146789
+        ],
+        [
+            "M",
+            0.5708256880733945,
+            0.5961467889908257,
+            "c",
+            0.0022935779816513763,
+            0.0002752293577981651,
+            0.01688073394495413,
+            0,
+            0.023577981651376145,
+            -0.0007339449541284404,
+            "c",
+            0.02192660550458716,
+            -0.0023853211009174312,
+            0.09238532110091743,
+            -0.022752293577981652,
+            0.12366972477064221,
+            -0.030091743119266053,
+            "c",
+            0.02146788990825688,
+            -0.005045871559633028,
+            0.028623853211009177,
+            0.010825688073394495,
+            0.022110091743119266,
+            0.024128440366972478,
+            "C",
+            0.7041284403669725,
+            0.6628440366972477,
+            0.5515596330275229,
+            0.8337614678899082,
+            0.41743119266055045,
+            0.8807339449541285
+        ],
+        [
+            "M",
+            0.5311926605504587,
+            0.6519266055045871,
+            "c",
+            0.03339449541284404,
+            0.02944954128440367,
+            0.16660550458715598,
+            0.12825688073394495,
+            0.24155963302752292,
+            0.1808256880733945,
+            "c",
+            0.024220183486238535,
+            0.016972477064220184,
+            0.04944954128440367,
+            0.029541284403669727,
+            0.07577981651376146,
+            0.04330275229357798
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Prefix",
+                    "meaning": "1. compound; composite; multiple; re-; bi- "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. doubles (tennis, badminton, etc.) Abbreviation, See also 複試合"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. place bet (in horse racing, etc.); show bet; bet that predicts a top 2 or top 3 finish (depending on number of horses, etc. in race) Abbreviation, See also 複勝式"
+                },
+                {
+                    "type": "Prefix",
+                    "meaning": "1. compound; composite; multiple; re-; bi- "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. doubles (tennis, badminton, etc.) Abbreviation, See also 複試合"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. place bet (in horse racing, etc.); show bet; bet that predicts a top 2 or top 3 finish (depending on number of horses, etc. in race) Abbreviation, See also 複勝式"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "写",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. copying; duplication; reproduction; copy "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Copying Copying is the duplication of information or an artifact ... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. copying; duplication; reproduction; copy "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Copying Copying is the duplication of information or an artifact ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "雑",
+                    "ざつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. complex; complicated; intricate; mixed (feelings) Antonym: 単純"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. complex; complicated; intricate; mixed (feelings) Antonym: 単純"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "写",
+                    "しゃ"
+                ],
+                [
+                    "機",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. photocopier; photocopying machine "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Photocopier A photocopier (also known as a copier or copy machine) is... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. photocopier; photocopying machine "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Photocopier A photocopier (also known as a copier or copy machine) is... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "数",
+                    "すう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. plural; multiple "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. plural (number) Grammar, See also 単数"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Plural In linguistics, plurality or [a a] plural is a concept of... Read more"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. plural; multiple "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. plural (number) Grammar, See also 単数"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Plural In linguistics, plurality or [a a] plural is a concept of... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "製",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. reproduction; duplication; reprinting "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. reproduction; duplication; reprinting "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "合",
+                    "ごう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. composite; combined; complex "
+                },
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. composite; combined; complex "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "数",
+                    "すう"
+                ],
+                [
+                    "形",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. plural form Grammar"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. plural form Grammar"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "合",
+                    "ごう"
+                ],
+                [
+                    "体",
+                    "たい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. complex See also 軍産複合体"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. complex See also 軍産複合体"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "雑",
+                    "ざつ"
+                ],
+                [
+                    "化",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. complication "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. complication "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "雑",
+                    "ざつ"
+                ],
+                [
+                    "骨",
+                    "こっ"
+                ],
+                [
+                    "折",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. compound fracture Medicine"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. compound fracture Medicine"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "利",
+                    "り"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. compound interest Finance, See also 単利"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Compound interest Compound interest arises when interest is added to the pr... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. compound interest Finance, See also 単利"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Compound interest Compound interest arises when interest is added to the pr... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "線",
+                    "せん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. double track; two-track line "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Double track A double-track railway usually involves running one track... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. double track; two-track line "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Double track A double-track railway usually involves running one track... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "雑",
+                    "ざつ"
+                ],
+                [
+                    "さ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. complexity "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. complexity "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "復",
+                    "ふっこく"
+                ],
+                [
+                    "刻",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. republication; reissue; reprinting; reproduction "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覆刻 【ふっこく】、複刻 【ふっこく】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. republication; reissue; reprinting; reproduction "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覆刻 【ふっこく】、複刻 【ふっこく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "式",
+                    "しき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. double-entry (e.g. bookkeeping) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. double-entry (e.g. bookkeeping) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "眼",
+                    "がん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. compound eye Zoology, See also 単眼"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. compound eye Zoology, See also 単眼"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "復",
+                    "ふっこくばん"
+                ],
+                [
+                    "刻",
+                    null
+                ],
+                [
+                    "版",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. facsimile edition; reprint "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覆刻版 【ふっこくばん】、複刻版 【ふっこくばん】、復刻板 【ふっこくばん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. facsimile edition; reprint "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覆刻版 【ふっこくばん】、複刻版 【ふっこくばん】、復刻板 【ふっこくばん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "屈",
+                    "くっ"
+                ],
+                [
+                    "折",
+                    "せつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. double refraction; birefringence "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Birefringence Birefringence, or double refraction, is the decomposition... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "複",
+                    "ふく"
+                ],
+                [
+                    "婚",
+                    "こん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. polygamy "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Polygamy Polygamy (from πολύς γάμος polys gamos, translated litera... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "複木武揚",
+                "えのもとたけあき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Full name",
+                    "meaning": "1. Enomoto Takeaki "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "重",
+                    "ちょう"
+                ],
+                [
+                    "複",
+                    "ふく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. duplication; repetition; overlapping; redundancy; restoration "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "重複 【じゅうふく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "単",
+                    "たん"
+                ],
+                [
+                    "複",
+                    "ぷく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. simplicity and complexity; singular and plural; single and double; singles and doubles (in tennis) "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

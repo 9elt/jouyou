@@ -1,0 +1,987 @@
+{
+    "kanji": "誌",
+    "grade": 6,
+    "jlpt": 2,
+    "meanings": [
+        "document",
+        "records"
+    ],
+    "kun": [
+        "シ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.1961467889908257,
+            0.14330275229357797,
+            "c",
+            0.027706422018348623,
+            0.01724770642201835,
+            0.07155963302752294,
+            0.07073394495412844,
+            0.07853211009174313,
+            0.09743119266055045
+        ],
+        [
+            "M",
+            0.09743119266055045,
+            0.32412844036697247,
+            "c",
+            0.006513761467889908,
+            0.0021100917431192663,
+            0.031192660550458714,
+            0.002660550458715596,
+            0.037614678899082564,
+            0.0021100917431192663,
+            "c",
+            0.059908256880733944,
+            -0.005137614678899083,
+            0.14587155963302753,
+            -0.020091743119266054,
+            0.20027522935779815,
+            -0.030917431192660553,
+            "c",
+            0.010642201834862385,
+            -0.0021100917431192663,
+            0.024770642201834864,
+            -0.0012844036697247708,
+            0.03018348623853211,
+            -0.0001834862385321101
+        ],
+        [
+            "M",
+            0.1438532110091743,
+            0.4386238532110092,
+            "c",
+            0.01165137614678899,
+            0.001834862385321101,
+            0.028990825688073395,
+            0.0037614678899082566,
+            0.0408256880733945,
+            0.002201834862385321,
+            "c",
+            0.043486238532110096,
+            -0.005963302752293578,
+            0.0920183486238532,
+            -0.014678899082568808,
+            0.12935779816513762,
+            -0.02220183486238532,
+            "c",
+            0.00926605504587156,
+            -0.001834862385321101,
+            0.02651376146788991,
+            -0.0034862385321100917,
+            0.034770642201834866,
+            -0.0011926605504587156
+        ],
+        [
+            "M",
+            0.14954128440366973,
+            0.5557798165137614,
+            "c",
+            0.013944954128440367,
+            0.0023853211009174312,
+            0.027155963302752294,
+            0.003577981651376147,
+            0.041009174311926605,
+            0.0016513761467889907,
+            "c",
+            0.044862385321100914,
+            -0.006238532110091744,
+            0.08403669724770642,
+            -0.016788990825688074,
+            0.12577981651376147,
+            -0.024403669724770642,
+            "c",
+            0.01165137614678899,
+            -0.0021100917431192663,
+            0.020825688073394497,
+            -0.0021100917431192663,
+            0.028440366972477066,
+            -0.0012844036697247708
+        ],
+        [
+            "M",
+            0.14229357798165138,
+            0.6745871559633028,
+            "c",
+            0.008990825688073394,
+            0.008990825688073394,
+            0.01128440366972477,
+            0.01862385321100917,
+            0.013027522935779816,
+            0.028165137614678898,
+            "c",
+            0.005596330275229358,
+            0.030733944954128442,
+            0.01073394495412844,
+            0.08,
+            0.017064220183486238,
+            0.12266055045871559,
+            "c",
+            0.002201834862385321,
+            0.015045871559633026,
+            0.004403669724770642,
+            0.029357798165137616,
+            0.006513761467889908,
+            0.041651376146788995
+        ],
+        [
+            "M",
+            0.16302752293577982,
+            0.6917431192660551,
+            "C",
+            0.21834862385321102,
+            0.6791743119266055,
+            0.26513761467889907,
+            0.6693577981651375,
+            0.3119266055045872,
+            0.6618348623853211,
+            "c",
+            0.023669724770642202,
+            -0.0037614678899082566,
+            0.03935779816513762,
+            -0.0017431192660550458,
+            0.03403669724770642,
+            0.02522935779816514,
+            "c",
+            -0.006605504587155963,
+            0.03339449541284404,
+            -0.012477064220183487,
+            0.06605504587155964,
+            -0.025412844036697246,
+            0.12137614678899084
+        ],
+        [
+            "M",
+            0.18137614678899083,
+            0.835045871559633,
+            "c",
+            0.036146788990825685,
+            -0.003853211009174312,
+            0.08201834862385321,
+            -0.00944954128440367,
+            0.12844036697247707,
+            -0.014587155963302753,
+            "c",
+            0.00926605504587156,
+            -0.0010091743119266055,
+            0.01889908256880734,
+            -0.0021100917431192663,
+            0.028807339449541284,
+            -0.0033027522935779813
+        ],
+        [
+            "M",
+            0.43660550458715597,
+            0.3052293577981652,
+            "c",
+            0.023211009174311924,
+            0.005504587155963302,
+            0.04614678899082569,
+            0.003577981651376147,
+            0.06688073394495413,
+            0.0007339449541284404,
+            "C",
+            0.5952293577981651,
+            0.29357798165137616,
+            0.6972477064220184,
+            0.28091743119266055,
+            0.7947706422018348,
+            0.27339449541284405,
+            "c",
+            0.01853211009174312,
+            -0.0014678899082568807,
+            0.0381651376146789,
+            -0.0011009174311926604,
+            0.056330275229357796,
+            0.002752293577981651
+        ],
+        [
+            "M",
+            0.6157798165137615,
+            0.10321100917431193,
+            "c",
+            0.009174311926605505,
+            0.009174311926605505,
+            0.012477064220183487,
+            0.02192660550458716,
+            0.012477064220183487,
+            0.03495412844036697,
+            "c",
+            0,
+            0.04844036697247707,
+            0.0005504587155963302,
+            0.2494495412844037,
+            0.0005504587155963302,
+            0.31678899082568807
+        ],
+        [
+            "M",
+            0.4670642201834862,
+            0.4725688073394495,
+            "c",
+            0.017431192660550456,
+            0.005321100917431192,
+            0.039174311926605504,
+            0.002752293577981651,
+            0.056972477064220185,
+            0.0008256880733944953,
+            "c",
+            0.08504587155963303,
+            -0.00944954128440367,
+            0.1651376146788991,
+            -0.020366972477064222,
+            0.25,
+            -0.026238532110091743,
+            "c",
+            0.013944954128440367,
+            -0.0009174311926605505,
+            0.027889908256880733,
+            -0.00045871559633027525,
+            0.041651376146788995,
+            0.002018348623853211
+        ],
+        [
+            "M",
+            0.44724770642201833,
+            0.6834862385321101,
+            "c",
+            0.0023853211009174312,
+            0.024862385321100917,
+            -0.024220183486238535,
+            0.1344954128440367,
+            -0.04357798165137615,
+            0.17596330275229358
+        ],
+        [
+            "M",
+            0.5039449541284403,
+            0.6206422018348624,
+            "C",
+            0.5596330275229358,
+            0.8016513761467889,
+            0.6686238532110091,
+            0.8577981651376146,
+            0.8319266055045872,
+            0.8668807339449541,
+            "c",
+            0.04944954128440367,
+            0.002752293577981651,
+            0.049082568807339445,
+            -0.019724770642201832,
+            0.02220183486238532,
+            -0.0571559633027523
+        ],
+        [
+            "M",
+            0.6294495412844037,
+            0.5957798165137614,
+            "c",
+            0.019633027522935782,
+            0.045229357798165136,
+            0.046055045871559626,
+            0.05513761467889908,
+            0.05440366972477064,
+            0.02201834862385321
+        ],
+        [
+            "M",
+            0.7869724770642202,
+            0.5514678899082569,
+            "c",
+            0.04211009174311926,
+            0.032293577981651375,
+            0.07422018348623853,
+            0.06669724770642202,
+            0.10064220183486239,
+            0.1143119266055046
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, used as a suffix, Counter",
+                    "meaning": "1. magazine Abbreviation, See also 雑誌"
+                },
+                {
+                    "type": "Noun, used as a suffix, Counter",
+                    "meaning": "1. magazine Abbreviation, See also 雑誌"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "記",
+                    "しる"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to write down; to note down; to jot down; to take a note of "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to mention; to describe; to give an account of "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to inscribe; to mark; to brand "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to remember; to engrave (in one's mind) as 心に記す, 胸に記す, etc."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "誌す 【しるす】、識す 【しるす】、記す 【きす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "誌す: Rarely-used kanji form. 識す: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to write down; to note down; to jot down; to take a note of "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to mention; to describe; to give an account of "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to inscribe; to mark; to brand "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to remember; to engrave (in one's mind) as 心に記す, 胸に記す, etc."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "誌す 【しるす】、識す 【しるす】、記す 【きす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "誌す: Rarely-used kanji form. 識す: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "誌",
+                    "し"
+                ],
+                [
+                    "上",
+                    "じょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. in a magazine "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. in a magazine "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "誌",
+                    "し"
+                ],
+                [
+                    "面",
+                    "めん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. page of a magazine "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. page of a magazine "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "誌",
+                    "し"
+                ],
+                [
+                    "代",
+                    "だい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. magazine subscription fee "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "誌",
+                    "し"
+                ],
+                [
+                    "等",
+                    "とう"
+                ],
+                [
+                    "で",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suffix",
+                    "meaning": "1. in magazines like ... "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "誌乃",
+                "しの"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Shino "
+                },
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Shinoka "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Shiichi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "雑",
+                    "ざっ"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. journal; magazine; periodical "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Magazine Magazines, periodicals, glossies or serials are publicati... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "週",
+                    "しゅう"
+                ],
+                [
+                    "刊",
+                    "かん"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. weekly (publication); weekly magazine; weekly journal "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Shūkanshi is a Japanese term for any weekly magazine, including con... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "月",
+                    "げっ"
+                ],
+                [
+                    "刊",
+                    "かん"
+                ],
+                [
+                    "雑",
+                    "ざっ"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. monthly magazine "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "論",
+                    "ろん"
+                ],
+                [
+                    "文",
+                    "ぶん"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (academic) journal 学生が英文論文誌に論文を投稿して、「条件付採録」になっています。The student submitted a paper to an English-language journal, and the result was \"conditional acceptance\"."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "学生",
+                            "がくせい"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "英文",
+                            "えいぶん"
+                        ],
+                        [
+                            "論文誌",
+                            "ろんぶんし"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "論文",
+                            "ろんぶん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "投稿",
+                            "とうこう"
+                        ],
+                        [
+                            "して",
+                            null
+                        ],
+                        [
+                            "条件付採録",
+                            "じょうけんつきさいろく"
+                        ],
+                        [
+                            "になっています",
+                            null
+                        ]
+                    ],
+                    "translation": "The student submitted a paper to an English-language journal, and the result was \"conditional acceptance\"."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "古",
+                    "ふる"
+                ],
+                [
+                    "雑",
+                    "ざっ"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. old magazines "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "月",
+                    "げっ"
+                ],
+                [
+                    "刊",
+                    "かん"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. monthly magazine See also 月刊雑誌"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "専",
+                    "せん"
+                ],
+                [
+                    "門",
+                    "もん"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. specialist journal; specialized magazine; specialised magazine "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漫",
+                    "まん"
+                ],
+                [
+                    "画",
+                    "が"
+                ],
+                [
+                    "雑",
+                    "ざっ"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. comic book "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. topography; geographical description "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Chorography Chorography (from χῶρος khōros; \"place\" + γράφειν graphei... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "書",
+                    "しょ"
+                ],
+                [
+                    "誌",
+                    "し"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bibliography (study of books); bibliology "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bibliography Bibliography (from Greek βιβλιογραφία, bibliographia, lit... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "機",
+                    "き"
+                ],
+                [
+                    "関",
+                    "かん"
+                ],
+                [
+                    "紙",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bulletin; (party) organ 機関紙 is for newspapers; 機関誌 is for magazines"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "機関誌 【きかんし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "にっし"
+                ],
+                [
+                    "誌",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. journal; log "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "風",
+                    "ふう"
+                ],
+                [
+                    "物",
+                    "ぶつ"
+                ],
+                [
+                    "詩",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. feature of the season; something characteristic of a particular season "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. poem about natural scenery or a particular season "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "風物誌 【ふうぶつし】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "風物誌: Irregular kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "学",
+                    "がっかいし"
+                ],
+                [
+                    "会",
+                    null
+                ],
+                [
+                    "誌",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. academic journal "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "書",
+                    "しょ"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bibliography (list of books by an author or on a subject) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bibliography (history or description of books) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. book "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "本",
+                    "ほん"
+                ],
+                [
+                    "誌",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. this magazine "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

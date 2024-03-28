@@ -1,0 +1,1464 @@
+{
+    "kanji": "継",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "inherit",
+        "succeed",
+        "continue",
+        "patch",
+        "graft (tree)"
+    ],
+    "kun": [
+        "つ.ぐ",
+        "まま-"
+    ],
+    "on": [
+        "ケイ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2534862385321101,
+            0.11623853211009175,
+            "c",
+            0.003119266055045872,
+            0.012293577981651376,
+            0.0045871559633027525,
+            0.02201834862385321,
+            -0.001559633027522936,
+            0.03486238532110091,
+            "c",
+            -0.02596330275229358,
+            0.05412844036697248,
+            -0.04862385321100917,
+            0.09651376146788991,
+            -0.09220183486238533,
+            0.15339449541284403,
+            "c",
+            -0.008256880733944955,
+            0.010825688073394495,
+            -0.00944954128440367,
+            0.022293577981651377,
+            0.0022935779816513763,
+            0.028440366972477066,
+            "c",
+            0.03128440366972477,
+            0.016422018348623852,
+            0.06311926605504586,
+            0.037706422018348625,
+            0.09146788990825688,
+            0.060183486238532105
+        ],
+        [
+            "M",
+            0.3605504587155963,
+            0.24247706422018347,
+            "c",
+            0.004128440366972477,
+            0.011009174311926604,
+            0.0021100917431192663,
+            0.023027522935779813,
+            -0.0045871559633027525,
+            0.03293577981651376,
+            "c",
+            -0.06357798165137614,
+            0.09385321100917432,
+            -0.14211009174311925,
+            0.1920183486238532,
+            -0.21541284403669725,
+            0.2677981651376147,
+            "c",
+            -0.016788990825688074,
+            0.017339449541284403,
+            0.004220183486238533,
+            0.027339449541284404,
+            0.015137614678899082,
+            0.023761467889908256,
+            "c",
+            0.045871559633027525,
+            -0.014770642201834864,
+            0.15018348623853212,
+            -0.04577981651376147,
+            0.20908256880733944,
+            -0.059908256880733944
+        ],
+        [
+            "M",
+            0.3245871559633028,
+            0.44724770642201833,
+            "c",
+            0.02146788990825688,
+            0.019357798165137614,
+            0.055412844036697245,
+            0.07972477064220183,
+            0.06073394495412844,
+            0.10990825688073395
+        ],
+        [
+            "M",
+            0.2489908256880734,
+            0.5653211009174312,
+            "c",
+            0.006880733944954129,
+            0.006880733944954129,
+            0.008990825688073394,
+            0.016146788990825688,
+            0.008990825688073394,
+            0.030642201834862385,
+            "c",
+            0,
+            0.056055045871559635,
+            -0.0005504587155963302,
+            0.17174311926605504,
+            -0.0007339449541284404,
+            0.2469724770642202,
+            "c",
+            0,
+            0.016422018348623852,
+            -0.00009174311926605505,
+            0.030917431192660553,
+            -0.00009174311926605505,
+            0.04238532110091743
+        ],
+        [
+            "M",
+            0.17770642201834863,
+            0.6545871559633027,
+            "c",
+            0.0011926605504587156,
+            0.008256880733944955,
+            -0.0012844036697247708,
+            0.022293577981651377,
+            -0.0034862385321100917,
+            0.028256880733944955,
+            "c",
+            -0.014403669724770642,
+            0.038623853211009175,
+            -0.05055045871559633,
+            0.11321100917431193,
+            -0.0710091743119266,
+            0.1463302752293578
+        ],
+        [
+            "M",
+            0.3365137614678899,
+            0.6563302752293578,
+            "c",
+            0.021743119266055048,
+            0.027522935779816515,
+            0.03844036697247707,
+            0.09146788990825688,
+            0.043486238532110096,
+            0.11642201834862385
+        ],
+        [
+            "M",
+            0.5407339449541284,
+            0.2653211009174312,
+            "c",
+            0.01889908256880734,
+            0.020825688073394497,
+            0.04752293577981651,
+            0.07981651376146788,
+            0.052201834862385325,
+            0.11229357798165138
+        ],
+        [
+            "M",
+            0.8223853211009174,
+            0.22798165137614682,
+            "c",
+            0.0008256880733944953,
+            0.008990825688073394,
+            -0.002201834862385321,
+            0.015779816513761466,
+            -0.006238532110091744,
+            0.023853211009174313,
+            "c",
+            -0.015688073394495412,
+            0.031467889908256885,
+            -0.03431192660550459,
+            0.06486238532110092,
+            -0.06816513761467889,
+            0.10477064220183487
+        ],
+        [
+            "M",
+            0.5257798165137615,
+            0.43321100917431193,
+            "c",
+            0.024678899082568807,
+            0.004862385321100918,
+            0.03954128440366972,
+            0.005321100917431192,
+            0.059082568807339454,
+            0.003669724770642202,
+            "c",
+            0.054587155963302755,
+            -0.004495412844036697,
+            0.15779816513761466,
+            -0.01688073394495413,
+            0.216697247706422,
+            -0.020366972477064222,
+            "c",
+            0.016605504587155963,
+            -0.0009174311926605505,
+            0.034403669724770644,
+            -0.002660550458715596,
+            0.05321100917431192,
+            -0.00045871559633027525
+        ],
+        [
+            "M",
+            0.6652293577981652,
+            0.14678899082568808,
+            "c",
+            0.00908256880733945,
+            0.00908256880733945,
+            0.01293577981651376,
+            0.0218348623853211,
+            0.01293577981651376,
+            0.03779816513761468,
+            "c",
+            0,
+            0.006238532110091744,
+            0.0003669724770642202,
+            0.3725688073394495,
+            0.0003669724770642202,
+            0.5172477064220183,
+            "c",
+            0,
+            0.034128440366972476,
+            0,
+            0.05587155963302752,
+            -0.00009174311926605505,
+            0.05733944954128441
+        ],
+        [
+            "M",
+            0.6681651376146789,
+            0.440091743119266,
+            "c",
+            0,
+            0.015229357798165137,
+            -0.010183486238532111,
+            0.03788990825688073,
+            -0.0218348623853211,
+            0.05862385321100917,
+            "C",
+            0.606605504587156,
+            0.5688073394495413,
+            0.5677064220183486,
+            0.6227522935779816,
+            0.5120183486238532,
+            0.6751376146788991
+        ],
+        [
+            "M",
+            0.7090825688073396,
+            0.528256880733945,
+            "c",
+            0.04440366972477064,
+            0.024862385321100917,
+            0.1234862385321101,
+            0.08623853211009175,
+            0.13587155963302752,
+            0.12357798165137615
+        ],
+        [
+            "M",
+            0.4543119266055046,
+            0.18807339449541285,
+            "c",
+            0.010825688073394495,
+            0.010825688073394495,
+            0.012018348623853212,
+            0.022935779816513763,
+            0.012018348623853212,
+            0.03669724770642202,
+            "c",
+            0,
+            0.010183486238532111,
+            -0.00926605504587156,
+            0.5080733944954129,
+            -0.00926605504587156,
+            0.5775229357798165,
+            "c",
+            0,
+            0.027981651376146787,
+            0.0039449541284403665,
+            0.039449541284403665,
+            0.03642201834862385,
+            0.03688073394495413,
+            "c",
+            0.047981651376146794,
+            -0.003853211009174312,
+            0.23862385321100918,
+            -0.020917431192660547,
+            0.32073394495412844,
+            -0.024678899082568807,
+            "c",
+            0.027155963302752294,
+            -0.0012844036697247708,
+            0.05614678899082569,
+            -0.0013761467889908255,
+            0.0779816513761468,
+            0.005412844036697248
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "続",
+                    "ぞく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. continuation; continuance; going on "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Continuation In computer science and programming, a continuation is an... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb",
+                    "meaning": "1. continuation; continuance; going on "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Continuation In computer science and programming, a continuation is an... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぐ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "1. to succeed (a person, to a position, etc.); to inherit; to take over; to follow "
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "2. to patch (clothes); to mend; to repair Only applies to 継ぐ"
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "3. to add (e.g. charcoal to the fire); to replenish with; to feed with; to follow up with (e.g. remarks); to gather (one's breath) Only applies to 継ぐ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "嗣ぐ 【つぐ】、続ぐ 【つぐ】、襲ぐ 【つぐ】"
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "1. to succeed (a person, to a position, etc.); to inherit; to take over; to follow "
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "2. to patch (clothes); to mend; to repair Only applies to 継ぐ"
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "3. to add (e.g. charcoal to the fire); to replenish with; to feed with; to follow up with (e.g. remarks); to gather (one's breath) Only applies to 継ぐ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "嗣ぐ 【つぐ】、続ぐ 【つぐ】、襲ぐ 【つぐ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "目",
+                    "め"
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. joint; seam; joining point "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継目 【つぎめ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. joint; seam; joining point "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継目 【つぎめ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "接",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "木",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. grafting "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Grafting Grafting or graftage is a horticultural technique whereby... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "接木 【つぎき】、つぎ木 【つぎき】、継ぎ木 【つぎき】、継木 【つぎき】"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. grafting "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Grafting Grafting or graftage is a horticultural technique whereby... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "接木 【つぎき】、つぎ木 【つぎき】、継ぎ木 【つぎき】、継木 【つぎき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. inheritance; succession; accession "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. share-alike Law"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. inheritance Computing"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. inheritance; succession; accession "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. share-alike Law"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. inheritance Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "続",
+                    "ぞく"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. continuous "
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. continuous "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "母",
+                    "ぼ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stepmother "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継母 【ままはは】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. stepmother "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継母 【ままはは】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. patch; patching "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. join; joining "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. successor; heir "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "接ぎ 【つぎ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. patch; patching "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. join; joining "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. successor; heir "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "接ぎ 【つぎ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "接",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "穂",
+                    "ほ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. scion; cion; (horticultural) graft 果樹栽培者がリンゴの接ぎ穂を台木に接ぎ木しました。The orchardist grafted an apple bud onto the rootstock."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. opportunity to continue a conversation 話の接ぎ穂がなくて困った。He found it very hard to keep the conversation going."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "接ぎ穂 【つぎぼ】、継ぎ穂 【つぎほ】、継ぎ穂 【つぎぼ】、接穂 【つぎほ】、接穂 【つぎぼ】、継穂 【つぎほ】、継穂 【つぎぼ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. scion; cion; (horticultural) graft 果樹栽培者がリンゴの接ぎ穂を台木に接ぎ木しました。The orchardist grafted an apple bud onto the rootstock."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. opportunity to continue a conversation 話の接ぎ穂がなくて困った。He found it very hard to keep the conversation going."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "接ぎ穂 【つぎぼ】、継ぎ穂 【つぎほ】、継ぎ穂 【つぎぼ】、接穂 【つぎほ】、接穂 【つぎぼ】、継穂 【つぎほ】、継穂 【つぎぼ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "果樹栽培者",
+                            "かじゅさいばいしゃ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "リンゴ",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "接ぎ穂",
+                            "つぎほ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "台木",
+                            "だいぎ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "接ぎ木",
+                            "つぎき"
+                        ],
+                        [
+                            "しました",
+                            null
+                        ]
+                    ],
+                    "translation": "The orchardist grafted an apple bud onto the rootstock."
+                },
+                {
+                    "sentence": [
+                        [
+                            "話",
+                            "はなし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "接ぎ穂",
+                            "つぎほ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "なくて",
+                            null
+                        ],
+                        [
+                            "困った",
+                            "こま"
+                        ]
+                    ],
+                    "translation": "He found it very hard to keep the conversation going."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "承",
+                    "しょう"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. successor "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "投",
+                    "とう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. relieving the (starting) pitcher "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "接",
+                    "は"
+                ],
+                [
+                    "ぎ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. patching (clothing); darning Usually written using kana alone"
+                },
+                {
+                    "type": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. cobbling together (other people's writings, thoughts, etc.); gathering Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ツギハギ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "電",
+                    "でん"
+                ],
+                [
+                    "器",
+                    "き"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (electric) relay "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Relay A relay is an electrically operated switch. Many relays u... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "つぎ"
+                ],
+                [
+                    "手",
+                    "て"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coupler; coupling; joint; splice "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. successor; heir Only applies to 継手, Only applies to 継ぎ手"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Joint (building) A building joint is a junction where building elements me... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継ぎ手 【つぎて】、接手 【つぎて】、接ぎ手 【つぎて】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "接手: Rarely-used kanji form. 接ぎ手: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "立",
+                    "た"
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. relay "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継立て 【つぎたて】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "つぎ"
+                ],
+                [
+                    "端",
+                    "は"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. opportunity to continue a conversation Rare term, See also 接ぎ穂"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継ぎ端 【つぎは】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "竿",
+                    "ざお"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. a jointed fishing rod "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継竿 【つぎざお】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "台",
+                    "だい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stool (stood on to reach high objects) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. stock (in grafting) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継台 【つぎだい】、接ぎ台 【つぎだい】、接台 【つぎだい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "けい"
+                ],
+                [
+                    "柱",
+                    "ちゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spliced pole (building, electrical) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継柱 【つぎばしら】、継ぎ柱 【つぎばしら】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "紙",
+                    "がみ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. paper patchwork "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "継紙 【つぎがみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "継",
+                "けい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Kei "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "継",
+                "つぎ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tsugi "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tsugu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "受",
+                    "う"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぐ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "1. to inherit; to succeed; to take over "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "受けつぐ 【うけつぐ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "引",
+                    "ひ"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぐ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "1. to take over; to hand over "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "引継ぐ 【ひきつぐ】、引きつぐ 【ひきつぐ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "引継ぐ: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "相",
+                    "あい"
+                ],
+                [
+                    "次",
+                    "つ"
+                ],
+                [
+                    "ぐ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'gu' ending, Intransitive verb",
+                    "meaning": "1. to follow in succession; to happen one after another "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "相継ぐ 【あいつぐ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "相継ぐ: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "生",
+                    "なま"
+                ],
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "継",
+                    "けい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. live broadcast (radio, TV); live coverage "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "引",
+                    "ひ"
+                ],
+                [
+                    "き",
+                    null
+                ],
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. taking over; handing over; transfer of control; inheriting; passing on the baton "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "引継ぎ 【ひきつぎ】、引継 【ひきつぎ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "語",
+                    "かた"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぐ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "1. to pass down (a story) from generation to generation; to hand down "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "語りつぐ 【かたりつぐ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "矢",
+                    "や"
+                ],
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ],
+                [
+                    "早",
+                    "ばや"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. rapid succession (e.g. questions) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "矢継早 【やつぎばや】、矢つぎばや 【やつぎばや】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "中",
+                    "ちゅう"
+                ],
+                [
+                    "継",
+                    "けい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. relay; hook-up "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. relay broadcasting Abbreviation, See also 中継放送"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "次",
+                    "つ"
+                ],
+                [
+                    "ぐ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "1. to pass on (a message, thoughts, etc.); to convey; to transmit; to relay; to tell "
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "2. to inform (of a visitor, phone call, etc.); to announce (a visitor); to answer (the door or phone on someone's behalf); to usher in (a guest) "
+                },
+                {
+                    "type": "Godan verb with 'gu' ending, Transitive verb",
+                    "meaning": "3. to act as an agent (between a manufacturer, wholesaler, etc. and retailers); to act as an intermediary; to handle (goods; for a company) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "取次ぐ 【とりつぐ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "跡",
+                    "あと"
+                ],
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. heir; inheritor "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. successor "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "後継ぎ 【あとつぎ】、跡継 【あとつぎ】、後継 【あとつぎ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "乗",
+                    "の"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "継",
+                    "つ"
+                ],
+                [
+                    "ぎ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun or verb acting prenominally",
+                    "meaning": "1. transit (passenger); connecting (flight); transfer (ticket) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "乗継 【のりつぎ】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

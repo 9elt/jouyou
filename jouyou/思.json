@@ -1,0 +1,1473 @@
+{
+    "kanji": "思",
+    "grade": 2,
+    "jlpt": 4,
+    "meanings": [
+        "think"
+    ],
+    "kun": [
+        "おも.う",
+        "おもえら.く",
+        "おぼ.す"
+    ],
+    "on": [
+        "シ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2408256880733945,
+            0.1753211009174312,
+            "c",
+            0.011559633027522935,
+            0.011559633027522935,
+            0.01862385321100917,
+            0.02706422018348624,
+            0.021009174311926605,
+            0.04256880733944954,
+            "c",
+            0.01110091743119266,
+            0.07458715596330276,
+            0.02201834862385321,
+            0.16504587155963302,
+            0.029908256880733942,
+            0.2428440366972477,
+            "c",
+            0.0013761467889908255,
+            0.01330275229357798,
+            0.002660550458715596,
+            0.025779816513761468,
+            0.003853211009174312,
+            0.03697247706422019
+        ],
+        [
+            "M",
+            0.26376146788990823,
+            0.1926605504587156,
+            "c",
+            0.16633027522935778,
+            -0.020642201834862386,
+            0.3302752293577982,
+            -0.03669724770642202,
+            0.446605504587156,
+            -0.04146788990825688,
+            "c",
+            0.03495412844036697,
+            -0.0014678899082568807,
+            0.04357798165137615,
+            0.02596330275229358,
+            0.041651376146788995,
+            0.03880733944954129,
+            "c",
+            -0.005963302752293578,
+            0.04027522935779816,
+            -0.020642201834862386,
+            0.15944954128440367,
+            -0.03577981651376147,
+            0.2413761467889908,
+            "c",
+            -0.0025688073394495416,
+            0.013761467889908258,
+            -0.005229357798165137,
+            0.02660550458715596,
+            -0.007889908256880733,
+            0.038073394495412846
+        ],
+        [
+            "M",
+            0.4891743119266055,
+            0.17889908256880735,
+            "c",
+            0.007706422018348624,
+            0.007706422018348624,
+            0.011926605504587157,
+            0.02220183486238532,
+            0.011834862385321101,
+            0.03302752293577982,
+            "c",
+            -0.0006422018348623854,
+            0.05963302752293578,
+            0.0005504587155963302,
+            0.20844036697247706,
+            0.0005504587155963302,
+            0.2261467889908257
+        ],
+        [
+            "M",
+            0.2889908256880734,
+            0.32798165137614677,
+            "c",
+            0.09403669724770643,
+            -0.010275229357798166,
+            0.33715596330275227,
+            -0.034403669724770644,
+            0.4344036697247707,
+            -0.03642201834862385
+        ],
+        [
+            "M",
+            0.30504587155963303,
+            0.4701834862385321,
+            "C",
+            0.40422018348623856,
+            0.45743119266055043,
+            0.6192660550458715,
+            0.44036697247706424,
+            0.7094495412844036,
+            0.43660550458715597
+        ],
+        [
+            "M",
+            0.21201834862385321,
+            0.6402752293577982,
+            "C",
+            0.20752293577981654,
+            0.6972477064220184,
+            0.19110091743119265,
+            0.7699082568807339,
+            0.1743119266055046,
+            0.8111926605504587
+        ],
+        [
+            "M",
+            0.3151376146788991,
+            0.5910091743119266,
+            "c",
+            0.04724770642201835,
+            0.14522935779816515,
+            0.19596330275229357,
+            0.2789908256880734,
+            0.4335779816513761,
+            0.2579816513761468,
+            "c",
+            0.08155963302752293,
+            -0.007247706422018349,
+            0.07697247706422018,
+            -0.025596330275229357,
+            0.029357798165137616,
+            -0.07431192660550458
+        ],
+        [
+            "M",
+            0.5088990825688073,
+            0.5642201834862385,
+            "c",
+            0.019724770642201832,
+            0.04477064220183486,
+            0.05385321100917431,
+            0.09055045871559632,
+            0.06431192660550458,
+            0.041009174311926605
+        ],
+        [
+            "M",
+            0.7614678899082569,
+            0.5573394495412844,
+            "c",
+            0.033211009174311926,
+            0.022935779816513763,
+            0.07110091743119266,
+            0.06073394495412844,
+            0.09403669724770643,
+            0.10752293577981652
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to think; to consider; to believe; to reckon 想う has connotations of heart-felt晴れだと思うよ。I think it will be sunny."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to think (of doing); to plan (to do) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "3. to judge; to assess; to regard 状況は深刻だと思いますか。Do you regard the situation as serious?"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "4. to imagine; to suppose; to dream 我々が思っているほどには、それほど我々は幸福でもなければ、不幸でもない。We are never as happy or as unhappy as we imagine."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "5. to expect; to look forward to "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "6. to feel; to be (in a state of mind); to desire; to want "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "7. to recall; to remember "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "想う 【おもう】、憶う 【おもう】、念う 【おもう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "憶う: Rarely-used kanji form. 念う: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to think; to consider; to believe; to reckon 想う has connotations of heart-felt晴れだと思うよ。I think it will be sunny."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "2. to think (of doing); to plan (to do) "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "3. to judge; to assess; to regard 状況は深刻だと思いますか。Do you regard the situation as serious?"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "4. to imagine; to suppose; to dream 我々が思っているほどには、それほど我々は幸福でもなければ、不幸でもない。We are never as happy or as unhappy as we imagine."
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "5. to expect; to look forward to "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "6. to feel; to be (in a state of mind); to desire; to want "
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "7. to recall; to remember "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "想う 【おもう】、憶う 【おもう】、念う 【おもう】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "憶う: Rarely-used kanji form. 念う: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "晴れ",
+                            "は"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "思う",
+                            "おも"
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "I think it will be sunny."
+                },
+                {
+                    "sentence": [
+                        [
+                            "状況",
+                            "じょうきょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "深刻",
+                            "しんこく"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "思います",
+                            "おも"
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Do you regard the situation as serious?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "我々",
+                            "われわれ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "思っている",
+                            "おも"
+                        ],
+                        [
+                            "ほど",
+                            null
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "それほど",
+                            null
+                        ],
+                        [
+                            "我々",
+                            "われわれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "幸福",
+                            "こうふく"
+                        ],
+                        [
+                            "でも",
+                            null
+                        ],
+                        [
+                            "なければ",
+                            null
+                        ],
+                        [
+                            "不幸",
+                            "ふこう"
+                        ],
+                        [
+                            "でもない",
+                            null
+                        ]
+                    ],
+                    "translation": "We are never as happy or as unhappy as we imagine."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to recall; to remember; to recollect "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to recall; to remember; to recollect "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "し"
+                ],
+                [
+                    "考",
+                    "こう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. thought; consideration; thinking "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Thought Thought generally refers to any mental or intellectual ac... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Intransitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. thought; consideration; thinking "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Thought Thought generally refers to any mental or intellectual ac... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "し"
+                ],
+                [
+                    "想",
+                    "そう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. thought; idea; ideology "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. thought; idea; ideology "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "出",
+                    "で"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. memories; recollections; reminiscence "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "想い出 【おもいで】、思いで 【おもいで】、想いで 【おもいで】、思出 【おもいで】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. memories; recollections; reminiscence "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "想い出 【おもいで】、思いで 【おもいで】、想いで 【おもいで】、思出 【おもいで】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "わ",
+                    null
+                ],
+                [
+                    "ず",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. unconsciously; involuntarily; instinctively; reflexively; spontaneously; unintentionally; in spite of oneself "
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. unconsciously; involuntarily; instinctively; reflexively; spontaneously; unintentionally; in spite of oneself "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb, Intransitive verb",
+                    "meaning": "1. to think of; to hit upon; to come into one's mind; to be struck with an idea "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb, Intransitive verb",
+                    "meaning": "2. to remember; to recall "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い付く 【おもいつく】"
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb, Intransitive verb",
+                    "meaning": "1. to think of; to hit upon; to come into one's mind; to be struck with an idea "
+                },
+                {
+                    "type": "Godan verb with 'ku' ending, Transitive verb, Intransitive verb",
+                    "meaning": "2. to remember; to recall "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い付く 【おもいつく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. unexpected; contrary to expectations; by chance; casual "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い掛けない 【おもいがけない】、思い掛け無い 【おもいがけない】"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. unexpected; contrary to expectations; by chance; casual "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い掛けない 【おもいがけない】、思い掛け無い 【おもいがけない】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to be convinced (that); to be under the impression (that); to feel sure (that); to assume (that) "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to make up one's mind; to set one's heart on; to be determined (to do); to be bent on "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "3. to be obsessed (with a thought, idea, etc.); to think about obsessively "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思いこむ 【おもいこむ】"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to be convinced (that); to be under the impression (that); to feel sure (that); to assume (that) "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to make up one's mind; to set one's heart on; to be determined (to do); to be bent on "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "3. to be obsessed (with a thought, idea, etc.); to think about obsessively "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思いこむ 【おもいこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "つ",
+                    null
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. idea; plan; fancy; impulse; thought; whim; suggestion "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い付き 【おもいつき】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. idea; plan; fancy; impulse; thought; whim; suggestion "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い付き 【おもいつき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "し"
+                ],
+                [
+                    "春",
+                    "しゅん"
+                ],
+                [
+                    "期",
+                    "き"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. puberty; adolescence "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Puberty Puberty is the process of physical changes by which a chi... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. puberty; adolescence "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Puberty Puberty is the process of physical changes by which a chi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. thought "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. imagination; mind; heart "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. desire; wish; hope; expectation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. love; affection e.g. Ａ思いのＢ for 'B who loves A'"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. feelings; emotion; sentiment; experience "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "想い 【おもい】、念い 【おもい】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. thought "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. imagination; mind; heart "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. desire; wish; hope; expectation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. love; affection e.g. Ａ思いのＢ for 'B who loves A'"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. feelings; emotion; sentiment; experience "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "想い 【おもい】、念い 【おもい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. consideration; thoughtfulness; sympathy; compassion; feeling; kindness; understanding; regard; kindheartedness "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い遣り 【おもいやり】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. consideration; thoughtfulness; sympathy; compassion; feeling; kindness; understanding; regard; kindheartedness "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い遣り 【おもいやり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. resolutely; boldly; decisively; daringly "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思いきって 【おもいきって】"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. resolutely; boldly; decisively; daringly "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思いきって 【おもいきって】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "起",
+                    "お"
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to recall; to remember "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い起す 【おもいおこす】、思起す 【おもいおこす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "思起す: Irregular okurigana usage."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to recall; to remember "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い起す 【おもいおこす】、思起す 【おもいおこす】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "思起す: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    null
+                ],
+                [
+                    "惑",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. expectation; anticipation; prediction; forecast; calculations "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. purpose; intention; motive; ulterior motive "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. others' opinions of one 世間の思惑など気にするな。Don't mind what others think."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. speculation Finance"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思わく 【おもわく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "思惑: Ateji (phonetic) reading."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. expectation; anticipation; prediction; forecast; calculations "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. purpose; intention; motive; ulterior motive "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. others' opinions of one 世間の思惑など気にするな。Don't mind what others think."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. speculation Finance"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思わく 【おもわく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "思惑: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "世間",
+                            "せけん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "思惑",
+                            "おもわく"
+                        ],
+                        [
+                            "など",
+                            null
+                        ],
+                        [
+                            "気にするな",
+                            "き"
+                        ]
+                    ],
+                    "translation": "Don't mind what others think."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. to one's heart's content; as much as one wants; as hard as one can; with all one's strength; to the best of one's ability; to the utmost; with determination; hard; heavily See also 思いっきり彼女は僕の右足を思い切り蹴りつけた。She gave me a hard kick on my right leg."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. resolution; decisiveness; determination; resignation "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思いきり 【おもいきり】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "僕",
+                            "ぼく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "右足",
+                            "みぎあし"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "思い切り",
+                            "おもいき"
+                        ],
+                        [
+                            "蹴りつけた",
+                            "け"
+                        ]
+                    ],
+                    "translation": "She gave me a hard kick on my right leg."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "と",
+                    null
+                ],
+                [
+                    "ど",
+                    null
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to give up (an idea or plan); to abandon; to refrain from (doing); to change one's mind "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思い止まる 【おもいとどまる】、思い留まる 【おもいとどまる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "切",
+                    "き"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to give up all thoughts of; to abandon; to despair of 彼女の事が思い切れない。I can't forget her."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to make up one's mind; to take a momentous decision 重病には思い切った療法が必要だ。Desperate diseases require desperate remedies."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思いきる 【おもいきる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼女",
+                            "かのじょ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "事",
+                            "こと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "思い切れない",
+                            "おもいき"
+                        ]
+                    ],
+                    "translation": "I can't forget her."
+                },
+                {
+                    "sentence": [
+                        [
+                            "重病",
+                            "じゅうびょう"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "思い切った",
+                            "おもいき"
+                        ],
+                        [
+                            "療法",
+                            "りょうほう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "必要",
+                            "ひつよう"
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "Desperate diseases require desperate remedies."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "う",
+                    null
+                ],
+                [
+                    "存",
+                    "ぞん"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Adverb (fukushi)",
+                    "meaning": "1. to one's heart's content; to one's complete satisfaction; as much as one likes; heartily; thoroughly; without restraint; to the full "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "思",
+                "あい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Ai "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "思",
+                "おもい"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name, Family or surname",
+                    "meaning": "1. Omoi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "思",
+                "こころ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Kokoro "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "片",
+                    "かた"
+                ],
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. unrequited love; one-sided love "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Unrequited love Unrequited love is love that is not openly reciprocated o... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "片想い 【かたおもい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "不",
+                    "ふ"
+                ],
+                [
+                    "思",
+                    "し"
+                ],
+                [
+                    "議",
+                    "ぎ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. wonderful; marvelous; strange; incredible; amazing; curious; miraculous; mysterious "
+                },
+                {
+                    "type": "Adverb taking the 'to' particle",
+                    "meaning": "2. strangely enough; oddly enough; for some reason; curiously "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "意",
+                    "い"
+                ],
+                [
+                    "思",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. intention; wish; purpose; mind (to do) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "意",
+                    "い"
+                ],
+                [
+                    "思",
+                    "し"
+                ],
+                [
+                    "決",
+                    "けっ"
+                ],
+                [
+                    "定",
+                    "てい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. decision-making "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Decision making Decision making can be regarded as the mental processes r... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "意志決定 【いしけってい】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

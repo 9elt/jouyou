@@ -1,0 +1,940 @@
+{
+    "kanji": "牲",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "animal sacrifice",
+        "offering"
+    ],
+    "kun": [
+        "セイ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.2020183486238532,
+            0.25587155963302755,
+            "c",
+            0.0002752293577981651,
+            0.005504587155963302,
+            0.002018348623853211,
+            0.014495412844036697,
+            -0.0005504587155963302,
+            0.02201834862385321,
+            "c",
+            -0.020275229357798165,
+            0.05807339449541284,
+            -0.046697247706422015,
+            0.12119266055045873,
+            -0.10229357798165138,
+            0.18513761467889908
+        ],
+        [
+            "M",
+            0.20871559633027523,
+            0.3532110091743119,
+            "c",
+            0.011467889908256881,
+            0,
+            0.02311926605504587,
+            0.0001834862385321101,
+            0.034678899082568805,
+            -0.0017431192660550458,
+            "c",
+            0.0708256880733945,
+            -0.012018348623853212,
+            0.11211009174311927,
+            -0.020458715596330276,
+            0.1465137614678899,
+            -0.028073394495412844,
+            "c",
+            0.011192660550458715,
+            -0.002477064220183486,
+            0.02522935779816514,
+            -0.0045871559633027525,
+            0.03669724770642202,
+            -0.0022935779816513763
+        ],
+        [
+            "M",
+            0.30844036697247706,
+            0.11009174311926606,
+            "c",
+            0.011467889908256881,
+            0.011467889908256881,
+            0.013394495412844036,
+            0.022935779816513763,
+            0.013394495412844036,
+            0.03669724770642202,
+            "c",
+            0,
+            0.006146788990825688,
+            0.0003669724770642202,
+            0.4756880733944954,
+            0.0003669724770642202,
+            0.676605504587156,
+            "c",
+            0,
+            0.05311926605504587,
+            0,
+            0.08743119266055045,
+            -0.00009174311926605505,
+            0.08944954128440367
+        ],
+        [
+            "M",
+            0.1189908256880734,
+            0.6522935779816513,
+            "c",
+            0.014036697247706422,
+            0.008256880733944955,
+            0.024403669724770642,
+            0.004220183486238533,
+            0.03844036697247707,
+            -0.007522935779816513,
+            "c",
+            0.009357798165137614,
+            -0.0077981651376146785,
+            0.1720183486238532,
+            -0.1463302752293578,
+            0.2118348623853211,
+            -0.18376146788990827
+        ],
+        [
+            "M",
+            0.5288073394495413,
+            0.2118348623853211,
+            "c",
+            0.0021100917431192663,
+            0.00834862385321101,
+            0.001834862385321101,
+            0.016422018348623852,
+            -0.0005504587155963302,
+            0.02522935779816514,
+            "c",
+            -0.02146788990825688,
+            0.08055045871559632,
+            -0.03752293577981651,
+            0.14477064220183486,
+            -0.09174311926605505,
+            0.2322018348623853
+        ],
+        [
+            "M",
+            0.5302752293577981,
+            0.3555045871559633,
+            "c",
+            0.017798165137614678,
+            0.001926605504587156,
+            0.0336697247706422,
+            0.0009174311926605505,
+            0.05128440366972477,
+            -0.0011009174311926604,
+            "c",
+            0.05082568807339449,
+            -0.005963302752293578,
+            0.1565137614678899,
+            -0.020366972477064222,
+            0.21688073394495413,
+            -0.027981651376146787,
+            "c",
+            0.019357798165137614,
+            -0.0023853211009174312,
+            0.04027522935779816,
+            -0.003119266055045872,
+            0.059816513761467884,
+            -0.0009174311926605505
+        ],
+        [
+            "M",
+            0.6444036697247706,
+            0.10669724770642203,
+            "c",
+            0.014954128440366971,
+            0.014954128440366971,
+            0.017431192660550456,
+            0.029724770642201838,
+            0.017431192660550456,
+            0.050366972477064224,
+            "c",
+            0,
+            0.05504587155963303,
+            -0.00009174311926605505,
+            0.6007339449541285,
+            -0.00009174311926605505,
+            0.6674311926605505
+        ],
+        [
+            "M",
+            0.4844036697247706,
+            0.5855963302752294,
+            "c",
+            0.01908256880733945,
+            0.004954128440366972,
+            0.03963302752293578,
+            0.004678899082568807,
+            0.054587155963302755,
+            0.002018348623853211,
+            "c",
+            0.07449541284403668,
+            -0.013027522935779816,
+            0.18559633027522937,
+            -0.02146788990825688,
+            0.25027522935779817,
+            -0.027522935779816515,
+            "c",
+            0.020275229357798165,
+            -0.001926605504587156,
+            0.0381651376146789,
+            -0.0010091743119266055,
+            0.05825688073394495,
+            0.0006422018348623854
+        ],
+        [
+            "M",
+            0.40825688073394495,
+            0.841651376146789,
+            "c",
+            0.022110091743119266,
+            0.006788990825688073,
+            0.043944954128440364,
+            0.007889908256880733,
+            0.06660550458715596,
+            0.005871559633027523,
+            "c",
+            0.1020183486238532,
+            -0.009174311926605505,
+            0.2811926605504587,
+            -0.017798165137614678,
+            0.36458715596330277,
+            -0.022477064220183487,
+            "c",
+            0.028623853211009177,
+            -0.001559633027522936,
+            0.05614678899082569,
+            0.001834862385321101,
+            0.08357798165137614,
+            0.010091743119266056
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "贄",
+                    "にえ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. offering (to the gods, emperor, etc.) Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. gift "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. sacrifice "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "牲 【にえ】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. offering (to the gods, emperor, etc.) Archaic"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. gift "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. sacrifice "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "牲 【にえ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "牲",
+                "すみえ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sumie "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Suminori "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "牲川",
+                "せがわ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Segawa "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sacrifice 数千人がこの病気の犠牲になった。Thousands of people became victims of this disease."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. victim (esp. someone killed); casualty Abbreviation, See also 犠牲者"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. sacrifice (to a deity) See also 生け贄"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "数千",
+                            "すうせん"
+                        ],
+                        [
+                            "人",
+                            "にん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "病気",
+                            "びょうき"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "犠牲",
+                            "ぎせい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "なった",
+                            null
+                        ]
+                    ],
+                    "translation": "Thousands of people became victims of this disease."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. victim (esp. someone killed); casualty "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "生",
+                    "いけ"
+                ],
+                [
+                    "贄",
+                    "にえ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (living) sacrifice "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. victim; scapegoat タランチュラはそのいけにえを素早く捕まえた。The tarantula seized its victim very quickly."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Sacrifice Sacrifice is the offering of food, objects or the lives o... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "生け贄 【いけにえ】、犠牲 【いけにえ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "タランチュラ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "いけにえ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "素早く",
+                            "すばや"
+                        ],
+                        [
+                            "捕まえた",
+                            "つか"
+                        ]
+                    ],
+                    "translation": "The tarantula seized its victim very quickly."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "自",
+                    "じ"
+                ],
+                [
+                    "己",
+                    "こ"
+                ],
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. self-sacrifice; self-renunciation Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ど",
+                    null
+                ],
+                [
+                    "ん",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "払",
+                    "はら"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "も",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. at all costs; whatever the price; would give anything どんな犠牲を払っても、それをやりとげるつもりだ。I will accomplish it at all costs."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "どんな犠牲を払っても",
+                            "どんなぎせいをはら"
+                        ],
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "やりとげる",
+                            null
+                        ],
+                        [
+                            "つもり",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ]
+                    ],
+                    "translation": "I will accomplish it at all costs."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. self-sacrificing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "打",
+                    "だ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sacrifice (bunt or fly) Baseball, Rare term, See also 犠打"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "戦",
+                    "せん"
+                ],
+                [
+                    "闘",
+                    "とう"
+                ],
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. casualty "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "原",
+                    "げん"
+                ],
+                [
+                    "爆",
+                    "ばく"
+                ],
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. atomic bomb victim "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "戦",
+                    "せん"
+                ],
+                [
+                    "争",
+                    "そう"
+                ],
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. war victim "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "バ",
+                    null
+                ],
+                [
+                    "ン",
+                    null
+                ],
+                [
+                    "ト",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sacrifice bunt Baseball, See also 送りバント"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sacrifice bunt In baseball, a sacrifice bunt (also called a sacrifice hi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "フ",
+                    null
+                ],
+                [
+                    "ラ",
+                    null
+                ],
+                [
+                    "イ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sacrifice fly Baseball, See also 犠飛"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sacrifice fly In baseball, a sacrifice fly is a batted ball that satisf... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "出",
+                    "で"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to claim victims; to leave casualties "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "払",
+                    "はら"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "1. to make sacrifices for; to pay dearly for "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "者",
+                    "しゃ"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "出",
+                    "だ"
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'su' ending",
+                    "meaning": "1. to claim victims; to cause casualties "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "犠",
+                    "ぎ"
+                ],
+                [
+                    "牲",
+                    "せい"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ru' ending",
+                    "meaning": "1. to be sacrificed; to become a victim (of); to fall victim (to); to lose one's life "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1092 @@
+{
+    "kanji": "呪",
+    "grade": 10,
+    "jlpt": null,
+    "meanings": [
+        "spell",
+        "curse",
+        "charm",
+        "malediction"
+    ],
+    "kun": [
+        "まじな.う",
+        "のろ.い",
+        "まじな.い",
+        "のろ.う"
+    ],
+    "on": [
+        "ジュ",
+        "シュ",
+        "シュウ",
+        "ズ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.10321100917431193,
+            0.2641284403669725,
+            "c",
+            0.006972477064220183,
+            0.008715596330275228,
+            0.01091743119266055,
+            0.01853211009174312,
+            0.011926605504587157,
+            0.02963302752293578,
+            "c",
+            0.0074311926605504595,
+            0.05311926605504587,
+            0.014403669724770642,
+            0.09917431192660552,
+            0.020458715596330276,
+            0.14660550458715596,
+            "c",
+            0.0029357798165137615,
+            0.02311926605504587,
+            0.005596330275229358,
+            0.04642201834862385,
+            0.008073394495412844,
+            0.07110091743119266
+        ],
+        [
+            "M",
+            0.12229357798165137,
+            0.27724770642201835,
+            "c",
+            0.07440366972477064,
+            -0.01293577981651376,
+            0.13853211009174313,
+            -0.0181651376146789,
+            0.18045871559633028,
+            -0.023761467889908256,
+            "c",
+            0.03256880733944954,
+            -0.004403669724770642,
+            0.04935779816513761,
+            0.006605504587155963,
+            0.04339449541284404,
+            0.041651376146788995,
+            "c",
+            -0.008807339449541284,
+            0.052110091743119265,
+            -0.01944954128440367,
+            0.10706422018348624,
+            -0.030917431192660553,
+            0.17376146788990826
+        ],
+        [
+            "M",
+            0.15431192660550458,
+            0.49128440366972476,
+            "c",
+            0.04568807339449542,
+            -0.004678899082568807,
+            0.08412844036697248,
+            -0.007706422018348624,
+            0.13009174311926605,
+            -0.011559633027522935,
+            "c",
+            0.015596330275229357,
+            -0.0012844036697247708,
+            0.03211009174311927,
+            -0.002660550458715596,
+            0.05,
+            -0.004128440366972477
+        ],
+        [
+            "M",
+            0.4390825688073394,
+            0.1889908256880734,
+            "c",
+            0.007889908256880733,
+            0.00926605504587156,
+            0.013211009174311925,
+            0.019724770642201832,
+            0.015871559633027523,
+            0.031376146788990825,
+            "c",
+            0.00963302752293578,
+            0.0536697247706422,
+            0.0163302752293578,
+            0.09348623853211009,
+            0.024128440366972478,
+            0.15137614678899083,
+            "c",
+            0.002660550458715596,
+            0.01981651376146789,
+            0.005412844036697248,
+            0.04174311926605504,
+            0.008440366972477065,
+            0.06697247706422019
+        ],
+        [
+            "M",
+            0.45807339449541284,
+            0.2040366972477064,
+            "c",
+            0.0853211009174312,
+            -0.00908256880733945,
+            0.22110091743119267,
+            -0.01889908256880734,
+            0.2953211009174312,
+            -0.02532110091743119,
+            "c",
+            0.04229357798165138,
+            -0.003669724770642202,
+            0.0544954128440367,
+            0.007889908256880733,
+            0.046697247706422015,
+            0.050733944954128446,
+            "c",
+            -0.007706422018348624,
+            0.042201834862385317,
+            -0.01853211009174312,
+            0.08541284403669726,
+            -0.03495412844036697,
+            0.15752293577981652
+        ],
+        [
+            "M",
+            0.49559633027522937,
+            0.41366972477064223,
+            "c",
+            0.07311926605504587,
+            -0.0057798165137614675,
+            0.15724770642201835,
+            -0.011009174311926604,
+            0.22449541284403668,
+            -0.016146788990825688,
+            "c",
+            0.023211009174311924,
+            -0.0017431192660550458,
+            0.04449541284403669,
+            -0.0034862385321100917,
+            0.06256880733944954,
+            -0.005321100917431192
+        ],
+        [
+            "M",
+            0.5822935779816514,
+            0.445045871559633,
+            "c",
+            0,
+            0.011376146788990826,
+            -0.0014678899082568807,
+            0.023853211009174313,
+            -0.005963302752293578,
+            0.03642201834862385,
+            "c",
+            -0.03385321100917431,
+            0.09422018348623853,
+            -0.1026605504587156,
+            0.23183486238532108,
+            -0.24495412844036696,
+            0.3419266055045872
+        ],
+        [
+            "M",
+            0.6627522935779816,
+            0.4288990825688073,
+            "c",
+            0.008073394495412844,
+            0.008073394495412844,
+            0.010091743119266056,
+            0.01944954128440367,
+            0.010091743119266056,
+            0.03302752293577982,
+            "c",
+            0,
+            0.05954128440366973,
+            -0.0007339449541284404,
+            0.2008256880733945,
+            -0.0007339449541284404,
+            0.283302752293578,
+            "c",
+            0,
+            0.09256880733944954,
+            0.018256880733944953,
+            0.10559633027522936,
+            0.1144954128440367,
+            0.10339449541284404,
+            "C",
+            0.8761467889908257,
+            0.846605504587156,
+            0.8877981651376147,
+            0.8295412844036697,
+            0.8877981651376147,
+            0.7431192660550459
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "呪",
+                    "かし"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spell; curse Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呪 【かしり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spell; curse "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. dharani; mantra Buddhism"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "咒 【じゅ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "のろ"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. curse; spell; malediction "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Curse A curse (also called execration) is any expressed wish th... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詛い 【のろい】、咒い 【のろい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "咒い: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. curse; spell; malediction "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Curse A curse (also called execration) is any expressed wish th... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詛い 【のろい】、咒い 【のろい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "咒い: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "文",
+                    "もん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spell; charm; incantation; magic word "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Magic word Magic words are words which have a specific, and sometime... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "じゅ文 【じゅもん】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. spell; charm; incantation; magic word "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Magic word Magic words are words which have a specific, and sometime... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "じゅ文 【じゅもん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "のろ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to curse; to put a curse on; to detest intensely "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詛う 【のろう】"
+                },
+                {
+                    "type": "Godan verb with 'u' ending, Transitive verb",
+                    "meaning": "1. to curse; to put a curse on; to detest intensely "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "詛う 【のろう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "術",
+                    "じゅつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. magic; sorcery; incantation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. magic; sorcery; incantation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "縛",
+                    "ばく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. spell (that restricts one's movements); binding spell "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. spell (that restricts one's movements); binding spell "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅう"
+                ],
+                [
+                    "怨",
+                    "おん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Ju-on; The Grudge (Japanese horror movie) Work of art, literature, music, etc. name"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ju-on is the title of a series of horror films, created by Japa... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Ju-on; The Grudge (Japanese horror movie) Work of art, literature, music, etc. name"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ju-on is the title of a series of horror films, created by Japa... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "物",
+                    "ぶつ"
+                ],
+                [
+                    "崇",
+                    "すう"
+                ],
+                [
+                    "拝",
+                    "はい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fetishism "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fetishism This article concerns the concept of fetishism in anthrop... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. fetishism "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Fetishism This article concerns the concept of fetishism in anthrop... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "術",
+                    "じゅつ"
+                ],
+                [
+                    "的",
+                    "てき"
+                ],
+                [
+                    "思",
+                    "し"
+                ],
+                [
+                    "考",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. magical thinking "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Magical thinking Magical thinking is causal reasoning that looks for corre... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. magical thinking "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Magical thinking Magical thinking is causal reasoning that looks for corre... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "術",
+                    "じゅつ"
+                ],
+                [
+                    "医",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. medicine man; witch doctor (doctor specialized in treating illnesses caused by magic) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Witch doctor A witch doctor originally referred to a type of healer wh... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. medicine man; witch doctor (doctor specialized in treating illnesses caused by magic) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Witch doctor A witch doctor originally referred to a type of healer wh... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "具",
+                    "ぐ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. charm; magical tool "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. charm; magical tool "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. magical power; mystical force "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. magical power; mystical force "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "詛",
+                    "そ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. curse; malediction; hex "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呪咀 【じゅそ】、咒詛 【じゅそ】、呪詛 【ずそ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "咒詛: Out-dated kanji or kanji usage. ずそ: Out-dated or obsolete kana usage."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. curse; malediction; hex "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呪咀 【じゅそ】、咒詛 【じゅそ】、呪詛 【ずそ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "咒詛: Out-dated kanji or kanji usage. ずそ: Out-dated or obsolete kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "術",
+                    "じゅつ"
+                ],
+                [
+                    "師",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. witch doctor; shaman "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "禁",
+                    "ごん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. vanquishing monsters, spirits, etc. with charms Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "物",
+                    "ぶつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. fetish (object believed to have supernatural powers) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "殺",
+                    "さつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. killing (someone) with a curse; putting a deadly curse on (someone) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. killing (someone) with a curse; putting a deadly curse on (someone) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "のろ"
+                ],
+                [
+                    "わ",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. hateful; accursed "
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. hateful; accursed "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "符",
+                    "ふ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. amulet; charm "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "呪怨",
+                "じゅうおん"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Ju-on; The Grudge (Japanese horror movie) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "お",
+                    null
+                ],
+                [
+                    "呪",
+                    "まじな"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. good luck charm Usually written using kana aloneおまじないって言うのはね、女の子が好きな人と結ばれるように願をかけたりすることだよ。What you call a 'charm', you know, is what girls wish upon that they may get together with the person they love and such like."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "おまじない",
+                            null
+                        ],
+                        [
+                            "って",
+                            null
+                        ],
+                        [
+                            "言う",
+                            "い"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ],
+                        [
+                            "女の子",
+                            "おんなのこ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "好きな",
+                            "す"
+                        ],
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "結ばれる",
+                            "むす"
+                        ],
+                        [
+                            "ように",
+                            null
+                        ],
+                        [
+                            "願をかけたり",
+                            null
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "だ",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "What you call a 'charm', you know, is what girls wish upon that they may get together with the person they love and such like."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "類",
+                    "るい"
+                ],
+                [
+                    "感",
+                    "かん"
+                ],
+                [
+                    "呪",
+                    "じゅ"
+                ],
+                [
+                    "術",
+                    "じゅつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sympathetic magic; homeopathic magic; imitative magic See also 共感呪術 きょうかんじゅじゅつ"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sympathetic magic Sympathetic magic, also known as imitative magic, is a ty... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "六",
+                    "ろく"
+                ],
+                [
+                    "字",
+                    "じ"
+                ],
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "明",
+                    "みょう"
+                ],
+                [
+                    "呪",
+                    "じゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. great six-syllable mantra (\"om mani padme hum\") Buddhism"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Om mani padme hum Oṃ maṇi padme hūṃ is the six syllabled mantra particularl... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "消",
+                    "しょう"
+                ],
+                [
+                    "災",
+                    "さい"
+                ],
+                [
+                    "呪",
+                    "じゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. disaster-preventing incantation; disaster-preventing dharani Buddhism"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "禁",
+                    "きん"
+                ],
+                [
+                    "呪",
+                    "じゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. charm; incantation; spell; magic formula "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "詛",
+                    "そ"
+                ],
+                [
+                    "呪",
+                    "じゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. curse Rare term"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

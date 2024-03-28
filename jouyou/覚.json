@@ -1,0 +1,2001 @@
+{
+    "kanji": "覚",
+    "grade": 4,
+    "jlpt": 3,
+    "meanings": [
+        "memorize",
+        "learn",
+        "remember",
+        "awake",
+        "sober up"
+    ],
+    "kun": [
+        "おぼ.える",
+        "さ.ます",
+        "さ.める",
+        "さと.る"
+    ],
+    "on": [
+        "カク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.2798165137614679,
+            0.15137614678899083,
+            "c",
+            0.03211009174311927,
+            0.02963302752293578,
+            0.06651376146788991,
+            0.08146788990825689,
+            0.07110091743119266,
+            0.0963302752293578
+        ],
+        [
+            "M",
+            0.4518348623853211,
+            0.11926605504587157,
+            "c",
+            0.015045871559633026,
+            0.01834862385321101,
+            0.05128440366972477,
+            0.06651376146788991,
+            0.05733944954128441,
+            0.0963302752293578
+        ],
+        [
+            "M",
+            0.7161467889908257,
+            0.09403669724770643,
+            "c",
+            0.004036697247706422,
+            0.010275229357798166,
+            0.002660550458715596,
+            0.01853211009174312,
+            -0.003027522935779817,
+            0.027522935779816515,
+            "C",
+            0.6972477064220184,
+            0.14678899082568808,
+            0.6528440366972477,
+            0.19954128440366972,
+            0.6330275229357798,
+            0.22018348623853212
+        ],
+        [
+            "M",
+            0.2079816513761468,
+            0.30504587155963303,
+            "c",
+            -0.002752293577981651,
+            0.051559633027522936,
+            -0.018807339449541282,
+            0.10779816513761468,
+            -0.04211009174311926,
+            0.15825688073394495
+        ],
+        [
+            "M",
+            0.22018348623853212,
+            0.3256880733944954,
+            "c",
+            0.19954128440366972,
+            -0.0218348623853211,
+            0.41174311926605506,
+            -0.04477064220183486,
+            0.5642201834862385,
+            -0.052752293577981654,
+            "c",
+            0.10788990825688073,
+            -0.005688073394495413,
+            0.04357798165137615,
+            0.0481651376146789,
+            0.013761467889908258,
+            0.07339449541284404
+        ],
+        [
+            "M",
+            0.3328440366972477,
+            0.39293577981651373,
+            "c",
+            0.004862385321100918,
+            0.006880733944954129,
+            0.012018348623853212,
+            0.025596330275229357,
+            0.012018348623853212,
+            0.03513761467889908,
+            "c",
+            0,
+            0.0074311926605504595,
+            0,
+            0.16770642201834862,
+            0,
+            0.24623853211009175,
+            "c",
+            0,
+            0.02201834862385321,
+            0,
+            0.03752293577981651,
+            0,
+            0.041651376146788995
+        ],
+        [
+            "M",
+            0.3506422018348624,
+            0.40623853211009175,
+            "c",
+            0.027522935779816515,
+            -0.0022935779816513763,
+            0.23522935779816515,
+            -0.030642201834862385,
+            0.2603669724770642,
+            -0.03311926605504587,
+            "c",
+            0.020917431192660547,
+            -0.002018348623853211,
+            0.035688073394495416,
+            0.009908256880733945,
+            0.035688073394495416,
+            0.027614678899082565,
+            "c",
+            0,
+            0.03688073394495413,
+            -0.001559633027522936,
+            0.17412844036697248,
+            -0.0023853211009174312,
+            0.2494495412844037,
+            "c",
+            -0.0002752293577981651,
+            0.02532110091743119,
+            -0.00045871559633027525,
+            0.04357798165137615,
+            -0.00045871559633027525,
+            0.048807339449541284
+        ],
+        [
+            "M",
+            0.35706422018348627,
+            0.49954128440366974,
+            "c",
+            0.03486238532110091,
+            -0.0039449541284403665,
+            0.21522935779816516,
+            -0.023577981651376145,
+            0.28458715596330275,
+            -0.02853211009174312
+        ],
+        [
+            "M",
+            0.3592660550458715,
+            0.5887155963302753,
+            "c",
+            0.06155963302752294,
+            -0.006146788990825688,
+            0.20825688073394494,
+            -0.024862385321100917,
+            0.27908256880733945,
+            -0.027889908256880733
+        ],
+        [
+            "M",
+            0.3572477064220183,
+            0.6864220183486238,
+            "c",
+            0.0636697247706422,
+            -0.006422018348623853,
+            0.20596330275229358,
+            -0.020366972477064222,
+            0.2767889908256881,
+            -0.02330275229357798
+        ],
+        [
+            "M",
+            0.4289908256880734,
+            0.7192660550458716,
+            "c",
+            0.0006422018348623854,
+            0.0047706422018348625,
+            0.0021100917431192663,
+            0.012660550458715595,
+            -0.0012844036697247708,
+            0.01908256880733945,
+            "c",
+            -0.02284403669724771,
+            0.0426605504587156,
+            -0.10880733944954128,
+            0.11715596330275228,
+            -0.2338532110091743,
+            0.18256880733944952
+        ],
+        [
+            "M",
+            0.5430275229357798,
+            0.6997247706422018,
+            "c",
+            0.005596330275229358,
+            0.007522935779816513,
+            0.010275229357798166,
+            0.016422018348623852,
+            0.010275229357798166,
+            0.028073394495412844,
+            "c",
+            0,
+            0.03963302752293578,
+            -0.0006422018348623854,
+            0.07183486238532111,
+            -0.0006422018348623854,
+            0.09788990825688074,
+            "c",
+            0,
+            0.05504587155963303,
+            0.014954128440366971,
+            0.07302752293577981,
+            0.13788990825688072,
+            0.07302752293577981,
+            "c",
+            0.1373394495412844,
+            0,
+            0.15036697247706424,
+            -0.005412844036697248,
+            0.15036697247706424,
+            -0.07834862385321101
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "覚",
+                    "さとり"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Satori; folklore monster that can read minds Usually written using kana alone, See also 悟る, See also 悟る"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Satori (folklore) in Japanese folklore are supernatural monsters said to li... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "サトリ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "おぼ"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to memorize; to memorise; to commit to memory; to learn by heart; to bear in mind; to remember あなたが知っている事を全部彼に話す事を覚えておいてください。You must remember to tell him all that you know."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to learn; to pick up; to acquire Only applies to 覚える日本語は外人にとって覚えにくい。It is hard for foreigners to learn Japanese."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to feel Only applies to 覚えるその音楽には本当に感動をおぼえた。That music really gets me."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to think; to regard Only applies to 覚える"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "憶える 【おぼえる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "憶える: Rarely-used kanji form."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to memorize; to memorise; to commit to memory; to learn by heart; to bear in mind; to remember あなたが知っている事を全部彼に話す事を覚えておいてください。You must remember to tell him all that you know."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to learn; to pick up; to acquire Only applies to 覚える日本語は外人にとって覚えにくい。It is hard for foreigners to learn Japanese."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to feel Only applies to 覚えるその音楽には本当に感動をおぼえた。That music really gets me."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to think; to regard Only applies to 覚える"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "憶える 【おぼえる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "憶える: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "知っている",
+                            "し"
+                        ],
+                        [
+                            "事",
+                            "こと"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "全部",
+                            "ぜんぶ"
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "話す",
+                            "はな"
+                        ],
+                        [
+                            "事",
+                            "こと"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "覚えて",
+                            "おぼ"
+                        ],
+                        [
+                            "おいて",
+                            null
+                        ],
+                        [
+                            "ください",
+                            null
+                        ]
+                    ],
+                    "translation": "You must remember to tell him all that you know."
+                },
+                {
+                    "sentence": [
+                        [
+                            "日本語",
+                            "にほんご"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "外人",
+                            "がいじん"
+                        ],
+                        [
+                            "にとって",
+                            null
+                        ],
+                        [
+                            "覚え",
+                            "おぼ"
+                        ],
+                        [
+                            "にくい",
+                            null
+                        ]
+                    ],
+                    "translation": "It is hard for foreigners to learn Japanese."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "音楽",
+                            "おんがく"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "本当に",
+                            "ほんとう"
+                        ],
+                        [
+                            "感動",
+                            "かんどう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "おぼえた",
+                            null
+                        ]
+                    ],
+                    "translation": "That music really gets me."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "かく"
+                ],
+                [
+                    "悟",
+                    "ご"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. readiness; (mental) preparedness 兵士たちは故国のために死ぬ覚悟が出来ていた。The soldiers were ready to die for their country."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. resolution; determination "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. resignation (to one's fate) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. readiness; (mental) preparedness 兵士たちは故国のために死ぬ覚悟が出来ていた。The soldiers were ready to die for their country."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. resolution; determination "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "3. resignation (to one's fate) "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "兵士",
+                            "へいし"
+                        ],
+                        [
+                            "たち",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "故国",
+                            "ここく"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "死ぬ",
+                            "し"
+                        ],
+                        [
+                            "覚悟",
+                            "かくご"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "出来ていた",
+                            "でき"
+                        ]
+                    ],
+                    "translation": "The soldiers were ready to die for their country."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "さ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to wake; to wake up その叫び声で私は眠りからさめた。The cry roused me from my sleep."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to become sober; to sober up; to regain consciousness (e.g. after anaesthesia) けが人は麻酔から覚めた後痛みで泣きわめいた。The injured person wailed with pain after recovering from the anaesthesia."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to come to one's senses; to be disillusioned 彼の音楽熱はいつまでもさめない。Music is his abiding passion."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "醒める 【さめる】"
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to wake; to wake up その叫び声で私は眠りからさめた。The cry roused me from my sleep."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to become sober; to sober up; to regain consciousness (e.g. after anaesthesia) けが人は麻酔から覚めた後痛みで泣きわめいた。The injured person wailed with pain after recovering from the anaesthesia."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to come to one's senses; to be disillusioned 彼の音楽熱はいつまでもさめない。Music is his abiding passion."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "醒める 【さめる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "叫び声",
+                            "さけびごえ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "眠り",
+                            "ねむ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "さめた",
+                            null
+                        ]
+                    ],
+                    "translation": "The cry roused me from my sleep."
+                },
+                {
+                    "sentence": [
+                        [
+                            "けが人",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "麻酔",
+                            "ますい"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "覚めた",
+                            "さ"
+                        ],
+                        [
+                            "後",
+                            "あと"
+                        ],
+                        [
+                            "痛み",
+                            "いた"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "泣きわめいた",
+                            "なきわめ"
+                        ]
+                    ],
+                    "translation": "The injured person wailed with pain after recovering from the anaesthesia."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "音楽",
+                            "おんがく"
+                        ],
+                        [
+                            "熱",
+                            "ねつ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いつまでも",
+                            null
+                        ],
+                        [
+                            "さめない",
+                            null
+                        ]
+                    ],
+                    "translation": "Music is his abiding passion."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "さ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to awaken; to arouse from sleep その物音が私を眠りから覚まさせた。The noise awoke me from my sleep."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to bring to one's senses; to disabuse (someone of) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to sober up 酔いを覚ますために散歩に出かけた。I went for a walk to try to sober up."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to dampen; to throw a damper on; to spoil Only applies to 醒ます, See also 冷ます さます"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "醒ます 【さます】"
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "1. to awaken; to arouse from sleep その物音が私を眠りから覚まさせた。The noise awoke me from my sleep."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "2. to bring to one's senses; to disabuse (someone of) "
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "3. to sober up 酔いを覚ますために散歩に出かけた。I went for a walk to try to sober up."
+                },
+                {
+                    "type": "Godan verb with 'su' ending, Transitive verb",
+                    "meaning": "4. to dampen; to throw a damper on; to spoil Only applies to 醒ます, See also 冷ます さます"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "醒ます 【さます】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "物音",
+                            "ものおと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "眠り",
+                            "ねむ"
+                        ],
+                        [
+                            "から",
+                            null
+                        ],
+                        [
+                            "覚まさせた",
+                            "さ"
+                        ]
+                    ],
+                    "translation": "The noise awoke me from my sleep."
+                },
+                {
+                    "sentence": [
+                        [
+                            "酔い",
+                            "よ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "覚ます",
+                            "さ"
+                        ],
+                        [
+                            "ために",
+                            null
+                        ],
+                        [
+                            "散歩",
+                            "さんぽ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "出かけた",
+                            "で"
+                        ]
+                    ],
+                    "translation": "I went for a walk to try to sober up."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "おぼ"
+                ],
+                [
+                    "え",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. memory; sense; experience "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. memory; sense; experience "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悟",
+                    "さと"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to perceive; to sense; to become aware; to notice; to detect; to discern 彼はついに自分の誤りを悟った。At last, he realized his error."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to understand; to comprehend; to realize 彼はドイツ語で自分の言いたいことを伝えるのは難しいと悟った。He found it difficult to make himself understood in German."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to attain enlightenment Buddhism"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚る 【さとる】"
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "1. to perceive; to sense; to become aware; to notice; to detect; to discern 彼はついに自分の誤りを悟った。At last, he realized his error."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "2. to understand; to comprehend; to realize 彼はドイツ語で自分の言いたいことを伝えるのは難しいと悟った。He found it difficult to make himself understood in German."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Transitive verb",
+                    "meaning": "3. to attain enlightenment Buddhism"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚る 【さとる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ついに",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "誤り",
+                            "あやま"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "悟った",
+                            "さと"
+                        ]
+                    ],
+                    "translation": "At last, he realized his error."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ドイツ語",
+                            "ドイツご"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "自分",
+                            "じぶん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "言い",
+                            "い"
+                        ],
+                        [
+                            "たい",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "伝える",
+                            "つた"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "難しい",
+                            "むずか"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "悟った",
+                            "さと"
+                        ]
+                    ],
+                    "translation": "He found it difficult to make himself understood in German."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "かく"
+                ],
+                [
+                    "醒",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. waking up; awakening; arousal; revival "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. disillusion; disillusionment; awakening "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "お"
+                ],
+                [
+                    "束",
+                    "ぼつか"
+                ],
+                [
+                    "な",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. uncertain; doubtful; unpromising Usually written using kana aloneこんな天気にかれが来るかどうかおぼつかないと思う。I have some doubts about his coming in this weather."
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "2. unreliable; unsteady; insecure; shaky; faltering Usually written using kana alone"
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "3. unclear; vague; hazy; indistinct Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚束ない 【かくそくない】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "覚束ない: Ateji (phonetic) reading. かくそくない: Irregular kana usage. 覚束ない: Ateji (phonetic) reading."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "こんな",
+                            null
+                        ],
+                        [
+                            "天気",
+                            "てんき"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "かれ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "来る",
+                            "きた"
+                        ],
+                        [
+                            "かどうか",
+                            null
+                        ],
+                        [
+                            "おぼつかない",
+                            null
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "思う",
+                            "おも"
+                        ]
+                    ],
+                    "translation": "I have some doubts about his coming in this weather."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "おぼ"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "て",
+                    null
+                ],
+                [
+                    "ろ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. You'll regret this!; I'll get you for this; Just you wait Idiomatic expressionよーし！覚えてろ。後で悔やむなよ。All right! You will be sorry for this."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "よーし",
+                            null
+                        ],
+                        [
+                            "覚えてろ",
+                            "おぼ"
+                        ],
+                        [
+                            "後",
+                            "あと"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "悔やむ",
+                            "く"
+                        ],
+                        [
+                            "な",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "All right! You will be sorry for this."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おぼ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. seeming (to be); appearing; apparently See also 思しき, as ...と〜"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚しい 【おぼしい】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "覚しい: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "おぼえ"
+                ],
+                [
+                    "書",
+                    "がき"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. memo; memorandum; note "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (diplomatic) memorandum usu. 覚書"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Memorandum A memorandum is from the Latin verbal phrase memorandum e... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚え書き 【おぼえがき】、覚え書 【おぼえがき】、覚書き 【おぼえがき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "かく"
+                ],
+                [
+                    "醒",
+                    "せい"
+                ],
+                [
+                    "剤",
+                    "ざい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. stimulant (e.g. psychoactive drugs like methamphetamine, ritalin, etc.) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Stimulant Stimulants (also referred to as psychostimulants) are psy... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚せい剤 【かくせいざい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悟",
+                    "さと"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. comprehension; understanding "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. enlightenment; spiritual awakening; satori Buddhism"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Satori is a Japanese Buddhist term for enlightenment, meaning \"u... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚り 【さとり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "かく"
+                ],
+                [
+                    "悟",
+                    "ご"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "決",
+                    "き"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to prepare oneself (for the worst); to resolve oneself See also 腹を括る"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "おぼ"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "易",
+                    "やす"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. easy to learn "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "冷",
+                    "さ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "や",
+                    null
+                ],
+                [
+                    "ら",
+                    null
+                ],
+                [
+                    "ぬ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Pre-noun adjectival (rentaishi)",
+                    "meaning": "1. lingering (usu. feeling, emotion, etc.); continuing (to); still (...) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚めやらぬ 【さめやらぬ】、醒めやらぬ 【さめやらぬ】、冷め遣らぬ 【さめやらぬ】、覚め遣らぬ 【さめやらぬ】、醒め遣らぬ 【さめやらぬ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "おぼ"
+                ],
+                [
+                    "え",
+                    null
+                ],
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to memorize; to fix in memory; to master "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚え込む 【おぼえこむ】、覚込む 【おぼえこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "覚",
+                    "さ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "際",
+                    "ぎわ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. on the verge of waking "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悟",
+                    "さと"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "早",
+                    "はや"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. being quick to understand Rare term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "覚りが早い 【さとりがはやい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "覚",
+                "あきら"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Female given name",
+                    "meaning": "1. Akira "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "覚",
+                "かく"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname, Given name, gender not specified",
+                    "meaning": "1. Kaku "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "覚",
+                "さとし"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Male given name",
+                    "meaning": "1. Satoshi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "感",
+                    "かん"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. sense; sensation; feeling; intuition "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sense Senses are physiological capacities of organisms that pro... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "視",
+                    "し"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. sense of sight; vision "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Visual perception Visual perception is the ability to interpret the surroun... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "聴",
+                    "ちょう"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. the sense of hearing "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Hearing (sense) Hearing is the ability to perceive sound by detecting vib... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "錯",
+                    "さっかく"
+                ],
+                [
+                    "覚",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. optical illusion; hallucination "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. misapprehension; delusion "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Illusion An illusion is a distortion of the senses, revealing how ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "味",
+                    "み"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. taste; palate; sense of taste "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Taste Taste is one of the traditional five senses. It refers to... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "目",
+                    "め"
+                ],
+                [
+                    "覚",
+                    "ざ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. alarm clock Abbreviation, See also 目覚まし時計"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. waking up; keeping oneself awake "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. early-morning treat (traditionally given to children in some parts of Japan); wake-up sweet See also おめざ"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "目覚し 【めざまし】、目ざまし 【めざまし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "自",
+                    "じ"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. self-consciousness; self-awareness "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "目",
+                    "め"
+                ],
+                [
+                    "覚",
+                    "ざ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to wake up; to awake "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to awaken to (instinct, ability, perception, etc.); to become aware of; to become conscious of; to realize "
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "3. to come to one's senses "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "目ざめる 【めざめる】、目醒める 【めざめる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "目",
+                    "め"
+                ],
+                [
+                    "覚",
+                    "ざ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. remarkable; striking; brilliant; splendid; spectacular; wonderful; conspicuous; outstanding; amazing "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "目覚しい 【めざましい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "目",
+                    "め"
+                ],
+                [
+                    "覚",
+                    "ざ"
+                ],
+                [
+                    "ま",
+                    null
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "時",
+                    "どけい"
+                ],
+                [
+                    "計",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. alarm clock "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Alarm clock An alarm clock is a clock that is designed to make a loud... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "目覚し時計 【めざましどけい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "知",
+                    "ち"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. perception; sensation; awareness "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Perception Perception (from the Latin perceptio, percipio) is the or... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "智覚 【ちかく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "智覚: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "幻",
+                    "げん"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hallucination; illusion "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Hallucination A hallucination, in the broadest sense of the word, is a ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "発",
+                    "はっ"
+                ],
+                [
+                    "覚",
+                    "かく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. detection (of a plot, fraud, etc.); discovery; coming to light; being uncovered "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "物",
+                    "もの"
+                ],
+                [
+                    "覚",
+                    "おぼ"
+                ],
+                [
+                    "え",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. memory; ability to learn "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "もの覚え 【ものおぼえ】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

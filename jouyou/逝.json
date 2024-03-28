@@ -1,0 +1,874 @@
+{
+    "kanji": "逝",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "departed",
+        "die"
+    ],
+    "kun": [
+        "ゆ.く",
+        "い.く"
+    ],
+    "on": [
+        "セイ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.3536697247706422,
+            0.32128440366972477,
+            "c",
+            0.015596330275229357,
+            0.005596330275229358,
+            0.028990825688073395,
+            0.004403669724770642,
+            0.044311926605504585,
+            0.0033944954128440367,
+            "c",
+            0.05385321100917431,
+            -0.0034862385321100917,
+            0.09055045871559632,
+            -0.008073394495412844,
+            0.1456880733944954,
+            -0.013119266055045872,
+            "c",
+            0.00944954128440367,
+            -0.0008256880733944953,
+            0.0181651376146789,
+            -0.00009174311926605505,
+            0.02587155963302752,
+            0.0001834862385321101
+        ],
+        [
+            "M",
+            0.46908256880733945,
+            0.15027522935779816,
+            "c",
+            0.009724770642201836,
+            0.009724770642201836,
+            0.013486238532110091,
+            0.022935779816513763,
+            0.013486238532110091,
+            0.03908256880733945,
+            "c",
+            0,
+            0.10321100917431193,
+            -0.0009174311926605505,
+            0.4623853211009174,
+            -0.0009174311926605505,
+            0.4975229357798165,
+            "c",
+            0,
+            0.0906422018348624,
+            -0.051834862385321104,
+            0.007981651376146788,
+            -0.061467889908256884,
+            -0.0008256880733944953
+        ],
+        [
+            "M",
+            0.35091743119266056,
+            0.5296330275229357,
+            "c",
+            0.00963302752293578,
+            0.006972477064220183,
+            0.015963302752293577,
+            0.010550458715596329,
+            0.03036697247706422,
+            0.0033944954128440367,
+            "c",
+            0.011192660550458715,
+            -0.005504587155963302,
+            0.11238532110091744,
+            -0.0691743119266055,
+            0.15853211009174312,
+            -0.09926605504587156
+        ],
+        [
+            "M",
+            0.7947706422018348,
+            0.1506422018348624,
+            "c",
+            0.0012844036697247708,
+            0.008623853211009174,
+            -0.002752293577981651,
+            0.016238532110091745,
+            -0.009174311926605505,
+            0.02238532110091743,
+            "c",
+            -0.02642201834862385,
+            0.02532110091743119,
+            -0.0571559633027523,
+            0.0510091743119266,
+            -0.13073394495412843,
+            0.08834862385321102
+        ],
+        [
+            "M",
+            0.6191743119266054,
+            0.2631192660550459,
+            "c",
+            0.009541284403669725,
+            0.009541284403669725,
+            0.010458715596330274,
+            0.02128440366972477,
+            0.010275229357798166,
+            0.03458715596330275,
+            "c",
+            -0.0033027522935779813,
+            0.1988073394495413,
+            -0.026238532110091743,
+            0.31577981651376147,
+            -0.08541284403669726,
+            0.39715596330275227
+        ],
+        [
+            "M",
+            0.645045871559633,
+            0.38513761467889907,
+            "c",
+            0.003027522935779817,
+            0.0013761467889908255,
+            0.020366972477064222,
+            -0.0008256880733944953,
+            0.02853211009174312,
+            -0.0017431192660550458,
+            "c",
+            0.04201834862385321,
+            -0.004403669724770642,
+            0.11394495412844037,
+            -0.010642201834862385,
+            0.16220183486238532,
+            -0.01862385321100917,
+            "c",
+            0.014220183486238533,
+            -0.0023853211009174312,
+            0.030733944954128442,
+            -0.004954128440366972,
+            0.0453211009174312,
+            -0.0010091743119266055
+        ],
+        [
+            "M",
+            0.7530275229357798,
+            0.3988073394495413,
+            "c",
+            0.007247706422018349,
+            0.007247706422018349,
+            0.011834862385321101,
+            0.017431192660550456,
+            0.011834862385321101,
+            0.030642201834862385,
+            "c",
+            0,
+            0.007064220183486239,
+            0.0003669724770642202,
+            0.19055045871559634,
+            -0.0005504587155963302,
+            0.2906422018348624,
+            "c",
+            -0.0002752293577981651,
+            0.024495412844036696,
+            -0.0002752293577981651,
+            0.045504587155963304,
+            -0.00045871559633027525,
+            0.05614678899082569
+        ],
+        [
+            "M",
+            0.18458715596330277,
+            0.17321100917431193,
+            "c",
+            0.03605504587155964,
+            0.016972477064220184,
+            0.09302752293577982,
+            0.06990825688073395,
+            0.1020183486238532,
+            0.09642201834862385
+        ],
+        [
+            "M",
+            0.11926605504587157,
+            0.463302752293578,
+            "c",
+            0.020642201834862386,
+            0.009174311926605505,
+            0.03935779816513762,
+            0.005688073394495413,
+            0.0481651376146789,
+            0.0022935779816513763,
+            "c",
+            0.035596330275229356,
+            -0.013761467889908258,
+            0.06330275229357799,
+            -0.023394495412844035,
+            0.09174311926605505,
+            -0.034403669724770644,
+            "c",
+            0.020642201834862386,
+            -0.008073394495412844,
+            0.031467889908256885,
+            0.003119266055045872,
+            0.020642201834862386,
+            0.02522935779816514,
+            "c",
+            -0.06311926605504586,
+            0.12844036697247707,
+            -0.05963302752293578,
+            0.08256880733944955,
+            0.0045871559633027525,
+            0.1743119266055046,
+            "c",
+            0.008807339449541284,
+            0.012568807339449543,
+            0.011467889908256881,
+            0.02522935779816514,
+            -0.0022935779816513763,
+            0.03669724770642202,
+            "s",
+            -0.07229357798165137,
+            0.05963302752293578,
+            -0.10321100917431193,
+            0.08027522935779817
+        ],
+        [
+            "M",
+            0.13990825688073394,
+            0.7637614678899083,
+            "c",
+            0.027522935779816515,
+            -0.0045871559633027525,
+            0.0773394495412844,
+            -0.01036697247706422,
+            0.11926605504587157,
+            -0.0045871559633027525,
+            "c",
+            0.06651376146788991,
+            0.009174311926605505,
+            0.27541284403669725,
+            0.06568807339449541,
+            0.3165137614678899,
+            0.07568807339449542,
+            "c",
+            0.11816513761467891,
+            0.028623853211009177,
+            0.18238532110091743,
+            0.04018348623853211,
+            0.23743119266055046,
+            0.04477064220183486
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "行",
+                    "い"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "1. to go; to move (towards); to head (towards); to leave (for) See also 来るお母さん、泳ぎに行ってもいい？Can I go swimming, Mother?"
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "2. to move through; to travel across; to walk along (e.g. a road) 探検家が山中の道なき道を行った。The explorer pushed his way through the trackless mountain region."
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "3. to go (well, badly, etc.); to proceed; to turn out; to get along あなたのおかげで仕事がうまく行きました。Thanks to you, the job went well."
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "4. to do (in a particular way); to go (with; a choice); to try oft. as で〜"
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "5. to pass (of time, seasons, etc.); to go by "
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "6. to stream; to flow "
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "7. to die; to pass away usu. written as 逝く"
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "8. to reach (a stage, extent, age, etc.); to get to; to go (so far as ...) "
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "9. to reach (of information, instructions, wind, etc.); to arrive "
+                },
+                {
+                    "type": "Auxiliary verb, Godan verb - Iku/Yuku special class",
+                    "meaning": "10. to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ... Usually written using kana alone, after the -te form of a verb; い sometimes omitted in casual speechその音はだんだん小さくなっていった。The sound grew fainter and fainter."
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "11. to have an orgasm; to come; to cum Usually written using kana alone, Colloquial, oft. written as イク"
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "12. to trip; to get high; to have a drug-induced hallucination Usually written using kana alone, Slang"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "行く 【ゆく】、往く 【いく】、往く 【ゆく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "往く: Rarely-used kanji form. 往く: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "1. to go; to move (towards); to head (towards); to leave (for) See also 来るお母さん、泳ぎに行ってもいい？Can I go swimming, Mother?"
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "2. to move through; to travel across; to walk along (e.g. a road) 探検家が山中の道なき道を行った。The explorer pushed his way through the trackless mountain region."
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "3. to go (well, badly, etc.); to proceed; to turn out; to get along あなたのおかげで仕事がうまく行きました。Thanks to you, the job went well."
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "4. to do (in a particular way); to go (with; a choice); to try oft. as で〜"
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "5. to pass (of time, seasons, etc.); to go by "
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "6. to stream; to flow "
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "7. to die; to pass away usu. written as 逝く"
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "8. to reach (a stage, extent, age, etc.); to get to; to go (so far as ...) "
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "9. to reach (of information, instructions, wind, etc.); to arrive "
+                },
+                {
+                    "type": "Auxiliary verb, Godan verb - Iku/Yuku special class",
+                    "meaning": "10. to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ... Usually written using kana alone, after the -te form of a verb; い sometimes omitted in casual speechその音はだんだん小さくなっていった。The sound grew fainter and fainter."
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "11. to have an orgasm; to come; to cum Usually written using kana alone, Colloquial, oft. written as イク"
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "12. to trip; to get high; to have a drug-induced hallucination Usually written using kana alone, Slang"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "行く 【ゆく】、往く 【いく】、往く 【ゆく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "往く: Rarely-used kanji form. 往く: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "お母さん",
+                            "おかあ"
+                        ],
+                        [
+                            "泳ぎ",
+                            "およ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "行って",
+                            "い"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "いい",
+                            null
+                        ]
+                    ],
+                    "translation": "Can I go swimming, Mother?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "探検家",
+                            "たんけんか"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "山中",
+                            "さんちゅう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "道なき道",
+                            "みちなきみち"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "行った",
+                            "い"
+                        ]
+                    ],
+                    "translation": "The explorer pushed his way through the trackless mountain region."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなたの",
+                            null
+                        ],
+                        [
+                            "おかげで",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "うまく",
+                            null
+                        ],
+                        [
+                            "行きました",
+                            "い"
+                        ]
+                    ],
+                    "translation": "Thanks to you, the job went well."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "音",
+                            "おと"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "だんだん",
+                            null
+                        ],
+                        [
+                            "小さく",
+                            "ちい"
+                        ],
+                        [
+                            "なって",
+                            null
+                        ],
+                        [
+                            "いった",
+                            null
+                        ]
+                    ],
+                    "translation": "The sound grew fainter and fainter."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "逝",
+                    "せい"
+                ],
+                [
+                    "去",
+                    "きょ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. death; passing Honorific or respectful (sonkeigo) language"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. death; passing Honorific or respectful (sonkeigo) language"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "逝",
+                    "い"
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "1. to die; to pass away See also 行く"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "逝く 【ゆく】"
+                },
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "1. to die; to pass away See also 行く"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "逝く 【ゆく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "逝",
+                    "い"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "面",
+                    "めん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. exceptionally ugly man Internet slang, Jocular, humorous term, Rare term, See also イケメン, kanji \"pun\" on イケメン"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "逝けメン 【いけメン】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. exceptionally ugly man Internet slang, Jocular, humorous term, Rare term, See also イケメン, kanji \"pun\" on イケメン"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "逝けメン 【いけメン】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "逝",
+                "すみたか"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sumitaka "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Suminori "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Sumiyo "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "急",
+                    "きゅう"
+                ],
+                [
+                    "逝",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. sudden death; unexpected death Formal or literary term, See also 急死"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "早",
+                    "そう"
+                ],
+                [
+                    "世",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. dying young; early death "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "早逝 【そうせい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "長",
+                    "ちょう"
+                ],
+                [
+                    "逝",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. death; passing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "永",
+                    "えい"
+                ],
+                [
+                    "逝",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. death; dying "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "夭",
+                    "よう"
+                ],
+                [
+                    "逝",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. premature death "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "遠",
+                    "えん"
+                ],
+                [
+                    "逝",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. going afar "
+                },
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "2. death; dying "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "死",
+                    "し"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "ゆ",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb - Iku/Yuku special class, Intransitive verb",
+                    "meaning": "1. to be nearing death; to be dying "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "死に行く 【しにゆく】、死に逝く 【しにゆく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "善",
+                    "ぜん"
+                ],
+                [
+                    "逝",
+                    "ぜい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Sugata (the well-gone; epithet of Buddha) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "薨",
+                    "こう"
+                ],
+                [
+                    "逝",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. death (of a nobleman) Rare term, See also 薨去"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "騅",
+                    "すい"
+                ],
+                [
+                    "逝",
+                    "ゆ"
+                ],
+                [
+                    "か",
+                    null
+                ],
+                [
+                    "ず",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.)",
+                    "meaning": "1. things going contrary to one's wishes "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1881 @@
+{
+    "kanji": "入",
+    "grade": 1,
+    "jlpt": 5,
+    "meanings": [
+        "enter",
+        "insert"
+    ],
+    "kun": [
+        "い.る",
+        "-い.る",
+        "-い.り",
+        "い.れる",
+        "-い.れ",
+        "はい.る"
+    ],
+    "on": [
+        "ニュウ",
+        "ジュ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.5022935779816514,
+            0.44724770642201833,
+            "c",
+            -0.0045871559633027525,
+            0.01834862385321101,
+            -0.010091743119266056,
+            0.029357798165137616,
+            -0.018990825688073393,
+            0.04238532110091743,
+            "C",
+            0.4056880733944954,
+            0.6036697247706422,
+            0.25669724770642205,
+            0.7471559633027522,
+            0.13302752293577982,
+            0.8073394495412844
+        ],
+        [
+            "M",
+            0.3348623853211009,
+            0.1834862385321101,
+            "c",
+            0.07568807339449542,
+            0.012660550458715595,
+            0.13871559633027522,
+            0.3119266055045872,
+            0.4477981651376147,
+            0.5695412844036697,
+            "c",
+            0.024862385321100917,
+            0.02073394495412844,
+            0.0510091743119266,
+            0.04403669724770642,
+            0.08660550458715596,
+            0.05889908256880734
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "1. entering 船は改装のため目下ドック入りしている。The ship is now in dock for a refit."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "2. setting (of the Sun) "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "3. containing; content; audience See also サイン入り１箱は２０本入りである。Each package contains a score of cigarettes."
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "4. income "
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix",
+                    "meaning": "5. beginning "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "入 【いり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "入: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "船",
+                            "ふね"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "改装",
+                            "かいそう"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "ため",
+                            null
+                        ],
+                        [
+                            "目下",
+                            "もっか"
+                        ],
+                        [
+                            "ドック",
+                            null
+                        ],
+                        [
+                            "入り",
+                            "い"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "The ship is now in dock for a refit."
+                },
+                {
+                    "sentence": [
+                        [
+                            "箱",
+                            "はこ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "本",
+                            "ほん"
+                        ],
+                        [
+                            "入り",
+                            "い"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "Each package contains a score of cigarettes."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "しお"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suffix, Counter",
+                    "meaning": "1. counter for soakings (of fabric in a dye) Archaic"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. admission (to a school or university); entrance; enrolment; enrollment; matriculation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Matriculation Matriculation, in the broadest sense, means to be registe... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. admission (to a school or university); entrance; enrolment; enrollment; matriculation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Matriculation Matriculation, in the broadest sense, means to be registe... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "はい"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to enter; to come in; to go in; to get in; to arrive Antonym: 出る目に砂が入りました。I got some sand in my eye."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to join (a club, company, etc.); to enter (a university, the army, etc.); to enroll (in); to go into (e.g. politics); to get into 彼は大学へ進まず実業界に入った。He entered the business world instead of going on to college."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to be contained (in); to be included (in); to be inside (e.g. a box); to come under (a heading); to belong (in a category) 箱の中にはりんごが６個入っている。There are six apples in the box."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to (be able to) fit (in a container, building, etc.); to be (able to be) held; to be (able to be) accommodated この球場は５万人入る。This stadium will hold 50,000 people."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to be introduced; to be brought in; to be installed "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to be received; to be obtained 彼は月収２０００ドルの金が入る。He has a monthly income of 2,000 dollars."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to be scored (of points); to be won (of votes) わがチームは最終回で５点入った。Our team scored five runs in the last inning."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to turn on; to start functioning; to start working "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "9. to enter (a month, season, etc.); to reach (e.g. a climax); to get to (e.g. the main topic); to enter into (e.g. negotiations); to start (doing); to begin 梅雨に入った。The rainy season has set in."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "10. to form (of a crack, fissure, etc.); to develop "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "11. to be put in (of effort, spirit, feeling, etc.); to be applied (e.g. of strength) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "12. to be ready (of tea, coffee, etc.); to be made "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "13. to enter the body (of alcohol); to become drunk "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "這入る 【はいる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "這入る: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to enter; to come in; to go in; to get in; to arrive Antonym: 出る目に砂が入りました。I got some sand in my eye."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to join (a club, company, etc.); to enter (a university, the army, etc.); to enroll (in); to go into (e.g. politics); to get into 彼は大学へ進まず実業界に入った。He entered the business world instead of going on to college."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "3. to be contained (in); to be included (in); to be inside (e.g. a box); to come under (a heading); to belong (in a category) 箱の中にはりんごが６個入っている。There are six apples in the box."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "4. to (be able to) fit (in a container, building, etc.); to be (able to be) held; to be (able to be) accommodated この球場は５万人入る。This stadium will hold 50,000 people."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "5. to be introduced; to be brought in; to be installed "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "6. to be received; to be obtained 彼は月収２０００ドルの金が入る。He has a monthly income of 2,000 dollars."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "7. to be scored (of points); to be won (of votes) わがチームは最終回で５点入った。Our team scored five runs in the last inning."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "8. to turn on; to start functioning; to start working "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "9. to enter (a month, season, etc.); to reach (e.g. a climax); to get to (e.g. the main topic); to enter into (e.g. negotiations); to start (doing); to begin 梅雨に入った。The rainy season has set in."
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "10. to form (of a crack, fissure, etc.); to develop "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "11. to be put in (of effort, spirit, feeling, etc.); to be applied (e.g. of strength) "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "12. to be ready (of tea, coffee, etc.); to be made "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "13. to enter the body (of alcohol); to become drunk "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "這入る 【はいる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "這入る: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "目",
+                            "め"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "砂",
+                            "すな"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "入りました",
+                            "はい"
+                        ]
+                    ],
+                    "translation": "I got some sand in my eye."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "大学",
+                            "だいがく"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "進まず",
+                            "すす"
+                        ],
+                        [
+                            "実業界",
+                            "じつぎょうかい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "入った",
+                            "はい"
+                        ]
+                    ],
+                    "translation": "He entered the business world instead of going on to college."
+                },
+                {
+                    "sentence": [
+                        [
+                            "箱",
+                            "はこ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "中",
+                            "なか"
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "りんご",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "個",
+                            "こ"
+                        ],
+                        [
+                            "入っている",
+                            "は"
+                        ]
+                    ],
+                    "translation": "There are six apples in the box."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "球場",
+                            "きゅうじょう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "万人",
+                            "ばんにん"
+                        ],
+                        [
+                            "入る",
+                            "はい"
+                        ]
+                    ],
+                    "translation": "This stadium will hold 50,000 people."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "月収",
+                            "げっしゅう"
+                        ],
+                        [
+                            "ドル",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "金",
+                            "かね"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "入る",
+                            "はい"
+                        ]
+                    ],
+                    "translation": "He has a monthly income of 2,000 dollars."
+                },
+                {
+                    "sentence": [
+                        [
+                            "わが",
+                            null
+                        ],
+                        [
+                            "チーム",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "最終回",
+                            "さいしゅうかい"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "点",
+                            "てん"
+                        ],
+                        [
+                            "入った",
+                            "はい"
+                        ]
+                    ],
+                    "translation": "Our team scored five runs in the last inning."
+                },
+                {
+                    "sentence": [
+                        [
+                            "梅雨",
+                            "つゆ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "入った",
+                            "はい"
+                        ]
+                    ],
+                    "translation": "The rainy season has set in."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to put in; to let in; to take in; to bring in; to insert; to install (e.g. software); to set (a jewel, etc.); to ink in (e.g. tattoo) それは引き出しに入れておきました。I put it in the drawer."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to admit; to accept; to employ; to hire 留学生も入れるのかしら。Can foreign students be in the club?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to accept; to comply; to grant; to adopt (a policy, etc.); to take (advice, etc.); to listen to; to pay attention to esp. 容れる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to include "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to pay (one's rent, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to cast (a vote) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to make (tea, coffee, etc.) See also 淹れるあなたは、私にコーヒーをいれてもらいたいですか。Do you want me to make coffee?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to turn on (a switch, etc.) ずいぶん暑いですね。クーラーをいれましょうか。It's very warm. Shall I turn on the air conditioner?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "9. to send (a fax); to call "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "容れる 【いれる】、函れる 【いれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "容れる: Rarely-used kanji form. 函れる: Rarely-used kanji form."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to put in; to let in; to take in; to bring in; to insert; to install (e.g. software); to set (a jewel, etc.); to ink in (e.g. tattoo) それは引き出しに入れておきました。I put it in the drawer."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to admit; to accept; to employ; to hire 留学生も入れるのかしら。Can foreign students be in the club?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to accept; to comply; to grant; to adopt (a policy, etc.); to take (advice, etc.); to listen to; to pay attention to esp. 容れる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "4. to include "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "5. to pay (one's rent, etc.) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "6. to cast (a vote) "
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "7. to make (tea, coffee, etc.) See also 淹れるあなたは、私にコーヒーをいれてもらいたいですか。Do you want me to make coffee?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "8. to turn on (a switch, etc.) ずいぶん暑いですね。クーラーをいれましょうか。It's very warm. Shall I turn on the air conditioner?"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "9. to send (a fax); to call "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "容れる 【いれる】、函れる 【いれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "容れる: Rarely-used kanji form. 函れる: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "引き出し",
+                            "ひきだ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "入れて",
+                            "い"
+                        ],
+                        [
+                            "おきました",
+                            null
+                        ]
+                    ],
+                    "translation": "I put it in the drawer."
+                },
+                {
+                    "sentence": [
+                        [
+                            "留学生",
+                            "りゅうがくせい"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "入れる",
+                            "い"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "かしら",
+                            null
+                        ]
+                    ],
+                    "translation": "Can foreign students be in the club?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "私",
+                            "わたし"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "コーヒー",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "いれて",
+                            null
+                        ],
+                        [
+                            "もらい",
+                            null
+                        ],
+                        [
+                            "たい",
+                            null
+                        ],
+                        [
+                            "ですか",
+                            null
+                        ]
+                    ],
+                    "translation": "Do you want me to make coffee?"
+                },
+                {
+                    "sentence": [
+                        [
+                            "ずいぶん",
+                            null
+                        ],
+                        [
+                            "暑い",
+                            "あつ"
+                        ],
+                        [
+                            "です",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ],
+                        [
+                            "クーラー",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "いれ",
+                            null
+                        ],
+                        [
+                            "ましょう",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "It's very warm. Shall I turn on the air conditioner?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "院",
+                    "いん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. hospitalization; hospitalisation "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. hospitalization; hospitalisation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "浴",
+                    "よく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. bathing; going in the bath "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bathing Bathing is the washing or cleansing of the body with a fl... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. bathing; going in the bath "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bathing Bathing is the washing or cleansing of the body with a fl... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. entrance; entering; admission; admittance Antonym: 退場"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. entrance; entering; admission; admittance Antonym: 退場"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "社",
+                    "しゃ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. joining a company; getting a job with a company; starting work at a company "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. joining a company; getting a job with a company; starting work at a company "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "物",
+                    "もの"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. container; case; receptacle 眼窩とは、目をいれている骨のいれもののことです。The eye socket is the bone receptacle in which the eye fits."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. coffin; casket Euphemistic, See also 棺"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "容れ物 【いれもの】、入物 【いれもの】、容物 【いれもの】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "入物: Irregular okurigana usage. 容物: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. container; case; receptacle 眼窩とは、目をいれている骨のいれもののことです。The eye socket is the bone receptacle in which the eye fits."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. coffin; casket Euphemistic, See also 棺"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "容れ物 【いれもの】、入物 【いれもの】、容物 【いれもの】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "入物: Irregular okurigana usage. 容物: Irregular okurigana usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "眼窩",
+                            "がんか"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "目",
+                            "め"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "いれている",
+                            null
+                        ],
+                        [
+                            "骨",
+                            "ほね"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "いれもの",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "です",
+                            null
+                        ]
+                    ],
+                    "translation": "The eye socket is the bone receptacle in which the eye fits."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "手",
+                    "しゅ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. acquisition; obtaining; procurement; getting (hold of) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "賞",
+                    "しょう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. winning a prize; placing (high; in a contest) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "口",
+                    "ぐち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. entrance; entry; gate; approach; mouth See also 出口"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "入り口 【いりくち】、入口 【いりぐち】、入口 【いりくち】、入り口 【はいりぐち】、入り口 【はいりくち】、入口 【はいりぐち】、入口 【はいりくち】、這入口 【はいりぐち】、這入口 【はいりくち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "這入口: Rarely-used kanji form. 這入口: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "場",
+                    "じょう"
+                ],
+                [
+                    "券",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. admission ticket; entrance ticket "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. platform ticket; ticket allowing a non-traveller access to a railway station platform "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Ticket (admission) A ticket is a voucher that indicates that one has paid fo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. input; (data) entry "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Input "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "学",
+                    "がく"
+                ],
+                [
+                    "試",
+                    "し"
+                ],
+                [
+                    "験",
+                    "けん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. entrance examination "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Entrance examination An entrance examination is an examination that many educa... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "部",
+                    "ぶ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. joining a club "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Radical 11 Radical 11 meaning enter, come in (to), join is one of 23... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "会",
+                    "かい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. admission (to a society, club, etc.); joining; entrance; enrollment; enrolment; becoming a member Antonym: 退会"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Nyuukai "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "試",
+                    "し"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. entrance examination Abbreviation, See also 入学試験"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "入",
+                    "にゅう"
+                ],
+                [
+                    "念",
+                    "ねん"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun",
+                    "meaning": "1. careful; elaborate; scrupulous "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "入",
+                "いり"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place, Family or surname",
+                    "meaning": "1. Iri "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Irinouchi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "入",
+                "かえる"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kaeru "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "押",
+                    "おし"
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. closet (built into the wall of a room); (built-in) wardrobe "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Closet A closet (especially in North American usage) is a small ... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "押し入れ 【おしいれ】、押入 【おしいれ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "収",
+                    "しゅう"
+                ],
+                [
+                    "入",
+                    "にゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. income; receipts; revenue Antonym: 支出"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Income Income is the consumption and savings opportunity gained ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "輸",
+                    "ゆ"
+                ],
+                [
+                    "入",
+                    "にゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. import; importation; introduction Antonym: 輸出"
+                },
+                {
+                    "type": "Noun or verb acting prenominally",
+                    "meaning": "2. afferent Biology, Antonym: 輸出"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Import The term import is derived from the conceptual meaning as... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "輸入 【しゅにゅう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "記",
+                    "き"
+                ],
+                [
+                    "入",
+                    "にゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. entry (in a form, register, diary, etc.); filling in; filling out "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "に",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ru' ending",
+                    "meaning": "1. to like; to be pleased with; to be delighted with; to take a liking to; to suit one's fancy "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "気にいる 【きにいる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "侵",
+                    "しん"
+                ],
+                [
+                    "入",
+                    "にゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. invasion; incursion; raid; aggression; intrusion; trespass; penetration; hacking "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "手",
+                    "て"
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. care; looking after; repair; maintenance; tending; trimming; grooming あなたに庭の手入れを手伝って頂きたいのですが。I would like you to assist me with my gardening."
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. (police) raid; crackdown 本店は警察の手入れを受けた。The main office was raided by the police."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "あなた",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "庭",
+                            "にわ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "手入れ",
+                            "てい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "手伝って",
+                            "てつだ"
+                        ],
+                        [
+                            "頂き",
+                            "いただ"
+                        ],
+                        [
+                            "たい",
+                            null
+                        ],
+                        [
+                            "のです",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ]
+                    ],
+                    "translation": "I would like you to assist me with my gardening."
+                },
+                {
+                    "sentence": [
+                        [
+                            "本店",
+                            "ほんてん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "警察",
+                            "けいさつ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "手入れ",
+                            "てい"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "受けた",
+                            "う"
+                        ]
+                    ],
+                    "translation": "The main office was raided by the police."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "出",
+                    "で"
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. going in and out; entering and exiting "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "2. visiting regularly; frequenting; having regular dealings with "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. income and expenditure; incomings and outgoings "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. increase and decrease; surplus and deficit; fluctuation "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. fight; trouble; quarrel; dispute "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "6. indentations (e.g. of a coastline) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "出入り 【ではいり】、出這入り 【ではいり】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "出這入り: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "出",
+                    "で"
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "口",
+                    "ぐち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. exit and entrance "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "出入口 【でいりぐち】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to harvest; to reap Only applies to 取り入れる"
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to take in; to gather in Only applies to 取り入れる洗濯物を中へ取り入れて下さい。Please bring in the washing."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to adopt (e.g. an idea); to accept (e.g. advice); to introduce; to borrow (e.g. a word) 私達はいつも彼の忠告を取り入れるというわけではない。We do not always take his advice."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "採り入れる 【とりいれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "採り入れる: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "洗濯物",
+                            "せんたくもの"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "中",
+                            "なか"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "取り入れて",
+                            "とりい"
+                        ],
+                        [
+                            "下さい",
+                            "くだ"
+                        ]
+                    ],
+                    "translation": "Please bring in the washing."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私達",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "いつも",
+                            null
+                        ],
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "忠告",
+                            "ちゅうこく"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "取り入れる",
+                            "とりい"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "いう",
+                            null
+                        ],
+                        [
+                            "わけではない",
+                            null
+                        ]
+                    ],
+                    "translation": "We do not always take his advice."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "ひ"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sunset Antonym: 日の出 ひので"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "四",
+                    "し"
+                ],
+                [
+                    "捨",
+                    "しゃ"
+                ],
+                [
+                    "五",
+                    "ご"
+                ],
+                [
+                    "入",
+                    "にゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. rounding (off; a number); rounding half away from zero "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. rounding off (views); converging to a common opinion "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

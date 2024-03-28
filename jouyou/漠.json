@@ -1,0 +1,917 @@
+{
+    "kanji": "漠",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "vague",
+        "obscure",
+        "desert",
+        "wide"
+    ],
+    "kun": [
+        "バク"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.17091743119266053,
+            0.1651376146788991,
+            "c",
+            0.035229357798165134,
+            0.013486238532110091,
+            0.09091743119266055,
+            0.0555045871559633,
+            0.09972477064220182,
+            0.07651376146788991
+        ],
+        [
+            "M",
+            0.13761467889908258,
+            0.3738532110091743,
+            "c",
+            0.03724770642201834,
+            0.013394495412844036,
+            0.0961467889908257,
+            0.05495412844036698,
+            0.10550458715596331,
+            0.07568807339449542
+        ],
+        [
+            "M",
+            0.14908256880733944,
+            0.8323853211009175,
+            "c",
+            0.012660550458715595,
+            0.005596330275229358,
+            0.023577981651376145,
+            -0.0008256880733944953,
+            0.029908256880733942,
+            -0.013486238532110091,
+            "c",
+            0.031926605504587154,
+            -0.06311926605504586,
+            0.05513761467889908,
+            -0.10623853211009174,
+            0.08018348623853211,
+            -0.16293577981651378
+        ],
+        [
+            "M",
+            0.36954128440366973,
+            0.23357798165137617,
+            "c",
+            0.021559633027522937,
+            0.0037614678899082566,
+            0.04541284403669725,
+            0.003853211009174312,
+            0.06642201834862385,
+            0.0011926605504587156,
+            "c",
+            0.09816513761467889,
+            -0.012385321100917432,
+            0.25440366972477063,
+            -0.02724770642201835,
+            0.3531192660550459,
+            -0.036238532110091745,
+            "c",
+            0.019174311926605504,
+            -0.0017431192660550458,
+            0.039449541284403665,
+            -0.0011926605504587156,
+            0.05807339449541284,
+            0.004036697247706422
+        ],
+        [
+            "M",
+            0.47788990825688077,
+            0.14110091743119266,
+            "c",
+            0.008715596330275228,
+            0.008715596330275228,
+            0.013577981651376147,
+            0.01871559633027523,
+            0.014678899082568808,
+            0.02651376146788991,
+            "c",
+            0.0074311926605504595,
+            0.05256880733944955,
+            0.015045871559633026,
+            0.11155963302752293,
+            0.01889908256880734,
+            0.13807339449541284
+        ],
+        [
+            "M",
+            0.7060550458715595,
+            0.1210091743119266,
+            "c",
+            0.003853211009174312,
+            0.013119266055045872,
+            0.0025688073394495416,
+            0.02256880733944954,
+            -0.0007339449541284404,
+            0.0355045871559633,
+            "c",
+            -0.014954128440366971,
+            0.059082568807339454,
+            -0.016972477064220184,
+            0.06963302752293578,
+            -0.03238532110091743,
+            0.13137614678899082
+        ],
+        [
+            "M",
+            0.4069724770642202,
+            0.3544954128440367,
+            "c",
+            0.0074311926605504595,
+            0.0074311926605504595,
+            0.01275229357798165,
+            0.018256880733944953,
+            0.015045871559633026,
+            0.028165137614678898,
+            "c",
+            0.009816513761467891,
+            0.043119266055045874,
+            0.018256880733944953,
+            0.10146788990825689,
+            0.024128440366972478,
+            0.1355045871559633,
+            "c",
+            0.002018348623853211,
+            0.011559633027522935,
+            0.004678899082568807,
+            0.03238532110091743,
+            0.006055045871559634,
+            0.0389908256880734
+        ],
+        [
+            "M",
+            0.4271559633027523,
+            0.37165137614678895,
+            "c",
+            0.07623853211009175,
+            -0.01275229357798165,
+            0.25403669724770644,
+            -0.0344954128440367,
+            0.32513761467889907,
+            -0.041009174311926605,
+            "c",
+            0.028440366972477066,
+            -0.0025688073394495416,
+            0.04422018348623853,
+            0.013211009174311925,
+            0.039174311926605504,
+            0.041009174311926605,
+            "c",
+            -0.006146788990825688,
+            0.0336697247706422,
+            -0.020917431192660547,
+            0.09247706422018348,
+            -0.030642201834862385,
+            0.13339449541284404,
+            "c",
+            -0.0034862385321100917,
+            0.014495412844036697,
+            -0.006513761467889908,
+            0.02724770642201835,
+            -0.008899082568807339,
+            0.03688073394495413
+        ],
+        [
+            "M",
+            0.4455963302752294,
+            0.45440366972477064,
+            "c",
+            0.08311926605504588,
+            -0.00944954128440367,
+            0.22761467889908255,
+            -0.0255045871559633,
+            0.32348623853211006,
+            -0.02944954128440367
+        ],
+        [
+            "M",
+            0.4606422018348624,
+            0.543211009174312,
+            "C",
+            0.5389908256880734,
+            0.536697247706422,
+            0.6627522935779816,
+            0.5231192660550459,
+            0.7458715596330275,
+            0.520091743119266
+        ],
+        [
+            "M",
+            0.3469724770642202,
+            0.6683486238532109,
+            "c",
+            0.018990825688073393,
+            0.005229357798165137,
+            0.041926605504587156,
+            0.005045871559633028,
+            0.06128440366972477,
+            0.0025688073394495416,
+            "c",
+            0.13871559633027522,
+            -0.01724770642201835,
+            0.28091743119266055,
+            -0.027522935779816515,
+            0.4048623853211009,
+            -0.035229357798165134,
+            "c",
+            0.022110091743119266,
+            -0.0013761467889908255,
+            0.05376146788990826,
+            0.0008256880733944953,
+            0.07211009174311928,
+            0.005963302752293578
+        ],
+        [
+            "M",
+            0.5906422018348624,
+            0.5780733944954128,
+            "c",
+            0.006788990825688073,
+            0.00908256880733945,
+            0.006513761467889908,
+            0.020825688073394497,
+            0.004862385321100918,
+            0.02981651376146789,
+            "C",
+            0.5711009174311926,
+            0.7339449541284404,
+            0.48623853211009177,
+            0.8348623853211009,
+            0.3486238532110092,
+            0.8858715596330275
+        ],
+        [
+            "M",
+            0.5985321100917431,
+            0.6569724770642201,
+            "c",
+            0.05201834862385321,
+            0.04623853211009174,
+            0.1273394495412844,
+            0.11715596330275228,
+            0.20669724770642203,
+            0.18495412844036696,
+            "c",
+            0.01944954128440367,
+            0.016605504587155963,
+            0.041009174311926605,
+            0.031009174311926603,
+            0.06385321100917431,
+            0.04201834862385321
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "漠",
+                    "ばく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. vague; obscure See also 漠然 ばくぜん"
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "2. vast; boundless "
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. vague; obscure See also 漠然 ばくぜん"
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "2. vast; boundless "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漠",
+                    "ばく"
+                ],
+                [
+                    "然",
+                    "ぜん"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. vague; obscure; indistinct; hazy; ambiguous "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ばく然 【ばくぜん】"
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. vague; obscure; indistinct; hazy; ambiguous "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "ばく然 【ばくぜん】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漠",
+                    "ばく"
+                ],
+                [
+                    "々",
+                    "ばく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. vast; boundless "
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "2. vague; obscure "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漠漠 【ばくばく】"
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. vast; boundless "
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "2. vague; obscure "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "漠漠 【ばくばく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漠",
+                    null
+                ],
+                [
+                    "河",
+                    null
+                ],
+                [
+                    "空",
+                    null
+                ],
+                [
+                    "港",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Mohe Gulian Airport Mohe Gulian Airport is an airport serving Mohe County in ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "漠",
+                    null
+                ],
+                [
+                    "河",
+                    null
+                ],
+                [
+                    "県",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Mohe County Mohe County is the northernmost county in China, located ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "漠",
+                "きよし"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kiyoshi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "漠",
+                "ばく"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Baku "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "漠",
+                "ひろし"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Given name, gender not specified",
+                    "meaning": "1. Hiroshi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "砂",
+                    "さ"
+                ],
+                [
+                    "漠",
+                    "ばく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. desert "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Desert A desert is a landscape or region that receives an extrem... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "沙漠 【さばく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "沙漠: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "サ",
+                    null
+                ],
+                [
+                    "ハ",
+                    null
+                ],
+                [
+                    "ラ",
+                    null
+                ],
+                [
+                    "砂",
+                    "さ"
+                ],
+                [
+                    "漠",
+                    "ばく"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Sahara Desert "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Sahara "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Sahara The Sahara is the world's largest hot desert and second l... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "サハラ沙漠 【サハラさばく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "砂",
+                    "さ"
+                ],
+                [
+                    "漠",
+                    "ばく"
+                ],
+                [
+                    "化",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. desertification 非常に残念なことに地球は一秒で1900平方メートルが砂漠化している。Very regrettably, 1,900 square meters of land become desert every second."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Desertification Desertification is the degradation of land in any dryland... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "非常に",
+                            "ひじょう"
+                        ],
+                        [
+                            "残念な",
+                            "ざんねん"
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "地球",
+                            "ちきゅう"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "一秒",
+                            "いちびょう"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "平方メートル",
+                            "へいほう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "砂漠化",
+                            "さばくか"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "Very regrettably, 1,900 square meters of land become desert every second."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "日",
+                    "にっぽんさばくりょくかじっせんきょうかい"
+                ],
+                [
+                    "本",
+                    null
+                ],
+                [
+                    "沙",
+                    null
+                ],
+                [
+                    "漠",
+                    null
+                ],
+                [
+                    "緑",
+                    null
+                ],
+                [
+                    "化",
+                    null
+                ],
+                [
+                    "実",
+                    null
+                ],
+                [
+                    "践",
+                    null
+                ],
+                [
+                    "協",
+                    null
+                ],
+                [
+                    "会",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Japan Association for Greening Deserts Organization name"
+                },
+                {
+                    "type": "Organization",
+                    "meaning": "2. Japan Association for Greening Deserts "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "索",
+                    "さく"
+                ],
+                [
+                    "莫",
+                    "ばく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. dreary; bleak; desolate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "索漠 【さくばく】、索寞 【さくばく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "冥",
+                    "めい"
+                ],
+                [
+                    "漠",
+                    "ばく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. dim and distant "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "冥邈 【めいばく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "冥邈: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "広",
+                    "こう"
+                ],
+                [
+                    "漠",
+                    "ばく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. vast; wide; boundless "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "宏漠 【こうばく】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "宏漠: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "空",
+                    "くう"
+                ],
+                [
+                    "漠",
+                    "ばく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle, Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. vast; boundless "
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle, Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "2. vague "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "空",
+                    "くう"
+                ],
+                [
+                    "々",
+                    "くう"
+                ],
+                [
+                    "漠",
+                    "ばく"
+                ],
+                [
+                    "々",
+                    "ばく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. vast; boundless; wide and empty Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "2. vague and hazy Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "空空漠漠 【くうくうばくばく】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "茫",
+                    "ぼう"
+                ],
+                [
+                    "漠",
+                    "ばく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. vast; boundless "
+                },
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "2. vague; obscure "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "荒",
+                    "こう"
+                ],
+                [
+                    "漠",
+                    "ばく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "'taru' adjective, Adverb taking the 'to' particle",
+                    "meaning": "1. desolate (e.g. plains); ruined "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "砂",
+                    "さ"
+                ],
+                [
+                    "漠",
+                    "ばく"
+                ],
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "候",
+                    "こう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. desert climate; arid climate "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Arid A region is arid when it is characterized by a severe lac... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

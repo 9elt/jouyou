@@ -1,0 +1,872 @@
+{
+    "kanji": "把",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "grasp",
+        "faggot",
+        "bunch",
+        "counter for bundles"
+    ],
+    "kun": [
+        "ハ",
+        "ワ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.1353211009174312,
+            0.3501834862385321,
+            "c",
+            0.01908256880733945,
+            0.0022935779816513763,
+            0.03,
+            0.002752293577981651,
+            0.05045871559633028,
+            0,
+            "c",
+            0.04330275229357798,
+            -0.005871559633027523,
+            0.09880733944954129,
+            -0.0163302752293578,
+            0.1720183486238532,
+            -0.02651376146788991,
+            "c",
+            0.012018348623853212,
+            -0.0016513761467889907,
+            0.02522935779816514,
+            -0.003669724770642202,
+            0.0381651376146789,
+            -0.002477064220183486
+        ],
+        [
+            "M",
+            0.2685321100917431,
+            0.13073394495412843,
+            "c",
+            0.010825688073394495,
+            0.010825688073394495,
+            0.013853211009174311,
+            0.02522935779816514,
+            0.013853211009174311,
+            0.046055045871559626,
+            "c",
+            0,
+            0.13972477064220185,
+            -0.00009174311926605505,
+            0.5111009174311927,
+            -0.00009174311926605505,
+            0.6160550458715597,
+            "c",
+            0,
+            0.13073394495412843,
+            -0.05798165137614679,
+            0.03238532110091743,
+            -0.07128440366972477,
+            0.01834862385321101
+        ],
+        [
+            "M",
+            0.12385321100917432,
+            0.6255045871559634,
+            "c",
+            0.010275229357798166,
+            0.011009174311926604,
+            0.01944954128440367,
+            0.009816513761467891,
+            0.03669724770642202,
+            -0.0016513761467889907,
+            "c",
+            0.04596330275229358,
+            -0.030642201834862385,
+            0.0871559633027523,
+            -0.05963302752293578,
+            0.19036697247706422,
+            -0.13376146788990825
+        ],
+        [
+            "M",
+            0.46522935779816516,
+            0.23733944954128441,
+            "c",
+            0.01073394495412844,
+            0.008073394495412844,
+            0.029724770642201838,
+            0.006880733944954129,
+            0.041651376146788995,
+            0.005412844036697248,
+            "c",
+            0.08146788990825689,
+            -0.01,
+            0.23467889908256878,
+            -0.028440366972477066,
+            0.2977064220183486,
+            -0.03385321100917431,
+            "c",
+            0.029174311926605506,
+            -0.0025688073394495416,
+            0.04293577981651376,
+            0.016972477064220184,
+            0.040733944954128444,
+            0.035596330275229356,
+            "c",
+            -0.007247706422018349,
+            0.06073394495412844,
+            -0.011192660550458715,
+            0.11110091743119266,
+            -0.023394495412844035,
+            0.18477064220183487,
+            "c",
+            -0.0022935779816513763,
+            0.013577981651376147,
+            -0.0047706422018348625,
+            0.027889908256880733,
+            -0.0076146788990825685,
+            0.04330275229357798
+        ],
+        [
+            "M",
+            0.6417431192660551,
+            0.24403669724770644,
+            "c",
+            0.00834862385321101,
+            0.00834862385321101,
+            0.009174311926605505,
+            0.017339449541284403,
+            0.008440366972477065,
+            0.03155963302752293,
+            "c",
+            -0.0033944954128440367,
+            0.06155963302752294,
+            -0.005688073394495413,
+            0.12688073394495414,
+            -0.0077981651376146785,
+            0.173302752293578
+        ],
+        [
+            "M",
+            0.49761467889908256,
+            0.474954128440367,
+            "c",
+            0.05853211009174312,
+            -0.004954128440366972,
+            0.24935779816513762,
+            -0.020550458715596333,
+            0.3062385321100918,
+            -0.02311926605504587
+        ],
+        [
+            "M",
+            0.47733944954128443,
+            0.25045871559633026,
+            "c",
+            0.007064220183486239,
+            0.007064220183486239,
+            0.00944954128440367,
+            0.01669724770642202,
+            0.00944954128440367,
+            0.03128440366972477,
+            "c",
+            0,
+            0.07917431192660551,
+            -0.0002752293577981651,
+            0.2988073394495413,
+            -0.0002752293577981651,
+            0.35229357798165134,
+            "c",
+            0,
+            0.18293577981651377,
+            0.013486238532110091,
+            0.18972477064220183,
+            0.1928440366972477,
+            0.18972477064220183,
+            "c",
+            0.18541284403669725,
+            0,
+            0.18834862385321102,
+            -0.017614678899082567,
+            0.18834862385321102,
+            -0.11394495412844037
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "束",
+                    "たば"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Noun, used as a suffix, Counter",
+                    "meaning": "1. bundle; bunch; sheaf "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "把 【たば】"
+                },
+                {
+                    "type": "Noun, Noun, used as a suffix, Counter",
+                    "meaning": "1. bundle; bunch; sheaf "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "把 【たば】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "把",
+                    "わ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Counter",
+                    "meaning": "1. counter for bundles "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "把 【ば】、把 【ぱ】"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "1. counter for bundles "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "把 【ば】、把 【ぱ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "掴",
+                    "つか"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to seize; to catch; to grasp; to grip; to grab; to clutch; to hold; to catch hold of; to lay one's hands on Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to obtain; to acquire; to get; to win; to capture Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "3. to understand; to grasp; to comprehend Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "摑む 【つかむ】、攫む 【つかむ】、把む 【つかむ】、捉む 【つかむ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "摑む: Rarely-used kanji form. 攫む: Rarely-used kanji form. 把む: Rarely-used kanji form. 捉む: Rarely-used kanji form."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to seize; to catch; to grasp; to grip; to grab; to clutch; to hold; to catch hold of; to lay one's hands on Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to obtain; to acquire; to get; to win; to capture Usually written using kana alone"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "3. to understand; to grasp; to comprehend Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "摑む 【つかむ】、攫む 【つかむ】、把む 【つかむ】、捉む 【つかむ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "摑む: Rarely-used kanji form. 攫む: Rarely-used kanji form. 把む: Rarely-used kanji form. 捉む: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "取",
+                    "と"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "手",
+                    "て"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. handle; grip; knob "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "把手 【とって】、把っ手 【とって】、取手 【とって】、把手 【はしゅ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "取手: Irregular okurigana usage."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. handle; grip; knob "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "把手 【とって】、把っ手 【とって】、取手 【とって】、把手 【はしゅ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "取手: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "把",
+                    "は"
+                ],
+                [
+                    "握",
+                    "あく"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. grasp (of the situation, meaning, etc.); understanding; control; hold; grip "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. grasp (of the situation, meaning, etc.); understanding; control; hold; grip "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "把",
+                    "は"
+                ],
+                [
+                    "握",
+                    "あく"
+                ],
+                [
+                    "反",
+                    "はん"
+                ],
+                [
+                    "射",
+                    "しゃ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grasp reflex; palmar grasp reflex Physiology"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. grasp reflex; palmar grasp reflex Physiology"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "把",
+                    "は"
+                ],
+                [
+                    "持",
+                    "じ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. grasp; hold; grip "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. grasp; hold; grip "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "把",
+                    "は"
+                ],
+                [
+                    "捉",
+                    "そく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. grasping (a meaning) "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. grasping (a meaning) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "把",
+                    null
+                ],
+                [
+                    "瑠",
+                    null
+                ],
+                [
+                    "都",
+                    null
+                ],
+                [
+                    "凱",
+                    null
+                ],
+                [
+                    "斗",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Baruto Kaito Baruto Kaito (把瑠都 凱斗, born 5 November 1984 as Kaido Hööve... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "把之沢",
+                "たばのさわ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Tabanosawa "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Tabanosawagawa "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Tabako "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "おお"
+                ],
+                [
+                    "雑",
+                    "ざっ"
+                ],
+                [
+                    "把",
+                    "ぱ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. rough (estimate, summary, etc.); broad; general; sweeping; loose 大雑把に言えば、バスには３０名ほどの人達がいました。Roughly speaking, there were about 30 people in the bus."
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "2. careless (e.g. work); sloppy; crude あの人って大ざっぱな性格だからね。He's the type who doesn't worry about details."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "大ざっぱ 【おおざっぱ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "大雑把に",
+                            "おおざっぱ"
+                        ],
+                        [
+                            "言えば",
+                            "い"
+                        ],
+                        [
+                            "バス",
+                            null
+                        ],
+                        [
+                            "には",
+                            null
+                        ],
+                        [
+                            "名",
+                            "めい"
+                        ],
+                        [
+                            "ほど",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "人達",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "いました",
+                            null
+                        ]
+                    ],
+                    "translation": "Roughly speaking, there were about 30 people in the bus."
+                },
+                {
+                    "sentence": [
+                        [
+                            "あの人",
+                            "あのひと"
+                        ],
+                        [
+                            "って",
+                            null
+                        ],
+                        [
+                            "大ざっぱな",
+                            "おおざっぱ"
+                        ],
+                        [
+                            "性格",
+                            "せいかく"
+                        ],
+                        [
+                            "だから",
+                            null
+                        ],
+                        [
+                            "ね",
+                            null
+                        ]
+                    ],
+                    "translation": "He's the type who doesn't worry about details."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "十",
+                    "じっ"
+                ],
+                [
+                    "把",
+                    "ぱ"
+                ],
+                [
+                    "一",
+                    "ひと"
+                ],
+                [
+                    "絡",
+                    "から"
+                ],
+                [
+                    "げ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. lumping together (things or people); treating (everyone) alike; handling indiscriminately; making sweeping generalizations; dealing with (various things) under one head usu. 〜に"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "十把一絡げ 【じゅっぱひとからげ】、十把ひとからげ 【じっぱひとからげ】、十把ひとからげ 【じゅっぱひとからげ】、十把一からげ 【じっぱひとからげ】、十把一からげ 【じゅっぱひとからげ】、十把一絡 【じっぱひとからげ】、十把一絡 【じゅっぱひとからげ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "銃",
+                    "じゅう"
+                ],
+                [
+                    "把",
+                    "は"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grip of a gun "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "両",
+                    "りょう"
+                ],
+                [
+                    "把",
+                    "は"
+                ],
+                [
+                    "頭",
+                    "とう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Liangbatou; traditional Manchurian female hairstyle Rare term"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "握",
+                    "あく"
+                ],
+                [
+                    "把",
+                    "は"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. holding; gripping "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. grip (sword, gun, etc.); hilt; handle "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "現",
+                    "げん"
+                ],
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "把",
+                    "は"
+                ],
+                [
+                    "握",
+                    "あく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grasping the present situation; having an accurate grasp of the situation "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "動",
+                    "どう"
+                ],
+                [
+                    "向",
+                    "こう"
+                ],
+                [
+                    "把",
+                    "は"
+                ],
+                [
+                    "握",
+                    "あく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grasping the trend; firmly understanding how the situation is developing; getting a good sense of how things are changing "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いち"
+                ],
+                [
+                    "把",
+                    "わ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bundle; bunch "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "要",
+                    "よう"
+                ],
+                [
+                    "点",
+                    "てん"
+                ],
+                [
+                    "把",
+                    "は"
+                ],
+                [
+                    "握",
+                    "あく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. grasping the (main) point; seizing the essence (of a matter) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "状",
+                    "じょう"
+                ],
+                [
+                    "況",
+                    "きょう"
+                ],
+                [
+                    "把",
+                    "は"
+                ],
+                [
+                    "握",
+                    "あく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (one's) grasp of the situation; knowing how matters stand "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

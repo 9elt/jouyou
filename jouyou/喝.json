@@ -1,0 +1,949 @@
+{
+    "kanji": "喝",
+    "grade": 10,
+    "jlpt": 1,
+    "meanings": [
+        "hoarse",
+        "scold"
+    ],
+    "kun": [
+        "カツ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.13073394495412843,
+            0.30871559633027523,
+            "c",
+            0.006605504587155963,
+            0.009724770642201836,
+            0.009541284403669725,
+            0.017614678899082567,
+            0.01128440366972477,
+            0.02963302752293578,
+            "c",
+            0.0081651376146789,
+            0.05733944954128441,
+            0.020458715596330276,
+            0.12954128440366972,
+            0.027614678899082565,
+            0.2025688073394495,
+            "c",
+            0.0016513761467889907,
+            0.017155963302752295,
+            0.0032110091743119264,
+            0.03357798165137615,
+            0.0045871559633027525,
+            0.048532110091743116
+        ],
+        [
+            "M",
+            0.14908256880733944,
+            0.32073394495412844,
+            "c",
+            0.06073394495412844,
+            -0.007522935779816513,
+            0.12155963302752294,
+            -0.017431192660550456,
+            0.16275229357798163,
+            -0.024128440366972478,
+            "c",
+            0.027522935779816515,
+            -0.004495412844036697,
+            0.043119266055045874,
+            0.0008256880733944953,
+            0.03853211009174312,
+            0.03256880733944954,
+            "c",
+            -0.008073394495412844,
+            0.055963302752293574,
+            -0.017614678899082567,
+            0.1336697247706422,
+            -0.02944954128440367,
+            0.20779816513761468
+        ],
+        [
+            "M",
+            0.17577981651376146,
+            0.5654128440366972,
+            "c",
+            0.03706422018348624,
+            -0.005871559633027523,
+            0.07357798165137615,
+            -0.010550458715596329,
+            0.12440366972477064,
+            -0.01688073394495413,
+            "c",
+            0.01165137614678899,
+            -0.0014678899082568807,
+            0.023944954128440367,
+            -0.0029357798165137615,
+            0.03724770642201834,
+            -0.0045871559633027525
+        ],
+        [
+            "M",
+            0.44724770642201833,
+            0.1263302752293578,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.010275229357798166,
+            0.0181651376146789,
+            0.013027522935779816,
+            0.029724770642201838,
+            "c",
+            0.003853211009174312,
+            0.030091743119266053,
+            0.011376146788990826,
+            0.12422018348623852,
+            0.016422018348623852,
+            0.17422018348623852,
+            "c",
+            0.001834862385321101,
+            0.01834862385321101,
+            0.004220183486238533,
+            0.03577981651376147,
+            0.005412844036697248,
+            0.04357798165137615
+        ],
+        [
+            "M",
+            0.46733944954128437,
+            0.1410091743119266,
+            "c",
+            0.03431192660550459,
+            -0.004954128440366972,
+            0.18706422018348626,
+            -0.02532110091743119,
+            0.24146788990825688,
+            -0.031467889908256885,
+            "c",
+            0.02706422018348624,
+            -0.003027522935779817,
+            0.047889908256880734,
+            0.001834862385321101,
+            0.04403669724770642,
+            0.032844036697247704,
+            "c",
+            -0.007064220183486239,
+            0.05733944954128441,
+            -0.01651376146788991,
+            0.1136697247706422,
+            -0.025596330275229357,
+            0.17220183486238533,
+            "c",
+            -0.002477064220183486,
+            0.016055045871559634,
+            -0.004954128440366972,
+            0.032293577981651375,
+            -0.007339449541284404,
+            0.048807339449541284
+        ],
+        [
+            "M",
+            0.48009174311926606,
+            0.24743119266055044,
+            "c",
+            0.04743119266055046,
+            -0.004311926605504587,
+            0.21889908256880733,
+            -0.027798165137614676,
+            0.24972477064220183,
+            -0.027798165137614676
+        ],
+        [
+            "M",
+            0.49027522935779816,
+            0.3565137614678899,
+            "c",
+            0.05559633027522935,
+            -0.004220183486238533,
+            0.15422018348623853,
+            -0.015412844036697248,
+            0.22339449541284406,
+            -0.018990825688073393
+        ],
+        [
+            "M",
+            0.5321100917431193,
+            0.3853211009174312,
+            "c",
+            0.0011009174311926604,
+            0.01293577981651376,
+            -0.002477064220183486,
+            0.02192660550458716,
+            -0.007706422018348624,
+            0.03385321100917431,
+            "C",
+            0.4993577981651376,
+            0.4771559633027523,
+            0.4488073394495413,
+            0.5554128440366972,
+            0.3669724770642202,
+            0.6261467889908257
+        ],
+        [
+            "M",
+            0.5293577981651376,
+            0.4688073394495413,
+            "c",
+            0.01908256880733945,
+            0.002018348623853211,
+            0.03422018348623853,
+            0.002752293577981651,
+            0.05339449541284404,
+            -0.0002752293577981651,
+            "c",
+            0.04743119266055046,
+            -0.0074311926605504595,
+            0.16743119266055045,
+            -0.027522935779816515,
+            0.216697247706422,
+            -0.034128440366972476,
+            "c",
+            0.041009174311926605,
+            -0.005504587155963302,
+            0.059082568807339454,
+            0.0022935779816513763,
+            0.05376146788990826,
+            0.04513761467889908,
+            "c",
+            -0.014862385321100919,
+            0.12027522935779816,
+            -0.026238532110091743,
+            0.2428440366972477,
+            -0.09706422018348623,
+            0.3857798165137614,
+            "c",
+            -0.014954128440366971,
+            0.030275229357798163,
+            -0.041651376146788995,
+            0.023394495412844035,
+            -0.07055045871559633,
+            -0.005504587155963302
+        ],
+        [
+            "M",
+            0.674954128440367,
+            0.5560550458715596,
+            "c",
+            -0.0009174311926605505,
+            0.011834862385321101,
+            -0.007247706422018349,
+            0.018990825688073393,
+            -0.0163302752293578,
+            0.024770642201834864,
+            "c",
+            -0.03394495412844037,
+            0.021559633027522937,
+            -0.07834862385321101,
+            0.04422018348623853,
+            -0.15798165137614678,
+            0.07229357798165137
+        ],
+        [
+            "M",
+            0.45807339449541284,
+            0.5738532110091743,
+            "c",
+            0.007155963302752294,
+            0.0074311926605504595,
+            0.01,
+            0.012110091743119267,
+            0.01,
+            0.022293577981651377,
+            "c",
+            0,
+            0.024495412844036696,
+            -0.0001834862385321101,
+            0.057431192660550454,
+            -0.0001834862385321101,
+            0.1044954128440367,
+            "s",
+            0.012660550458715595,
+            0.05229357798165138,
+            0.11357798165137616,
+            0.05229357798165138,
+            "s",
+            0.11568807339449541,
+            -0.008715596330275228,
+            0.11568807339449541,
+            -0.06247706422018348
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "喝",
+                    "かつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": null,
+                    "meaning": "1. exclamation used to scold practitioners (in Zen) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. scolding or threatening with a shout "
+                },
+                {
+                    "type": null,
+                    "meaning": "1. exclamation used to scold practitioners (in Zen) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. scolding or threatening with a shout "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "喝",
+                    "かっ"
+                ],
+                [
+                    "采",
+                    "さい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. cheers; applause; ovation; acclamation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. The Country Girl (1954 film) The Country Girl is a 1954 drama film adapted by George S... Read more"
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. cheers; applause; ovation; acclamation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. The Country Girl (1954 film) The Country Girl is a 1954 drama film adapted by George S... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "喝",
+                    "かっ"
+                ],
+                [
+                    "破",
+                    "ぱ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. arguing (someone) down; loudly scolding; rebuking "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. proclaiming (the truth); expounding "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. arguing (someone) down; loudly scolding; rebuking "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. proclaiming (the truth); expounding "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "活",
+                    "かつ"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "れ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to apply the art of resuscitation (in judo, etc.) Martial arts, See also 活"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "2. to breathe life into; to stimulate; to encourage someone; to give someone a pep talk 彼にかつを入れなければならない。We've got to shake him up."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喝を入れる 【かつをいれる】、渇を入れる 【かつをいれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "喝を入れる: Irregular kanji usage. 渇を入れる: Irregular kanji usage."
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "1. to apply the art of resuscitation (in judo, etc.) Martial arts, See also 活"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Ichidan verb",
+                    "meaning": "2. to breathe life into; to stimulate; to encourage someone; to give someone a pep talk 彼にかつを入れなければならない。We've got to shake him up."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喝を入れる 【かつをいれる】、渇を入れる 【かつをいれる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "喝を入れる: Irregular kanji usage. 渇を入れる: Irregular kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "かつを入れ",
+                            "かつをい"
+                        ],
+                        [
+                            "なければならない",
+                            null
+                        ]
+                    ],
+                    "translation": "We've got to shake him up."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "喝",
+                    "かっ"
+                ],
+                [
+                    "采",
+                    "さい"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "送",
+                    "おく"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ru' ending",
+                    "meaning": "1. to applaud; to cheer (for) 彼の名演技に観客はやんやの喝采を送った。His great performance drew thundering applause from the audience."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喝采をおくる 【かっさいをおくる】"
+                },
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'ru' ending",
+                    "meaning": "1. to applaud; to cheer (for) 彼の名演技に観客はやんやの喝采を送った。His great performance drew thundering applause from the audience."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喝采をおくる 【かっさいをおくる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "名演技",
+                            "めいえんぎ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "観客",
+                            "かんきゃく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "やんや",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "喝采を送った",
+                            "かっさいをおく"
+                        ]
+                    ],
+                    "translation": "His great performance drew thundering applause from the audience."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "喝",
+                    "かっ"
+                ],
+                [
+                    "食",
+                    "しき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. announcing meals (at a Zen monastery); meal announcer Buddhism"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. noh mask resembling a young attendant who announces mealtimes in a Zen monastery "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喝食 【かしき】、喝食 【かつじき】"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. announcing meals (at a Zen monastery); meal announcer Buddhism"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. noh mask resembling a young attendant who announces mealtimes in a Zen monastery "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喝食 【かしき】、喝食 【かつじき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "カ",
+                    null
+                ],
+                [
+                    "ツ",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. extortion; shakedown Usually written using kana alone, Slang, criminal slang"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喝上げ 【かつあげ】、カツアゲ"
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. extortion; shakedown Usually written using kana alone, Slang, criminal slang"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "喝上げ 【かつあげ】、カツアゲ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "喝",
+                    "かっ"
+                ],
+                [
+                    "食",
+                    "しきあんじゃ"
+                ],
+                [
+                    "行",
+                    null
+                ],
+                [
+                    "者",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. meal announcer (at a Zen monastery) Buddhism"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. meal announcer (at a Zen monastery) Buddhism"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "喝",
+                    null
+                ],
+                [
+                    "采",
+                    null
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "陰",
+                    null
+                ],
+                [
+                    "で",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "1. Author! Author! (film) Author! Author! is a 1982 film directed by Arthur Hiller,... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恐",
+                    "きょう"
+                ],
+                [
+                    "喝",
+                    "かつ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. blackmail; extortion; threat (to extort money) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "喝",
+                    "かつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. sharp, loud rebuke; bark; roar "
+                },
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "2. rebuke used in Zen to achieve enlightenment See also 喝 かつ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "拍",
+                    "はく"
+                ],
+                [
+                    "手",
+                    "しゅ"
+                ],
+                [
+                    "喝",
+                    "かっ"
+                ],
+                [
+                    "采",
+                    "さい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. clapping and cheering; applause Yojijukugo (four character compound)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "拍手喝さい 【はくしゅかっさい】、拍手かっさい 【はくしゅかっさい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恫",
+                    "どう"
+                ],
+                [
+                    "喝",
+                    "かつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. intimidation; threat; bluster "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "どう喝 【どうかつ】、恫愒 【どうかつ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "恫愒: Rarely-used kanji form."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "喝",
+                    "かつ"
+                ],
+                [
+                    "一",
+                    "いっ"
+                ],
+                [
+                    "声",
+                    "せい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. shouting in a thunderous voice; blustering out Yojijukugo (four character compound)"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恐",
+                    "きょう"
+                ],
+                [
+                    "喝",
+                    "かつ"
+                ],
+                [
+                    "未",
+                    "み"
+                ],
+                [
+                    "遂",
+                    "すい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. attempted extortion; extortion attempt "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "威",
+                    "い"
+                ],
+                [
+                    "喝",
+                    "かつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Transitive verb",
+                    "meaning": "1. threatening "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "脅",
+                    "きょう"
+                ],
+                [
+                    "喝",
+                    "かつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. threat; intimidation; menace "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "大",
+                    "だい"
+                ],
+                [
+                    "喝",
+                    "かつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. shouting in a thunderous voice "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "大喝 【たいかつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恐",
+                    "きょう"
+                ],
+                [
+                    "喝",
+                    "かつ"
+                ],
+                [
+                    "罪",
+                    "ざい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (the crime of) extortion "
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

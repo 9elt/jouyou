@@ -1,0 +1,1608 @@
+{
+    "kanji": "位",
+    "grade": 4,
+    "jlpt": 3,
+    "meanings": [
+        "rank",
+        "grade",
+        "throne",
+        "crown",
+        "about",
+        "some"
+    ],
+    "kun": [
+        "くらい",
+        "ぐらい"
+    ],
+    "on": [
+        "イ"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.29596330275229354,
+            0.16055045871559634,
+            "c",
+            0.002018348623853211,
+            0.01834862385321101,
+            -0.0005504587155963302,
+            0.040091743119266054,
+            -0.006972477064220183,
+            0.05577981651376147,
+            "C",
+            0.24825688073394495,
+            0.3165137614678899,
+            0.19660550458715595,
+            0.41284403669724773,
+            0.10321100917431193,
+            0.5347706422018349
+        ],
+        [
+            "M",
+            0.23192660550458716,
+            0.3853211009174312,
+            "c",
+            0.007339449541284404,
+            0.007339449541284404,
+            0.013761467889908258,
+            0.020275229357798165,
+            0.013761467889908258,
+            0.031009174311926603,
+            "c",
+            -0.0002752293577981651,
+            0.09972477064220182,
+            -0.001834862385321101,
+            0.2888990825688073,
+            -0.0023853211009174312,
+            0.3922018348623853,
+            "C",
+            0.24321100917431193,
+            0.8311926605504587,
+            0.24311926605504589,
+            0.8498165137614678,
+            0.24311926605504589,
+            0.8623853211009175
+        ],
+        [
+            "M",
+            0.5779816513761468,
+            0.14220183486238533,
+            "c",
+            0.009174311926605505,
+            0.006880733944954129,
+            0.013761467889908258,
+            0.01834862385321101,
+            0.013761467889908258,
+            0.034403669724770644,
+            "s",
+            0,
+            0.12155963302752294,
+            0,
+            0.1651376146788991
+        ],
+        [
+            "M",
+            0.36550458715596335,
+            0.36293577981651376,
+            "c",
+            0.024403669724770642,
+            0.004036697247706422,
+            0.048532110091743116,
+            0.0011009174311926604,
+            0.07137614678899083,
+            -0.0014678899082568807,
+            "c",
+            0.08385321100917431,
+            -0.009541284403669725,
+            0.251651376146789,
+            -0.0318348623853211,
+            0.3327522935779817,
+            -0.03844036697247707,
+            "c",
+            0.02018348623853211,
+            -0.0016513761467889907,
+            0.04,
+            -0.0029357798165137615,
+            0.06,
+            0.0009174311926605505
+        ],
+        [
+            "M",
+            0.44385321100917435,
+            0.43229357798165136,
+            "c",
+            0.026972477064220183,
+            0.0710091743119266,
+            0.0528440366972477,
+            0.19275229357798165,
+            0.06651376146788991,
+            0.2775229357798165
+        ],
+        [
+            "M",
+            0.7302752293577981,
+            0.3776146788990825,
+            "c",
+            0.006605504587155963,
+            0.011192660550458715,
+            0.007339449541284404,
+            0.01688073394495413,
+            0.006605504587155963,
+            0.026055045871559632,
+            "c",
+            -0.005229357798165137,
+            0.06330275229357799,
+            -0.05403669724770642,
+            0.26458715596330273,
+            -0.0671559633027523,
+            0.3130275229357798
+        ],
+        [
+            "M",
+            0.3211009174311927,
+            0.7852293577981652,
+            "c",
+            0.028623853211009177,
+            0.007155963302752294,
+            0.06055045871559633,
+            0.005137614678899083,
+            0.08963302752293578,
+            0.001926605504587156,
+            "c",
+            0.11623853211009175,
+            -0.01275229357798165,
+            0.2897247706422018,
+            -0.027614678899082565,
+            0.4104587155963303,
+            -0.034678899082568805,
+            "c",
+            0.024862385321100917,
+            -0.0014678899082568807,
+            0.0510091743119266,
+            0.0014678899082568807,
+            0.07559633027522936,
+            0.005871559633027523
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "位",
+                    "くらい"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. throne; crown; (nobleman's) seat orig. from 座居, meaning \"seat\""
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. government position; court rank See also 位階"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. social standing; rank; class; echelon; rung "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. grade (of quality, etc.); level; tier; rank "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. position of a figure (e.g. tens, thousands); digit; (decimal) place See also 桁５８１４を千の位に四捨五入すれば何になりますか。What is 5814 rounded to the nearest thousand?"
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "1. rank; place (e.g. first place) チューリッヒはロンドンに次ぐ世界第二位の金市場である。Zurich is the second largest gold market in the world after London."
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "2. decimal place "
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "3. counter for ghosts "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. throne; crown; (nobleman's) seat orig. from 座居, meaning \"seat\""
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. government position; court rank See also 位階"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. social standing; rank; class; echelon; rung "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "4. grade (of quality, etc.); level; tier; rank "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "5. position of a figure (e.g. tens, thousands); digit; (decimal) place See also 桁５８１４を千の位に四捨五入すれば何になりますか。What is 5814 rounded to the nearest thousand?"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "千",
+                            "せん"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "位",
+                            "くらい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "四捨五入",
+                            "ししゃごにゅう"
+                        ],
+                        [
+                            "すれば",
+                            null
+                        ],
+                        [
+                            "何",
+                            "なに"
+                        ],
+                        [
+                            "になります",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "What is 5814 rounded to the nearest thousand?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "置",
+                    "ち"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. place; position; location 彼の事務所は町の中心部に位置している。His office is located in the center of the town."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. position; standing; status; situation その位置に誰を選ぶか考えがありますか。Do you have any idea who we should single out for the position?"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Position (vector) In geometry, a \"position\", \"location\", or \"radius vector\"... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "位地 【いち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "位地: Rarely-used kanji form."
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. place; position; location 彼の事務所は町の中心部に位置している。His office is located in the center of the town."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. position; standing; status; situation その位置に誰を選ぶか考えがありますか。Do you have any idea who we should single out for the position?"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Position (vector) In geometry, a \"position\", \"location\", or \"radius vector\"... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "位地 【いち】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "位地: Rarely-used kanji form."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼の",
+                            "かれ"
+                        ],
+                        [
+                            "事務所",
+                            "じむしょ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "町",
+                            "まち"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "中心部",
+                            "ちゅうしんぶ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "位置",
+                            "いち"
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "His office is located in the center of the town."
+                },
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "位置",
+                            "いち"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "誰",
+                            "だれ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "選ぶ",
+                            "えら"
+                        ],
+                        [
+                            "か",
+                            null
+                        ],
+                        [
+                            "考え",
+                            "かんが"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "あります",
+                            null
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Do you have any idea who we should single out for the position?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "くらい"
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suru verb - included, Intransitive verb",
+                    "meaning": "1. to rank (as); to occupy (a position) "
+                },
+                {
+                    "type": "Suru verb - included, Intransitive verb",
+                    "meaning": "2. to be located (in); to be situated "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "相",
+                    "そう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phase (e.g. wave, electricity, moon) Physics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. topology Mathematics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. register Linguistics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Phase (waves) Phase in sinusoidal functions or in waves has two differe... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "置",
+                    "ち"
+                ],
+                [
+                    "付",
+                    "づ"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to place (in relation to the whole); to rank; to position; to locate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "位置づける 【いちづける】、位置付ける 【いちずける】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "いちずける: Irregular kana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "置",
+                    "ち"
+                ],
+                [
+                    "付",
+                    "づ"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. placement; fixed position; mapping out; location "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "位置づけ 【いちづけ】、位置付け 【いちつけ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "置",
+                    "ち"
+                ],
+                [
+                    "天",
+                    "てん"
+                ],
+                [
+                    "文",
+                    "もん"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. position astronomy "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Astrometry Astrometry is the branch of astronomy that involves preci... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "速",
+                    "そく"
+                ],
+                [
+                    "度",
+                    "ど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phase velocity "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Phase velocity The phase velocity of a wave is the rate at which the pha... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "空",
+                    "くう"
+                ],
+                [
+                    "間",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phase space Physics"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. topological space Mathematics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Topological space Topological spaces are mathematical structures that allow... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "変",
+                    "へん"
+                ],
+                [
+                    "調",
+                    "ちょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. PM; phase modulation "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Phase modulation Phase modulation (PM) is a form of modulation that repres... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "差",
+                    "さ"
+                ],
+                [
+                    "顕",
+                    "けん"
+                ],
+                [
+                    "微",
+                    "び"
+                ],
+                [
+                    "鏡",
+                    "きょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phase-contrast microscope "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Phase contrast microscopy Phase contrast microscopy is an optical microscopy illumi... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "同",
+                    "どう"
+                ],
+                [
+                    "型",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. homeomorphism; topological equivalence "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Homeomorphism In the mathematical field of topology, a homeomorphism or... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "幾",
+                    "き"
+                ],
+                [
+                    "何",
+                    "か"
+                ],
+                [
+                    "学",
+                    "がく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. topology Mathematics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Topology Topology (from the Greek τόπος, “place”, and λόγος, “stud... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "相",
+                    "そう"
+                ],
+                [
+                    "偏",
+                    "へん"
+                ],
+                [
+                    "移",
+                    "い"
+                ],
+                [
+                    "変",
+                    "へん"
+                ],
+                [
+                    "調",
+                    "ちょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. phase-shift keying; PSK Computing, See also 位相シフトキーイング"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Phase-shift keying Phase-shift keying (PSK) is a digital modulation scheme t... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "牌",
+                    "はい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Buddhist mortuary tablet "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Spirit tablet A spirit tablet, memorial tablet, or ancestral tablet, is... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "くらい"
+                ],
+                [
+                    "付",
+                    "づ"
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ranking; unit "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "くらい"
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "高",
+                    "たか"
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), I-adjective (keiyoushi)",
+                    "meaning": "1. high-ranking; senior "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "くらい"
+                ],
+                [
+                    "倒",
+                    "だお"
+                ],
+                [
+                    "れ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. inability to live up to one's rank; out of one's league "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "官",
+                    "かん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. rank and official position "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "位",
+                "あき"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Aki "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Agi "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Ami "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "単",
+                    "たん"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. unit; denomination ここでは、魚はポンド単位で売られています。Fish is sold by the pound here."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. credit (in school) この科目は何単位ですか。How many credits is this course?"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "3. in units of (e.g. \"in thousands\"); in amounts of "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Unit "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ここ",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "魚",
+                            "さかな"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ポンド",
+                            null
+                        ],
+                        [
+                            "単位",
+                            "たんい"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "売られています",
+                            "う"
+                        ]
+                    ],
+                    "translation": "Fish is sold by the pound here."
+                },
+                {
+                    "sentence": [
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "科目",
+                            "かもく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "何",
+                            "なに"
+                        ],
+                        [
+                            "単位",
+                            "たんい"
+                        ],
+                        [
+                            "ですか",
+                            null
+                        ]
+                    ],
+                    "translation": "How many credits is this course?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "地",
+                    "ち"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (social) position; status; standing 高級車は地位の象徴である。An expensive car is a status symbol."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. position (in a company, organization, etc.); post; rank 彼は会社で高い地位にあります。He holds a high position at the company."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "高級車",
+                            "こうきゅうしゃ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "地位",
+                            "ちい"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "象徴",
+                            "しょうちょう"
+                        ],
+                        [
+                            "である",
+                            null
+                        ]
+                    ],
+                    "translation": "An expensive car is a status symbol."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "会社",
+                            "かいしゃ"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "高い",
+                            "たか"
+                        ],
+                        [
+                            "地位",
+                            "ちい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "あります",
+                            null
+                        ]
+                    ],
+                    "translation": "He holds a high position at the company."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "上",
+                    "じょう"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. superior (in rank); top; ranking "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. higher order (e.g. byte) Computing"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. host computer (of connected device) Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "下",
+                    "か"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. low rank; lower position; subordinate position; lower order (e.g. byte) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "優",
+                    "ゆう"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi)",
+                    "meaning": "1. predominance; superiority; ascendancy; advantage; supremacy Antonym: 劣位"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "学",
+                    "がく"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (academic) degree "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Academic degree An academic degree is a college or university diploma, of... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "即",
+                    "そく"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. accession to the throne; enthronement "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Enthronement An enthronement is a ceremony of inauguration, involving ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "皇",
+                    "こう"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. imperial throne "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Chrysanthemum Throne The Chrysanthemum Throne is the English term used to iden... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "王",
+                    "おう"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. the throne; the crown "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "首",
+                    "しゅ"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. first place; head position; leading position "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "主位 【しゅい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "品",
+                    "ひん"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. dignity; grace; nobility "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. grade; quality; fineness; carat; karat "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "水",
+                    "すい"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. water level "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "ど",
+                    null
+                ],
+                [
+                    "の",
+                    null
+                ],
+                [
+                    "位",
+                    "くらい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Noun, Adverb (fukushi)",
+                    "meaning": "1. how long; how far; how much Usually written using kana alone, See also どれくらい"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "どの位 【どのぐらい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "爵",
+                    "しゃく"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. peerage; court rank "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Royal and noble ranks Traditional rank amongst European royalty, peers, and nob... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "方",
+                    "ほう"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. bearing; heading; point of the compass "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Houi "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Cardinal direction The four cardinal directions or cardinal points are the d... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "一",
+                    "いち"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. first place; first rank "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. units position (of a number) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Taxus cuspidata Taxus cuspidata (Japanese Yew or Spreading Yew) is a memb... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "１位 【いちい】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "方",
+                    "ほう"
+                ],
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "磁",
+                    "じ"
+                ],
+                [
+                    "石",
+                    "しゃく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. compass "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "二",
+                    "に"
+                ],
+                [
+                    "位",
+                    "い"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. second place "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "２位 【にい】"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

@@ -1,0 +1,1630 @@
+{
+    "kanji": "符",
+    "grade": 10,
+    "jlpt": 2,
+    "meanings": [
+        "token",
+        "sign",
+        "mark",
+        "tally",
+        "charm"
+    ],
+    "kun": [
+        "フ"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.28440366972477066,
+            0.1353211009174312,
+            "c",
+            0.0006422018348623854,
+            0.008990825688073394,
+            0.00045871559633027525,
+            0.016238532110091745,
+            -0.0028440366972477065,
+            0.024770642201834864,
+            "c",
+            -0.0181651376146789,
+            0.046697247706422015,
+            -0.05146788990825688,
+            0.10761467889908258,
+            -0.11871559633027523,
+            0.17706422018348625
+        ],
+        [
+            "M",
+            0.2773394495412844,
+            0.2320183486238532,
+            "c",
+            0.026788990825688072,
+            0,
+            0.11412844036697248,
+            -0.02220183486238532,
+            0.16761467889908258,
+            -0.03247706422018349,
+            "c",
+            0.014311926605504588,
+            -0.002752293577981651,
+            0.0263302752293578,
+            -0.004495412844036697,
+            0.034403669724770644,
+            -0.004495412844036697
+        ],
+        [
+            "M",
+            0.34422018348623856,
+            0.25073394495412843,
+            "c",
+            0.014678899082568808,
+            0.013211009174311925,
+            0.037981651376146786,
+            0.05412844036697248,
+            0.041651376146788995,
+            0.07458715596330276
+        ],
+        [
+            "M",
+            0.5962385321100917,
+            0.0963302752293578,
+            "c",
+            0.0006422018348623854,
+            0.008532110091743119,
+            -0.0001834862385321101,
+            0.014862385321100919,
+            -0.0033027522935779813,
+            0.02284403669724771,
+            "c",
+            -0.015321100917431192,
+            0.039449541284403665,
+            -0.05110091743119266,
+            0.09724770642201834,
+            -0.09743119266055045,
+            0.14339449541284405
+        ],
+        [
+            "M",
+            0.5892660550458716,
+            0.19412844036697247,
+            "c",
+            0.033486238532110094,
+            0,
+            0.12321100917431192,
+            -0.01944954128440367,
+            0.18807339449541285,
+            -0.02834862385321101,
+            "c",
+            0.019357798165137614,
+            -0.002660550458715596,
+            0.03596330275229358,
+            -0.004403669724770642,
+            0.04715596330275229,
+            -0.004403669724770642
+        ],
+        [
+            "M",
+            0.6677064220183486,
+            0.21788990825688073,
+            "c",
+            0.0010091743119266055,
+            0.005688073394495413,
+            -0.0001834862385321101,
+            0.013119266055045872,
+            -0.0034862385321100917,
+            0.017798165137614678,
+            "c",
+            -0.010642201834862385,
+            0.022293577981651377,
+            -0.02330275229357798,
+            0.042477064220183484,
+            -0.04715596330275229,
+            0.07165137614678899
+        ],
+        [
+            "M",
+            0.34825688073394495,
+            0.37155963302752293,
+            "c",
+            0.0016513761467889907,
+            0.013486238532110091,
+            -0.00045871559633027525,
+            0.02651376146788991,
+            -0.005871559633027523,
+            0.037981651376146786,
+            "c",
+            -0.0344954128440367,
+            0.07348623853211009,
+            -0.09311926605504588,
+            0.1706422018348624,
+            -0.17211009174311928,
+            0.26
+        ],
+        [
+            "M",
+            0.29403669724770637,
+            0.5476146788990826,
+            "c",
+            0.009816513761467891,
+            0.009816513761467891,
+            0.011192660550458715,
+            0.022477064220183487,
+            0.011192660550458715,
+            0.03495412844036697,
+            "c",
+            0,
+            0.06055045871559633,
+            0.0003669724770642202,
+            0.17917431192660552,
+            0.0005504587155963302,
+            0.26605504587155965,
+            "c",
+            0,
+            0.02192660550458716,
+            0.00009174311926605505,
+            0.041651376146788995,
+            0.00009174311926605505,
+            0.05733944954128441
+        ],
+        [
+            "M",
+            0.42091743119266056,
+            0.5015596330275229,
+            "c",
+            0.025412844036697246,
+            0.006880733944954129,
+            0.05027522935779817,
+            0.003577981651376147,
+            0.07568807339449542,
+            -0.00045871559633027525,
+            "c",
+            0.07788990825688073,
+            -0.012293577981651376,
+            0.17605504587155965,
+            -0.02743119266055046,
+            0.28660550458715595,
+            -0.03779816513761468,
+            "c",
+            0.024036697247706424,
+            -0.0022935779816513763,
+            0.05174311926605504,
+            -0.0023853211009174312,
+            0.07348623853211009,
+            0.0028440366972477065
+        ],
+        [
+            "M",
+            0.7087155963302753,
+            0.33559633027522934,
+            "c",
+            0.01110091743119266,
+            0.01110091743119266,
+            0.015137614678899082,
+            0.024495412844036696,
+            0.015137614678899082,
+            0.04403669724770642,
+            "c",
+            0,
+            0.12229357798165137,
+            0.0001834862385321101,
+            0.41678899082568804,
+            0.0001834862385321101,
+            0.45844036697247703,
+            "c",
+            0,
+            0.0779816513761468,
+            -0.05467889908256881,
+            0.014954128440366971,
+            -0.07311926605504587,
+            0.0021100917431192663
+        ],
+        [
+            "M",
+            0.4843119266055046,
+            0.6156880733944954,
+            "c",
+            0.02724770642201835,
+            0.017798165137614678,
+            0.07045871559633027,
+            0.07330275229357798,
+            0.07724770642201835,
+            0.1010091743119266
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. charm; talisman; amulet "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. tally "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. sign; mark; note "
+                },
+                {
+                    "type": "Counter",
+                    "meaning": "4. fu; unit used in calculation of a hand's score Mahjong"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sign; mark; symbol; code "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. sign (e.g. positive, negative) Mathematics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Code A code is a rule for converting a piece of information in... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. sign; mark; symbol; code "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. sign (e.g. positive, negative) Mathematics"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Code A code is a rule for converting a piece of information in... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "合",
+                    "ごう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. agreement; coincidence; correspondence; conformity "
+                },
+                {
+                    "type": "Noun, Suru verb, Intransitive verb",
+                    "meaning": "1. agreement; coincidence; correspondence; conformity "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "割",
+                    "かつ"
+                ],
+                [
+                    "多",
+                    "た"
+                ],
+                [
+                    "元",
+                    "げん"
+                ],
+                [
+                    "接",
+                    "せつ"
+                ],
+                [
+                    "続",
+                    "ぞく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. code division multiple access; CDMA "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Code division multiple access Code division multiple access (CDMA) is a channel access ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. code division multiple access; CDMA "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Code division multiple access Code division multiple access (CDMA) is a channel access ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "間",
+                    "かん"
+                ],
+                [
+                    "干",
+                    "かん"
+                ],
+                [
+                    "渉",
+                    "しょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ISI; intersymbol interference Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Intersymbol interference In telecommunication, intersymbol interference (ISI) is a... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "誤",
+                    "あやま"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "率",
+                    "りつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. (code) error rate Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Bit error rate In digital transmission, the number of bit errors is the ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "理",
+                    "り"
+                ],
+                [
+                    "論",
+                    "ろん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coding theory Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Coding theory Coding theory is the study of the properties of codes and... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. coding theory Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Coding theory Coding theory is the study of the properties of codes and... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "拡",
+                    "かく"
+                ],
+                [
+                    "張",
+                    "ちょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. code extension Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sign extension Sign extension is the operation, in computer arithmetic, ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. code extension Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Sign extension Sign extension is the operation, in computer arithmetic, ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "付",
+                    "つ"
+                ],
+                [
+                    "き",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. signed Computing"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "符号付 【ふごうつき】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "づ",
+                    null
+                ],
+                [
+                    "け",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. encoding (act of encoding a signal) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "化",
+                    "か"
+                ],
+                [
+                    "情",
+                    "じょう"
+                ],
+                [
+                    "報",
+                    "ほう"
+                ],
+                [
+                    "種",
+                    "しゅ"
+                ],
+                [
+                    "別",
+                    "べつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Encoded Information Type; EIT Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "丁",
+                    "ちょう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. symbol; sign; mark "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. (secret) price mark "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. secret language; code; cipher; argot; password "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "符帳 【ふちょう】、符牒 【ふちょう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "化",
+                    "か"
+                ],
+                [
+                    "画",
+                    "が"
+                ],
+                [
+                    "像",
+                    "ぞう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coded image Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "化",
+                    "か"
+                ],
+                [
+                    "形",
+                    "けい"
+                ],
+                [
+                    "式",
+                    "しき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coded form Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "化",
+                    "か"
+                ],
+                [
+                    "表",
+                    "ひょう"
+                ],
+                [
+                    "現",
+                    "げん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. coded representation Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "反",
+                    "はん"
+                ],
+                [
+                    "転",
+                    "てん"
+                ],
+                [
+                    "機",
+                    "き"
+                ],
+                [
+                    "能",
+                    "のう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sign change function Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "位",
+                    "い"
+                ],
+                [
+                    "置",
+                    "ち"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sign position Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "体",
+                    "たい"
+                ],
+                [
+                    "系",
+                    "けい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. code; coding scheme Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "ひ",
+                    null
+                ],
+                [
+                    "ず",
+                    null
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. signal distortion "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "分",
+                    "ぶん"
+                ],
+                [
+                    "割",
+                    "かつ"
+                ],
+                [
+                    "多",
+                    "た"
+                ],
+                [
+                    "元",
+                    "げん"
+                ],
+                [
+                    "接",
+                    "せつ"
+                ],
+                [
+                    "続",
+                    "ぞく"
+                ],
+                [
+                    "方",
+                    "ほう"
+                ],
+                [
+                    "式",
+                    "しき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. CDMA; code division multiple access Computing"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "符",
+                "ふ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Fu "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Fusaka "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Fuzaminohana "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "きっ"
+                ],
+                [
+                    "符",
+                    "ぷ"
+                ]
+            ],
+            "common": true,
+            "jlpt": 5,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ticket "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Ticket "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "丘",
+                    "おか"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hill; height; knoll; rising ground Only applies to 丘, Only applies to 岡, Only applies to 壟"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bonus points awarded to the winner at the end of a game Mahjong, Usually written using kana alone, Only applies to 丘, Only applies to 陸符"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Hill A hill is a landform that extends above the surrounding t... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "岡 【おか】、壟 【おか】、陸符 【おか】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "壟: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "終",
+                    "しゅう"
+                ],
+                [
+                    "止",
+                    "し"
+                ],
+                [
+                    "符",
+                    "ふ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. full stop; period "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. end See also 終止符を打つ移住者の部落が野蛮人によって征服され、移住者の希望も生活も土壇場にきた時、長い歳月をかけての不幸とのたたかいに終止符がうたれた。Years of resistance to misfortune ended when the settlers' village was overcome by the savages and their hopes and lives came to the bitter end."
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Full stop A full stop (. ) or period is the punctuation mark common... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "移住者",
+                            "いじゅうしゃ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "部落",
+                            "ぶらく"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "野蛮人",
+                            "やばんじん"
+                        ],
+                        [
+                            "によって",
+                            null
+                        ],
+                        [
+                            "征服",
+                            "せいふく"
+                        ],
+                        [
+                            "され",
+                            null
+                        ],
+                        [
+                            "移住者",
+                            "いじゅうしゃ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "希望",
+                            "きぼう"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "生活",
+                            "せいかつ"
+                        ],
+                        [
+                            "も",
+                            null
+                        ],
+                        [
+                            "土壇場",
+                            "どたんば"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "きた",
+                            null
+                        ],
+                        [
+                            "時",
+                            "とき"
+                        ],
+                        [
+                            "長い",
+                            "なが"
+                        ],
+                        [
+                            "歳月",
+                            "さいげつ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "かけて",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "不幸",
+                            "ふこう"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "たたかい",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "終止符",
+                            "しゅうしふ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "うたれた",
+                            null
+                        ]
+                    ],
+                    "translation": "Years of resistance to misfortune ended when the settlers' village was overcome by the savages and their hopes and lives came to the bitter end."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "疑",
+                    "ぎ"
+                ],
+                [
+                    "問",
+                    "もん"
+                ],
+                [
+                    "符",
+                    "ふ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. question mark "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Question mark The question mark (?; also known as an interrogation poin... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "音",
+                    "おん"
+                ],
+                [
+                    "符",
+                    "ぷ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. musical note; note symbol 彼は、ピアノを音符を見ずに弾いた。He played piano by ear."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. phonetic symbol (incl. the kanji and kana-doubling symbols, vowel-lengthening symbol, etc.) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. part of a kanji for which the role is primarily to represent the pronunciation (as opposed to the meaning) See also 意符"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "4. Note In music, the term note has two primary meanings: A sign ... Read more"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "ピアノ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "音符",
+                            "おんぷ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "見ず",
+                            "み"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "弾いた",
+                            "ひ"
+                        ]
+                    ],
+                    "translation": "He played piano by ear."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "感",
+                    "かん"
+                ],
+                [
+                    "嘆",
+                    "たん"
+                ],
+                [
+                    "符",
+                    "ふ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. exclamation point; exclamation mark "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Exclamation mark The exclamation mark, exclamation point, bang, or dembang... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "感歎符 【かんたんふ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "切",
+                    "きっ"
+                ],
+                [
+                    "符",
+                    "ぷ"
+                ],
+                [
+                    "売",
+                    "う"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "場",
+                    "ば"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ticket window; box office; ticket "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "切符売場 【きっぷうりば】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "往",
+                    "おう"
+                ],
+                [
+                    "復",
+                    "ふく"
+                ],
+                [
+                    "切",
+                    "きっ"
+                ],
+                [
+                    "符",
+                    "ぷ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. round-trip ticket; return ticket "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "片",
+                    "かた"
+                ],
+                [
+                    "道",
+                    "みち"
+                ],
+                [
+                    "切",
+                    "きっ"
+                ],
+                [
+                    "符",
+                    "ぷ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. one-way ticket "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "割",
+                    "わり"
+                ],
+                [
+                    "引",
+                    "びき"
+                ],
+                [
+                    "切",
+                    "きっ"
+                ],
+                [
+                    "符",
+                    "ぷ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. reduced fare ticket; discount ticket "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "通",
+                    "とお"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "切",
+                    "きっ"
+                ],
+                [
+                    "符",
+                    "ぷ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. through ticket (e.g. rail, air) "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. ticket good for multiple performances (e.g. both matinee and evening shows); all-day ticket; season ticket See also 通し券"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "八",
+                    "はち"
+                ],
+                [
+                    "分",
+                    "ぶ"
+                ],
+                [
+                    "音",
+                    "おん"
+                ],
+                [
+                    "符",
+                    "ぷ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. 8th note; eighth note; quaver Music"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "終",
+                    "しゅう"
+                ],
+                [
+                    "止",
+                    "し"
+                ],
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "を",
+                    null
+                ],
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "つ",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'tsu' ending",
+                    "meaning": "1. to put an end (to); to bring to an end; to close the books (on); to put a period (at the end of a sentence) Idiomatic expression"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "引",
+                    "いん"
+                ],
+                [
+                    "用",
+                    "よう"
+                ],
+                [
+                    "符",
+                    "ふ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. quotation marks; quote marks "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Quotation mark In English writing, quotation marks or inverted commas (i... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "音",
+                    "おん"
+                ],
+                [
+                    "声",
+                    "せい"
+                ],
+                [
+                    "符",
+                    "ふ"
+                ],
+                [
+                    "号",
+                    "ごう"
+                ],
+                [
+                    "化",
+                    "か"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. voice encoding Computing"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Speech coding Speech coding is the application of data compression of d... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}

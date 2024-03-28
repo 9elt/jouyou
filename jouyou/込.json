@@ -1,0 +1,2237 @@
+{
+    "kanji": "込",
+    "grade": 10,
+    "jlpt": 3,
+    "meanings": [
+        "crowded",
+        "mixture",
+        "in bulk",
+        "included",
+        "(kokuji)"
+    ],
+    "kun": [
+        "-こ.む",
+        "こ.む",
+        "こ.み",
+        "-こ.み",
+        "こ.める"
+    ],
+    "on": [],
+    "strokes": [
+        [
+            "M",
+            0.578440366972477,
+            0.3226605504587156,
+            "c",
+            -0.00045871559633027525,
+            0.017889908256880735,
+            -0.004403669724770642,
+            0.027522935779816515,
+            -0.009816513761467891,
+            0.03963302752293578,
+            "c",
+            -0.04981651376146789,
+            0.1111926605504587,
+            -0.15045871559633026,
+            0.24752293577981652,
+            -0.23073394495412844,
+            0.3064220183486238
+        ],
+        [
+            "M",
+            0.4504587155963303,
+            0.1536697247706422,
+            "c",
+            0.08394495412844037,
+            0.01834862385321101,
+            0.1665137614678899,
+            0.26376146788990823,
+            0.2951376146788991,
+            0.4172477064220183,
+            "c",
+            0.028256880733944955,
+            0.03376146788990826,
+            0.05706422018348624,
+            0.06669724770642202,
+            0.08605504587155964,
+            0.08504587155963303
+        ],
+        [
+            "M",
+            0.16706422018348624,
+            0.19495412844036697,
+            "c",
+            0.03660550458715597,
+            0.013211009174311925,
+            0.0944954128440367,
+            0.05412844036697248,
+            0.10357798165137613,
+            0.07458715596330276
+        ],
+        [
+            "M",
+            0.12155963302752294,
+            0.47733944954128443,
+            "c",
+            0.020642201834862386,
+            0.008073394495412844,
+            0.03458715596330275,
+            0.004862385321100918,
+            0.04357798165137615,
+            0.002018348623853211,
+            "c",
+            0.02522935779816514,
+            -0.007981651376146788,
+            0.07513761467889908,
+            -0.02743119266055046,
+            0.09862385321100918,
+            -0.03908256880733945,
+            "c",
+            0.022935779816513763,
+            -0.011376146788990826,
+            0.028899082568807338,
+            0.009357798165137614,
+            0.020642201834862386,
+            0.022110091743119266,
+            "c",
+            -0.06880733944954129,
+            0.10642201834862385,
+            -0.07339449541284404,
+            0.06284403669724771,
+            -0.006880733944954129,
+            0.15522935779816516,
+            "c",
+            0.0081651376146789,
+            0.01128440366972477,
+            0.009174311926605505,
+            0.024403669724770642,
+            -0.0045871559633027525,
+            0.0344954128440367,
+            "s",
+            -0.07339449541284404,
+            0.056605504587155964,
+            -0.10091743119266056,
+            0.07495412844036697
+        ],
+        [
+            "M",
+            0.13073394495412843,
+            0.7405504587155963,
+            "c",
+            0.03779816513761468,
+            -0.011192660550458715,
+            0.08926605504587157,
+            -0.01,
+            0.13238532110091744,
+            -0.0074311926605504595,
+            "c",
+            0.05339449541284404,
+            0.003119266055045872,
+            0.32605504587155965,
+            0.059908256880733944,
+            0.3678899082568807,
+            0.06880733944954129,
+            "c",
+            0.11357798165137616,
+            0.024036697247706424,
+            0.13844036697247705,
+            0.02724770642201835,
+            0.20844036697247706,
+            0.028073394495412844
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Suffix",
+                    "meaning": "1. including ...; inclusive of ... それは朝食込みの値段ですか。Does that price include breakfast?"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. bundling together (items of different size, quality, etc.); lumping together "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. komi; extra points given to the white player as compensation for playing second Go (game), Usually written using kana alone, Abbreviation, See also コミ出し, usu. written as コミ"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "それ",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "朝食",
+                            "ちょうしょく"
+                        ],
+                        [
+                            "込み",
+                            "こ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "値段",
+                            "ねだん"
+                        ],
+                        [
+                            "ですか",
+                            null
+                        ]
+                    ],
+                    "translation": "Does that price include breakfast?"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to be crowded; to be packed; to be congested; to be thronged (with) See also 混む, usu. 混む今晩は列車がとても込んでいる。The train is very crowded this evening."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to be complex; to be intricate See also 手の込んだ"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "3. to go into; to go in; to put into after -masu stem of verb"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "4. to become (completely) after -masu stem of verb"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "5. to do thoroughly; to do sufficiently after -masu stem of verb"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "6. to remain (silent, seated, etc.); to stay ... after -masu stem of verb"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to be crowded; to be packed; to be congested; to be thronged (with) See also 混む, usu. 混む今晩は列車がとても込んでいる。The train is very crowded this evening."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to be complex; to be intricate See also 手の込んだ"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "3. to go into; to go in; to put into after -masu stem of verb"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "4. to become (completely) after -masu stem of verb"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "5. to do thoroughly; to do sufficiently after -masu stem of verb"
+                },
+                {
+                    "type": "Suffix",
+                    "meaning": "6. to remain (silent, seated, etc.); to stay ... after -masu stem of verb"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "今晩",
+                            "こんばん"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "列車",
+                            "れっしゃ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "とても",
+                            null
+                        ],
+                        [
+                            "込んでいる",
+                            "こ"
+                        ]
+                    ],
+                    "translation": "The train is very crowded this evening."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "め",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to load (a gun, etc.); to charge 彼はこの銃に弾丸を込めたままにしている。He keeps this gun loaded."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to put into (e.g. emotion, effort) 彼女のテクニックはすばらしいが、もっと感情を込めて演奏する必要がある。Her technique is superb, but she needs to play with more expression."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to include (e.g. tax in a sales price) 新憲法には、王権を弱める意図が込められていました。The new constitution included the aim of abridging the king's power."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to hang over; to shroud; to enshroud; to envelop; to screen See also 立ち込める"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "籠める 【こめる】、篭める 【こめる】、罩める 【こめる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "罩める: Out-dated kanji or kanji usage."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "1. to load (a gun, etc.); to charge 彼はこの銃に弾丸を込めたままにしている。He keeps this gun loaded."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "2. to put into (e.g. emotion, effort) 彼女のテクニックはすばらしいが、もっと感情を込めて演奏する必要がある。Her technique is superb, but she needs to play with more expression."
+                },
+                {
+                    "type": "Ichidan verb, Transitive verb",
+                    "meaning": "3. to include (e.g. tax in a sales price) 新憲法には、王権を弱める意図が込められていました。The new constitution included the aim of abridging the king's power."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "4. to hang over; to shroud; to enshroud; to envelop; to screen See also 立ち込める"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "籠める 【こめる】、篭める 【こめる】、罩める 【こめる】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "罩める: Out-dated kanji or kanji usage."
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "この",
+                            null
+                        ],
+                        [
+                            "銃",
+                            "じゅう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "弾丸",
+                            "だんがん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "込めた",
+                            "こ"
+                        ],
+                        [
+                            "まま",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "He keeps this gun loaded."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼女の",
+                            "かのじょ"
+                        ],
+                        [
+                            "テクニック",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "すばらしい",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "もっと",
+                            null
+                        ],
+                        [
+                            "感情",
+                            "かんじょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "込めて",
+                            "こ"
+                        ],
+                        [
+                            "演奏",
+                            "えんそう"
+                        ],
+                        [
+                            "する",
+                            null
+                        ],
+                        [
+                            "必要",
+                            "ひつよう"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "ある",
+                            null
+                        ]
+                    ],
+                    "translation": "Her technique is superb, but she needs to play with more expression."
+                },
+                {
+                    "sentence": [
+                        [
+                            "新憲法",
+                            "しんけんぽう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "王権",
+                            "おうけん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "弱める",
+                            "よわ"
+                        ],
+                        [
+                            "意図",
+                            "いと"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "込められていました",
+                            "こ"
+                        ]
+                    ],
+                    "translation": "The new constitution included the aim of abridging the king's power."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "こ",
+                    null
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "げ",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to well up (of tears, anger, joy, etc.); to surge up (within oneself); to rise; to fill one's heart; to overcome one 込み上げる感情をさらけ出せ。Let it all out."
+                },
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "2. to feel nauseated; to feel sick "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "込み上げる 【こみあげる】、込みあげる 【こみあげる】、込上げる 【こみあげる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "込み上げる",
+                            null
+                        ],
+                        [
+                            "感情",
+                            "かんじょう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "さらけ出せ",
+                            "さらけだ"
+                        ]
+                    ],
+                    "translation": "Let it all out."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "混",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "合",
+                    "あ"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'u' ending, Intransitive verb",
+                    "meaning": "1. to be crowded; to be packed; to be jammed "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "込み合う 【こみあう】、混みあう 【こみあう】、込みあう 【こみあう】、混合う 【こみあう】、込合う 【こみあう】、こみ合う 【こみあう】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "た",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun or verb acting prenominally",
+                    "meaning": "1. intricate; complicated "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "こみ入った 【こみいった】、込みいった 【こみいった】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "入",
+                    "い"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to be complicated; to be elaborate "
+                },
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "2. to push in; to be crowded Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "込入る 【こみいる】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. tax and service charge included Colloquial"
+                },
+                {
+                    "type": "Noun which may take the genitive case particle 'no'",
+                    "meaning": "2. all-inclusive; with everything included Colloquial"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "込込 【こみこみ】、コミコミ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "コ",
+                    null
+                ],
+                [
+                    "ミ",
+                    null
+                ],
+                [
+                    "出",
+                    "こみだ"
+                ],
+                [
+                    "し",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. komi; extra points given to the white player as compensation for playing second Go (game)"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "コミ出 【こみだし】、込み出し 【こみだし】、込出し 【こみだし】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "居",
+                    "い"
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Ichidan verb, Intransitive verb",
+                    "meaning": "1. to push in; to be crowded Archaic, See also 込み入る"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "上",
+                    "あ"
+                ],
+                [
+                    "が",
+                    null
+                ],
+                [
+                    "る",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'ru' ending, Intransitive verb",
+                    "meaning": "1. to well up (of tears, anger, joy, etc.); to surge up (within oneself); to rise; to fill one's heart; to overcome one See also 込み上げる, non-standard form of 込み上げる久しぶりに故郷に帰ると、懐かしい気持ちが込み上がる。Returning to your hometown after a long time fills you with nostalgia."
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "込みあがる 【こみあがる】、こみ上がる 【こみあがる】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "久しぶりに",
+                            "ひさ"
+                        ],
+                        [
+                            "故郷",
+                            "こきょう"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "帰る",
+                            "かえ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "懐かしい",
+                            "なつ"
+                        ],
+                        [
+                            "気持ち",
+                            "きも"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "込み上がる",
+                            "こみあ"
+                        ]
+                    ],
+                    "translation": "Returning to your hometown after a long time fills you with nostalgia."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "で",
+                    null
+                ],
+                [
+                    "買",
+                    "か"
+                ],
+                [
+                    "う",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Expressions (phrases, clauses, etc.), Godan verb with 'u' ending",
+                    "meaning": "1. to buy the whole lot; to buy in bulk "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "込之上",
+                "こみのうえ"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Place",
+                    "meaning": "1. Kominoue "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "1. Komiuchi "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Komekuchi "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "申",
+                    "もう"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to apply for; to make an application; to propose (marriage); to offer (mediation); to make an overture (of peace); to challenge; to lodge (objections); to request (an interview); to subscribe for; to book; to reserve "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "申込む 【もうしこむ】、申しこむ 【もうしこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "人",
+                    "ひと"
+                ],
+                [
+                    "ご",
+                    null
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. crowd of people "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "人込み 【ひとごみ】、人混み 【ひとごみ】、人込 【ひとごみ】"
+                },
+                {
+                    "type": "Notes",
+                    "meaning": "人込: Irregular okurigana usage."
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "飛",
+                    "と"
+                ],
+                [
+                    "び",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to jump in; to leap in; to plunge into; to dive "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to burst in; to barge in "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "飛びこむ 【とびこむ】、飛込む 【とびこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "突",
+                    "つ"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to thrust (something) into (something); to cram; to stuff; to shove １人少年が両手をポケットにつっこんで歩いていた。A boy was walking with his hands in his pockets."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to plunge into; to charge into; to rush into; to ram into; to crash into 私たちはそのまま洞窟の口にボートで突っ込んで行きました。We plunged into the cave opening on our boat and continued on."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "3. to delve into (a matter); to go into depth; to get to the heart (of something) 彼は古代史の分野で突っ込んだ研究をしている。He's doing in-depth research on ancient history."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "4. to press (someone) about; to point out (e.g. an inconsistency); to question sharply; to grill "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "5. to get involved with; to meddle in; to poke one's nose into See also 首を突っ込む人の問題に鼻を突っ込むのはよしてくれよ。Stop sticking your nose into other people's business."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "6. to riposte; to retort; to quip "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "突っこむ 【つっこむ】、突込む 【つっこむ】、ツッコむ"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "１人",
+                            "ひとり"
+                        ],
+                        [
+                            "少年",
+                            "しょうねん"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "両手",
+                            "りょうて"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "ポケット",
+                            null
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "つっこんで",
+                            null
+                        ],
+                        [
+                            "歩いていた",
+                            "ある"
+                        ]
+                    ],
+                    "translation": "A boy was walking with his hands in his pockets."
+                },
+                {
+                    "sentence": [
+                        [
+                            "私たち",
+                            "わたし"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "そのまま",
+                            null
+                        ],
+                        [
+                            "洞窟",
+                            "どうくつ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "口",
+                            "くち"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "ボート",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "突っ込んで",
+                            "つっこ"
+                        ],
+                        [
+                            "行きました",
+                            "い"
+                        ]
+                    ],
+                    "translation": "We plunged into the cave opening on our boat and continued on."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "古代史",
+                            "こだいし"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "分野",
+                            "ぶんや"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "突っ込んだ",
+                            "つっこ"
+                        ],
+                        [
+                            "研究",
+                            "けんきゅう"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "している",
+                            null
+                        ]
+                    ],
+                    "translation": "He's doing in-depth research on ancient history."
+                },
+                {
+                    "sentence": [
+                        [
+                            "人",
+                            "ひと"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "問題",
+                            "もんだい"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "鼻",
+                            "はな"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "突っ込む",
+                            "つっこ"
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "よして",
+                            null
+                        ],
+                        [
+                            "くれ",
+                            null
+                        ],
+                        [
+                            "よ",
+                            null
+                        ]
+                    ],
+                    "translation": "Stop sticking your nose into other people's business."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "溶",
+                    "と"
+                ],
+                [
+                    "け",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to melt into; to dissolve into; to merge into "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to blend into (surroundings); to fit in; to adapt to; to integrate "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "解け込む 【とけこむ】、融け込む 【とけこむ】、溶込む 【とけこむ】、解込む 【とけこむ】、溶けこむ 【とけこむ】、とけ込む 【とけこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "思",
+                    "おも"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to be convinced (that); to be under the impression (that); to feel sure (that); to assume (that) "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to make up one's mind; to set one's heart on; to be determined (to do); to be bent on "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "3. to be obsessed (with a thought, idea, etc.); to think about obsessively "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "思いこむ 【おもいこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "引",
+                    "ひ"
+                ],
+                [
+                    "っ",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to draw back; to sink; to cave in "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to be set back (e.g. from a road) "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "3. to withdraw (e.g. from the public eye); to retire to (somewhere); to stay indoors; to butt out; to stay out of it "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "引っこむ 【ひっこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "払",
+                    "はら"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 2,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to deposit; to pay in "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "見",
+                    "み"
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. hope; promise; possibility; chance; probability; likelihood "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. expectation; anticipation; forecast; estimate "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "3. side of a structural member See also 見付 みつけ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "申",
+                    "もう"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "み",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. application; entry; request; subscription; offer; proposal; overture; challenge "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "申込み 【もうしこみ】、申込 【もうしこみ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "落",
+                    "お"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to feel down; to feel sad; to be depressed; to be in low spirits ちょっとしたことで直ぐに落ち込んでしまいます。I get depressed by the slightest things."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to be in a slump (business, economy, etc.); to be in an unfavourable condition １年前に比べれば価格は大きく落ち込んでいる。Compared with the level of a year ago, the price is sharply lower."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "3. to fall into (e.g. a hole) "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "落込む 【おちこむ】、落ちこむ 【おちこむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ちょっとした",
+                            null
+                        ],
+                        [
+                            "こと",
+                            null
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "直ぐに",
+                            "す"
+                        ],
+                        [
+                            "落ち込んで",
+                            "おちこ"
+                        ],
+                        [
+                            "しまいます",
+                            null
+                        ]
+                    ],
+                    "translation": "I get depressed by the slightest things."
+                },
+                {
+                    "sentence": [
+                        [
+                            "１年前",
+                            "いちねんまえ"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "比べれば",
+                            "くら"
+                        ],
+                        [
+                            "価格",
+                            "かかく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "大きく",
+                            "おお"
+                        ],
+                        [
+                            "落ち込んでいる",
+                            "おちこ"
+                        ]
+                    ],
+                    "translation": "Compared with the level of a year ago, the price is sharply lower."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "打",
+                    "う"
+                ],
+                [
+                    "ち",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to drive in (a nail, stake, etc.); to hammer in 板にくぎを打ち込んだ。He hammered nails into the plank."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to hit (a ball, etc.); to drive; to smash "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "3. to fire into; to shoot into also written as 撃ち込む"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "4. to input (data); to enter ノートパソコンの電源を入れ、ブラウザを立ち上げて、もう覚えてしまったアドレスを打ち込む。I switch on my laptop, start up the browser, and type in the address I've already learnt by heart."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "5. to devote oneself to; to be absorbed in; to be (really) into; to be enthusiastic about; to put heart and soul into; to throw oneself into; to go head over heels for 彼はその仕事に打ち込んだ。He applied himself to the task."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "6. to practice hitting (baseball, tennis, etc.) Sports"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "7. to hit (an opponent in kendo, boxing, etc.); to get a blow in Martial arts"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "8. to invade one's opponent's territory; to place a stone in an opponent's formation Go (game)"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "9. to pour (concrete, etc.) into a form "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "板",
+                            "いた"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "くぎ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "打ち込んだ",
+                            "うちこ"
+                        ]
+                    ],
+                    "translation": "He hammered nails into the plank."
+                },
+                {
+                    "sentence": [
+                        [
+                            "ノートパソコン",
+                            null
+                        ],
+                        [
+                            "の",
+                            null
+                        ],
+                        [
+                            "電源を入れ",
+                            "でんげんをい"
+                        ],
+                        [
+                            "ブラウザ",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "立ち上げて",
+                            "たちあ"
+                        ],
+                        [
+                            "もう",
+                            null
+                        ],
+                        [
+                            "覚えて",
+                            "おぼ"
+                        ],
+                        [
+                            "しまった",
+                            null
+                        ],
+                        [
+                            "アドレス",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "打ち込む",
+                            "うちこ"
+                        ]
+                    ],
+                    "translation": "I switch on my laptop, start up the browser, and type in the address I've already learnt by heart."
+                },
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "打ち込んだ",
+                            "うちこ"
+                        ]
+                    ],
+                    "translation": "He applied himself to the task."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "追",
+                    "お"
+                ],
+                [
+                    "い",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to herd; to drive; to chase; to corral "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to corner; to force someone into doing とうとう土壇場に追い込まれた。We have been completely cornered."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "3. to go hard; to push yourself; to make a last charge 僕は追い込まれると一番仕事をする。I work best under pressure."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "4. to run on (e.g. lines in printing) "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "5. to have two strikes Baseball"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "とうとう",
+                            null
+                        ],
+                        [
+                            "土壇場",
+                            "どたんば"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "追い込まれた",
+                            "おいこ"
+                        ]
+                    ],
+                    "translation": "We have been completely cornered."
+                },
+                {
+                    "sentence": [
+                        [
+                            "僕",
+                            "ぼく"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "追い込まれる",
+                            "おいこ"
+                        ],
+                        [
+                            "と",
+                            null
+                        ],
+                        [
+                            "一番",
+                            "いちばん"
+                        ],
+                        [
+                            "仕事",
+                            "しごと"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "する",
+                            null
+                        ]
+                    ],
+                    "translation": "I work best under pressure."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "押",
+                    "お"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb, Transitive verb",
+                    "meaning": "1. to push into; to cram into; to stuff into; to crowd into ピストルを持った男が彼をせきたてて車に押し込んだ。A man with a gun urged him into the car."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to break in; to burgle; to burglarize "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "押しこむ 【おしこむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "ピストル",
+                            null
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "持った",
+                            "も"
+                        ],
+                        [
+                            "男",
+                            "おとこ"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "せきたてて",
+                            null
+                        ],
+                        [
+                            "車",
+                            "くるま"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "押し込んだ",
+                            "おしこ"
+                        ]
+                    ],
+                    "translation": "A man with a gun urged him into the car."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "組",
+                    "く"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to insert; to include; to incorporate; to install "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "組込む 【くみこむ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "意",
+                    "い"
+                ],
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "込",
+                    "ご"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to be enthusiastic (about); to be eager (to do); to be keen; to be intent (on); to be determined "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "乗",
+                    "の"
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "1. to board; to embark on; to get into (a car); to man (a ship); to help (someone) into その子は上機嫌で飛行機に乗り込んだ。The child got on an airplane in good mood."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Intransitive verb",
+                    "meaning": "2. to march into; to enter 一人で原始林へ乗り込もうとは君はなんて勇ましいんだ。How brave of you to go alone into the primaeval forest!"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "乗りこむ 【のりこむ】、乗込む 【のりこむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "子",
+                            "こ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "上機嫌",
+                            "じょうきげん"
+                        ],
+                        [
+                            "で",
+                            null
+                        ],
+                        [
+                            "飛行機",
+                            "ひこうき"
+                        ],
+                        [
+                            "に",
+                            null
+                        ],
+                        [
+                            "乗り込んだ",
+                            "のりこ"
+                        ]
+                    ],
+                    "translation": "The child got on an airplane in good mood."
+                },
+                {
+                    "sentence": [
+                        [
+                            "一人で",
+                            "ひとり"
+                        ],
+                        [
+                            "原始林",
+                            "げんしりん"
+                        ],
+                        [
+                            "へ",
+                            null
+                        ],
+                        [
+                            "乗り込もう",
+                            "のりこ"
+                        ],
+                        [
+                            "とは",
+                            null
+                        ],
+                        [
+                            "君",
+                            "きみ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "なんて",
+                            null
+                        ],
+                        [
+                            "勇ましい",
+                            "いさ"
+                        ],
+                        [
+                            "んだ",
+                            null
+                        ]
+                    ],
+                    "translation": "How brave of you to go alone into the primaeval forest!"
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "飲",
+                    "の"
+                ],
+                [
+                    "み",
+                    null
+                ],
+                [
+                    "込",
+                    "こ"
+                ],
+                [
+                    "む",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "1. to swallow; to gulp down 洪水がその村を飲み込んでしまった。The flood overwhelmed the village."
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "2. to understand; to grasp; to take in; to catch on; to learn こつが飲み込めましたか。Got the hang of it?"
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "3. to engulf; to swallow up "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "4. to be filled with (people); to contain "
+                },
+                {
+                    "type": "Godan verb with 'mu' ending, Transitive verb",
+                    "meaning": "5. to swallow (one's words); to suppress (a yawn, tears, etc.); to stifle; to hold back "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "呑み込む 【のみこむ】、飲みこむ 【のみこむ】、呑みこむ 【のみこむ】、のみ込む 【のみこむ】、飲込む 【のみこむ】"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "洪水",
+                            "こうずい"
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "その",
+                            null
+                        ],
+                        [
+                            "村",
+                            "むら"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "飲み込んで",
+                            "のみこ"
+                        ],
+                        [
+                            "しまった",
+                            null
+                        ]
+                    ],
+                    "translation": "The flood overwhelmed the village."
+                },
+                {
+                    "sentence": [
+                        [
+                            "こつ",
+                            null
+                        ],
+                        [
+                            "が",
+                            null
+                        ],
+                        [
+                            "飲み込めました",
+                            "のみこ"
+                        ],
+                        [
+                            "か",
+                            null
+                        ]
+                    ],
+                    "translation": "Got the hang of it?"
+                }
+            ]
+        }
+    ]
+}

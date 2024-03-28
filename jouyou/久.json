@@ -1,0 +1,1183 @@
+{
+    "kanji": "久",
+    "grade": 5,
+    "jlpt": 2,
+    "meanings": [
+        "long time",
+        "old story"
+    ],
+    "kun": [
+        "ひさ.しい"
+    ],
+    "on": [
+        "キュウ",
+        "ク"
+    ],
+    "strokes": [
+        [
+            "M",
+            0.4013761467889908,
+            0.14678899082568808,
+            "c",
+            0.0006422018348623854,
+            0.00834862385321101,
+            0.0012844036697247708,
+            0.02165137614678899,
+            -0.0011926605504587156,
+            0.0336697247706422,
+            "c",
+            -0.014862385321100919,
+            0.07091743119266056,
+            -0.09541284403669725,
+            0.2311926605504587,
+            -0.21201834862385321,
+            0.32642201834862383
+        ],
+        [
+            "M",
+            0.3967889908256881,
+            0.2787155963302752,
+            "c",
+            0.016055045871559634,
+            0.0033944954128440367,
+            0.02981651376146789,
+            0.003119266055045872,
+            0.0481651376146789,
+            0.0009174311926605505,
+            "c",
+            0.03669724770642202,
+            -0.004403669724770642,
+            0.10311926605504587,
+            -0.019633027522935782,
+            0.12330275229357798,
+            -0.025137614678899085,
+            "c",
+            0.03724770642201834,
+            -0.010183486238532111,
+            0.04990825688073395,
+            0.0081651376146789,
+            0.03954128440366972,
+            0.036788990825688074,
+            "c",
+            -0.0571559633027523,
+            0.15871559633027524,
+            -0.23504587155963302,
+            0.42201834862385323,
+            -0.4724770642201835,
+            0.5321100917431193
+        ],
+        [
+            "M",
+            0.49311926605504586,
+            0.5160550458715596,
+            "c",
+            0.07339449541284404,
+            0.06073394495412844,
+            0.19926605504587155,
+            0.19275229357798165,
+            0.273302752293578,
+            0.26229357798165137,
+            "c",
+            0.024311926605504585,
+            0.02284403669724771,
+            0.051192660550458714,
+            0.04385321100917432,
+            0.07642201834862386,
+            0.05302752293577982
+        ]
+    ],
+    "words": [
+        {
+            "word": [
+                [
+                    "久",
+                    "ひさ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "ぶ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 4,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. a long time (since the last time); first in a long time "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "久し振り 【ひさしぶり】"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. a long time (since the last time); first in a long time "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "久し振り 【ひさしぶり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "ひさ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "い",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": 1,
+            "meanings": [
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. long (time that has passed); old (story) "
+                },
+                {
+                    "type": "I-adjective (keiyoushi)",
+                    "meaning": "1. long (time that has passed); old (story) "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "ひさ"
+                ],
+                [
+                    "々",
+                    "びさ"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Adverb (fukushi), Noun",
+                    "meaning": "1. (in a) long time; long time (ago); while (ago); long ago; long while (ago); (in a) long while See also 久し振り"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "久久 【ひさびさ】"
+                },
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Adverb (fukushi), Noun",
+                    "meaning": "1. (in a) long time; long time (ago); while (ago); long ago; long while (ago); (in a) long while See also 久し振り"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "久久 【ひさびさ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "ひさ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "ぶ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ],
+                [
+                    "に",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. after a long time; for the first time in a while "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "久し振りに 【ひさしぶりに】"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. after a long time; for the first time in a while "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "久し振りに 【ひさしぶりに】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "ひさ"
+                ],
+                [
+                    "し",
+                    null
+                ],
+                [
+                    "く",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. for a long time; for ages; for a good while See also 久しい"
+                },
+                {
+                    "type": "Adverb (fukushi)",
+                    "meaning": "1. for a long time; for ages; for a good while See also 久しい"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "く"
+                ],
+                [
+                    "留",
+                    "る"
+                ],
+                [
+                    "米",
+                    "めだいがく"
+                ],
+                [
+                    "大",
+                    null
+                ],
+                [
+                    "学",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kurume University Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kurume University "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Kurume University is a private university, established in 1946. Kurume Univ... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kurume University Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kurume University "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Kurume University is a private university, established in 1946. Kurume Univ... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "く"
+                ],
+                [
+                    "留",
+                    "る"
+                ],
+                [
+                    "米",
+                    "めこうぎょうだいがく"
+                ],
+                [
+                    "工",
+                    null
+                ],
+                [
+                    "業",
+                    null
+                ],
+                [
+                    "大",
+                    null
+                ],
+                [
+                    "学",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kurume Institute of Technology; Kurume Technical College Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kurume Institute of Technology; Kurume Technical College "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Kurume Institute of Technology Kurume Institute of Technology is a private university in... Read more"
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kurume Institute of Technology; Kurume Technical College Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kurume Institute of Technology; Kurume Technical College "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Kurume Institute of Technology Kurume Institute of Technology is a private university in... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "く",
+                    null
+                ],
+                [
+                    "す",
+                    null
+                ],
+                [
+                    "玉",
+                    "だま"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. ornamental ball-shaped scent bag "
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. hanging decorative ball that splits in half to release confetti, streamers, balloons, etc. (for celebratory events) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Kusudama The Japanese kusudama (薬玉; lit. medicine ball) is a paper... Read more"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "薬玉 【くすだま】、クス玉 【くすだま】、久寿玉 【くすだま】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "きゅう"
+                ],
+                [
+                    "寿",
+                    "じゅ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kyūju era (1154.10.28-1156.4.27) Historical term"
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Kyūju Kyūju was a Japanese era name after Ninpei and before Hōg... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "く"
+                ],
+                [
+                    "里",
+                    "り"
+                ],
+                [
+                    "浜",
+                    "はま"
+                ],
+                [
+                    "少",
+                    "しょう"
+                ],
+                [
+                    "年",
+                    "ねん"
+                ],
+                [
+                    "院",
+                    "いん"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kurihama Reform School Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kurihama Reform School "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "く"
+                ],
+                [
+                    "里",
+                    "り"
+                ],
+                [
+                    "浜",
+                    "はま"
+                ],
+                [
+                    "養",
+                    "よう"
+                ],
+                [
+                    "護",
+                    "ご"
+                ],
+                [
+                    "学",
+                    "がっこう"
+                ],
+                [
+                    "校",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Kurihama Special Needs School (older name style) Organization name"
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Kurihamayougogakkou "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "く"
+                ],
+                [
+                    "慈",
+                    "じ"
+                ],
+                [
+                    "目",
+                    "め"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. spotbelly greenling (Hexagrammos agrammus) Usually written using kana alone"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "クジメ"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "きゅう"
+                ],
+                [
+                    "闊",
+                    "かつ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. not having met or contacted someone for a long time; neglect of friends "
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "久濶 【きゅうかつ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "ひさ"
+                ],
+                [
+                    "方",
+                    "かた"
+                ],
+                [
+                    "ぶ",
+                    null
+                ],
+                [
+                    "り",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. long time (since the last time); first in a long time See also 久し振り"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "久方振り 【ひさかたぶり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "きゅう"
+                ],
+                [
+                    "懐",
+                    "かい"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. long-cherished hope "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "きゅう"
+                ],
+                [
+                    "離",
+                    "り"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. removal of dissolute sons from the family register (Edo period) Historical term"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "旧離 【きゅうり】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "く"
+                ],
+                [
+                    "米",
+                    "めうた"
+                ],
+                [
+                    "歌",
+                    null
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. kumeuta; variety of ancient ballad "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "旧",
+                    "きゅう"
+                ],
+                [
+                    "痾",
+                    "あ"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. persistent disease Medicine"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "久痾 【きゅうあ】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "ひさ"
+                ],
+                [
+                    "方",
+                    "かた"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. sky; moon Archaic"
+                },
+                {
+                    "type": "Other forms",
+                    "meaning": "久堅 【ひさかた】"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "久",
+                    "く"
+                ],
+                [
+                    "島",
+                    "しま"
+                ],
+                [
+                    "海",
+                    "うみ"
+                ],
+                [
+                    "啓",
+                    "けい"
+                ],
+                [
+                    "太",
+                    "た"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Full name",
+                    "meaning": "1. Kushimaumi Keita (1965.8.6-) "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Kushimaumi Keita Kushimaumi Keita (久島海 啓太; 6 August 1965 – 13 February 201... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                "久",
+                "きゅう"
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Family or surname, Given name, gender not specified",
+                    "meaning": "1. Kyuu "
+                },
+                {
+                    "type": "Family or surname",
+                    "meaning": "1. Kyuuzaki "
+                },
+                {
+                    "type": "Unclassified name",
+                    "meaning": "1. Kyuuji "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "永",
+                    "えい"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": 3,
+            "meanings": [
+                {
+                    "type": "Noun, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. eternity; permanence; perpetuity 彼は永久に日本を離れた。He left Japan for good."
+                },
+                {
+                    "type": "Noun",
+                    "meaning": "2. Eikyū era (1113.7.13-1118.4.3) Historical term"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "彼",
+                            "かれ"
+                        ],
+                        [
+                            "は",
+                            null
+                        ],
+                        [
+                            "永久に",
+                            "えいきゅう"
+                        ],
+                        [
+                            "日本",
+                            "にほん"
+                        ],
+                        [
+                            "を",
+                            null
+                        ],
+                        [
+                            "離れた",
+                            "はな"
+                        ]
+                    ],
+                    "translation": "He left Japan for good."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "耐",
+                    "たい"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ],
+                [
+                    "性",
+                    "せい"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. durability "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "イ",
+                    null
+                ],
+                [
+                    "ラ",
+                    null
+                ],
+                [
+                    "ク",
+                    null
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Iraq also written as 伊拉久"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "永",
+                    "えい"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ],
+                [
+                    "凍",
+                    "とう"
+                ],
+                [
+                    "土",
+                    "ど"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. permafrost "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "2. Permafrost In geology, permafrost or cryotic soil is soil at or belo... Read more"
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "恒",
+                    "こう"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ],
+                [
+                    "的",
+                    "てき"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi)",
+                    "meaning": "1. permanent; perpetual; lasting "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "永",
+                    "えい"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ],
+                [
+                    "歯",
+                    "し"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. permanent tooth "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "耐",
+                    "たい"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ],
+                [
+                    "力",
+                    "りょく"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. durability; persistence; stamina; endurance; staying power "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "持",
+                    "じ"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Suru verb",
+                    "meaning": "1. endurance; persistence "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Jikyuu "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "耐",
+                    "たい"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. endurance; persistence "
+                }
+            ],
+            "sentences": [
+                {
+                    "sentence": [
+                        [
+                            "次々",
+                            "つぎつぎ"
+                        ],
+                        [
+                            "新素材",
+                            "しんそざい"
+                        ],
+                        [
+                            "耐久性",
+                            "たいきゅうせい"
+                        ],
+                        [
+                            "優れた",
+                            "すぐ"
+                        ],
+                        [
+                            "製品化",
+                            "せいひんか"
+                        ],
+                        [
+                            "普及",
+                            "ふきゅう"
+                        ]
+                    ],
+                    "translation": "New materials are constantly being developed, and those with superior durability and cost performance will be commercialized and become widespread."
+                }
+            ]
+        },
+        {
+            "word": [
+                [
+                    "恒",
+                    "こう"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ]
+            ],
+            "common": true,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun, Noun which may take the genitive case particle 'no'",
+                    "meaning": "1. permanence; perpetuity "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "半",
+                    "はん"
+                ],
+                [
+                    "永",
+                    "えい"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. semipermanence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "悠",
+                    "ゆう"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+                    "meaning": "1. eternity; perpetuity; permanence "
+                }
+            ],
+            "sentences": []
+        },
+        {
+            "word": [
+                [
+                    "文",
+                    "ぶん"
+                ],
+                [
+                    "久",
+                    "きゅう"
+                ]
+            ],
+            "common": false,
+            "jlpt": null,
+            "meanings": [
+                {
+                    "type": "Noun",
+                    "meaning": "1. Bunkyū era (1861.2.19-1864.2.20) "
+                },
+                {
+                    "type": "Place",
+                    "meaning": "2. Bunkyuu "
+                },
+                {
+                    "type": "Wikipedia definition",
+                    "meaning": "3. Bunkyū Bunkyū was a Japanese era name after Man'en and before Ge... Read more"
+                }
+            ],
+            "sentences": []
+        }
+    ]
+}
