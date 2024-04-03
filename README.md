@@ -3,7 +3,7 @@
 All jōyō kanji data scraped from [jisho.org](https://jisho.org)
 
 ```ts
-type Kanji = {
+interface kanji {
     kanji: string;
     grade: 1 | 2 | 3 | 4 | 5 | 6 | 8 | 9 | 10 | null;
     jlpt: 1 | 2 | 3 | 4 | 5 | null;
