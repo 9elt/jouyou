@@ -5,7 +5,7 @@ All jōyō kanji data scraped from [jisho.org](https://jisho.org)
 ```ts
 interface kanji {
     kanji: string;
-    grade: 1 | 2 | 3 | 4 | 5 | 6 | 8 | null;  // 8 refers to junior high
+    grade: 1 | 2 | 3 | 4 | 5 | 6 | 8 | null;  // 8 junior high
     jlpt: 1 | 2 | 3 | 4 | 5 | null;
     frequency: number | null;
     meanings: string[];
