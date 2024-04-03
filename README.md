@@ -5,17 +5,17 @@ All jōyō kanji data scraped from [jisho.org](https://jisho.org)
 ```ts
 interface kanji {
     kanji: string;
-    grade: 1 | 2 | 3 | 4 | 5 | 6 | 8 | null;            // 8 refers to junior high
+    grade: 1 | 2 | 3 | 4 | 5 | 6 | 8 | null;  // 8 refers to junior high
     jlpt: 1 | 2 | 3 | 4 | 5 | null;
     frequency: number | null;
     meanings: string[];
     kun: string[];
     on: string[];
-    strokes: (string | number)[][];                     // normalized svg paths
+    strokes: (string | number)[][];           // normalized svg paths
     words: {
         word: [
-            string,                                     // text
-            string | null                               // furigana
+            string,                           // text
+            string | null                     // furigana
         ][];
         common: boolean;
         jlpt: 1 | 2 | 3 | 4 | 5 | null;
@@ -25,8 +25,8 @@ interface kanji {
         }[];
         sentences: {
             sentence: [
-                string,                                 // text
-                string | null                           // furigana
+                string,                       // text
+                string | null                 // furigana
             ][];
             translation: string;
         }[];
