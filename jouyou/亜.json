@@ -1,7 +1,8 @@
 {
     "kanji": "亜",
-    "grade": 10,
+    "grade": 8,
     "jlpt": 1,
+    "frequency": 1509,
     "meanings": [
         "Asia",
         "rank next",
@@ -179,12 +180,12 @@
     ],
     "words": [
         {
-            "word": {
-                "text": "亜",
-                "furigana": [
+            "word": [
+                [
+                    "亜",
                     "あ"
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -216,15 +217,24 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜米利加",
-                "furigana": [
-                    null,
-                    null,
-                    null,
+            "word": [
+                [
+                    "亜",
+                    null
+                ],
+                [
+                    "米",
+                    null
+                ],
+                [
+                    "利",
+                    null
+                ],
+                [
+                    "加",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": 4,
             "meanings": [
@@ -363,15 +373,24 @@
             ]
         },
         {
-            "word": {
-                "text": "阿弗利加",
-                "furigana": [
-                    null,
-                    null,
-                    null,
+            "word": [
+                [
+                    "阿",
+                    null
+                ],
+                [
+                    "弗",
+                    null
+                ],
+                [
+                    "利",
+                    null
+                ],
+                [
+                    "加",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": 4,
             "meanings": [
@@ -395,13 +414,16 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "次ぐ",
-                "furigana": [
-                    "つ",
+            "word": [
+                [
+                    "次",
+                    "つ"
+                ],
+                [
+                    "ぐ",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": 2,
             "meanings": [
@@ -433,14 +455,20 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜細亜",
-                "furigana": [
-                    null,
-                    null,
+            "word": [
+                [
+                    "亜",
+                    null
+                ],
+                [
+                    "細",
+                    null
+                ],
+                [
+                    "亜",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": 4,
             "meanings": [
@@ -472,13 +500,16 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜鉛",
-                "furigana": [
-                    "あ",
+            "word": [
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "鉛",
                     "えん"
                 ]
-            },
+            ],
             "common": true,
             "jlpt": null,
             "meanings": [
@@ -502,15 +533,24 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜爾加里",
-                "furigana": [
-                    null,
-                    null,
-                    null,
+            "word": [
+                [
+                    "亜",
+                    null
+                ],
+                [
+                    "爾",
+                    null
+                ],
+                [
+                    "加",
+                    null
+                ],
+                [
+                    "里",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": 1,
             "meanings": [
@@ -542,13 +582,16 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "阿片",
-                "furigana": [
-                    "あ",
+            "word": [
+                [
+                    "阿",
+                    "あ"
+                ],
+                [
+                    "片",
                     "へん"
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -588,18 +631,36 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "アメリカ合衆国",
-                "furigana": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    "がっ",
-                    "しゅう",
+            "word": [
+                [
+                    "ア",
+                    null
+                ],
+                [
+                    "メ",
+                    null
+                ],
+                [
+                    "リ",
+                    null
+                ],
+                [
+                    "カ",
+                    null
+                ],
+                [
+                    "合",
+                    "がっ"
+                ],
+                [
+                    "衆",
+                    "しゅう"
+                ],
+                [
+                    "国",
                     "こく"
                 ]
-            },
+            ],
             "common": true,
             "jlpt": null,
             "meanings": [
@@ -623,15 +684,24 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜剌比亜",
-                "furigana": [
-                    null,
-                    null,
-                    null,
+            "word": [
+                [
+                    "亜",
+                    null
+                ],
+                [
+                    "剌",
+                    null
+                ],
+                [
+                    "比",
+                    null
+                ],
+                [
+                    "亜",
                     null
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -671,14 +741,20 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜空間",
-                "furigana": [
-                    "あ",
-                    "くう",
+            "word": [
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "空",
+                    "くう"
+                ],
+                [
+                    "間",
                     "かん"
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -694,16 +770,28 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜富汗斯坦",
-                "furigana": [
-                    null,
-                    null,
-                    null,
-                    null,
+            "word": [
+                [
+                    "亜",
+                    null
+                ],
+                [
+                    "富",
+                    null
+                ],
+                [
+                    "汗",
+                    null
+                ],
+                [
+                    "斯",
+                    null
+                ],
+                [
+                    "坦",
                     null
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -735,14 +823,20 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜熱帯",
-                "furigana": [
-                    "あ",
-                    "ねっ",
+            "word": [
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "熱",
+                    "ねっ"
+                ],
+                [
+                    "帯",
                     "たい"
                 ]
-            },
+            ],
             "common": true,
             "jlpt": null,
             "meanings": [
@@ -766,13 +860,16 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜種",
-                "furigana": [
-                    "あ",
+            "word": [
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "種",
                     "しゅ"
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -796,13 +893,16 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜科",
-                "furigana": [
-                    "あ",
+            "word": [
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "科",
                     "か"
                 ]
-            },
+            ],
             "common": false,
             "jlpt": 1,
             "meanings": [
@@ -814,13 +914,16 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜流",
-                "furigana": [
-                    "あ",
+            "word": [
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "流",
                     "りゅう"
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -836,16 +939,28 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜細亜大学",
-                "furigana": [
-                    "あ",
-                    "じあだいがく",
-                    null,
-                    null,
+            "word": [
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "細",
+                    "じあだいがく"
+                ],
+                [
+                    "亜",
+                    null
+                ],
+                [
+                    "大",
+                    null
+                ],
+                [
+                    "学",
                     null
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -865,15 +980,24 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜皮西尼",
-                "furigana": [
-                    null,
-                    null,
-                    null,
+            "word": [
+                [
+                    "亜",
+                    null
+                ],
+                [
+                    "皮",
+                    null
+                ],
+                [
+                    "西",
+                    null
+                ],
+                [
+                    "尼",
                     null
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -897,16 +1021,28 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜寒帯気候",
-                "furigana": [
-                    "あ",
-                    "かん",
-                    "たい",
-                    "き",
+            "word": [
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "寒",
+                    "かん"
+                ],
+                [
+                    "帯",
+                    "たい"
+                ],
+                [
+                    "気",
+                    "き"
+                ],
+                [
+                    "候",
                     "こう"
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -922,15 +1058,24 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜硝酸塩",
-                "furigana": [
-                    "あ",
-                    "しょう",
-                    "さん",
+            "word": [
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "硝",
+                    "しょう"
+                ],
+                [
+                    "酸",
+                    "さん"
+                ],
+                [
+                    "塩",
                     "えん"
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -946,13 +1091,10 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜あ",
-                "furigana": [
-                    null,
-                    null
-                ]
-            },
+            "word": [
+                "亜",
+                "あ"
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -964,13 +1106,10 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜つ",
-                "furigana": [
-                    null,
-                    "ぐ"
-                ]
-            },
+            "word": [
+                "亜",
+                "つぐる"
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -982,13 +1121,10 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "亜み",
-                "furigana": [
-                    null,
-                    "つ"
-                ]
-            },
+            "word": [
+                "亜",
+                "みつる"
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
@@ -1000,14 +1136,20 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "伊太利",
-                "furigana": [
-                    null,
-                    null,
+            "word": [
+                [
+                    "伊",
+                    null
+                ],
+                [
+                    "太",
+                    null
+                ],
+                [
+                    "利",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": null,
             "meanings": [
@@ -1027,14 +1169,20 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "露西亜",
-                "furigana": [
-                    null,
-                    null,
+            "word": [
+                [
+                    "露",
+                    null
+                ],
+                [
+                    "西",
+                    null
+                ],
+                [
+                    "亜",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": null,
             "meanings": [
@@ -1054,16 +1202,28 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "印度尼西亜",
-                "furigana": [
-                    null,
-                    null,
-                    null,
-                    null,
+            "word": [
+                [
+                    "印",
+                    null
+                ],
+                [
+                    "度",
+                    null
+                ],
+                [
+                    "尼",
+                    null
+                ],
+                [
+                    "西",
+                    null
+                ],
+                [
+                    "亜",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": null,
             "meanings": [
@@ -1079,14 +1239,20 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "利比亜",
-                "furigana": [
-                    null,
-                    null,
+            "word": [
+                [
+                    "利",
+                    null
+                ],
+                [
+                    "比",
+                    null
+                ],
+                [
+                    "亜",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": null,
             "meanings": [
@@ -1102,15 +1268,24 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "馬来西亜",
-                "furigana": [
-                    null,
-                    null,
-                    null,
+            "word": [
+                [
+                    "馬",
+                    null
+                ],
+                [
+                    "来",
+                    null
+                ],
+                [
+                    "西",
+                    null
+                ],
+                [
+                    "亜",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": null,
             "meanings": [
@@ -1126,15 +1301,24 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "西比利亜",
-                "furigana": [
-                    null,
-                    null,
-                    null,
+            "word": [
+                [
+                    "西",
+                    null
+                ],
+                [
+                    "比",
+                    null
+                ],
+                [
+                    "利",
+                    null
+                ],
+                [
+                    "亜",
                     null
                 ]
-            },
+            ],
             "common": true,
             "jlpt": null,
             "meanings": [
@@ -1166,14 +1350,20 @@
             "sentences": []
         },
         {
-            "word": {
-                "text": "白亜紀",
-                "furigana": [
-                    "はく",
-                    "あ",
+            "word": [
+                [
+                    "白",
+                    "はく"
+                ],
+                [
+                    "亜",
+                    "あ"
+                ],
+                [
+                    "紀",
                     "き"
                 ]
-            },
+            ],
             "common": false,
             "jlpt": null,
             "meanings": [
